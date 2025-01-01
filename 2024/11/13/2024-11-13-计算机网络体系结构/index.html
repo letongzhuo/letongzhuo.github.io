@@ -1,0 +1,674 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=auto>
+
+
+
+<head>
+  <meta charset="UTF-8">
+
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/fluid.png">
+  <link rel="icon" href="/img/fluid.png">
+  
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="author" content="lele">
+  <meta name="keywords" content="Blog, Hexo, Node.js">
+  
+    <meta name="description" content="1.1计算机网络概述 计算机网络的功能包括数据通信、资源共享、分布式处理、信息综合处理、负载均衡、提高可靠性等，但其中最基本的功能是数据通信功能，数据通信功能也是实现其他功能的基础。  资源子网主要由计算机系统、终端、联网外部设备、各种软件资源和信息资源等组成。资源子网负责全网的数据处理业务，向网络用户提供各种网络资源与网络服务。通信子网由通信控制处理机、通信线路和其他通信设备组成，任务是完成网络">
+<meta property="og:type" content="article">
+<meta property="og:title" content="计算机网络体系结构">
+<meta property="og:url" content="http://letongzhuo.cn/2024/11/13/2024-11-13-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/index.html">
+<meta property="og:site_name" content="TongZhuo&#39;s Blog">
+<meta property="og:description" content="1.1计算机网络概述 计算机网络的功能包括数据通信、资源共享、分布式处理、信息综合处理、负载均衡、提高可靠性等，但其中最基本的功能是数据通信功能，数据通信功能也是实现其他功能的基础。  资源子网主要由计算机系统、终端、联网外部设备、各种软件资源和信息资源等组成。资源子网负责全网的数据处理业务，向网络用户提供各种网络资源与网络服务。通信子网由通信控制处理机、通信线路和其他通信设备组成，任务是完成网络">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://letongzhuo.cn/img/in-post/63bbf393f218793adcf22bf2e25755f6.png">
+<meta property="og:image" content="http://letongzhuo.cn/img/in-post/4bf87c9c4c27a38ee7b384a9ab93fdf9.png">
+<meta property="og:image" content="http://letongzhuo.cn/img/in-post/f1e6a09f52f78459ac6af6e4264bc191.png">
+<meta property="og:image" content="http://letongzhuo.cn/img/in-post/c3779d7dafdfb80939a3321ba84c09bb.png">
+<meta property="og:image" content="http://letongzhuo.cn/img/in-post/257ac0f51e15f895fc53816562ee0437.png">
+<meta property="article:published_time" content="2024-11-13T04:00:00.000Z">
+<meta property="article:modified_time" content="2024-11-20T12:41:31.037Z">
+<meta property="article:author" content="TongZhuo">
+<meta property="article:tag" content="计算机网络">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://letongzhuo.cn/img/in-post/63bbf393f218793adcf22bf2e25755f6.png">
+  
+  
+  
+  <title>计算机网络体系结构 - TongZhuo&#39;s Blog</title>
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
+
+
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/github-markdown-css/4.0.0/github-markdown.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/hint.css/2.7.0/hint.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css" />
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+<!-- Do not modify the link that theme dependent icons -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/c/font_1749284_5i9bdhy70f8.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/c/font_1736178_k526ubmyhba.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+
+  <link id="highlight-css" rel="stylesheet" href="/css/highlight.css" />
+  
+    <link id="highlight-css-dark" rel="stylesheet" href="/css/highlight-dark.css" />
+  
+
+
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    Fluid.ctx = Object.assign({}, Fluid.ctx)
+    var CONFIG = {"hostname":"letongzhuo.cn","root":"/","version":"1.9.8","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":true,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"follow_dnt":true,"baidu":null,"google":{"measurement_id":null},"tencent":{"sid":null,"cid":null},"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false},"umami":{"src":null,"website_id":null,"domains":null,"start_time":"2024-01-01T00:00:00.000Z","token":null,"api_server":null}},"search_path":"/local-search.xml","include_content_in_search":true};
+
+    if (CONFIG.web_analytics.follow_dnt) {
+      var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+      Fluid.ctx.dnt = dntVal && (dntVal.startsWith('1') || dntVal.startsWith('yes') || dntVal.startsWith('on'));
+    }
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+  
+
+
+  
+<meta name="generator" content="Hexo 7.3.0"></head>
+
+
+<body>
+  
+
+  <header>
+    
+
+<div class="header-inner" style="height: 70vh;">
+  <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <strong>Fluid</strong>
+    </a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/" target="_self">
+                <i class="iconfont icon-home-fill"></i>
+                <span>首页</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/" target="_self">
+                <i class="iconfont icon-archive-fill"></i>
+                <span>归档</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/categories/" target="_self">
+                <i class="iconfont icon-category-fill"></i>
+                <span>分类</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/tags/" target="_self">
+                <i class="iconfont icon-tags-fill"></i>
+                <span>标签</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/" target="_self">
+                <i class="iconfont icon-user-fill"></i>
+                <span>关于</span>
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" href="javascript:;" data-toggle="modal" data-target="#modalSearch" aria-label="Search">
+              <i class="iconfont icon-search"></i>
+            </a>
+          </li>
+          
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self" href="javascript:;" aria-label="Color Toggle">
+              <i class="iconfont icon-dark" id="color-toggle-icon"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+<div id="banner" class="banner" parallax=true
+     style="background: url('/img/default.png') no-repeat center center; background-size: cover;">
+  <div class="full-bg-img">
+    <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
+      <div class="banner-text text-center fade-in-up">
+        <div class="h2">
+          
+            <span id="subtitle" data-typed-text="计算机网络体系结构"></span>
+          
+        </div>
+
+        
+          
+  <div class="mt-3">
+    
+    
+      <span class="post-meta">
+        <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+        <time datetime="2024-11-13 12:00" pubdate>
+          2024年11月13日 中午
+        </time>
+      </span>
+    
+  </div>
+
+  <div class="mt-1">
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-chart"></i>
+        
+          1.3k 字
+        
+      </span>
+    
+
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-clock-fill"></i>
+        
+        
+        
+          12 分钟
+        
+      </span>
+    
+
+    
+    
+  </div>
+
+
+        
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+
+</div>
+
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+
+    </div>
+
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div id="board">
+          <article class="post-content mx-auto">
+            <h1 id="seo-header">计算机网络体系结构</h1>
+            
+            
+              <div class="markdown-body">
+                
+                <h1 id="1-1计算机网络概述"><a href="#1-1计算机网络概述" class="headerlink" title="1.1计算机网络概述"></a>1.1计算机网络概述</h1><ul>
+<li><p>计算机网络的功能包括数据通信、资源共享、分布式处理、信息综合处理、负载均衡、提高可靠性等，但其中<strong>最基本的功能是数据通信</strong>功能，数据通信功能也是实现其他功能的基础。</p>
+</li>
+<li><p>资源子网主要由计算机系统、终端、联网外部设备、各种软件资源和信息资源等组成。资源子网负责全网的数据处理业务，向网络用户提供各种网络资源与网络服务。通信子网由通信控制处理机、通信线路和其他通信设备组成，任务是完成网络数据传输、转发等。通信子网是OSI模型的下三层</p>
+</li>
+<li><p>以太网采用的是分组交换技术</p>
+</li>
+<li><p>电路交换的传输时延最小,但是没有差错控制的能力;分组交换是在报文交换的基础上分割了报文,直接导致了传输时延减小</p>
+</li>
+<li><p>若网络容易丢失分组，则对每个分组逐一进行确认较好，此时仅重传丢失的分组。另一方面,若网络高度可靠，则在不发生差错的情况下，仅在整个文件传送的结尾发送一次确认，以减少确认次数，进而节省带宽。不过，即使只有单个分组丢失，也要重传整个文件。</p>
+</li>
+<li><p><strong>流水线解题思路</strong>:<br>先算第一个分组在整个链路中传输的时间,然后加上剩下的分组在最后一个链路中传播的时间</p>
+<blockquote>
+<p>eg:<img src="/img/in-post/63bbf393f218793adcf22bf2e25755f6.png" srcset="/img/loading.gif" lazyload alt="63bbf393f218793adcf22bf2e25755f6.png"><br><br> <img src="/img/in-post/4bf87c9c4c27a38ee7b384a9ab93fdf9.png" srcset="/img/loading.gif" lazyload alt="4bf87c9c4c27a38ee7b384a9ab93fdf9.png"><img src="/img/in-post/f1e6a09f52f78459ac6af6e4264bc191.png" srcset="/img/loading.gif" lazyload alt="f1e6a09f52f78459ac6af6e4264bc191.png"><br><br> t&#x3D;3r+(m-1)r<br><br> r:每条链路传输的时间; m:分组的数目;<br><br>第一个分组传输3r; 剩下的m-1个分组每隔r段时间接受一个<br><strong>Tips</strong>:r的算法很灵活，也可以是eg2中的第二问（500+20-20），注意：同一个分段中时间不能重合<br><img src="/img/in-post/c3779d7dafdfb80939a3321ba84c09bb.png" srcset="/img/loading.gif" lazyload alt="c3779d7dafdfb80939a3321ba84c09bb.png"><img src="/img/in-post/257ac0f51e15f895fc53816562ee0437.png" srcset="/img/loading.gif" lazyload alt="257ac0f51e15f895fc53816562ee0437.png"></p>
+</blockquote>
+</li>
+<li><p>QAM是正交振幅调制,将两种调幅信号汇合到一个信道的方法。</p>
+<p>   对于奈奎斯特公式的理解:</p>
+</li>
+</ul>
+<blockquote>
+<p>奈奎斯特(Nyquist):$C&#x3D;2Blog_{2} V$<br>    C:信道容量(数据传输速率); B:信道带宽; V:信号状态数<br>2B:为了准确恢复一个信号,采样频率至少需要是信号最高频率的两倍。<br>$log_{2}V$:如果有V种不同的信号状态，那么每个采样点可以携带$log_{2}V$比特的信息。</p>
+</blockquote>
+<p>所以单位时间内(即信道的传输速率C)能够传输的信号量就是采样频率(2B)乘以每个采样点携带的信息量($log_{2}V$)。</p>
+<h1 id="1-2计算机网络体系结构与参考模型"><a href="#1-2计算机网络体系结构与参考模型" class="headerlink" title="1.2计算机网络体系结构与参考模型"></a>1.2计算机网络体系结构与参考模型</h1><ul>
+<li><p>网络协议三要素是语法、语义和同步。</p>
+<p><strong>语法</strong></p>
+</li>
+</ul>
+<p>规定了通信双方“如何讲”，即数据与控制信息的结构或格式,也就是各个字段的含义</p>
+<p>  <strong>语义</strong><br>规定了通信双方“讲什么”，即需要发出何种控制信息、完成何种动作以及做出何种响应。语义明确了特定的控制信息所代表的具体含义和操作要求。</p>
+<p>  <strong>同步</strong><br>规定了通信双方“何时讲”，即事件实现顺序的详细说明。包括同步点、时序控制等，确保通信双方在合适的时间进行特定的操作。比如在 TCP 协议中，通过三次握手建立连接的过程就是一种同步机制，双方按照特定的顺序进行消息的发送和确认，以确保连接的正确建立。同步保证了通信的有序进行，避免出现混乱和错误。</p>
+<ul>
+<li>数据链路层物理寻址的功能是根据MAC地址确定数据帧的接收方</li>
+<li><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/w5d933566d1552810">拥塞控制和流量控制</a>:拥塞控制是控制的整个网络的拥堵情况,流量控制是控制两个节点之间的传输速率</li>
+<li><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/w8ebdce4f787fa1ca">OSI参考模型各层的功能</a>;<br><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/w7e33949023dd2a47">TCP&#x2F;IP模型各层的功能</a></li>
+<li>ISO&#x2F;OSI 参考模型在网络层支持无连接和面向连接的通信，但在传输层仅支持面向连接的通信;TCP&#x2F;IP 模型在网络层(IP协议)仅有无连接的通信，而在传输层支持无连接(UDP)和面向连接(TCP)的通信。<a target="_blank" rel="noopener" href="https://www.doubao.com/thread/w439dfa19bcf450dc">解释</a></li>
+<li>OSI参考模型中<strong>会话层</strong>通过设置检验点(同步点)，使通信双方在通信失效时可从检验点恢复通信。</li>
+<li>在5层体系结构中，数据链路层的服务访问点为帧的“类型”字段，网络层的服务访问点为IP 数据报的“协议”字段，传输层的服务访问点为“端口号”字段，应用层的服务访问点为“用户接口”。<a target="_blank" rel="noopener" href="https://www.doubao.com/thread/w9bf561f660505998">解释</a></li>
+<li>路由器工作在网络层;交换机工作在数据链路层;集线器工作在物理层</li>
+<li>在OSI参考模型中,数据链路层,网络层,传输层都具有流量控制功能。数据链路层是相邻节点之间的流量控制，网络层是整个网络中的流量控制，传输层是端到端的流量控制。</li>
+</ul>
+
+                
+              </div>
+            
+            <hr/>
+            <div>
+              <div class="post-metas my-3">
+  
+  
+    <div class="post-meta">
+      <i class="iconfont icon-tags"></i>
+      
+        <a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/" class="print-no-link">#计算机网络</a>
+      
+    </div>
+  
+</div>
+
+
+              
+  
+
+  <div class="license-box my-3">
+    <div class="license-title">
+      <div>计算机网络体系结构</div>
+      <div>http://letongzhuo.cn/2024/11/13/2024-11-13-计算机网络体系结构/</div>
+    </div>
+    <div class="license-meta">
+      
+        <div class="license-meta-item">
+          <div>作者</div>
+          <div>lele</div>
+        </div>
+      
+      
+        <div class="license-meta-item license-meta-date">
+          <div>发布于</div>
+          <div>2024年11月13日</div>
+        </div>
+      
+      
+      
+        <div class="license-meta-item">
+          <div>许可协议</div>
+          <div>
+            
+              
+              
+                <a class="print-no-link" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
+                  <span class="hint--top hint--rounded" aria-label="BY - 署名">
+                    <i class="iconfont icon-cc-by"></i>
+                  </span>
+                </a>
+              
+            
+          </div>
+        </div>
+      
+    </div>
+    <div class="license-icon iconfont"></div>
+  </div>
+
+
+
+              
+                <div class="post-prevnext my-3">
+                  <article class="post-prev col-6">
+                    
+                    
+                      <a href="/2024/11/17/2024-11-17-%E7%89%A9%E7%90%86%E5%B1%82/" title="物理层">
+                        <i class="iconfont icon-arrowleft"></i>
+                        <span class="hidden-mobile">物理层</span>
+                        <span class="visible-mobile">上一篇</span>
+                      </a>
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/2024/03/28/2024-3-28-%E4%B8%89%E4%BD%93%E7%AC%94%E8%AE%B0/" title="三体笔记">
+                        <span class="hidden-mobile">三体笔记</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+          </article>
+        </div>
+      </div>
+    </div>
+
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar" style="margin-left: -1rem">
+    <div id="toc">
+  <p class="toc-header">
+    <i class="iconfont icon-list"></i>
+    <span>目录</span>
+  </p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+
+
+  </aside>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+    
+
+    
+      <a id="scroll-top-button" aria-label="TOP" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v" for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+  
+    <div class="footer-content">
+       <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+    </div>
+  
+  
+  
+</div>
+
+  </footer>
+
+  <!-- Scripts -->
+  
+  <script  src="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://lib.baomitu.com/jquery/3.6.4/jquery.min.js" ></script>
+<script  src="https://lib.baomitu.com/twitter-bootstrap/4.6.1/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+
+  <script  src="https://lib.baomitu.com/typed.js/2.0.12/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var subtitle = document.getElementById('subtitle');
+      if (!subtitle || !typing) {
+        return;
+      }
+      var text = subtitle.getAttribute('data-typed-text');
+      
+        typing(text);
+      
+    })(window, document);
+  </script>
+
+
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/tocbot/4.20.1/tocbot.min.js', function() {
+    var toc = jQuery('#toc');
+    if (toc.length === 0 || !window.tocbot) { return; }
+    var boardCtn = jQuery('#board-ctn');
+    var boardTop = boardCtn.offset().top;
+
+    window.tocbot.init(Object.assign({
+      tocSelector     : '#toc-body',
+      contentSelector : '.markdown-body',
+      linkClass       : 'tocbot-link',
+      activeLinkClass : 'tocbot-active-link',
+      listClass       : 'tocbot-list',
+      isCollapsedClass: 'tocbot-is-collapsed',
+      collapsibleClass: 'tocbot-is-collapsible',
+      scrollSmooth    : true,
+      includeTitleTags: true,
+      headingsOffset  : -boardTop,
+    }, CONFIG.toc));
+    if (toc.find('.toc-list-item').length > 0) {
+      toc.css('visibility', 'visible');
+    }
+
+    Fluid.events.registerRefreshCallback(function() {
+      if ('tocbot' in window) {
+        tocbot.refresh();
+        var toc = jQuery('#toc');
+        if (toc.length === 0 || !tocbot) {
+          return;
+        }
+        if (toc.find('.toc-list-item').length > 0) {
+          toc.css('visibility', 'visible');
+        }
+      }
+    });
+  });
+</script>
+
+
+  <script src=https://lib.baomitu.com/clipboard.js/2.0.11/clipboard.min.js></script>
+
+  <script>Fluid.plugins.codeWidget();</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/anchor-js/5.0.0/anchor.min.js', function() {
+    window.anchors.options = {
+      placement: CONFIG.anchorjs.placement,
+      visible  : CONFIG.anchorjs.visible
+    };
+    if (CONFIG.anchorjs.icon) {
+      window.anchors.options.icon = CONFIG.anchorjs.icon;
+    }
+    var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+    var res = [];
+    for (var item of el) {
+      res.push('.markdown-body > ' + item.trim());
+    }
+    if (CONFIG.anchorjs.placement === 'left') {
+      window.anchors.options.class = 'anchorjs-link-left';
+    }
+    window.anchors.add(res.join(', '));
+
+    Fluid.events.registerRefreshCallback(function() {
+      if ('anchors' in window) {
+        anchors.removeAll();
+        var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+        var res = [];
+        for (var item of el) {
+          res.push('.markdown-body > ' + item.trim());
+        }
+        if (CONFIG.anchorjs.placement === 'left') {
+          anchors.options.class = 'anchorjs-link-left';
+        }
+        anchors.add(res.join(', '));
+      }
+    });
+  });
+</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js', function() {
+    Fluid.plugins.fancyBox();
+  });
+</script>
+
+
+  <script>Fluid.plugins.imageCaption();</script>
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+<!-- 主题的启动项，将它保持在最底部 -->
+<!-- the boot of the theme, keep it at the bottom -->
+<script  src="/js/boot.js" ></script>
+
+
+  
+
+  <noscript>
+    <div class="noscript-warning">博客在允许 JavaScript 运行的环境下浏览效果更佳</div>
+  </noscript>
+</body>
+</html>

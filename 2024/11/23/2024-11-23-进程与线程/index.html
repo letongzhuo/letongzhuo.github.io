@@ -1,0 +1,724 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=auto>
+
+
+
+<head>
+  <meta charset="UTF-8">
+
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/fluid.png">
+  <link rel="icon" href="/img/fluid.png">
+  
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="author" content="lele">
+  <meta name="keywords" content="Blog, Hexo, Node.js">
+  
+    <meta name="description" content="进程与线程2.1进程与线程 进程包括三个部分: 进程控制块PCB:创建进程的时候创建PCB,里边是进程的控制信息,操作系统通过这个来获取进程的信息 程序部分 数据部分   进程有5个状态:运行态,就绪态,阻塞态,创建态,终止态前三个是基本状态一个进程从运行态变为阻塞态是主动的行为，而从阻塞态变为就绪态是被动的行为，需要其他相关进程的协助。 进程可以创建子进程,如果子进程删除,那么子进程的资源要归还">
+<meta property="og:type" content="article">
+<meta property="og:title" content="进程与线程">
+<meta property="og:url" content="http://letongzhuo.cn/2024/11/23/2024-11-23-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/index.html">
+<meta property="og:site_name" content="TongZhuo&#39;s Blog">
+<meta property="og:description" content="进程与线程2.1进程与线程 进程包括三个部分: 进程控制块PCB:创建进程的时候创建PCB,里边是进程的控制信息,操作系统通过这个来获取进程的信息 程序部分 数据部分   进程有5个状态:运行态,就绪态,阻塞态,创建态,终止态前三个是基本状态一个进程从运行态变为阻塞态是主动的行为，而从阻塞态变为就绪态是被动的行为，需要其他相关进程的协助。 进程可以创建子进程,如果子进程删除,那么子进程的资源要归还">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://letongzhuo.cn/img/in-post/Snipaste_2024-11-24_11-25-37.png">
+<meta property="og:image" content="http://letongzhuo.cn/img/in-post/Snipaste_2024-11-24_11-28-29.png">
+<meta property="og:image" content="http://letongzhuo.cn/img/in-post/Snipaste_2024-11-24_11-57-13.png">
+<meta property="article:published_time" content="2024-11-22T16:00:00.000Z">
+<meta property="article:modified_time" content="2024-12-03T00:53:06.501Z">
+<meta property="article:author" content="TongZhuo">
+<meta property="article:tag" content="计算机操作系统">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://letongzhuo.cn/img/in-post/Snipaste_2024-11-24_11-25-37.png">
+  
+  
+  
+  <title>进程与线程 - TongZhuo&#39;s Blog</title>
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
+
+
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/github-markdown-css/4.0.0/github-markdown.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/hint.css/2.7.0/hint.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css" />
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+<!-- Do not modify the link that theme dependent icons -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/c/font_1749284_5i9bdhy70f8.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/c/font_1736178_k526ubmyhba.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+
+  <link id="highlight-css" rel="stylesheet" href="/css/highlight.css" />
+  
+    <link id="highlight-css-dark" rel="stylesheet" href="/css/highlight-dark.css" />
+  
+
+
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    Fluid.ctx = Object.assign({}, Fluid.ctx)
+    var CONFIG = {"hostname":"letongzhuo.cn","root":"/","version":"1.9.8","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":true,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"follow_dnt":true,"baidu":null,"google":{"measurement_id":null},"tencent":{"sid":null,"cid":null},"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false},"umami":{"src":null,"website_id":null,"domains":null,"start_time":"2024-01-01T00:00:00.000Z","token":null,"api_server":null}},"search_path":"/local-search.xml","include_content_in_search":true};
+
+    if (CONFIG.web_analytics.follow_dnt) {
+      var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+      Fluid.ctx.dnt = dntVal && (dntVal.startsWith('1') || dntVal.startsWith('yes') || dntVal.startsWith('on'));
+    }
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+  
+
+
+  
+<meta name="generator" content="Hexo 7.3.0"></head>
+
+
+<body>
+  
+
+  <header>
+    
+
+<div class="header-inner" style="height: 70vh;">
+  <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <strong>Fluid</strong>
+    </a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/" target="_self">
+                <i class="iconfont icon-home-fill"></i>
+                <span>首页</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/" target="_self">
+                <i class="iconfont icon-archive-fill"></i>
+                <span>归档</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/categories/" target="_self">
+                <i class="iconfont icon-category-fill"></i>
+                <span>分类</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/tags/" target="_self">
+                <i class="iconfont icon-tags-fill"></i>
+                <span>标签</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/" target="_self">
+                <i class="iconfont icon-user-fill"></i>
+                <span>关于</span>
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" href="javascript:;" data-toggle="modal" data-target="#modalSearch" aria-label="Search">
+              <i class="iconfont icon-search"></i>
+            </a>
+          </li>
+          
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self" href="javascript:;" aria-label="Color Toggle">
+              <i class="iconfont icon-dark" id="color-toggle-icon"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+<div id="banner" class="banner" parallax=true
+     style="background: url('/img/default.png') no-repeat center center; background-size: cover;">
+  <div class="full-bg-img">
+    <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
+      <div class="banner-text text-center fade-in-up">
+        <div class="h2">
+          
+            <span id="subtitle" data-typed-text="进程与线程"></span>
+          
+        </div>
+
+        
+          
+  <div class="mt-3">
+    
+    
+      <span class="post-meta">
+        <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+        <time datetime="2024-11-23 00:00" pubdate>
+          2024年11月23日 凌晨
+        </time>
+      </span>
+    
+  </div>
+
+  <div class="mt-1">
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-chart"></i>
+        
+          2.3k 字
+        
+      </span>
+    
+
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-clock-fill"></i>
+        
+        
+        
+          20 分钟
+        
+      </span>
+    
+
+    
+    
+  </div>
+
+
+        
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+
+</div>
+
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+
+    </div>
+
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div id="board">
+          <article class="post-content mx-auto">
+            <h1 id="seo-header">进程与线程</h1>
+            
+            
+              <div class="markdown-body">
+                
+                <h1 id="进程与线程"><a href="#进程与线程" class="headerlink" title="进程与线程"></a>进程与线程</h1><h2 id="2-1进程与线程"><a href="#2-1进程与线程" class="headerlink" title="2.1进程与线程"></a>2.1进程与线程</h2><ul>
+<li>进程包括三个部分:<ul>
+<li>进程控制块PCB:创建进程的时候创建PCB,里边是进程的控制信息,操作系统通过这个来获取进程的信息</li>
+<li>程序部分</li>
+<li>数据部分<br><img src="/img/in-post/Snipaste_2024-11-24_11-25-37.png" srcset="/img/loading.gif" lazyload alt="text"></li>
+</ul>
+</li>
+<li>进程有5个状态:运行态,就绪态,阻塞态,创建态,终止态<br>前三个是基本状态<br><img src="/img/in-post/Snipaste_2024-11-24_11-28-29.png" srcset="/img/loading.gif" lazyload><br>一个进程从运行态变为阻塞态是主动的行为，而从阻塞态变为就绪态是被动的行为，需要其他相关进程的协助。</li>
+<li>进程可以创建子进程,如果子进程删除,那么子进程的资源要归还父进程,如果父进程删除,子进程也要被删除</li>
+<li>在操作系统中，终端用户登录系统、作业调度、系统提供服务、用户程序的应用请求等都会引起进程的创建。</li>
+<li><strong>创建新进程的操作</strong>:<ol>
+<li>给进程分配一个唯一的标识号,然后申请一个空白的PCB(PCB是有限的),申请不到就创建失败</li>
+<li>给进程分配资源(这些资源是在PCB中体现的),如果资源不够,那也不算创建失败,而是处于创建态</li>
+<li>初始化PCB,也就是初始化PCB包括的内容第二栏(进程控制和管理信息)</li>
+<li>如果就绪队列还没满,那么这个进程就去排队,变为就绪态等待被调度</li>
+</ol>
+</li>
+<li><strong>进程终止的操作</strong>:<ol>
+<li>根据进程的PID、UID检测出这个进程的PCB，获取该进程的状态</li>
+<li>然后终止该进程和子孙进程的运行</li>
+<li>把该进程的资源归还给父进程或者是操作系统</li>
+<li>然后把这个进程的PCB给删喽</li>
+</ol>
+</li>
+<li>进程之间的通信PV操作是低级通信，效率很低，高级通信有以下几种：<ol>
+<li><strong>共享存储</strong>：两个进程之间有个共有的内存空间，两个进程都可以通过PV操作对这段空间进行读写</li>
+<li><strong>消息传递</strong>：两个进程之间没有公共的区域，通过发消息来进行通信，这种方式很能支持多CPU系统、分布式系统和计算机网络，所以用途的广<ul>
+<li>直接通信方式 ：进程把消息发到对面的消息缓冲队列上边，对面的进程从队列上获取消息</li>
+<li>间接通信方式：把消息发给中间的实体（信箱），接受进程从信箱里边获取消息</li>
+</ul>
+</li>
+<li><strong>管道通信</strong>：管道是一个特殊的共享文件，数据在管道里边FIFO,管道两边只能各有一个进程，并且读的时候写进程阻塞，写的时候读进程阻塞<br>这种方式在Linux里边用的很多，Linux里管道文件为4KB，读写速度可能不匹配，当管道空的时候或者满的时候，谁快阻塞谁<br> <img src="/img/in-post/Snipaste_2024-11-24_11-57-13.png" srcset="/img/loading.gif" lazyload></li>
+</ol>
+</li>
+<li>线程是轻量级的进程，在上下文切换的时候时空开销比较小，<a target="_blank" rel="noopener" href="https://www.doubao.com/thread/ab5fe96119646">线程就像是生产线，进程像工厂</a>，TCP（thread）线程控制块和PCB（process）很像，啥都像<br>线程是CPU调度的基本单位,可以独立执行程序</li>
+<li><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/a557406390af1">线程的实现</a>可以分为两类:<strong>用户级线程</strong>(User-Level Thread，ULT)和<strong>内核级线程</strong>(Kernel-Level Thread，KLT)。<br><br>用户级线程是在用户视角下能看见的线程，操作系统不用干预，所以线程之间的切换不用转换到内核态，开销很小<br><br><strong>用户级线程就像是民间组织</strong>，可以非常灵活解决不用内核操心的问题，但是涉及内核的问题（I\O等）就需要和内核商榷，开销大<br><br><strong>内核级线程就像是官方机构</strong>，行为调度极为严整，相对重量级，虽然做事效率高，但是消耗大</li>
+<li><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/abcc237f909df">多线程模型</a>：<ul>
+<li><strong>一对一模型</strong>：每个民间组织对应一个具体的官方负责人，行为调度非常明确，这个民间组织工作受阻也不影响其他活动，但是因为这个组织啥都让负责人负责，所以开销大<blockquote>
+<p>优点:当一个线程被阻塞后，允许调度另一个线程运行，所以并发能力较强。<br>缺点:每创建一个用户线程，相应地就需要创建一个内核线程，开销较大。</p>
+</blockquote>
+</li>
+<li><strong>一对多模型</strong>：一个官方负责人管了好几个组织，遇到的问题可以在内部讨论解决，效率高，但是有一个组织遇到问题，整个组织就就会受到影响<blockquote>
+<p>优点:线程管理是在用户空间进行的，无须切换到核心态，因而效率比较高。<br>缺点:如果一个线程在访问内核时发生阻塞，则整个进程都会被阻塞;在任何时刻，只有一个线程能够访问内核，多个线程不能同时在多个CPU上运行。</p>
+</blockquote>
+</li>
+<li><strong>多对多模型</strong>：有前两个的优点</li>
+</ul>
+</li>
+<li>单处理器中如果有10个进程，可能会有下边几种情况：<ul>
+<li>一个处于运行态，其余九个处于阻塞态或者就绪态</li>
+<li>10个进程全部阻塞</li>
+<li>就算10个进程并发执行，也是一个运行九个就绪</li>
+</ul>
+</li>
+<li>C语言编写的程序在使用内存时一般分为三个段，它们一般是<strong>正文段</strong>(代码和赋值数据段)、<strong>数据堆段</strong>和<strong>数据栈段</strong>。<br><strong>二进制代码和常量存放在正文段，动态分配的存储区在数据堆段，临时使用的变量在数据栈段。</strong><br>由此，我们可以确定全局赋值变量在正文段赋值数据段，未赋值的局部变量和实参传递在栈段，动态内存分配在堆段，常量在正文段，进程的优先级只能在 PCB内。</li>
+<li>在同一进程中，线程的切换不会引起进程的切换。当从一个进程中的线程切换到另一个进程中的线程时，才会引起进程的切换。</li>
+<li><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/a1ab29322ff04">线程可以节省系统资源</a>，但线程并不能增强进程安全性，因为线程共享进程的地址空间和资源，若一个线程出错，则可能影响整个进程的运行。</li>
+<li>CPU调度以线程为单位,在多处理器中,内核级线程的调度是并行的,用户级线程不行,因为操作系统只能看到进程这一级。</li>
+<li>从阻塞变为执行才叫唤醒，从就绪变为执行不叫唤醒。</li>
+</ul>
+<h2 id="2-2CPU调度"><a href="#2-2CPU调度" class="headerlink" title="2.2CPU调度"></a>2.2CPU调度</h2><ul>
+<li>三种调度：<ul>
+<li>高级调度：作业调度，把作业从外存调入内存。</li>
+<li>中级调度：把内存中暂时不用的进程调到外存中（挂起态）。</li>
+<li>低级调度：进程调度，决定哪个进程获得CPU，发生频率很高，一般几十毫秒一次</li>
+</ul>
+</li>
+<li>进行CPU调度的事件：<ul>
+<li>创建新进程：父进程和子进程都处于就绪态，操作系统需要决定运行哪个。</li>
+<li>进程结束或者被终止，操作系统从就绪队列中选择一个进程运行，没有的话就运行闲逛进程</li>
+<li>进程被阻塞之后要选择别的进程运行</li>
+<li>被阻塞的进程所要的条件被满足之后CPU会决定运行这个进程还是接着运行现在的进程</li>
+</ul>
+</li>
+<li>不能进行调度的情况：<ul>
+<li>在中断处理的时候，这个中断处理程序属于系统的操作，不属于某个进程所以不能进行调度</li>
+<li>在执行原子操作的时候</li>
+</ul>
+</li>
+<li>用户级线程和内核级线程的调度：<ul>
+<li>操作系统不知道有用户级线程的存在，所以操作系统还是跟以前一样选择一个进程发放时间片运行，由进程自己决定运行哪一个线程</li>
+<li>操作系统会选择一个线程，不考虑这个线程属于哪一个进程，就分配时间片之后运行</li>
+</ul>
+</li>
+<li>上下文切换的流程：<ul>
+<li>把CPU的信息保存到进程的PCB中，里边有程序计数器和其他寄存器</li>
+<li>把这个进程的PCB移入就绪或者阻塞队列</li>
+<li>选择另一个进程读取它的PCB</li>
+<li>恢复新进程的上下文</li>
+<li>跳转到新进程PCB里边PC指向的位置执行</li>
+</ul>
+</li>
+<li><h2 id="CPU调度的算法：-先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I-O繁忙型，因为CPU繁忙的作业计算完就走了，I-O繁忙的作业还要等可长时候才开始计算-短作业优先，要是一直有短作业来，那长作业要饿死-高相应比优先：-相应比-frac-等待时间-要求服务时间-要求服务时间-优先级调度：-系统进程-用户进程；-交互型进程（前台进程）-非交互型进程（后台进程）-I-O型进程-计算型进程，因为I-O很慢，所以要先启动设备-时间片轮转调度-多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法"><a href="#CPU调度的算法：-先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I-O繁忙型，因为CPU繁忙的作业计算完就走了，I-O繁忙的作业还要等可长时候才开始计算-短作业优先，要是一直有短作业来，那长作业要饿死-高相应比优先：-相应比-frac-等待时间-要求服务时间-要求服务时间-优先级调度：-系统进程-用户进程；-交互型进程（前台进程）-非交互型进程（后台进程）-I-O型进程-计算型进程，因为I-O很慢，所以要先启动设备-时间片轮转调度-多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法" class="headerlink" title="CPU调度的算法：- 先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I\O繁忙型，因为CPU繁忙的作业计算完就走了，I\O繁忙的作业还要等可长时候才开始计算- 短作业优先，要是一直有短作业来，那长作业要饿死- 高相应比优先：$相应比&#x3D;\frac{等待时间+要求服务时间}{要求服务时间}$- 优先级调度：  - 系统进程&gt;用户进程；  - 交互型进程（前台进程）&gt;非交互型进程（后台进程）  - I\O型进程&gt;计算型进程，因为I\O很慢，所以要先启动设备- 时间片轮转调度- 多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法"></a>CPU调度的算法：<br>- 先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I\O繁忙型，因为CPU繁忙的作业计算完就走了，I\O繁忙的作业还要等可长时候才开始计算<br>- 短作业优先，要是一直有短作业来，那长作业要饿死<br>- 高相应比优先：$相应比&#x3D;\frac{等待时间+要求服务时间}{要求服务时间}$<br>- 优先级调度：<br>  - 系统进程&gt;用户进程；<br>  - 交互型进程（前台进程）&gt;非交互型进程（后台进程）<br>  - I\O型进程&gt;计算型进程，因为I\O很慢，所以要先启动设备<br>- 时间片轮转调度<br>- 多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法</h2></li>
+</ul>
+
+                
+              </div>
+            
+            <hr/>
+            <div>
+              <div class="post-metas my-3">
+  
+  
+    <div class="post-meta">
+      <i class="iconfont icon-tags"></i>
+      
+        <a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/" class="print-no-link">#计算机操作系统</a>
+      
+    </div>
+  
+</div>
+
+
+              
+  
+
+  <div class="license-box my-3">
+    <div class="license-title">
+      <div>进程与线程</div>
+      <div>http://letongzhuo.cn/2024/11/23/2024-11-23-进程与线程/</div>
+    </div>
+    <div class="license-meta">
+      
+        <div class="license-meta-item">
+          <div>作者</div>
+          <div>lele</div>
+        </div>
+      
+      
+        <div class="license-meta-item license-meta-date">
+          <div>发布于</div>
+          <div>2024年11月23日</div>
+        </div>
+      
+      
+      
+        <div class="license-meta-item">
+          <div>许可协议</div>
+          <div>
+            
+              
+              
+                <a class="print-no-link" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
+                  <span class="hint--top hint--rounded" aria-label="BY - 署名">
+                    <i class="iconfont icon-cc-by"></i>
+                  </span>
+                </a>
+              
+            
+          </div>
+        </div>
+      
+    </div>
+    <div class="license-icon iconfont"></div>
+  </div>
+
+
+
+              
+                <div class="post-prevnext my-3">
+                  <article class="post-prev col-6">
+                    
+                    
+                      <a href="/2024/12/07/2024-12-7-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/" title="内存管理">
+                        <i class="iconfont icon-arrowleft"></i>
+                        <span class="hidden-mobile">内存管理</span>
+                        <span class="visible-mobile">上一篇</span>
+                      </a>
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/2024/11/21/2024-11-21-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/" title="操作系统概述">
+                        <span class="hidden-mobile">操作系统概述</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+          </article>
+        </div>
+      </div>
+    </div>
+
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar" style="margin-left: -1rem">
+    <div id="toc">
+  <p class="toc-header">
+    <i class="iconfont icon-list"></i>
+    <span>目录</span>
+  </p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+
+
+  </aside>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+    
+
+    
+      <a id="scroll-top-button" aria-label="TOP" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v" for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+  
+    <div class="footer-content">
+       <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+    </div>
+  
+  
+  
+</div>
+
+  </footer>
+
+  <!-- Scripts -->
+  
+  <script  src="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://lib.baomitu.com/jquery/3.6.4/jquery.min.js" ></script>
+<script  src="https://lib.baomitu.com/twitter-bootstrap/4.6.1/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+
+  <script  src="https://lib.baomitu.com/typed.js/2.0.12/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var subtitle = document.getElementById('subtitle');
+      if (!subtitle || !typing) {
+        return;
+      }
+      var text = subtitle.getAttribute('data-typed-text');
+      
+        typing(text);
+      
+    })(window, document);
+  </script>
+
+
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/tocbot/4.20.1/tocbot.min.js', function() {
+    var toc = jQuery('#toc');
+    if (toc.length === 0 || !window.tocbot) { return; }
+    var boardCtn = jQuery('#board-ctn');
+    var boardTop = boardCtn.offset().top;
+
+    window.tocbot.init(Object.assign({
+      tocSelector     : '#toc-body',
+      contentSelector : '.markdown-body',
+      linkClass       : 'tocbot-link',
+      activeLinkClass : 'tocbot-active-link',
+      listClass       : 'tocbot-list',
+      isCollapsedClass: 'tocbot-is-collapsed',
+      collapsibleClass: 'tocbot-is-collapsible',
+      scrollSmooth    : true,
+      includeTitleTags: true,
+      headingsOffset  : -boardTop,
+    }, CONFIG.toc));
+    if (toc.find('.toc-list-item').length > 0) {
+      toc.css('visibility', 'visible');
+    }
+
+    Fluid.events.registerRefreshCallback(function() {
+      if ('tocbot' in window) {
+        tocbot.refresh();
+        var toc = jQuery('#toc');
+        if (toc.length === 0 || !tocbot) {
+          return;
+        }
+        if (toc.find('.toc-list-item').length > 0) {
+          toc.css('visibility', 'visible');
+        }
+      }
+    });
+  });
+</script>
+
+
+  <script src=https://lib.baomitu.com/clipboard.js/2.0.11/clipboard.min.js></script>
+
+  <script>Fluid.plugins.codeWidget();</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/anchor-js/5.0.0/anchor.min.js', function() {
+    window.anchors.options = {
+      placement: CONFIG.anchorjs.placement,
+      visible  : CONFIG.anchorjs.visible
+    };
+    if (CONFIG.anchorjs.icon) {
+      window.anchors.options.icon = CONFIG.anchorjs.icon;
+    }
+    var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+    var res = [];
+    for (var item of el) {
+      res.push('.markdown-body > ' + item.trim());
+    }
+    if (CONFIG.anchorjs.placement === 'left') {
+      window.anchors.options.class = 'anchorjs-link-left';
+    }
+    window.anchors.add(res.join(', '));
+
+    Fluid.events.registerRefreshCallback(function() {
+      if ('anchors' in window) {
+        anchors.removeAll();
+        var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+        var res = [];
+        for (var item of el) {
+          res.push('.markdown-body > ' + item.trim());
+        }
+        if (CONFIG.anchorjs.placement === 'left') {
+          anchors.options.class = 'anchorjs-link-left';
+        }
+        anchors.add(res.join(', '));
+      }
+    });
+  });
+</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js', function() {
+    Fluid.plugins.fancyBox();
+  });
+</script>
+
+
+  <script>Fluid.plugins.imageCaption();</script>
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+<!-- 主题的启动项，将它保持在最底部 -->
+<!-- the boot of the theme, keep it at the bottom -->
+<script  src="/js/boot.js" ></script>
+
+
+  
+
+  <noscript>
+    <div class="noscript-warning">博客在允许 JavaScript 运行的环境下浏览效果更佳</div>
+  </noscript>
+</body>
+</html>
