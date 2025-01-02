@@ -64,11 +64,11 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>索取与被索取</title>
-    <url>/2021/02/02/2021-2-2-%E6%97%A5%E8%AE%B0/</url>
+    <title>日记</title>
+    <url>/2021/02/04/2021-2-4-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="db4e94f965e27ff20b3a5c957656deb75e3b40c1451eb081b7cf8156ecb95799">249107fcce4fdab00b19d327c31fd8f3535427e7c3ba9fbe652aae764677b3cf7e0519e681ddf13739627546f58850cb7b47f58e2a3755f580598a5e64e16ca7e9bd0e04946e951d490404ab45c9e276877d699426c7229f7147e43cc1f667e7ae71347fe2a32d44513a4691f60d5c6d0b38573ba0ef61473d5a71ad41d7bf0235799b442096e6383318e1b3fce6c4fb94ca1389db22c69713c53647d73a13c0628d745f7de48aaf4d3529aef2bc2b0f82109767e51c14992714a9e0291635b12a2bd973bc6b32c39400a38ea7269e7bdc491939d13ffe4508432f24e5c0e61463e599d14ac65d7e7a0e57fdd28edf19e68ef0f7706e4cf449267a3077d8bcfdd30e529d79fa2bd0ce55bd8550eafd47b88814623303854e2c765f3cebc0313bdb951fd70144e54966b8be6d6a9d450ee8ce6b7d5a4d8cc0b40ce13c52394ba486989a3956b589ca5ee14765538d5af2879d843b43e328a1c7e8b736d45123d7fa7a9d24af9da3698d4ba795eca372ec65764ba6dac7be1300377770f73a83a05b564abb403d4022cf15b9375e2090c4</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -116,78 +116,29 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>计算机网络体系结构</title>
-    <url>/2024/11/13/2024-11-13-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/</url>
-    <content><![CDATA[<h1 id="1-1计算机网络概述"><a href="#1-1计算机网络概述" class="headerlink" title="1.1计算机网络概述"></a>1.1计算机网络概述</h1><ul>
-<li><p>计算机网络的功能包括数据通信、资源共享、分布式处理、信息综合处理、负载均衡、提高可靠性等，但其中<strong>最基本的功能是数据通信</strong>功能，数据通信功能也是实现其他功能的基础。</p>
-</li>
-<li><p>资源子网主要由计算机系统、终端、联网外部设备、各种软件资源和信息资源等组成。资源子网负责全网的数据处理业务，向网络用户提供各种网络资源与网络服务。通信子网由通信控制处理机、通信线路和其他通信设备组成，任务是完成网络数据传输、转发等。通信子网是OSI模型的下三层</p>
-</li>
-<li><p>以太网采用的是分组交换技术</p>
-</li>
-<li><p>电路交换的传输时延最小,但是没有差错控制的能力;分组交换是在报文交换的基础上分割了报文,直接导致了传输时延减小</p>
-</li>
-<li><p>若网络容易丢失分组，则对每个分组逐一进行确认较好，此时仅重传丢失的分组。另一方面,若网络高度可靠，则在不发生差错的情况下，仅在整个文件传送的结尾发送一次确认，以减少确认次数，进而节省带宽。不过，即使只有单个分组丢失，也要重传整个文件。</p>
-</li>
-<li><p><strong>流水线解题思路</strong>:<br>先算第一个分组在整个链路中传输的时间,然后加上剩下的分组在最后一个链路中传播的时间</p>
-<blockquote>
-<p>eg:<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/63bbf393f218793adcf22bf2e25755f6.png"
-                      alt="63bbf393f218793adcf22bf2e25755f6.png"
-                ><br><br> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/4bf87c9c4c27a38ee7b384a9ab93fdf9.png"
-                      alt="4bf87c9c4c27a38ee7b384a9ab93fdf9.png"
-                ><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/f1e6a09f52f78459ac6af6e4264bc191.png"
-                      alt="f1e6a09f52f78459ac6af6e4264bc191.png"
-                ><br><br> t&#x3D;3r+(m-1)r<br><br> r:每条链路传输的时间; m:分组的数目;<br><br>第一个分组传输3r; 剩下的m-1个分组每隔r段时间接受一个<br><strong>Tips</strong>:r的算法很灵活，也可以是eg2中的第二问（500+20-20），注意：同一个分段中时间不能重合<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/c3779d7dafdfb80939a3321ba84c09bb.png"
-                      alt="c3779d7dafdfb80939a3321ba84c09bb.png"
-                ><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/257ac0f51e15f895fc53816562ee0437.png"
-                      alt="257ac0f51e15f895fc53816562ee0437.png"
-                ></p>
-</blockquote>
-</li>
-<li><p>QAM是正交振幅调制,将两种调幅信号汇合到一个信道的方法。</p>
-<p>   对于奈奎斯特公式的理解:</p>
-</li>
-</ul>
-<blockquote>
-<p>奈奎斯特(Nyquist):$C&#x3D;2Blog_{2} V$<br>    C:信道容量(数据传输速率); B:信道带宽; V:信号状态数<br>2B:为了准确恢复一个信号,采样频率至少需要是信号最高频率的两倍。<br>$log_{2}V$:如果有V种不同的信号状态，那么每个采样点可以携带$log_{2}V$比特的信息。</p>
-</blockquote>
-<p>所以单位时间内(即信道的传输速率C)能够传输的信号量就是采样频率(2B)乘以每个采样点携带的信息量($log_{2}V$)。</p>
-<h1 id="1-2计算机网络体系结构与参考模型"><a href="#1-2计算机网络体系结构与参考模型" class="headerlink" title="1.2计算机网络体系结构与参考模型"></a>1.2计算机网络体系结构与参考模型</h1><ul>
-<li><p>网络协议三要素是语法、语义和同步。</p>
-<p><strong>语法</strong></p>
-</li>
-</ul>
-<p>规定了通信双方“如何讲”，即数据与控制信息的结构或格式,也就是各个字段的含义</p>
-<p>  <strong>语义</strong><br>规定了通信双方“讲什么”，即需要发出何种控制信息、完成何种动作以及做出何种响应。语义明确了特定的控制信息所代表的具体含义和操作要求。</p>
-<p>  <strong>同步</strong><br>规定了通信双方“何时讲”，即事件实现顺序的详细说明。包括同步点、时序控制等，确保通信双方在合适的时间进行特定的操作。比如在 TCP 协议中，通过三次握手建立连接的过程就是一种同步机制，双方按照特定的顺序进行消息的发送和确认，以确保连接的正确建立。同步保证了通信的有序进行，避免出现混乱和错误。</p>
-<ul>
-<li>数据链路层物理寻址的功能是根据MAC地址确定数据帧的接收方</li>
-<li><a class="link"   href="https://www.doubao.com/thread/w5d933566d1552810" >拥塞控制和流量控制<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>:拥塞控制是控制的整个网络的拥堵情况,流量控制是控制两个节点之间的传输速率</li>
-<li><a class="link"   href="https://www.doubao.com/thread/w8ebdce4f787fa1ca" >OSI参考模型各层的功能<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>;<br><a class="link"   href="https://www.doubao.com/thread/w7e33949023dd2a47" >TCP&#x2F;IP模型各层的功能<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
-<li>ISO&#x2F;OSI 参考模型在网络层支持无连接和面向连接的通信，但在传输层仅支持面向连接的通信;TCP&#x2F;IP 模型在网络层(IP协议)仅有无连接的通信，而在传输层支持无连接(UDP)和面向连接(TCP)的通信。<a class="link"   href="https://www.doubao.com/thread/w439dfa19bcf450dc" >解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
-<li>OSI参考模型中<strong>会话层</strong>通过设置检验点(同步点)，使通信双方在通信失效时可从检验点恢复通信。</li>
-<li>在5层体系结构中，数据链路层的服务访问点为帧的“类型”字段，网络层的服务访问点为IP 数据报的“协议”字段，传输层的服务访问点为“端口号”字段，应用层的服务访问点为“用户接口”。<a class="link"   href="https://www.doubao.com/thread/w9bf561f660505998" >解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
-<li>路由器工作在网络层;交换机工作在数据链路层;集线器工作在物理层</li>
-<li>在OSI参考模型中,数据链路层,网络层,传输层都具有流量控制功能。数据链路层是相邻节点之间的流量控制，网络层是整个网络中的流量控制，传输层是端到端的流量控制。</li>
-</ul>
+    <title>索取与被索取</title>
+    <url>/2021/02/02/2021-2-2-%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="db4e94f965e27ff20b3a5c957656deb75e3b40c1451eb081b7cf8156ecb95799">249107fcce4fdab00b19d327c31fd8f3535427e7c3ba9fbe652aae764677b3cf7e0519e681ddf13739627546f58850cb7b47f58e2a3755f580598a5e64e16ca7e9bd0e04946e951d490404ab45c9e276877d699426c7229f7147e43cc1f667e7ae71347fe2a32d44513a4691f60d5c6d0b38573ba0ef61473d5a71ad41d7bf0235799b442096e6383318e1b3fce6c4fb94ca1389db22c69713c53647d73a13c0628d745f7de48aaf4d3529aef2bc2b0f82109767e51c14992714a9e0291635b12a2bd973bc6b32c39400a38ea7269e7bdc491939d13ffe4508432f24e5c0e61463e599d14ac65d7e7a0e57fdd28edf19e68ef0f7706e4cf449267a3077d8bcfdd30e529d79fa2bd0ce55bd8550eafd47b88814623303854e2c765f3cebc0313bdb951fd70144e54966b8be6d6a9d450ee8ce6b7d5a4d8cc0b40ce13c52394ba486989a3956b589ca5ee14765538d5af2879d843b43e328a1c7e8b736d45123d7fa7a9d24af9da3698d4ba795eca372ec65764ba6dac7be1300377770f73a83a05b564abb403d4022cf15b9375e2090c4</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
 ]]></content>
       <tags>
-        <tag>计算机网络</tag>
+        <tag>日记</tag>
       </tags>
   </entry>
   <entry>
@@ -227,32 +178,6 @@ import {initHBE} from "/js/plugins/hbe.js";
 ]]></content>
       <tags>
         <tag>计算机网络</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日记</title>
-    <url>/2021/02/04/2021-2-4-%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>日记</tag>
       </tags>
   </entry>
   <entry>
@@ -467,6 +392,123 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>进程与线程</title>
+    <url>/2024/11/23/2024-11-23-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</url>
+    <content><![CDATA[<h1 id="进程与线程"><a href="#进程与线程" class="headerlink" title="进程与线程"></a>进程与线程</h1><h2 id="2-1进程与线程"><a href="#2-1进程与线程" class="headerlink" title="2.1进程与线程"></a>2.1进程与线程</h2><ul>
+<li>进程包括三个部分:<ul>
+<li>进程控制块PCB:创建进程的时候创建PCB,里边是进程的控制信息,操作系统通过这个来获取进程的信息</li>
+<li>程序部分</li>
+<li>数据部分<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/img/in-post/Snipaste_2024-11-24_11-25-37.png"
+                      alt="text"
+                ></li>
+</ul>
+</li>
+<li>进程有5个状态:运行态,就绪态,阻塞态,创建态,终止态<br>前三个是基本状态<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/img/in-post/Snipaste_2024-11-24_11-28-29.png"
+                     
+                ><br>一个进程从运行态变为阻塞态是主动的行为，而从阻塞态变为就绪态是被动的行为，需要其他相关进程的协助。</li>
+<li>进程可以创建子进程,如果子进程删除,那么子进程的资源要归还父进程,如果父进程删除,子进程也要被删除</li>
+<li>在操作系统中，终端用户登录系统、作业调度、系统提供服务、用户程序的应用请求等都会引起进程的创建。</li>
+<li><strong>创建新进程的操作</strong>:<ol>
+<li>给进程分配一个唯一的标识号,然后申请一个空白的PCB(PCB是有限的),申请不到就创建失败</li>
+<li>给进程分配资源(这些资源是在PCB中体现的),如果资源不够,那也不算创建失败,而是处于创建态</li>
+<li>初始化PCB,也就是初始化PCB包括的内容第二栏(进程控制和管理信息)</li>
+<li>如果就绪队列还没满,那么这个进程就去排队,变为就绪态等待被调度</li>
+</ol>
+</li>
+<li><strong>进程终止的操作</strong>:<ol>
+<li>根据进程的PID、UID检测出这个进程的PCB，获取该进程的状态</li>
+<li>然后终止该进程和子孙进程的运行</li>
+<li>把该进程的资源归还给父进程或者是操作系统</li>
+<li>然后把这个进程的PCB给删喽</li>
+</ol>
+</li>
+<li>进程之间的通信PV操作是低级通信，效率很低，高级通信有以下几种：<ol>
+<li><strong>共享存储</strong>：两个进程之间有个共有的内存空间，两个进程都可以通过PV操作对这段空间进行读写</li>
+<li><strong>消息传递</strong>：两个进程之间没有公共的区域，通过发消息来进行通信，这种方式很能支持多CPU系统、分布式系统和计算机网络，所以用途的广<ul>
+<li>直接通信方式 ：进程把消息发到对面的消息缓冲队列上边，对面的进程从队列上获取消息</li>
+<li>间接通信方式：把消息发给中间的实体（信箱），接受进程从信箱里边获取消息</li>
+</ul>
+</li>
+<li><strong>管道通信</strong>：管道是一个特殊的共享文件，数据在管道里边FIFO,管道两边只能各有一个进程，并且读的时候写进程阻塞，写的时候读进程阻塞<br>这种方式在Linux里边用的很多，Linux里管道文件为4KB，读写速度可能不匹配，当管道空的时候或者满的时候，谁快阻塞谁<br> <img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/img/in-post/Snipaste_2024-11-24_11-57-13.png"
+                     
+                ></li>
+</ol>
+</li>
+<li>线程是轻量级的进程，在上下文切换的时候时空开销比较小，<a class="link"   href="https://www.doubao.com/thread/ab5fe96119646" >线程就像是生产线，进程像工厂<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，TCP（thread）线程控制块和PCB（process）很像，啥都像<br>线程是CPU调度的基本单位,可以独立执行程序</li>
+<li><a class="link"   href="https://www.doubao.com/thread/a557406390af1" >线程的实现<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>可以分为两类:<strong>用户级线程</strong>(User-Level Thread，ULT)和<strong>内核级线程</strong>(Kernel-Level Thread，KLT)。<br><br>用户级线程是在用户视角下能看见的线程，操作系统不用干预，所以线程之间的切换不用转换到内核态，开销很小<br><br><strong>用户级线程就像是民间组织</strong>，可以非常灵活解决不用内核操心的问题，但是涉及内核的问题（I\O等）就需要和内核商榷，开销大<br><br><strong>内核级线程就像是官方机构</strong>，行为调度极为严整，相对重量级，虽然做事效率高，但是消耗大</li>
+<li><a class="link"   href="https://www.doubao.com/thread/abcc237f909df" >多线程模型<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>：<ul>
+<li><strong>一对一模型</strong>：每个民间组织对应一个具体的官方负责人，行为调度非常明确，这个民间组织工作受阻也不影响其他活动，但是因为这个组织啥都让负责人负责，所以开销大<blockquote>
+<p>优点:当一个线程被阻塞后，允许调度另一个线程运行，所以并发能力较强。<br>缺点:每创建一个用户线程，相应地就需要创建一个内核线程，开销较大。</p>
+</blockquote>
+</li>
+<li><strong>一对多模型</strong>：一个官方负责人管了好几个组织，遇到的问题可以在内部讨论解决，效率高，但是有一个组织遇到问题，整个组织就就会受到影响<blockquote>
+<p>优点:线程管理是在用户空间进行的，无须切换到核心态，因而效率比较高。<br>缺点:如果一个线程在访问内核时发生阻塞，则整个进程都会被阻塞;在任何时刻，只有一个线程能够访问内核，多个线程不能同时在多个CPU上运行。</p>
+</blockquote>
+</li>
+<li><strong>多对多模型</strong>：有前两个的优点</li>
+</ul>
+</li>
+<li>单处理器中如果有10个进程，可能会有下边几种情况：<ul>
+<li>一个处于运行态，其余九个处于阻塞态或者就绪态</li>
+<li>10个进程全部阻塞</li>
+<li>就算10个进程并发执行，也是一个运行九个就绪</li>
+</ul>
+</li>
+<li>C语言编写的程序在使用内存时一般分为三个段，它们一般是<strong>正文段</strong>(代码和赋值数据段)、<strong>数据堆段</strong>和<strong>数据栈段</strong>。<br><strong>二进制代码和常量存放在正文段，动态分配的存储区在数据堆段，临时使用的变量在数据栈段。</strong><br>由此，我们可以确定全局赋值变量在正文段赋值数据段，未赋值的局部变量和实参传递在栈段，动态内存分配在堆段，常量在正文段，进程的优先级只能在 PCB内。</li>
+<li>在同一进程中，线程的切换不会引起进程的切换。当从一个进程中的线程切换到另一个进程中的线程时，才会引起进程的切换。</li>
+<li><a class="link"   href="https://www.doubao.com/thread/a1ab29322ff04" >线程可以节省系统资源<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，但线程并不能增强进程安全性，因为线程共享进程的地址空间和资源，若一个线程出错，则可能影响整个进程的运行。</li>
+<li>CPU调度以线程为单位,在多处理器中,内核级线程的调度是并行的,用户级线程不行,因为操作系统只能看到进程这一级。</li>
+<li>从阻塞变为执行才叫唤醒，从就绪变为执行不叫唤醒。</li>
+</ul>
+<h2 id="2-2CPU调度"><a href="#2-2CPU调度" class="headerlink" title="2.2CPU调度"></a>2.2CPU调度</h2><ul>
+<li>三种调度：<ul>
+<li>高级调度：作业调度，把作业从外存调入内存。</li>
+<li>中级调度：把内存中暂时不用的进程调到外存中（挂起态）。</li>
+<li>低级调度：进程调度，决定哪个进程获得CPU，发生频率很高，一般几十毫秒一次</li>
+</ul>
+</li>
+<li>进行CPU调度的事件：<ul>
+<li>创建新进程：父进程和子进程都处于就绪态，操作系统需要决定运行哪个。</li>
+<li>进程结束或者被终止，操作系统从就绪队列中选择一个进程运行，没有的话就运行闲逛进程</li>
+<li>进程被阻塞之后要选择别的进程运行</li>
+<li>被阻塞的进程所要的条件被满足之后CPU会决定运行这个进程还是接着运行现在的进程</li>
+</ul>
+</li>
+<li>不能进行调度的情况：<ul>
+<li>在中断处理的时候，这个中断处理程序属于系统的操作，不属于某个进程所以不能进行调度</li>
+<li>在执行原子操作的时候</li>
+</ul>
+</li>
+<li>用户级线程和内核级线程的调度：<ul>
+<li>操作系统不知道有用户级线程的存在，所以操作系统还是跟以前一样选择一个进程发放时间片运行，由进程自己决定运行哪一个线程</li>
+<li>操作系统会选择一个线程，不考虑这个线程属于哪一个进程，就分配时间片之后运行</li>
+</ul>
+</li>
+<li>上下文切换的流程：<ul>
+<li>把CPU的信息保存到进程的PCB中，里边有程序计数器和其他寄存器</li>
+<li>把这个进程的PCB移入就绪或者阻塞队列</li>
+<li>选择另一个进程读取它的PCB</li>
+<li>恢复新进程的上下文</li>
+<li>跳转到新进程PCB里边PC指向的位置执行</li>
+</ul>
+</li>
+<li><h2 id="CPU调度的算法：-先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I-O繁忙型，因为CPU繁忙的作业计算完就走了，I-O繁忙的作业还要等可长时候才开始计算-短作业优先，要是一直有短作业来，那长作业要饿死-高相应比优先：-相应比-frac-等待时间-要求服务时间-要求服务时间-优先级调度：-系统进程-用户进程；-交互型进程（前台进程）-非交互型进程（后台进程）-I-O型进程-计算型进程，因为I-O很慢，所以要先启动设备-时间片轮转调度-多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法"><a href="#CPU调度的算法：-先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I-O繁忙型，因为CPU繁忙的作业计算完就走了，I-O繁忙的作业还要等可长时候才开始计算-短作业优先，要是一直有短作业来，那长作业要饿死-高相应比优先：-相应比-frac-等待时间-要求服务时间-要求服务时间-优先级调度：-系统进程-用户进程；-交互型进程（前台进程）-非交互型进程（后台进程）-I-O型进程-计算型进程，因为I-O很慢，所以要先启动设备-时间片轮转调度-多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法" class="headerlink" title="CPU调度的算法：- 先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I\O繁忙型，因为CPU繁忙的作业计算完就走了，I\O繁忙的作业还要等可长时候才开始计算- 短作业优先，要是一直有短作业来，那长作业要饿死- 高相应比优先：$相应比&#x3D;\frac{等待时间+要求服务时间}{要求服务时间}$- 优先级调度：  - 系统进程&gt;用户进程；  - 交互型进程（前台进程）&gt;非交互型进程（后台进程）  - I\O型进程&gt;计算型进程，因为I\O很慢，所以要先启动设备- 时间片轮转调度- 多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法"></a>CPU调度的算法：<br>- 先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I\O繁忙型，因为CPU繁忙的作业计算完就走了，I\O繁忙的作业还要等可长时候才开始计算<br>- 短作业优先，要是一直有短作业来，那长作业要饿死<br>- 高相应比优先：$相应比&#x3D;\frac{等待时间+要求服务时间}{要求服务时间}$<br>- 优先级调度：<br>  - 系统进程&gt;用户进程；<br>  - 交互型进程（前台进程）&gt;非交互型进程（后台进程）<br>  - I\O型进程&gt;计算型进程，因为I\O很慢，所以要先启动设备<br>- 时间片轮转调度<br>- 多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法</h2></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>计算机操作系统</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>操作系统概述</title>
     <url>/2024/11/21/2024-11-21-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/</url>
     <content><![CDATA[<h1 id="操作系统概述"><a href="#操作系统概述" class="headerlink" title="操作系统概述"></a>操作系统概述</h1><h2 id="1-1操作系统的基本概念"><a href="#1-1操作系统的基本概念" class="headerlink" title="1.1操作系统的基本概念"></a>1.1操作系统的基本概念</h2><ul>
@@ -576,6 +618,81 @@ import {initHBE} from "/js/plugins/hbe.js";
 ]]></content>
       <tags>
         <tag>计算机操作系统</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>计算机网络体系结构</title>
+    <url>/2024/11/13/2024-11-13-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/</url>
+    <content><![CDATA[<h1 id="1-1计算机网络概述"><a href="#1-1计算机网络概述" class="headerlink" title="1.1计算机网络概述"></a>1.1计算机网络概述</h1><ul>
+<li><p>计算机网络的功能包括数据通信、资源共享、分布式处理、信息综合处理、负载均衡、提高可靠性等，但其中<strong>最基本的功能是数据通信</strong>功能，数据通信功能也是实现其他功能的基础。</p>
+</li>
+<li><p>资源子网主要由计算机系统、终端、联网外部设备、各种软件资源和信息资源等组成。资源子网负责全网的数据处理业务，向网络用户提供各种网络资源与网络服务。通信子网由通信控制处理机、通信线路和其他通信设备组成，任务是完成网络数据传输、转发等。通信子网是OSI模型的下三层</p>
+</li>
+<li><p>以太网采用的是分组交换技术</p>
+</li>
+<li><p>电路交换的传输时延最小,但是没有差错控制的能力;分组交换是在报文交换的基础上分割了报文,直接导致了传输时延减小</p>
+</li>
+<li><p>若网络容易丢失分组，则对每个分组逐一进行确认较好，此时仅重传丢失的分组。另一方面,若网络高度可靠，则在不发生差错的情况下，仅在整个文件传送的结尾发送一次确认，以减少确认次数，进而节省带宽。不过，即使只有单个分组丢失，也要重传整个文件。</p>
+</li>
+<li><p><strong>流水线解题思路</strong>:<br>先算第一个分组在整个链路中传输的时间,然后加上剩下的分组在最后一个链路中传播的时间</p>
+<blockquote>
+<p>eg:<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/img/in-post/63bbf393f218793adcf22bf2e25755f6.png"
+                      alt="63bbf393f218793adcf22bf2e25755f6.png"
+                ><br><br> <img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/img/in-post/4bf87c9c4c27a38ee7b384a9ab93fdf9.png"
+                      alt="4bf87c9c4c27a38ee7b384a9ab93fdf9.png"
+                ><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/img/in-post/f1e6a09f52f78459ac6af6e4264bc191.png"
+                      alt="f1e6a09f52f78459ac6af6e4264bc191.png"
+                ><br><br> t&#x3D;3r+(m-1)r<br><br> r:每条链路传输的时间; m:分组的数目;<br><br>第一个分组传输3r; 剩下的m-1个分组每隔r段时间接受一个<br><strong>Tips</strong>:r的算法很灵活，也可以是eg2中的第二问（500+20-20），注意：同一个分段中时间不能重合<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/img/in-post/c3779d7dafdfb80939a3321ba84c09bb.png"
+                      alt="c3779d7dafdfb80939a3321ba84c09bb.png"
+                ><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/img/in-post/257ac0f51e15f895fc53816562ee0437.png"
+                      alt="257ac0f51e15f895fc53816562ee0437.png"
+                ></p>
+</blockquote>
+</li>
+<li><p>QAM是正交振幅调制,将两种调幅信号汇合到一个信道的方法。</p>
+<p>   对于奈奎斯特公式的理解:</p>
+</li>
+</ul>
+<blockquote>
+<p>奈奎斯特(Nyquist):$C&#x3D;2Blog_{2} V$<br>    C:信道容量(数据传输速率); B:信道带宽; V:信号状态数<br>2B:为了准确恢复一个信号,采样频率至少需要是信号最高频率的两倍。<br>$log_{2}V$:如果有V种不同的信号状态，那么每个采样点可以携带$log_{2}V$比特的信息。</p>
+</blockquote>
+<p>所以单位时间内(即信道的传输速率C)能够传输的信号量就是采样频率(2B)乘以每个采样点携带的信息量($log_{2}V$)。</p>
+<h1 id="1-2计算机网络体系结构与参考模型"><a href="#1-2计算机网络体系结构与参考模型" class="headerlink" title="1.2计算机网络体系结构与参考模型"></a>1.2计算机网络体系结构与参考模型</h1><ul>
+<li><p>网络协议三要素是语法、语义和同步。</p>
+<p><strong>语法</strong></p>
+</li>
+</ul>
+<p>规定了通信双方“如何讲”，即数据与控制信息的结构或格式,也就是各个字段的含义</p>
+<p>  <strong>语义</strong><br>规定了通信双方“讲什么”，即需要发出何种控制信息、完成何种动作以及做出何种响应。语义明确了特定的控制信息所代表的具体含义和操作要求。</p>
+<p>  <strong>同步</strong><br>规定了通信双方“何时讲”，即事件实现顺序的详细说明。包括同步点、时序控制等，确保通信双方在合适的时间进行特定的操作。比如在 TCP 协议中，通过三次握手建立连接的过程就是一种同步机制，双方按照特定的顺序进行消息的发送和确认，以确保连接的正确建立。同步保证了通信的有序进行，避免出现混乱和错误。</p>
+<ul>
+<li>数据链路层物理寻址的功能是根据MAC地址确定数据帧的接收方</li>
+<li><a class="link"   href="https://www.doubao.com/thread/w5d933566d1552810" >拥塞控制和流量控制<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>:拥塞控制是控制的整个网络的拥堵情况,流量控制是控制两个节点之间的传输速率</li>
+<li><a class="link"   href="https://www.doubao.com/thread/w8ebdce4f787fa1ca" >OSI参考模型各层的功能<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>;<br><a class="link"   href="https://www.doubao.com/thread/w7e33949023dd2a47" >TCP&#x2F;IP模型各层的功能<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>ISO&#x2F;OSI 参考模型在网络层支持无连接和面向连接的通信，但在传输层仅支持面向连接的通信;TCP&#x2F;IP 模型在网络层(IP协议)仅有无连接的通信，而在传输层支持无连接(UDP)和面向连接(TCP)的通信。<a class="link"   href="https://www.doubao.com/thread/w439dfa19bcf450dc" >解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>OSI参考模型中<strong>会话层</strong>通过设置检验点(同步点)，使通信双方在通信失效时可从检验点恢复通信。</li>
+<li>在5层体系结构中，数据链路层的服务访问点为帧的“类型”字段，网络层的服务访问点为IP 数据报的“协议”字段，传输层的服务访问点为“端口号”字段，应用层的服务访问点为“用户接口”。<a class="link"   href="https://www.doubao.com/thread/w9bf561f660505998" >解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>路由器工作在网络层;交换机工作在数据链路层;集线器工作在物理层</li>
+<li>在OSI参考模型中,数据链路层,网络层,传输层都具有流量控制功能。数据链路层是相邻节点之间的流量控制，网络层是整个网络中的流量控制，传输层是端到端的流量控制。</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>计算机网络</tag>
       </tags>
   </entry>
   <entry>
@@ -763,185 +880,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>进程与线程</title>
-    <url>/2024/11/23/2024-11-23-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</url>
-    <content><![CDATA[<h1 id="进程与线程"><a href="#进程与线程" class="headerlink" title="进程与线程"></a>进程与线程</h1><h2 id="2-1进程与线程"><a href="#2-1进程与线程" class="headerlink" title="2.1进程与线程"></a>2.1进程与线程</h2><ul>
-<li>进程包括三个部分:<ul>
-<li>进程控制块PCB:创建进程的时候创建PCB,里边是进程的控制信息,操作系统通过这个来获取进程的信息</li>
-<li>程序部分</li>
-<li>数据部分<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-24_11-25-37.png"
-                      alt="text"
-                ></li>
-</ul>
-</li>
-<li>进程有5个状态:运行态,就绪态,阻塞态,创建态,终止态<br>前三个是基本状态<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-24_11-28-29.png"
-                     
-                ><br>一个进程从运行态变为阻塞态是主动的行为，而从阻塞态变为就绪态是被动的行为，需要其他相关进程的协助。</li>
-<li>进程可以创建子进程,如果子进程删除,那么子进程的资源要归还父进程,如果父进程删除,子进程也要被删除</li>
-<li>在操作系统中，终端用户登录系统、作业调度、系统提供服务、用户程序的应用请求等都会引起进程的创建。</li>
-<li><strong>创建新进程的操作</strong>:<ol>
-<li>给进程分配一个唯一的标识号,然后申请一个空白的PCB(PCB是有限的),申请不到就创建失败</li>
-<li>给进程分配资源(这些资源是在PCB中体现的),如果资源不够,那也不算创建失败,而是处于创建态</li>
-<li>初始化PCB,也就是初始化PCB包括的内容第二栏(进程控制和管理信息)</li>
-<li>如果就绪队列还没满,那么这个进程就去排队,变为就绪态等待被调度</li>
-</ol>
-</li>
-<li><strong>进程终止的操作</strong>:<ol>
-<li>根据进程的PID、UID检测出这个进程的PCB，获取该进程的状态</li>
-<li>然后终止该进程和子孙进程的运行</li>
-<li>把该进程的资源归还给父进程或者是操作系统</li>
-<li>然后把这个进程的PCB给删喽</li>
-</ol>
-</li>
-<li>进程之间的通信PV操作是低级通信，效率很低，高级通信有以下几种：<ol>
-<li><strong>共享存储</strong>：两个进程之间有个共有的内存空间，两个进程都可以通过PV操作对这段空间进行读写</li>
-<li><strong>消息传递</strong>：两个进程之间没有公共的区域，通过发消息来进行通信，这种方式很能支持多CPU系统、分布式系统和计算机网络，所以用途的广<ul>
-<li>直接通信方式 ：进程把消息发到对面的消息缓冲队列上边，对面的进程从队列上获取消息</li>
-<li>间接通信方式：把消息发给中间的实体（信箱），接受进程从信箱里边获取消息</li>
-</ul>
-</li>
-<li><strong>管道通信</strong>：管道是一个特殊的共享文件，数据在管道里边FIFO,管道两边只能各有一个进程，并且读的时候写进程阻塞，写的时候读进程阻塞<br>这种方式在Linux里边用的很多，Linux里管道文件为4KB，读写速度可能不匹配，当管道空的时候或者满的时候，谁快阻塞谁<br> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-24_11-57-13.png"
-                     
-                ></li>
-</ol>
-</li>
-<li>线程是轻量级的进程，在上下文切换的时候时空开销比较小，<a class="link"   href="https://www.doubao.com/thread/ab5fe96119646" >线程就像是生产线，进程像工厂<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，TCP（thread）线程控制块和PCB（process）很像，啥都像<br>线程是CPU调度的基本单位,可以独立执行程序</li>
-<li><a class="link"   href="https://www.doubao.com/thread/a557406390af1" >线程的实现<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>可以分为两类:<strong>用户级线程</strong>(User-Level Thread，ULT)和<strong>内核级线程</strong>(Kernel-Level Thread，KLT)。<br><br>用户级线程是在用户视角下能看见的线程，操作系统不用干预，所以线程之间的切换不用转换到内核态，开销很小<br><br><strong>用户级线程就像是民间组织</strong>，可以非常灵活解决不用内核操心的问题，但是涉及内核的问题（I\O等）就需要和内核商榷，开销大<br><br><strong>内核级线程就像是官方机构</strong>，行为调度极为严整，相对重量级，虽然做事效率高，但是消耗大</li>
-<li><a class="link"   href="https://www.doubao.com/thread/abcc237f909df" >多线程模型<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>：<ul>
-<li><strong>一对一模型</strong>：每个民间组织对应一个具体的官方负责人，行为调度非常明确，这个民间组织工作受阻也不影响其他活动，但是因为这个组织啥都让负责人负责，所以开销大<blockquote>
-<p>优点:当一个线程被阻塞后，允许调度另一个线程运行，所以并发能力较强。<br>缺点:每创建一个用户线程，相应地就需要创建一个内核线程，开销较大。</p>
-</blockquote>
-</li>
-<li><strong>一对多模型</strong>：一个官方负责人管了好几个组织，遇到的问题可以在内部讨论解决，效率高，但是有一个组织遇到问题，整个组织就就会受到影响<blockquote>
-<p>优点:线程管理是在用户空间进行的，无须切换到核心态，因而效率比较高。<br>缺点:如果一个线程在访问内核时发生阻塞，则整个进程都会被阻塞;在任何时刻，只有一个线程能够访问内核，多个线程不能同时在多个CPU上运行。</p>
-</blockquote>
-</li>
-<li><strong>多对多模型</strong>：有前两个的优点</li>
-</ul>
-</li>
-<li>单处理器中如果有10个进程，可能会有下边几种情况：<ul>
-<li>一个处于运行态，其余九个处于阻塞态或者就绪态</li>
-<li>10个进程全部阻塞</li>
-<li>就算10个进程并发执行，也是一个运行九个就绪</li>
-</ul>
-</li>
-<li>C语言编写的程序在使用内存时一般分为三个段，它们一般是<strong>正文段</strong>(代码和赋值数据段)、<strong>数据堆段</strong>和<strong>数据栈段</strong>。<br><strong>二进制代码和常量存放在正文段，动态分配的存储区在数据堆段，临时使用的变量在数据栈段。</strong><br>由此，我们可以确定全局赋值变量在正文段赋值数据段，未赋值的局部变量和实参传递在栈段，动态内存分配在堆段，常量在正文段，进程的优先级只能在 PCB内。</li>
-<li>在同一进程中，线程的切换不会引起进程的切换。当从一个进程中的线程切换到另一个进程中的线程时，才会引起进程的切换。</li>
-<li><a class="link"   href="https://www.doubao.com/thread/a1ab29322ff04" >线程可以节省系统资源<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，但线程并不能增强进程安全性，因为线程共享进程的地址空间和资源，若一个线程出错，则可能影响整个进程的运行。</li>
-<li>CPU调度以线程为单位,在多处理器中,内核级线程的调度是并行的,用户级线程不行,因为操作系统只能看到进程这一级。</li>
-<li>从阻塞变为执行才叫唤醒，从就绪变为执行不叫唤醒。</li>
-</ul>
-<h2 id="2-2CPU调度"><a href="#2-2CPU调度" class="headerlink" title="2.2CPU调度"></a>2.2CPU调度</h2><ul>
-<li>三种调度：<ul>
-<li>高级调度：作业调度，把作业从外存调入内存。</li>
-<li>中级调度：把内存中暂时不用的进程调到外存中（挂起态）。</li>
-<li>低级调度：进程调度，决定哪个进程获得CPU，发生频率很高，一般几十毫秒一次</li>
-</ul>
-</li>
-<li>进行CPU调度的事件：<ul>
-<li>创建新进程：父进程和子进程都处于就绪态，操作系统需要决定运行哪个。</li>
-<li>进程结束或者被终止，操作系统从就绪队列中选择一个进程运行，没有的话就运行闲逛进程</li>
-<li>进程被阻塞之后要选择别的进程运行</li>
-<li>被阻塞的进程所要的条件被满足之后CPU会决定运行这个进程还是接着运行现在的进程</li>
-</ul>
-</li>
-<li>不能进行调度的情况：<ul>
-<li>在中断处理的时候，这个中断处理程序属于系统的操作，不属于某个进程所以不能进行调度</li>
-<li>在执行原子操作的时候</li>
-</ul>
-</li>
-<li>用户级线程和内核级线程的调度：<ul>
-<li>操作系统不知道有用户级线程的存在，所以操作系统还是跟以前一样选择一个进程发放时间片运行，由进程自己决定运行哪一个线程</li>
-<li>操作系统会选择一个线程，不考虑这个线程属于哪一个进程，就分配时间片之后运行</li>
-</ul>
-</li>
-<li>上下文切换的流程：<ul>
-<li>把CPU的信息保存到进程的PCB中，里边有程序计数器和其他寄存器</li>
-<li>把这个进程的PCB移入就绪或者阻塞队列</li>
-<li>选择另一个进程读取它的PCB</li>
-<li>恢复新进程的上下文</li>
-<li>跳转到新进程PCB里边PC指向的位置执行</li>
-</ul>
-</li>
-<li><h2 id="CPU调度的算法：-先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I-O繁忙型，因为CPU繁忙的作业计算完就走了，I-O繁忙的作业还要等可长时候才开始计算-短作业优先，要是一直有短作业来，那长作业要饿死-高相应比优先：-相应比-frac-等待时间-要求服务时间-要求服务时间-优先级调度：-系统进程-用户进程；-交互型进程（前台进程）-非交互型进程（后台进程）-I-O型进程-计算型进程，因为I-O很慢，所以要先启动设备-时间片轮转调度-多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法"><a href="#CPU调度的算法：-先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I-O繁忙型，因为CPU繁忙的作业计算完就走了，I-O繁忙的作业还要等可长时候才开始计算-短作业优先，要是一直有短作业来，那长作业要饿死-高相应比优先：-相应比-frac-等待时间-要求服务时间-要求服务时间-优先级调度：-系统进程-用户进程；-交互型进程（前台进程）-非交互型进程（后台进程）-I-O型进程-计算型进程，因为I-O很慢，所以要先启动设备-时间片轮转调度-多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法" class="headerlink" title="CPU调度的算法：- 先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I\O繁忙型，因为CPU繁忙的作业计算完就走了，I\O繁忙的作业还要等可长时候才开始计算- 短作业优先，要是一直有短作业来，那长作业要饿死- 高相应比优先：$相应比&#x3D;\frac{等待时间+要求服务时间}{要求服务时间}$- 优先级调度：  - 系统进程&gt;用户进程；  - 交互型进程（前台进程）&gt;非交互型进程（后台进程）  - I\O型进程&gt;计算型进程，因为I\O很慢，所以要先启动设备- 时间片轮转调度- 多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法"></a>CPU调度的算法：<br>- 先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I\O繁忙型，因为CPU繁忙的作业计算完就走了，I\O繁忙的作业还要等可长时候才开始计算<br>- 短作业优先，要是一直有短作业来，那长作业要饿死<br>- 高相应比优先：$相应比&#x3D;\frac{等待时间+要求服务时间}{要求服务时间}$<br>- 优先级调度：<br>  - 系统进程&gt;用户进程；<br>  - 交互型进程（前台进程）&gt;非交互型进程（后台进程）<br>  - I\O型进程&gt;计算型进程，因为I\O很慢，所以要先启动设备<br>- 时间片轮转调度<br>- 多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法</h2></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>计算机操作系统</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>内存管理</title>
-    <url>/2024/12/07/2024-12-7-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</url>
-    <content><![CDATA[<h1 id="内存管理的基本概念"><a href="#内存管理的基本概念" class="headerlink" title="内存管理的基本概念"></a>内存管理的基本概念</h1><ul>
-<li>内存管理的功能:<ul>
-<li>内存空间的分配与回收</li>
-<li>内存转换:从逻辑地址到物理地址的转换</li>
-<li>内存扩展:虚拟存储,把外存当做内存用</li>
-<li>内存保护:进程只在自己的领域活动,不跑到别的进程的地址空间<blockquote>
-<p>有两种方法：</p>
-<ol>
-<li>在CPU中设置一对儿上下限寄存器，访问的时候直接和这俩值相比</li>
-<li>用基地址（基地址寄存器）和偏移量（界地址寄存器）这种方法</li>
-</ol>
-</blockquote>
-</li>
-<li>内存共享:让多个进程访问同一内存段,实现进程的通信</li>
-</ul>
-</li>
-<li>编译、链接、装入：<ul>
-<li>编译是把源代码变成目标语言，这种语言可能是机器语言或者是某种中间表示形式</li>
-<li>链接是把目标文件和库文件连在一起，生成可执行文件</li>
-<li>装入是由装入程序把可执行文件装入内存<blockquote>
-<p>装入有三种方式：</p>
-<ol>
-<li>绝对装入：逻辑地址就是物理地址，程序直接放到内存</li>
-<li>可重定位装入：程序的地址从0开始，所有地址相当于偏移量，装入的时候修改基地址就好</li>
-<li>动态运行时装入：先把这个程序装入内存，直到程序执行的时候才变换地址，这种方式可以动态申请内存，还可以不连续存放</li>
-</ol>
-</blockquote>
-</li>
-</ul>
-</li>
-<li>连续分配管理方式：<ul>
-<li>单一连续分配：把内存划分为用户区和系统区，用户区就一个用户程序，最垃圾，只适合单任务，单用户的操作系统使用，内存利用率也超级低</li>
-<li>固定分区分配：把内存划分为固定的分区供程序装入<ul>
-<li>分区相等：没有灵活性，程序太大无法装入，程序太小碎片老多</li>
-<li>分区不等：多个小分区，适量中分区，一点大分区</li>
-</ul>
-</li>
-<li>动态分区分配：来一个程序排一个程序，中间有程序撤退的时候，把来的程序看情况塞到中间的空挡里；这种方法用的时间长的话内部碎片会越来越多<br>回收的时候有四种情况：<ol>
-<li>回收区的前边是空闲分区，合并的时候修改前一个分区表项的大小即可</li>
-<li>回收区的后边是空闲分区，合并的时候修改后一个分区表项的始址和大小</li>
-<li>回收区的前边和后边都是空闲分区，合并的时候取消后一个分区的表项，修改前一个分区的大小</li>
-<li>回收区前后都没有空闲分区，为这个分区新建一个表项，把这个表项插入到空闲分区链中</li>
-</ol>
-</li>
-</ul>
-</li>
-<li>动态分区算法：<ul>
-<li>首次适应算法（first fit）：把地址从小到大开始排，从头开始找适合的分区</li>
-<li>邻近适应算法（next fit）：在first fit的基础上，从上一个结束查找的位置开始查找，也就是循环查找，通常比first fit的性能更差</li>
-<li>最佳适应算法（best fit）：把容量从小到大开始排，从头开始找到合适的分区</li>
-<li>最坏适应算法（worst fit）：把容量从大到小开始排，从头开始找到合适的分区</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>计算机操作系统</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>文件管理</title>
     <url>/2024/12/17/2024-12-17-%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/</url>
     <content><![CDATA[<h1 id="4-1文件系统基础"><a href="#4-1文件系统基础" class="headerlink" title="4.1文件系统基础"></a>4.1文件系统基础</h1><ul>
@@ -1054,15 +992,65 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>三体笔记</title>
-    <url>/2024/03/28/2024-3-28-%E4%B8%89%E4%BD%93%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<ul>
-<li>罗辑离开墓碑，站到他为自己挖掘的墓穴旁，将手枪顶到自己的心脏位置，说：”现在，我将让自己的心脏停止跳动，与此同时我也将成为两个世界有史以来最大的罪犯。对于所犯下的罪行，我对两个文明表示深深的歉意，但不会忏悔，因为这是唯一的选择。我知道智子就在身边，但你们对人类的呼唤从不理睬，无言是最大的轻蔑，我们忍受这种轻蔑已经两个世纪了，现在，如果你们愿意，可以继续保持沉默，我只给你们三十秒钟时间。</li>
-<li>晚霞之后可以看星星,朝霞之后只剩下光天化日的现实了</li>
+    <title>内存管理</title>
+    <url>/2024/12/07/2024-12-7-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</url>
+    <content><![CDATA[<h1 id="内存管理的基本概念"><a href="#内存管理的基本概念" class="headerlink" title="内存管理的基本概念"></a>内存管理的基本概念</h1><ul>
+<li>内存管理的功能:<ul>
+<li>内存空间的分配与回收</li>
+<li>内存转换:从逻辑地址到物理地址的转换</li>
+<li>内存扩展:虚拟存储,把外存当做内存用</li>
+<li>内存保护:进程只在自己的领域活动,不跑到别的进程的地址空间<blockquote>
+<p>有两种方法：</p>
+<ol>
+<li>在CPU中设置一对儿上下限寄存器，访问的时候直接和这俩值相比</li>
+<li>用基地址（基地址寄存器）和偏移量（界地址寄存器）这种方法</li>
+</ol>
+</blockquote>
+</li>
+<li>内存共享:让多个进程访问同一内存段,实现进程的通信</li>
+</ul>
+</li>
+<li>编译、链接、装入：<ul>
+<li>编译是把源代码变成目标语言，这种语言可能是机器语言或者是某种中间表示形式</li>
+<li>链接是把目标文件和库文件连在一起，生成可执行文件</li>
+<li>装入是由装入程序把可执行文件装入内存<blockquote>
+<p>装入有三种方式：</p>
+<ol>
+<li>绝对装入：逻辑地址就是物理地址，程序直接放到内存</li>
+<li>可重定位装入：程序的地址从0开始，所有地址相当于偏移量，装入的时候修改基地址就好</li>
+<li>动态运行时装入：先把这个程序装入内存，直到程序执行的时候才变换地址，这种方式可以动态申请内存，还可以不连续存放</li>
+</ol>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>连续分配管理方式：<ul>
+<li>单一连续分配：把内存划分为用户区和系统区，用户区就一个用户程序，最垃圾，只适合单任务，单用户的操作系统使用，内存利用率也超级低</li>
+<li>固定分区分配：把内存划分为固定的分区供程序装入<ul>
+<li>分区相等：没有灵活性，程序太大无法装入，程序太小碎片老多</li>
+<li>分区不等：多个小分区，适量中分区，一点大分区</li>
+</ul>
+</li>
+<li>动态分区分配：来一个程序排一个程序，中间有程序撤退的时候，把来的程序看情况塞到中间的空挡里；这种方法用的时间长的话内部碎片会越来越多<br>回收的时候有四种情况：<ol>
+<li>回收区的前边是空闲分区，合并的时候修改前一个分区表项的大小即可</li>
+<li>回收区的后边是空闲分区，合并的时候修改后一个分区表项的始址和大小</li>
+<li>回收区的前边和后边都是空闲分区，合并的时候取消后一个分区的表项，修改前一个分区的大小</li>
+<li>回收区前后都没有空闲分区，为这个分区新建一个表项，把这个表项插入到空闲分区链中</li>
+</ol>
+</li>
+</ul>
+</li>
+<li>动态分区算法：<ul>
+<li>首次适应算法（first fit）：把地址从小到大开始排，从头开始找适合的分区</li>
+<li>邻近适应算法（next fit）：在first fit的基础上，从上一个结束查找的位置开始查找，也就是循环查找，通常比first fit的性能更差</li>
+<li>最佳适应算法（best fit）：把容量从小到大开始排，从头开始找到合适的分区</li>
+<li>最坏适应算法（worst fit）：把容量从大到小开始排，从头开始找到合适的分区</li>
+</ul>
+</li>
 </ul>
 ]]></content>
       <tags>
-        <tag>三体</tag>
+        <tag>计算机操作系统</tag>
       </tags>
   </entry>
   <entry>
@@ -1089,6 +1077,18 @@ import {initHBE} from "/js/plugins/hbe.js";
 ]]></content>
       <tags>
         <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>三体笔记</title>
+    <url>/2024/03/28/2024-3-28-%E4%B8%89%E4%BD%93%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<ul>
+<li>罗辑离开墓碑，站到他为自己挖掘的墓穴旁，将手枪顶到自己的心脏位置，说：”现在，我将让自己的心脏停止跳动，与此同时我也将成为两个世界有史以来最大的罪犯。对于所犯下的罪行，我对两个文明表示深深的歉意，但不会忏悔，因为这是唯一的选择。我知道智子就在身边，但你们对人类的呼唤从不理睬，无言是最大的轻蔑，我们忍受这种轻蔑已经两个世纪了，现在，如果你们愿意，可以继续保持沉默，我只给你们三十秒钟时间。</li>
+<li>晚霞之后可以看星星,朝霞之后只剩下光天化日的现实了</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>三体</tag>
       </tags>
   </entry>
   <entry>
