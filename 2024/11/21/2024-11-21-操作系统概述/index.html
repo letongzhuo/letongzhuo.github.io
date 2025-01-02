@@ -30,7 +30,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://letongzhuo.cn/images/redefine-og.webp">
 <meta property="article:published_time" content="2024-11-20T16:00:00.000Z">
-<meta property="article:modified_time" content="2024-11-23T02:43:50.583Z">
+<meta property="article:modified_time" content="2025-01-02T11:34:16.610Z">
 <meta property="article:author" content="lele">
 <meta property="article:tag" content="计算机操作系统">
 <meta name="twitter:card" content="summary">
@@ -111,7 +111,119 @@
     
     
     
-<meta name="generator" content="Hexo 7.3.0"></head>
+<meta name="generator" content="Hexo 7.3.0"><style>mjx-container[jax="SVG"] {
+  direction: ltr;
+}
+
+mjx-container[jax="SVG"] > svg {
+  overflow: visible;
+}
+
+mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="SVG"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="SVG"][justify="right"] {
+  text-align: right;
+}
+
+g[data-mml-node="merror"] > g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node="merror"] > rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node="mtable"] > line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node="mtable"] > .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node="mtable"] > svg {
+  overflow: visible;
+}
+
+[jax="SVG"] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax="SVG"] mjx-tool > mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool > mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node="maction"][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+.MathJax path {
+  stroke-width: 3;
+}
+
+mjx-container[display="true"] {
+  overflow: auto hidden;
+}
+
+mjx-container[display="true"] + br {
+  display: none;
+}
+</style></head>
 
 
 
@@ -446,8 +558,8 @@
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-11-23 10:43:50</span>
-            <span class="mobile">2024-11-23 10:43:50</span>
+            <span class="desktop">2025-01-02 19:34:16</span>
+            <span class="mobile">2025-01-02 19:34:16</span>
             <span class="hover-info">更新</span>
         </span>
     
@@ -506,13 +618,8 @@
 </ul>
 <h2 id="1-3操作系统的运行环境"><a href="#1-3操作系统的运行环境" class="headerlink" title="1.3操作系统的运行环境"></a>1.3操作系统的运行环境</h2><ul>
 <li>CPU 的运行模式划分为用户态(目态)和核心态(又称管态、内核态)。</li>
-<li>特权指令(核心态)，是指不允许用户直接使用的指令，如I&#x2F;O 指令、关中断指令、内存清零指令,存取用于内存保护的寄存器、送 PSW 到程序状态字寄存器等的指令。<br>非特权指令(用户态)，是指允许用户直接使用的指令，它不能直接访问系统中的软硬件资源，仅限于访问用户的地址空间，这也是为了防止用户程序对系统造成破坏。</li>
-<li><strong>中断和异常</strong>:<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-21_20-21-35.png"
-                     
-                ></li>
+<li>特权指令(核心态)，是指不允许用户直接使用的指令，如I/O 指令、关中断指令、内存清零指令,存取用于内存保护的寄存器、送 PSW 到程序状态字寄存器等的指令。<br>非特权指令(用户态)，是指允许用户直接使用的指令，它不能直接访问系统中的软硬件资源，仅限于访问用户的地址空间，这也是为了防止用户程序对系统造成破坏。</li>
+<li><strong>中断和异常</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-21_20-21-35.png"></li>
 <li><strong>系统调用的功能</strong>:<br><br>设备管理。完成设备的请求或释放，以及设备启动等功能。<br><br>文件管理。完成文件的读、写、创建及删除等功能。<br><br>进程控制。完成进程的创建、撤销、阻塞及唤醒等功能。<br><br>进程通信。完成进程之间的消息传递或信号传递等功能。<br><br>内存管理。完成内存的分配、回收以及获取作业占用内存区大小和起始地址等功能。</li>
 <li>用户程序创建一个新进程，需使用操作系统提供的系统调用接口<br><br>用户程序使用系统调用命令，该命令经过编译后形成若干参数和陷入指令<br>当操作系统完成用户请求的系统调用功能后，应使CPU从内核态转到用户态</li>
 <li>在中断发生后，进入中断处理的程序只能属于操作系统程序</li>
@@ -524,13 +631,8 @@
 <li>命令解释程序属于命令接口，能面对用户，在用户态下执行。磁盘调度程序、中断处理程序和进程调度程序都工作在内核态。</li>
 <li>“访管”指令仅在用户态下使用，<strong>执行“访管”指令将用户态转变为核心态。</strong></li>
 <li>系统调用命令工作在核心态，系统调用本身是一条在核心态运行的命令，并不是调用系统的命令，调用系统调用的命令才是用户态的。<br><strong>也就是说，系统调用的发生是在用户态，系统调用的执行是在核心态</strong></li>
-<li>I&#x2F;O设备的请求、时钟中断是外部中断。<br><br>访管指令、缺页异常是内部中断。</li>
-<li>系统调用需要保存 PSW 和PC的值，一般过程调用只需保存PC的值。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-23_08-53-49.png"
-                     
-                ><br>一般过程调用的被调用程序与调用程序运行在同一个状态，可能是系统态，也可能是用户态<br>系统调用的被调用过程一定运行在核心态</li>
+<li>I/O设备的请求、时钟中断是外部中断。<br><br>访管指令、缺页异常是内部中断。</li>
+<li>系统调用需要保存 PSW 和PC的值，一般过程调用只需保存PC的值。<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-23_08-53-49.png"><br>一般过程调用的被调用程序与调用程序运行在同一个状态，可能是系统态，也可能是用户态<br>系统调用的被调用过程一定运行在核心态</li>
 <li>trap 指令、跳转指令和压栈指令均可以在用户态执行，其中 trap 指令负责由用户态转换为内核态。关中断指令为特权指令，必须在核心态才能执行。<strong>注意</strong>，在操作系统中，关中断指令是权限非常大的指令，因为中断是现代操作系统正常运行的核心保障之一，能把它关掉，说明执行这条指令的一定是权限非常大的机构(管态)。</li>
 <li>外部中断处理过程，PC 值由中断隐指令自动保存，而通用寄存器内容由操作系统保存。块表(TLB)和 Cache 中的内容则由硬件机构保存。</li>
 <li>执行系统调用的过程：<br><ol>
@@ -564,7 +666,7 @@
 <li><strong>劣势</strong>：接口很难设计，你不知道它都有啥需求；<br>模块也很难设计，各个模块要齐头并进，顺序很难把握；</li>
 </ul>
 </li>
-<li><a class="link"   target="_blank" rel="noopener" href="https://www.doubao.com/thread/a4197fa860ae6" >微内核<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>是保留最基础的内核功能，把多余的功能都剥离出去。<br><ul>
+<li><a class="link" target="_blank" rel="noopener" href="https://www.doubao.com/thread/a4197fa860ae6">微内核<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>是保留最基础的内核功能，把多余的功能都剥离出去。<br><ul>
 <li>优势：<ol>
 <li>扩展性和灵活性。</li>
 <li>可靠性和安全性。</li>
@@ -579,23 +681,13 @@
 </ol>
 </li>
 <li>模块化操作系统的各功能模块都在内核中，且模块之间相互调用、相互依赖，任何一个模块出错，都可能导致整个内核崩溃。<br>在微内核操作系统中，内核外的某个功能模块出错不会导致整个系统崩溃，可靠性高。 </li>
-<li>操作系统的启动过程：<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-23_09-40-56.png"
-                      alt="text"
-                ></li>
+<li>操作系统的启动过程：<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-23_09-40-56.png" alt="text"></li>
 <li>Windows 是融合了宏内核和微内核的操作系统</li>
 <li>在拥有外核的操作系统中，外核只负责硬件资源的分配、回收、保护等，进程管理相关的工作仍然由内核负责。</li>
 <li>引导程序有两种，一种是位于BIOS中的用于引导开启各个设备，一种是位于硬盘中的用于引导操作系统</li>
-<li>第一类虚拟机管理程序直接运行在物理硬件之上，具有高性能和高安全性；第二类虚拟机管理程序运行在现有操作系统之上，安装和使用相对简单。<a class="link"   target="_blank" rel="noopener" href="https://www.doubao.com/thread/a3ff2039790f2" >详细<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>第一类虚拟机管理程序直接运行在物理硬件之上，具有高性能和高安全性；第二类虚拟机管理程序运行在现有操作系统之上，安装和使用相对简单。<a class="link" target="_blank" rel="noopener" href="https://www.doubao.com/thread/a3ff2039790f2">详细<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
 <li>BIOS 将控制权交给排在首位的启动设备后，CPU 将该设备主引导扇区的内容[主引导记录(MBR)]加载到内存中，然后由 MBR 检查分区表，查找活动分区，并将该分区的引导扇区的内容[分区引导记录(PBR)]加载到内存加以执行。</li>
-<li><strong>访管指令与访管中断</strong>：<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-23_10-42-53.png"
-                      alt="text"
-                ></li>
+<li><strong>访管指令与访管中断</strong>：<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-23_10-42-53.png" alt="text"></li>
 </ul>
 
 		</div>
@@ -611,7 +703,7 @@
         
             <li>
                 <strong>更新于
-                    :</strong> 2024-11-23 10:43:50
+                    :</strong> 2025-01-02 19:34:16
             </li>
         
         <li>
@@ -789,7 +881,7 @@
                     </span>
                     
                         <span>
-                            共 21.5k 字
+                            共 21.4k 字
                         </span>
                     
                 </p>

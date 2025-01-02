@@ -30,7 +30,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://letongzhuo.cn/images/redefine-og.webp">
 <meta property="article:published_time" content="2024-12-16T16:00:00.000Z">
-<meta property="article:modified_time" content="2025-01-02T00:31:26.947Z">
+<meta property="article:modified_time" content="2025-01-02T11:34:20.532Z">
 <meta property="article:author" content="lele">
 <meta property="article:tag" content="计算机操作系统">
 <meta name="twitter:card" content="summary">
@@ -111,7 +111,119 @@
     
     
     
-<meta name="generator" content="Hexo 7.3.0"></head>
+<meta name="generator" content="Hexo 7.3.0"><style>mjx-container[jax="SVG"] {
+  direction: ltr;
+}
+
+mjx-container[jax="SVG"] > svg {
+  overflow: visible;
+}
+
+mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="SVG"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="SVG"][justify="right"] {
+  text-align: right;
+}
+
+g[data-mml-node="merror"] > g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node="merror"] > rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node="mtable"] > line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node="mtable"] > .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node="mtable"] > svg {
+  overflow: visible;
+}
+
+[jax="SVG"] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax="SVG"] mjx-tool > mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool > mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node="maction"][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+.MathJax path {
+  stroke-width: 3;
+}
+
+mjx-container[display="true"] {
+  overflow: auto hidden;
+}
+
+mjx-container[display="true"] + br {
+  display: none;
+}
+</style></head>
 
 
 
@@ -446,8 +558,8 @@
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-02 08:31:26</span>
-            <span class="mobile">2025-01-02 08:31:26</span>
+            <span class="desktop">2025-01-02 19:34:20</span>
+            <span class="mobile">2025-01-02 19:34:20</span>
             <span class="hover-info">更新</span>
         </span>
     
@@ -500,7 +612,7 @@
 <li><strong>文件关闭过程</strong>:在操作系统中，当文件不再使用时，会利用系统调用close来关闭文件。关闭文件时，会删除单个进程的打开文件表中的相应条目，系统表中的相应打开计数器（Open Count）也会递减。当打开计数器为0时，表示该文件不再被使用，并且可以从系统表中删除相应条目。</li>
 <li>只要完成了文件打开 open()系统调用，后面再使用 read()、write()、Lseek()、close()等文件操作的系统调用，就不再使用文件名，而使用文件描述符。</li>
 <li><strong>文件的逻辑结构</strong>:<ul>
-<li><strong>无结构文件(流式文件)</strong>:无结构文件是最简单的文件组织形式，由字符流构成，长度以字节为单位。访问流式文件通过读&#x2F;写指针来定位字节。系统中的源程序、可执行文件、库函数等多采用无结构文件，但由于其无结构，记录访问只能通过穷举搜索，因此对很多应用不适用。</li>
+<li><strong>无结构文件(流式文件)</strong>:无结构文件是最简单的文件组织形式，由字符流构成，长度以字节为单位。访问流式文件通过读/写指针来定位字节。系统中的源程序、可执行文件、库函数等多采用无结构文件，但由于其无结构，记录访问只能通过穷举搜索，因此对很多应用不适用。</li>
 <li><strong>有结构文件(记录式文件)</strong>:<br><br> <strong>定长记录</strong>: 定长记录是指每个记录的长度相等，每个记录的结构是相同的。定长记录的优点是存取速度快，缺点是浪费存储空间。<br><br> <strong>不定长记录</strong>: 不定长记录是指每个记录的长度不等，每个记录的结构也不相同。不定长记录的优点是存储空间利用率高，缺点是存取速度慢。<ul>
 <li>顺序文件：顺序文件是指文件中的记录按照物理顺序存储，每个记录的物理地址与其逻辑地址相同。对于定长记录的顺序文件的优点是检索时可以用折半查找,查找速度快，缺点是插入和删除记录时需要移动大量记录。</li>
 <li>索引文件:配了一张索引表,每个文件都有一个索引项</li>
@@ -515,12 +627,7 @@
 <li>显式链接: 显式链接是指将用于链接文件各物理块的指针，显式地存放在内存的一张链接表中，该表在整个磁盘中仅设置一张，称为文件分配表(File Allocation Table，FAT)。可以顺序访问和随机访问。</li>
 </ul>
 </li>
-<li><strong>索引分配</strong>:在一个盘块内集合了多个记录,每个记录都有一个索引项,索引项中包含了记录的物理地址。<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-12-17_13-30-41.png"
-                      alt="text"
-                >这种分配方法也不会产生外部碎片</li>
+<li><strong>索引分配</strong>:在一个盘块内集合了多个记录,每个记录都有一个索引项,索引项中包含了记录的物理地址。<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-17_13-30-41.png" alt="text">这种分配方法也不会产生外部碎片</li>
 <li><strong>混合索引分配</strong>:为了照顾大中小文件,把小文件的盘块地址直接放入FCB,中型文件采用需要先从 FCB 中找到该文件的索引表，从中获得该文件的盘块地址，即为一次间址。大文件采用两级或三级索引分配</li>
 </ul>
 </li>
@@ -528,71 +635,36 @@
 <h1 id="4-2目录"><a href="#4-2目录" class="headerlink" title="4.2目录"></a>4.2目录</h1><ul>
 <li>FCB 的有序集合称为文件目录，一个FCB就是一个文件目录项。</li>
 <li><strong>目录结构</strong>:<ul>
-<li><strong>单级目录结构</strong>:对多用户很不利,因为用户与用户之间也不允许文件重名<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-12-17_13-41-57.png"
-                      alt="text"
-                ><br></li>
-<li><strong>两级目录结构</strong>:虽然把用户分开了,但是缺乏灵活性,不能对文件进行分类<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-12-17_13-43-58.png"
-                      alt="text"
-                ><br></li>
+<li><strong>单级目录结构</strong>:对多用户很不利,因为用户与用户之间也不允许文件重名<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-17_13-41-57.png" alt="text"><br></li>
+<li><strong>两级目录结构</strong>:虽然把用户分开了,但是缺乏灵活性,不能对文件进行分类<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-17_13-43-58.png" alt="text"><br></li>
 <li><strong>树形目录结构</strong>:也就是Windows的目录结构</li>
-<li><strong>无环图目录结构</strong>:在树的基础上进行改进,一个文件可以有多个父亲,虽然很灵活,但是管理复杂,有一个计数器,用来记录有多少个父亲,当计数器为0时,表示没有父亲,可以删除了<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-12-17_13-47-22.png"
-                      alt="text"
-                ></li>
+<li><strong>无环图目录结构</strong>:在树的基础上进行改进,一个文件可以有多个父亲,虽然很灵活,但是管理复杂,有一个计数器,用来记录有多少个父亲,当计数器为0时,表示没有父亲,可以删除了<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-17_13-47-22.png" alt="text"></li>
 </ul>
 </li>
 <li>硬链接是基于索引节点的共享方式，文件的信息不放在目录中，而是放在索引节点中，多个目录项指向同一个索引节点。也是用一个count计数,当count为0时,才可以删除<br>软链接就是将到达共享文件的路径保存下来，当要访问文件时，根据路径寻找文件。硬链接的查找速度比软链接快。</li>
-<li>目录管理最基本的功能是按名存取<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-12-17_13-59-10.png"
-                      alt="text"
-                ></li>
+<li>目录管理最基本的功能是按名存取<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-17_13-59-10.png" alt="text"></li>
 </ul>
 <h1 id="4-3文件系统"><a href="#4-3文件系统" class="headerlink" title="4.3文件系统"></a>4.3文件系统</h1><ul>
-<li><strong><a class="link"   target="_blank" rel="noopener" href="https://www.doubao.com/thread/ac4346e6e8dd6" >文件系统结构<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-12-17_14-07-24.png"
-                      alt="text"
-                ></li>
+<li><strong><a class="link" target="_blank" rel="noopener" href="https://www.doubao.com/thread/ac4346e6e8dd6">文件系统结构<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-17_14-07-24.png" alt="text"></li>
 <li><strong>文件系统布局</strong>:<br><ul>
 <li><strong>主引导记录</strong>: 主引导记录是操作系统的引导程序，它位于磁盘的第一个扇区，用于引导操作系统。bios运行之后就到这个了</li>
 <li><strong>引导块</strong>: 引导块是操作系统的引导程序，它位于磁盘的第二个扇区，用于引导操作系统。每个分区都是统一从引导块开始</li>
 <li><strong>超级块</strong>: 超级块是文件系统的控制块，它位于磁盘的第三个扇区，用于存储文件系统的控制信息。</li>
-<li><strong><a class="link"   target="_blank" rel="noopener" href="https://www.doubao.com/thread/a576fe60b41ae" >空闲块<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:空闲块是指那些当前没有被任何文件或目录占用的存储块。这些存储块可以用于存储新的文件数据、目录信息或者扩展现有文件的大小</li>
+<li><strong><a class="link" target="_blank" rel="noopener" href="https://www.doubao.com/thread/a576fe60b41ae">空闲块<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:空闲块是指那些当前没有被任何文件或目录占用的存储块。这些存储块可以用于存储新的文件数据、目录信息或者扩展现有文件的大小</li>
 </ul>
 </li>
 <li><strong>磁盘空闲空间的管理方法</strong>:<ul>
-<li><strong>空闲表法</strong>:每个空闲区对应一个空闲表项,其中包括表项序号、该空闲区的第一个空闲盘块号、空闲盘块数，然后再把所有空闲区按照起始盘块号递增的顺序排列<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-12-23_15-04-45.png"
-                      alt="text"
-                ><br>盘块回收的时候跟内存回收一样，相邻的空闲区合并成一个空闲区。然后更改表项</li>
+<li><strong>空闲表法</strong>:每个空闲区对应一个空闲表项,其中包括表项序号、该空闲区的第一个空闲盘块号、空闲盘块数，然后再把所有空闲区按照起始盘块号递增的顺序排列<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-23_15-04-45.png" alt="text"><br>盘块回收的时候跟内存回收一样，相邻的空闲区合并成一个空闲区。然后更改表项</li>
 <li><strong>空闲链表法</strong>：<ol>
 <li><strong>空闲盘块链</strong>：将磁盘上的所有空闲空间以盘块为单位拉成一条链。但是这种方法会导致空闲盘块链很长</li>
 <li><strong>空闲盘区链</strong>：将磁盘上的所有空闲盘区拉成一条链，每个盘区包含若干相邻的盘块。这种方法虽然分配回收效率高，长度也比较短，但是分配回收的过程很复杂</li>
 </ol>
 </li>
-<li><strong>位示图法</strong>：使用一个位示图来表示磁盘上的空闲空间。位示图是一个位向量，其中每个位表示一个盘块的状态。如果一个盘块是空闲的，那么对应的位就被置为1，否则就被置为0。<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-12-23_15-13-55.png"
-                      alt="text"
-                ><blockquote>
+<li><strong>位示图法</strong>：使用一个位示图来表示磁盘上的空闲空间。位示图是一个位向量，其中每个位表示一个盘块的状态。如果一个盘块是空闲的，那么对应的位就被置为1，否则就被置为0。<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-23_15-13-55.png" alt="text"><blockquote>
 <p>这种方法有的从0开始编号，有的从1开始编号，很简单，就是把盘块号按写字的顺序一位一位对照起来</p>
 </blockquote>
 </li>
-<li><strong>成组链接法</strong>：前两种方法都不适应大型文件系统，所以UNIX使用的是成组链接法，我不明白这种方法是咋弄着嘞，看不懂，<a class="link"   target="_blank" rel="noopener" href="https://blog.csdn.net/qq_45744501/article/details/116953538" >参考这个<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><strong>成组链接法</strong>：前两种方法都不适应大型文件系统，所以UNIX使用的是成组链接法，我不明白这种方法是咋弄着嘞，看不懂，<a class="link" target="_blank" rel="noopener" href="https://blog.csdn.net/qq_45744501/article/details/116953538">参考这个<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
 </ul>
 </li>
 <li></li>
@@ -611,7 +683,7 @@
         
             <li>
                 <strong>更新于
-                    :</strong> 2025-01-02 08:31:26
+                    :</strong> 2025-01-02 19:34:20
             </li>
         
         <li>
@@ -789,7 +861,7 @@
                     </span>
                     
                         <span>
-                            共 21.5k 字
+                            共 21.4k 字
                         </span>
                     
                 </p>

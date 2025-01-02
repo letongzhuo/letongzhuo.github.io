@@ -109,7 +109,119 @@
     
     
     
-<meta name="generator" content="Hexo 7.3.0"></head>
+<meta name="generator" content="Hexo 7.3.0"><style>mjx-container[jax="SVG"] {
+  direction: ltr;
+}
+
+mjx-container[jax="SVG"] > svg {
+  overflow: visible;
+}
+
+mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="SVG"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="SVG"][justify="right"] {
+  text-align: right;
+}
+
+g[data-mml-node="merror"] > g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node="merror"] > rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node="mtable"] > line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node="mtable"] > .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node="mtable"] > svg {
+  overflow: visible;
+}
+
+[jax="SVG"] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax="SVG"] mjx-tool > mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool > mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node="maction"][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+.MathJax path {
+  stroke-width: 3;
+}
+
+mjx-container[display="true"] {
+  overflow: auto hidden;
+}
+
+mjx-container[display="true"] + br {
+  display: none;
+}
+</style></head>
 
 
 
@@ -752,10 +864,10 @@ IO控制方式:
 查询
 中断
 DMA:有四个寄存器
-命令&#x2F;状态寄存器(CR)。接收从 CPU 发来的 I&#x2F;O 命令、有关控制信息，或设备的状态。
+命令/状态寄存器(CR)。接收从 CPU 发来的 I/O 命令、有关控制信息，或设备的状态。
 内存地址寄存器(MAR)。在输入时，它存放将数据从设备传送到内存的起始目标地址;在输出时，它存放由内存到设备的内存源地址。
 数据寄存器(DR)。暂存从设备到内存或从内存到设备的数据。
-数据计数器(DC)。存放本...
+数据计数器(DC)。存放本次要传送的字(节)数...
                         
                     </div>
 
@@ -1101,7 +1213,8 @@ DMA:有四个寄存器
                             2.1通信基础
 曼彻斯特编码用码元中间的电平跳变来表示每个比特，可方便收发双方根据跳变来同步时而不需要额外的时钟信号。差分曼彻斯特编码也不需要额外的时钟信号.
 波特率表示信号每秒变化的次数,也是码元的传输速率;
-一般情况下多个比特构成一个码元,所以波特率在数值上&lt;&#x3D;比特率,但是在以太网实施的曼彻斯特编码中,一个码元等于二分之一个比特等于一个脉冲(我不是很理解这一块,特殊情况特...
+一般情况下多个比特构成一个码元,所以波特率在数值上&lt;=比特率,但是在以太网实施的曼彻斯特编码中,一个码元等于二分之一个比特等于一个脉冲(我不是很理解这一块,特殊情况特殊记忆)
+...
                         
                     </div>
 
@@ -1225,7 +1338,7 @@ DMA:有四个寄存器
                     </span>
                     
                         <span>
-                            共 21.5k 字
+                            共 21.4k 字
                         </span>
                     
                 </p>

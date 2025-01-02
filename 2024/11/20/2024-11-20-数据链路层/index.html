@@ -30,7 +30,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://letongzhuo.cn/images/redefine-og.webp">
 <meta property="article:published_time" content="2024-11-20T04:00:00.000Z">
-<meta property="article:modified_time" content="2024-11-20T12:41:35.880Z">
+<meta property="article:modified_time" content="2025-01-02T11:34:15.388Z">
 <meta property="article:author" content="lele">
 <meta property="article:tag" content="计算机网络">
 <meta name="twitter:card" content="summary">
@@ -111,7 +111,119 @@
     
     
     
-<meta name="generator" content="Hexo 7.3.0"></head>
+<meta name="generator" content="Hexo 7.3.0"><style>mjx-container[jax="SVG"] {
+  direction: ltr;
+}
+
+mjx-container[jax="SVG"] > svg {
+  overflow: visible;
+}
+
+mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="SVG"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="SVG"][justify="right"] {
+  text-align: right;
+}
+
+g[data-mml-node="merror"] > g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node="merror"] > rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node="mtable"] > line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node="mtable"] > .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node="mtable"] > svg {
+  overflow: visible;
+}
+
+[jax="SVG"] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax="SVG"] mjx-tool > mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool > mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node="maction"][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+.MathJax path {
+  stroke-width: 3;
+}
+
+mjx-container[display="true"] {
+  overflow: auto hidden;
+}
+
+mjx-container[display="true"] + br {
+  display: none;
+}
+</style></head>
 
 
 
@@ -446,8 +558,8 @@
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-11-20 20:41:35</span>
-            <span class="mobile">2024-11-20 20:41:35</span>
+            <span class="desktop">2025-01-02 19:34:15</span>
+            <span class="mobile">2025-01-02 19:34:15</span>
             <span class="hover-info">更新</span>
         </span>
     
@@ -469,7 +581,7 @@
     
     
         <span class="article-wordcount article-meta-item">
-            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>3.9k 字</span>
+            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>3.8k 字</span>
         </span>
     
     
@@ -495,20 +607,15 @@
 		<div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
 			<h1 id="3-1数据链路层的功能"><a href="#3-1数据链路层的功能" class="headerlink" title="3.1数据链路层的功能"></a>3.1数据链路层的功能</h1><ul>
 <li>为防止在传输过程中帧丢失，在可靠的数据链路层协议中，发送方对发送的每个数据帧设计一个计时器，当计时器到期而该帧的确认帧仍未到达时，发送方将重发该帧。为保证接收方不会接收到重复帧，需要对每个发送的帧进行编号:海明码和循环冗余检验码都用于差错控制。</li>
-<li>对于信道比较可靠且对实时性要求高的网络，数据链路层采用无确认的无连接服务比较合适<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/image.png"
-                      alt="img1"
-                ></li>
-<li>数据链路层的标准协议有<a class="link"   target="_blank" rel="noopener" href="https://www.doubao.com/thread/a3ab0b18fdb08" >HDLC,PPP,SLIP<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>(ICMP是网络层协议)</li>
+<li>对于信道比较可靠且对实时性要求高的网络，数据链路层采用无确认的无连接服务比较合适<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/image.png" alt="img1"></li>
+<li>数据链路层的标准协议有<a class="link" target="_blank" rel="noopener" href="https://www.doubao.com/thread/a3ab0b18fdb08">HDLC,PPP,SLIP<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>(ICMP是网络层协议)</li>
 </ul>
 <h1 id="3-2组帧"><a href="#3-2组帧" class="headerlink" title="3.2组帧"></a>3.2组帧</h1><ul>
 <li><strong>字符计数法</strong>是指在帧首部使用一个计数字段来记录该帧所含的字节数(包括计数字段自身所占用的1个字节)<br><br><strong>字节填充法</strong>使用特定字节来定界一帧的开始与结束,eg:SOH表示开始,EOT表示结束<br><br><strong>零比特填充法</strong>使用一个特定的比特串 01111110 来标志一帧的开始与结束(每遇到5个连续的“1”，就自动在其后插入一个“0”)<br><br><strong>违规编码法</strong>eg:曼彻斯特编码方法将数据比特“1”编码成“高-低”电平对，将数据比特“0”编码成“低-高”电平对，而“高-高”电平对和“低-低”电平对在数据比特中是违规的(即没有采用)，因此可借用这些违规编码序列来定界帧的开始与结束</li>
 </ul>
 <h1 id="3-3差错控制"><a href="#3-3差错控制" class="headerlink" title="3.3差错控制"></a>3.3差错控制</h1><ul>
 <li><strong>奇偶检验码</strong>是奇检验码(数据中1的个数是奇数)和偶检验码(数据中1的个数是偶数)的统称</li>
-<li><strong>循环冗余码</strong>:双方约定一个多项式eg:$x^{3}+x^{2}+1(1101)$,发送方把数据后边补上三个零(最高次项的次数)除以这个1101,然后把余数附加到数据后边发出去;接收方把收到的数据除以1101,如果没有出错那么刚好除尽<br>循环冗余码(CRC)是具有纠错功能的，只是数据链路层仅使用了它的检错功能</li>
+<li><strong>循环冗余码</strong>:双方约定一个多项式eg:<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="17.511ex" height="2.452ex" role="img" focusable="false" viewBox="0 -833.9 7740 1083.9"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mi"><path data-c="1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"></path></g><g data-mml-node="TeXAtom" transform="translate(605,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="33" d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z"></path></g></g></g><g data-mml-node="mo" transform="translate(1230.8,0)"><path data-c="2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path></g><g data-mml-node="msup" transform="translate(2231,0)"><g data-mml-node="mi"><path data-c="1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"></path></g><g data-mml-node="TeXAtom" transform="translate(605,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mo" transform="translate(3461.8,0)"><path data-c="2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path></g><g data-mml-node="mn" transform="translate(4462,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g><g data-mml-node="mo" transform="translate(4962,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mn" transform="translate(5351,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z" transform="translate(500,0)"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(1000,0)"></path><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z" transform="translate(1500,0)"></path></g><g data-mml-node="mo" transform="translate(7351,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container>,发送方把数据后边补上三个零(最高次项的次数)除以这个1101,然后把余数附加到数据后边发出去;接收方把收到的数据除以1101,如果没有出错那么刚好除尽<br>循环冗余码(CRC)是具有纠错功能的，只是数据链路层仅使用了它的检错功能</li>
 <li><a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1GF411V7sC?vd_source=c6d2d8c637bc4cf341d83587cc4b4b54"><strong>海明码</strong></a>:以0~15为例<br><blockquote>
 <p>0:对整个盘面进行纠错;<br><br>  1:对1,3,5,7,…,15进行纠错<br><br>  2:对2,3,6,7,10,11,14,15进行纠错<br><br>  4:对4,5,6,7,12,13,14,15进行纠错<br><br>  8:对8~15进行纠错;<br><br>海明码很像二分法,8对一半进行纠错,4对一半的一半进行纠错,2对一半的一半的一半进行纠错…</p>
 </blockquote>
@@ -517,115 +624,60 @@
 <p>“纠错”d位,需要码距为 2d+1;“检错”d 位,需码距为 d+1。</p>
 </blockquote>
 </li>
-<li>计算增加冗余信息位的位数:$m+n\le2^{n}-1$<br><br>m:数据位的位数;n信息位的位数;</li>
+<li>计算增加冗余信息位的位数:<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.312ex;" xmlns="http://www.w3.org/2000/svg" width="15.303ex" height="1.841ex" role="img" focusable="false" viewBox="0 -675.5 6763.7 813.5"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45A" d="M21 287Q22 293 24 303T36 341T56 388T88 425T132 442T175 435T205 417T221 395T229 376L231 369Q231 367 232 367L243 378Q303 442 384 442Q401 442 415 440T441 433T460 423T475 411T485 398T493 385T497 373T500 364T502 357L510 367Q573 442 659 442Q713 442 746 415T780 336Q780 285 742 178T704 50Q705 36 709 31T724 26Q752 26 776 56T815 138Q818 149 821 151T837 153Q857 153 857 145Q857 144 853 130Q845 101 831 73T785 17T716 -10Q669 -10 648 17T627 73Q627 92 663 193T700 345Q700 404 656 404H651Q565 404 506 303L499 291L466 157Q433 26 428 16Q415 -11 385 -11Q372 -11 364 -4T353 8T350 18Q350 29 384 161L420 307Q423 322 423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 181Q151 335 151 342Q154 357 154 369Q154 405 129 405Q107 405 92 377T69 316T57 280Q55 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(1100.2,0)"><path data-c="2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path></g><g data-mml-node="mi" transform="translate(2100.4,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(2978.2,0)"><path data-c="2264" d="M674 636Q682 636 688 630T694 615T687 601Q686 600 417 472L151 346L399 228Q687 92 691 87Q694 81 694 76Q694 58 676 56H670L382 192Q92 329 90 331Q83 336 83 348Q84 359 96 365Q104 369 382 500T665 634Q669 636 674 636ZM84 -118Q84 -108 99 -98H678Q694 -104 694 -118Q694 -130 679 -138H98Q84 -131 84 -118Z"></path></g><g data-mml-node="msup" transform="translate(4034,0)"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="TeXAtom" transform="translate(533,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g><g data-mml-node="mo" transform="translate(5263.5,0)"><path data-c="2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path></g><g data-mml-node="mn" transform="translate(6263.7,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g></g></g></svg></mjx-container><br><br>m:数据位的位数;n信息位的位数;</li>
 </ul>
 <h1 id="3-4流量控制与可靠传输机制"><a href="#3-4流量控制与可靠传输机制" class="headerlink" title="3.4流量控制与可靠传输机制"></a>3.4流量控制与可靠传输机制</h1><ul>
 <li><strong>ARQ</strong>（Automatic Repeat reQuest，即自动重传请求协议）分为三种：<br><strong>停止等待协议</strong>（SW,Stop-and-Wait）：发送一个数据帧，接收一个确认帧；<br><strong>后退N帧（Go-Back-N）</strong>:发送N个数据帧，接受一个确认帧；<br><strong>选择重传（Selective repeat）</strong>:发送多个数据帧，接受多个数据帧，对每一个数据帧进行确认，此外对于出错的数据帧接收方还会发送NAK否定帧<br>这三分协议都依赖确认和超时重传(发送一个数据帧启动一个计时器，在规定时间内没有收到确认帧就重传)两种机制<br><blockquote>
-<p>后两个还要满足两个条件：<br><br>1.发送窗口$\ge$接受窗口（要不接受窗口永远填不满）<br>2.发送窗口+接受窗口$\le2^{n}$(n:帧编号的比特数)（因为帧编号是重复利用的，如果大于该值就会出现帧编号重复的数据帧）<br>eg:若发送窗口的大小为32，则至少需要6bit序列号协议才不会出错</p>
+<p>后两个还要满足两个条件：<br><br>1.发送窗口<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.312ex;" xmlns="http://www.w3.org/2000/svg" width="1.76ex" height="1.751ex" role="img" focusable="false" viewBox="0 -636 778 774"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="2265" d="M83 616Q83 624 89 630T99 636Q107 636 253 568T543 431T687 361Q694 356 694 346T687 331Q685 329 395 192L107 56H101Q83 58 83 76Q83 77 83 79Q82 86 98 95Q117 105 248 167Q326 204 378 228L626 346L360 472Q291 505 200 548Q112 589 98 597T83 616ZM84 -118Q84 -108 99 -98H678Q694 -104 694 -118Q694 -130 679 -138H98Q84 -131 84 -118Z"></path></g></g></g></svg></mjx-container>接受窗口（要不接受窗口永远填不满）<br>2.发送窗口+接受窗口<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.312ex;" xmlns="http://www.w3.org/2000/svg" width="4.668ex" height="1.841ex" role="img" focusable="false" viewBox="0 -675.5 2063 813.5"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="2264" d="M674 636Q682 636 688 630T694 615T687 601Q686 600 417 472L151 346L399 228Q687 92 691 87Q694 81 694 76Q694 58 676 56H670L382 192Q92 329 90 331Q83 336 83 348Q84 359 96 365Q104 369 382 500T665 634Q669 636 674 636ZM84 -118Q84 -108 99 -98H678Q694 -104 694 -118Q694 -130 679 -138H98Q84 -131 84 -118Z"></path></g><g data-mml-node="msup" transform="translate(1055.8,0)"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="TeXAtom" transform="translate(533,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g></g></g></svg></mjx-container>(n:帧编号的比特数)（因为帧编号是重复利用的，如果大于该值就会出现帧编号重复的数据帧）<br>eg:若发送窗口的大小为32，则至少需要6bit序列号协议才不会出错</p>
 </blockquote>
 </li>
-<li><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/image%20copy.png"
-                      alt="alt text"
-                ><br>发送方发送012345670123，先发送了012345，接收方也接受到了012345，然后发送确认帧5，期待接受670，<strong>但是</strong>这时候网络不好，发送方没有收到确认帧，然后决定超时重传012345，坏处来了，这个0和接收方想要的0不是一个0</li>
-<li><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-16_10-06-05.png"
-                      alt="alt text"
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-16_10-10-21.png"
-                      alt="alt text"
-                ><br>Tips：算数据传输速率的时候可以直接把分子列为每帧中的数据长度</li>
+<li><br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/image%20copy.png" alt="alt text"><br>发送方发送012345670123，先发送了012345，接收方也接受到了012345，然后发送确认帧5，期待接受670，<strong>但是</strong>这时候网络不好，发送方没有收到确认帧，然后决定超时重传012345，坏处来了，这个0和接收方想要的0不是一个0</li>
+<li><br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-16_10-06-05.png" alt="alt text"><br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-16_10-10-21.png" alt="alt text"><br>Tips：算数据传输速率的时候可以直接把分子列为每帧中的数据长度</li>
 </ul>
 <h1 id="3-5介质访问控制"><a href="#3-5介质访问控制" class="headerlink" title="3.5介质访问控制"></a>3.5介质访问控制</h1><ul>
 <li><strong>频分复用</strong>（FDM，Frequency Division Multiplexing）:在一条信道上划分多个频带范围，每个频带之间还要有一定的频带隔离范围，防止互相干扰；<br><br> <strong>时分复用</strong>（TDM，Time Division Multiplexing）：把一条信道的传输时间划分时间片，每个用户的数据帧间隔传输；<br><blockquote>
 <p>时分复用分为同步和异步（统计），前者是固定的时间片，后者是动态地划分时间片</p>
 </blockquote>
-<strong>波分复用</strong>（WDM，wave）：就是光的频分复用；<br><br>**<a class="link"   target="_blank" rel="noopener" href="https://www.doubao.com/thread/aea6220d302be" >码分复用<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>**（CDM，Code Division Multiplexing）：不同的信号采用不同的编码，既共享频率又共享时间<blockquote>
-<p>码分复用时,各个站点的码片序列必须两两正交<br>eg:<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-18_16-34-41.png"
-                     
-                ><br>$\vec{a}\cdot\vec{b}&#x3D;0,\vec{a}\cdot\vec{c}&#x3D;0,\vec{b}\cdot\vec{c}&#x3D;0$<br><br>通过码分复用恢复出原始信号的实例:<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-18_16-47-14.png"
-                     
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-18_16-49-02.png"
-                     
-                ><br>我不理解为啥通过与原始码片序列做内积运算就可以恢复出结果,死记着算了</p>
+<strong>波分复用</strong>（WDM，wave）：就是光的频分复用；<br><br>**<a class="link" target="_blank" rel="noopener" href="https://www.doubao.com/thread/aea6220d302be">码分复用<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>**（CDM，Code Division Multiplexing）：不同的信号采用不同的编码，既共享频率又共享时间<blockquote>
+<p>码分复用时,各个站点的码片序列必须两两正交<br>eg:<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_16-34-41.png"><br><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.439ex;" xmlns="http://www.w3.org/2000/svg" width="25.655ex" height="2.921ex" role="img" focusable="false" viewBox="0 -1097 11339.3 1291"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="TeXAtom" data-mjx-texclass="ORD"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D44E" d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"></path></g><g data-mml-node="mo" transform="translate(264.5,31) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(751.2,0)"><path data-c="22C5" d="M78 250Q78 274 95 292T138 310Q162 310 180 294T199 251Q199 226 182 208T139 190T96 207T78 250Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(1251.4,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D44F" d="M73 647Q73 657 77 670T89 683Q90 683 161 688T234 694Q246 694 246 685T212 542Q204 508 195 472T180 418L176 399Q176 396 182 402Q231 442 283 442Q345 442 383 396T422 280Q422 169 343 79T173 -11Q123 -11 82 27T40 150V159Q40 180 48 217T97 414Q147 611 147 623T109 637Q104 637 101 637H96Q86 637 83 637T76 640T73 647ZM336 325V331Q336 405 275 405Q258 405 240 397T207 376T181 352T163 330L157 322L136 236Q114 150 114 114Q114 66 138 42Q154 26 178 26Q211 26 245 58Q270 81 285 114T318 219Q336 291 336 325Z"></path></g><g data-mml-node="mo" transform="translate(214.5,283) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(1958.2,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(3014,0)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g><g data-mml-node="mo" transform="translate(3514,0)"><path data-c="2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(3958.7,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D44E" d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"></path></g><g data-mml-node="mo" transform="translate(264.5,31) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(4709.9,0)"><path data-c="22C5" d="M78 250Q78 274 95 292T138 310Q162 310 180 294T199 251Q199 226 182 208T139 190T96 207T78 250Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(5210.1,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D450" d="M34 159Q34 268 120 355T306 442Q362 442 394 418T427 355Q427 326 408 306T360 285Q341 285 330 295T319 325T330 359T352 380T366 386H367Q367 388 361 392T340 400T306 404Q276 404 249 390Q228 381 206 359Q162 315 142 235T121 119Q121 73 147 50Q169 26 205 26H209Q321 26 394 111Q403 121 406 121Q410 121 419 112T429 98T420 83T391 55T346 25T282 0T202 -11Q127 -11 81 37T34 159Z"></path></g><g data-mml-node="mo" transform="translate(272.1,31) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(5920.9,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(6976.7,0)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g><g data-mml-node="mo" transform="translate(7476.7,0)"><path data-c="2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(7921.3,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D44F" d="M73 647Q73 657 77 670T89 683Q90 683 161 688T234 694Q246 694 246 685T212 542Q204 508 195 472T180 418L176 399Q176 396 182 402Q231 442 283 442Q345 442 383 396T422 280Q422 169 343 79T173 -11Q123 -11 82 27T40 150V159Q40 180 48 217T97 414Q147 611 147 623T109 637Q104 637 101 637H96Q86 637 83 637T76 640T73 647ZM336 325V331Q336 405 275 405Q258 405 240 397T207 376T181 352T163 330L157 322L136 236Q114 150 114 114Q114 66 138 42Q154 26 178 26Q211 26 245 58Q270 81 285 114T318 219Q336 291 336 325Z"></path></g><g data-mml-node="mo" transform="translate(214.5,283) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(8572.6,0)"><path data-c="22C5" d="M78 250Q78 274 95 292T138 310Q162 310 180 294T199 251Q199 226 182 208T139 190T96 207T78 250Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(9072.8,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D450" d="M34 159Q34 268 120 355T306 442Q362 442 394 418T427 355Q427 326 408 306T360 285Q341 285 330 295T319 325T330 359T352 380T366 386H367Q367 388 361 392T340 400T306 404Q276 404 249 390Q228 381 206 359Q162 315 142 235T121 119Q121 73 147 50Q169 26 205 26H209Q321 26 394 111Q403 121 406 121Q410 121 419 112T429 98T420 83T391 55T346 25T282 0T202 -11Q127 -11 81 37T34 159Z"></path></g><g data-mml-node="mo" transform="translate(272.1,31) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(9783.6,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(10839.3,0)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g></g></g></svg></mjx-container><br><br>通过码分复用恢复出原始信号的实例:<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_16-47-14.png"><br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_16-49-02.png"><br>我不理解为啥通过与原始码片序列做内积运算就可以恢复出结果,死记着算了</p>
 </blockquote>
 </li>
-<li>频分复用适合传输模拟信号，时分复用适合传输数字信号，所以现代网络中时分复用用的更多,<a class="link"   target="_blank" rel="noopener" href="https://www.doubao.com/thread/aafb5e5ce67d8" >解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>频分复用适合传输模拟信号，时分复用适合传输数字信号，所以现代网络中时分复用用的更多,<a class="link" target="_blank" rel="noopener" href="https://www.doubao.com/thread/aafb5e5ce67d8">解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
 <li><strong>随机访问介质访问控制协议</strong>(好拗口):<br><ol>
 <li><strong>ALOHA协议</strong>:<br><br> <strong>纯ALOHA协议</strong>:随时就可以发送数据,如果没有收到确认就说明发生了碰撞,等待一段时间后再发送;<br><br> <strong>时隙ALOHA协议</strong>:同步各站点的时间,把时间划分成一段段时隙,规定每个站点只能在时间段开始时才能发送数据<br>(夏威夷大学发明的,全称也不帮助记忆理解,不写全称了)<br></li>
 <li><strong>CSMA协议</strong>(Carrier Sense Multiple Access，载波监听多路访问):<br><br> <strong>坚持CSMA</strong>:一直监听信道,信道空闲就发送数据;<br><br> <strong>非坚持CSMA</strong>:监听到信道忙就放弃监听,等待一端随机的时间后再监听;<br><br> <strong>p-坚持CSMA</strong>(只适用于TDM信道):一直监听信道,信道空闲等待以概率p发送数据,1-p的概率在下一个时间段发送数据<br></li>
-<li><strong>CSMA&#x2F;CD协议</strong>(Carrier Sense Multiple Access with Collision Detection，载波监听多路访问&#x2F;碰撞检测):先听后发，边听边发，冲突停发，随机重发;<br>CSMA&#x2F;CD 协议中定义的<strong>争用期</strong>是指信号在最远两个端点之间往返传输的时间。<blockquote>
-<p>10Mb&#x2F;s和100Mb&#x2F;s的以太网中的争用期被定义为64B的发送时间(<a class="link"   target="_blank" rel="noopener" href="https://www.doubao.com/thread/ab717a81b1383" >解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>)</p>
+<li><strong>CSMA/CD协议</strong>(Carrier Sense Multiple Access with Collision Detection，载波监听多路访问/碰撞检测):先听后发，边听边发，冲突停发，随机重发;<br>CSMA/CD 协议中定义的<strong>争用期</strong>是指信号在最远两个端点之间往返传输的时间。<blockquote>
+<p>10Mb/s和100Mb/s的以太网中的争用期被定义为64B的发送时间(<a class="link" target="_blank" rel="noopener" href="https://www.doubao.com/thread/ab717a81b1383">解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>)</p>
 <blockquote>
-<p>eg:<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-18_16-15-37.png"
-                     
-                ><br>一个站点到hub是100米,两个站点之间是200米,一来一回400米;</p>
+<p>eg:<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_16-15-37.png"><br>一个站点到hub是100米,两个站点之间是200米,一来一回400米;</p>
 </blockquote>
 </blockquote>
 </li>
-<li><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/a750759450bf3"><strong>CSMA&#x2F;CA协议</strong></a>(Carrier Sense Multiple Access with Collision Avoidance载波监听多路访问&#x2F;碰撞避免):先监听信道,等到信道空闲的时候设置一个随机退避值(期间如何信道再忙起来就暂停计时),退避时间结束站点发送数据 ,接受方收到数据后发送ACK确认帧,接收方没有收到确认帧的话就按照上述规则再重发一遍;</li>
+<li><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/a750759450bf3"><strong>CSMA/CA协议</strong></a>(Carrier Sense Multiple Access with Collision Avoidance载波监听多路访问/碰撞避免):先监听信道,等到信道空闲的时候设置一个随机退避值(期间如何信道再忙起来就暂停计时),退避时间结束站点发送数据 ,接受方收到数据后发送ACK确认帧,接收方没有收到确认帧的话就按照上述规则再重发一遍;</li>
 </ol>
 </li>
 <li><strong>情景假设</strong>:设备A想向设备B发送数据<br><blockquote>
-<p>设备A首先向设备B发送RTS(Request To Send)帧表示请求发送数据;<br><br>恰好此时多个设备同时尝试发送数据,然后采用二进制指数退避,设备A在等待了一段时间后(信道忙就计时器暂停),重新发送RTS帧;<br><br>设备B受到了RTS帧后回复CTS(Clear To Send)表示允许发送;<br><br>其他设备接收到了RTS帧或者CTS帧后就知道这俩设备要预约信道了(预约信道并不是 CSMA&#x2F;CA 的强制规定，在普通模式下不进行预约信道。)</p>
+<p>设备A首先向设备B发送RTS(Request To Send)帧表示请求发送数据;<br><br>恰好此时多个设备同时尝试发送数据,然后采用二进制指数退避,设备A在等待了一段时间后(信道忙就计时器暂停),重新发送RTS帧;<br><br>设备B受到了RTS帧后回复CTS(Clear To Send)表示允许发送;<br><br>其他设备接收到了RTS帧或者CTS帧后就知道这俩设备要预约信道了(预约信道并不是 CSMA/CA 的强制规定，在普通模式下不进行预约信道。)</p>
 </blockquote>
 </li>
 <li><strong>DIFS,PIFS,SIFS帧间间隔的作用场景</strong>:<br><br>在上述情境中,设备A在向设备B发送RTS帧之前等待DIFS段时间,以后传输数据时,每帧之间间隔SISF(short ISF)段时间<br><br>如果是点协调的场景下,AP(Access Point,开热点的手机,家里边的WIFI,5G信号塔都是AP)在PIFS段时间下发送RTS帧;<blockquote>
 <p>DIFS&gt;PIFS&gt;SIFS;</p>
 </blockquote>
 </li>
-<li><strong>二进制退避算法</strong>:从[0,$2^{k}-1$]里随机选一个数<blockquote>
-<p>超出10次以外的冲突就不算了,要是算的话,要等到猴年马月去了,也就是说k&#x3D;min[k,10];</p>
+<li><strong>二进制退避算法</strong>:从[0,<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.186ex;" xmlns="http://www.w3.org/2000/svg" width="6.049ex" height="2.117ex" role="img" focusable="false" viewBox="0 -853.7 2673.8 935.7"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="TeXAtom" transform="translate(533,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="1D458" d="M121 647Q121 657 125 670T137 683Q138 683 209 688T282 694Q294 694 294 686Q294 679 244 477Q194 279 194 272Q213 282 223 291Q247 309 292 354T362 415Q402 442 438 442Q468 442 485 423T503 369Q503 344 496 327T477 302T456 291T438 288Q418 288 406 299T394 328Q394 353 410 369T442 390L458 393Q446 405 434 405H430Q398 402 367 380T294 316T228 255Q230 254 243 252T267 246T293 238T320 224T342 206T359 180T365 147Q365 130 360 106T354 66Q354 26 381 26Q429 26 459 145Q461 153 479 153H483Q499 153 499 144Q499 139 496 130Q455 -11 378 -11Q333 -11 305 15T277 90Q277 108 280 121T283 145Q283 167 269 183T234 206T200 217T182 220H180Q168 178 159 139T145 81T136 44T129 20T122 7T111 -2Q98 -11 83 -11Q66 -11 57 -1T48 16Q48 26 85 176T158 471L195 616Q196 629 188 632T149 637H144Q134 637 131 637T124 640T121 647Z"></path></g></g></g><g data-mml-node="mo" transform="translate(1173.6,0)"><path data-c="2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path></g><g data-mml-node="mn" transform="translate(2173.8,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g></g></g></svg></mjx-container>]里随机选一个数<blockquote>
+<p>超出10次以外的冲突就不算了,要是算的话,要等到猴年马月去了,也就是说k=min[k,10];</p>
 <blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-18_09-25-19.png"
-                      alt="alt text"
-                ></p>
+<p><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_09-25-19.png" alt="alt text"></p>
 </blockquote>
 </blockquote>
 </li>
 <li><strong>令牌环网络</strong>:<br><blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-18_09-01-37.png"
-                      alt="alt text"
-                ><br>令牌环网络的结点只能在一定时间内(令牌持有时间)发送数据,不能一直持有令牌,并且如果结点没有数据传输时要迅速把令牌传递下去</p>
+<p><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_09-01-37.png" alt="alt text"><br>令牌环网络的结点只能在一定时间内(令牌持有时间)发送数据,不能一直持有令牌,并且如果结点没有数据传输时要迅速把令牌传递下去</p>
 </blockquote>
 </li>
 <li><strong>以太网的最小帧长</strong>是指在争用期这一段时间内发送数据的长度,也就是说,最小帧长是数据填满信道一来一回的长度,第一个bit刚刚回来,最后一个bit刚刚发出</li>
-<li>无线局域网不使用 CSMA&#x2F;CD 而使用 CSMA&#x2F;CA 的原因是，无线局域网难以实现冲突检测，存在隐蔽站和暴露站问题<br><blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-18_16-21-50.png"
-                     
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-18_16-22-09.png"
-                     
-                ></p>
+<li>无线局域网不使用 CSMA/CD 而使用 CSMA/CA 的原因是，无线局域网难以实现冲突检测，存在隐蔽站和暴露站问题<br><blockquote>
+<p><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_16-21-50.png"><br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_16-22-09.png"></p>
 </blockquote>
 </li>
 </ul>
@@ -638,7 +690,7 @@
 <p>局域网只对应于OSI参考模型的数据链路层和物理层，并且将数据链路层拆分为两个子层：逻辑链路控制子层（LLC）和介质访问控制子层（MAC）；<br>现在以太网几乎是局域网的代名词，所以现在LLC子层作用已经不大，现在许多网卡仅装MAC协议而不装LLC协议</p>
 </blockquote>
 </li>
-<li><p>以太网中所有计算机共享一条总线，信息以广播的形式发送，并且使用CSMA&#x2F;CD方式对总线进行访问控制<br>以太网采用两种方式简化通信无连接的工作方式:<br>1. 即不对发送的数据帧编号，又不要求接收方发送确认;<br>2. 发送的数据都使用曼彻斯特编码的信号，每个码元的中间出现一次电压转换，接收方利用这种电压转换方便地将位同步信号提取出来。</p>
+<li><p>以太网中所有计算机共享一条总线，信息以广播的形式发送，并且使用CSMA/CD方式对总线进行访问控制<br>以太网采用两种方式简化通信无连接的工作方式:<br>1. 即不对发送的数据帧编号，又不要求接收方发送确认;<br>2. 发送的数据都使用曼彻斯特编码的信号，每个码元的中间出现一次电压转换，接收方利用这种电压转换方便地将位同步信号提取出来。</p>
 </li>
 <li><p>广播式网络通常是局域网的通信方式,这种方式共享信道,只工作在数据链路层,不会涉及路由选择的问题</p>
 </li>
@@ -648,7 +700,7 @@
 </li>
 <li><p>以太网 MAC 帧的数据载荷部分的长度必须在 46 字节和 1500 字节之间,若小于 46 字节，则需要填充字节来达到最小长度。若IP 数据报的长度为 56 字节，则不需要填充字节。</p>
 </li>
-<li><p>以太网常用的传输介质有 4 种:粗缆、细缆、双绞线和光纤。同轴电缆分 50Ω 基带电缆和75Ω 宽带电缆两类。基带电缆又分细同轴电缆和粗同轴电缆。<br>10Base5:粗缆以太网，数据率为 10Mb&#x2F;s，每段电缆最大长度为500m;使用特殊的收发器连接到电缆上，收发器完成载波监听和冲突检测的功能。<br>细缆以太网，数据率为10Mbs，每段电缆最大长度为185m;使用 BNC连接器形10Base2:成T形连接，无源部件。</p>
+<li><p>以太网常用的传输介质有 4 种:粗缆、细缆、双绞线和光纤。同轴电缆分 50Ω 基带电缆和75Ω 宽带电缆两类。基带电缆又分细同轴电缆和粗同轴电缆。<br>10Base5:粗缆以太网，数据率为 10Mb/s，每段电缆最大长度为500m;使用特殊的收发器连接到电缆上，收发器完成载波监听和冲突检测的功能。<br>细缆以太网，数据率为10Mbs，每段电缆最大长度为185m;使用 BNC连接器形10Base2:成T形连接，无源部件。</p>
 </li>
 <li><p>以太网没有网络层。<br>物理层的主要功能是:信号的编码和译码、比特的接收和传输;<br>MAC子层的主要功能是:组帧和拆帧、比特差错检测、寻址、竞争处理;<br>LLC 子层的主要功能是:建立和释放数据链路层的逻辑连接、提供与高层的接口、差错控制、给帧加序号(待确认的服务)。</p>
 </li>
@@ -666,17 +718,7 @@
 <blockquote>
 <p>地址3记忆方法:<br>发给AP的时候要让AP知道数据帧是发给谁的;接受AP来的数据帧的时候要让别人知道这个数据帧是谁发过来的</p>
 <blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-20_15-25-49.png"
-                     
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/img/in-post/Snipaste_2024-11-20_15-26-05.png"
-                     
-                ></p>
+<p><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-20_15-25-49.png"><br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-20_15-26-05.png"></p>
 </blockquote>
 </blockquote>
 </li>
@@ -693,7 +735,7 @@
 </li>
 </ol>
 </li>
-<li><strong>TCP&#x2F;IP 协议族</strong>主要包括 TCP、IP、ICMP、IGMP、ARP、RARP、UDP、DNS、FTP、HTTP等。HDLC是 ISO 提出的一个面向比特型的数据链路层协议，它不属于 TCPIP 协议族。</li>
+<li><strong>TCP/IP 协议族</strong>主要包括 TCP、IP、ICMP、IGMP、ARP、RARP、UDP、DNS、FTP、HTTP等。HDLC是 ISO 提出的一个面向比特型的数据链路层协议，它不属于 TCPIP 协议族。</li>
 <li>PPP协议是一种面向连接的点对点数据链路层协议，但它是不可靠的，因为它不使用序号和确认机制，因此 PPP 协议提供的是有连接的不可靠服务。</li>
 </ul>
 <h1 id="数据链路层设备"><a href="#数据链路层设备" class="headerlink" title="数据链路层设备"></a>数据链路层设备</h1>
@@ -710,7 +752,7 @@
         
             <li>
                 <strong>更新于
-                    :</strong> 2024-11-20 20:41:35
+                    :</strong> 2025-01-02 19:34:15
             </li>
         
         <li>
@@ -888,7 +930,7 @@
                     </span>
                     
                         <span>
-                            共 21.5k 字
+                            共 21.4k 字
                         </span>
                     
                 </p>
