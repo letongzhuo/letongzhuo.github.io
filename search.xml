@@ -79,6 +79,32 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>日记</title>
+    <url>/2021/03/14/2021-3-14-%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="abc3339a655f449b8b0e49bf85e351a332f6c31f85a95225f75d668afb94908a">249107fcce4fdab00b19d327c31fd8f33af60cc07c7fca5acec9f3d9dbfa6fd6e04d38ad181f8cede03dd9af51349f8d4fa3fd4380e1f3f378354b9b8cf3efeb07b5cd0c0e3a9f3ef9a6a531dc851d28fbbd58642fbb329bdbda96bcaaa5bd3d4b9656f9fbf2527ef07c20767129c8b8e2fdc0688d580ee71d32eafb308094da8893e9abd989e48c177e0d3f443760d5583705f01b844b1431473f39beef9a08</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>计算机网络体系结构</title>
     <url>/2024/11/13/2024-11-13-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/</url>
     <content><![CDATA[<h1 id="1-1计算机网络概述"><a href="#1-1计算机网络概述" class="headerlink" title="1.1计算机网络概述"></a>1.1计算机网络概述</h1><ul>
@@ -130,32 +156,6 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/2021/03/14/2021-3-14-%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="abc3339a655f449b8b0e49bf85e351a332f6c31f85a95225f75d668afb94908a">249107fcce4fdab00b19d327c31fd8f33af60cc07c7fca5acec9f3d9dbfa6fd6e04d38ad181f8cede03dd9af51349f8d4fa3fd4380e1f3f378354b9b8cf3efeb07b5cd0c0e3a9f3ef9a6a531dc851d28fbbd58642fbb329bdbda96bcaaa5bd3d4b9656f9fbf2527ef07c20767129c8b8e2fdc0688d580ee71d32eafb308094da8893e9abd989e48c177e0d3f443760d5583705f01b844b1431473f39beef9a08</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日记</title>
     <url>/2021/02/04/2021-2-4-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -178,40 +178,6 @@ import {initHBE} from "/js/plugins/hbe.js";
 ]]></content>
       <tags>
         <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>物理层</title>
-    <url>/2024/11/17/2024-11-17-%E7%89%A9%E7%90%86%E5%B1%82/</url>
-    <content><![CDATA[<h1 id="2-1通信基础"><a href="#2-1通信基础" class="headerlink" title="2.1通信基础"></a>2.1通信基础</h1><ul>
-<li>曼彻斯特编码用码元中间的电平跳变来表示每个比特，可方便收发双方根据跳变来同步时而不需要额外的时钟信号。差分曼彻斯特编码也不需要额外的时钟信号.</li>
-<li>波特率表示信号每秒变化的次数,也是码元的传输速率;</li>
-<li>一般情况下多个比特构成一个码元,所以波特率在数值上&lt;=比特率,但是在以太网实施的曼彻斯特编码中,一个码元等于二分之一个比特等于一个脉冲(我不是很理解这一块,特殊情况特殊记忆)<blockquote>
-<p><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -1.158ex;" xmlns="http://www.w3.org/2000/svg" width="42.86ex" height="3.527ex" role="img" focusable="false" viewBox="0 -1047.1 18944.3 1558.9"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mfrac"><g data-mml-node="mrow" transform="translate(220,516.8) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">比</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(3000,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(3389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g><g data-mml-node="mi" transform="translate(4389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">据</text></g><g data-mml-node="mi" transform="translate(5389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(6389,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g><g data-mml-node="mrow" transform="translate(1555.7,-370.3) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">波</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g></g><rect width="4992.8" height="60" x="120" y="220"></rect></g><g data-mml-node="mo" transform="translate(5510.5,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(6566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">每</text></g><g data-mml-node="mi" transform="translate(7566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">个</text></g><g data-mml-node="mi" transform="translate(8566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">码</text></g><g data-mml-node="mi" transform="translate(9566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">元</text></g><g data-mml-node="mi" transform="translate(10566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">中</text></g><g data-mml-node="mi" transform="translate(11566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">所</text></g><g data-mml-node="mi" transform="translate(12566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">含</text></g><g data-mml-node="mi" transform="translate(13566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(14566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">比</text></g><g data-mml-node="mi" transform="translate(15566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(16566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g><g data-mml-node="mo" transform="translate(17566.3,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(17955.3,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(18555.3,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container><br> <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex;" xmlns="http://www.w3.org/2000/svg" width="18.871ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 8340.8 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="TeXAtom" transform="translate(533,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g><g data-mml-node="mo" transform="translate(1285,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(2340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">码</text></g><g data-mml-node="mi" transform="translate(3340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">元</text></g><g data-mml-node="mi" transform="translate(4340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(5340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">状</text></g><g data-mml-node="mi" transform="translate(6340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">态</text></g><g data-mml-node="mi" transform="translate(7340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g></g></g></svg></mjx-container></p>
-</blockquote>
-</li>
-<li>曼彻斯特编码:看码元中间,统一上升沿为0或1,下降沿为1或0;<br>差分曼彻斯特编码:看码元的连接处(考试的信号段开头第一个码元看不出来),有跳变表示0,无跳变表示1(0比较圆润所以爱跳,1比较正直稳重,所以平稳);<br>非归零编码(NRZ:Non Return Zero Code):高电平1,低电平0;<br>反向非归零编码(NRZI:Non Return Zero Inverted Code):跳变0,不变1;</li>
-<li>根据奈奎斯特定律 ,波特率的上限为2倍的信道带宽率,所以采样数超过这个数值的部分是无意义的</li>
-<li>香农定理:<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.781ex;" xmlns="http://www.w3.org/2000/svg" width="37.662ex" height="2.8ex" role="img" focusable="false" viewBox="0 -892.5 16646.5 1237.5"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">信</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">道</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(3000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">极</text></g><g data-mml-node="mi" transform="translate(4000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">限</text></g><g data-mml-node="mi" transform="translate(5000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">传</text></g><g data-mml-node="mi" transform="translate(6000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">输</text></g><g data-mml-node="mi" transform="translate(7000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">速</text></g><g data-mml-node="mi" transform="translate(8000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(9277.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(10333.6,0)"><path data-c="1D44A" d="M436 683Q450 683 486 682T553 680Q604 680 638 681T677 682Q695 682 695 674Q695 670 692 659Q687 641 683 639T661 637Q636 636 621 632T600 624T597 615Q597 603 613 377T629 138L631 141Q633 144 637 151T649 170T666 200T690 241T720 295T759 362Q863 546 877 572T892 604Q892 619 873 628T831 637Q817 637 817 647Q817 650 819 660Q823 676 825 679T839 682Q842 682 856 682T895 682T949 681Q1015 681 1034 683Q1048 683 1048 672Q1048 666 1045 655T1038 640T1028 637Q1006 637 988 631T958 617T939 600T927 584L923 578L754 282Q586 -14 585 -15Q579 -22 561 -22Q546 -22 542 -17Q539 -14 523 229T506 480L494 462Q472 425 366 239Q222 -13 220 -15T215 -19Q210 -22 197 -22Q178 -22 176 -15Q176 -12 154 304T131 622Q129 631 121 633T82 637H58Q51 644 51 648Q52 671 64 683H76Q118 680 176 680Q301 680 313 683H323Q329 677 329 674T327 656Q322 641 318 637H297Q236 634 232 620Q262 160 266 136L501 550L499 587Q496 629 489 632Q483 636 447 637Q428 637 422 639T416 648Q416 650 418 660Q419 664 420 669T421 676T424 680T428 682T436 683Z"></path></g><g data-mml-node="mi" transform="translate(11381.6,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(11679.6,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(12164.6,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mo" transform="translate(13078.1,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mn" transform="translate(13467.1,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g><g data-mml-node="mo" transform="translate(14189.3,0)"><path data-c="2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path></g><g data-mml-node="mfrac" transform="translate(15189.6,0)"><g data-mml-node="mi" transform="translate(305.9,394) scale(0.707)"><path data-c="1D446" d="M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z"></path></g><g data-mml-node="mi" transform="translate(220,-345) scale(0.707)"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></g><rect width="827.9" height="60" x="120" y="220"></rect></g><g data-mml-node="mo" transform="translate(16257.5,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container><blockquote>
-<p>W:信道的频率带宽;S:信号的平均功率;N:噪声的功率<br><br>S/N有两种形式:一种是功率比,直接代入公式计算;一种是x(dB)单位,利用公式<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="17.572ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 7766.7 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"></path></g><g data-mml-node="mo" transform="translate(849.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(1905.6,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g><g data-mml-node="mi" transform="translate(2905.6,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(3203.6,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(3688.6,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g></g></g><g data-mml-node="mo" transform="translate(4955.7,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(5344.7,0)"><path data-c="1D446" d="M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(5989.7,0)"><g data-mml-node="mo"><path data-c="2F" d="M423 750Q432 750 438 744T444 730Q444 725 271 248T92 -240Q85 -250 75 -250Q68 -250 62 -245T56 -231Q56 -221 230 257T407 740Q411 750 423 750Z"></path></g></g><g data-mml-node="mi" transform="translate(6489.7,0)"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></g><g data-mml-node="mo" transform="translate(7377.7,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container>,计算出S/N代入即可<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/aa6265cf611fd4f022d7c753c7aab827.png" alt="aa6265cf611fd4f022d7c753c7aab827.png"></p>
-</blockquote>
-</li>
-<li>信道的最大传输速率受香农定理和奈奎斯特定理两者作用,二者取其小</li>
-</ul>
-<h1 id="2-2传输介质"><a href="#2-2传输介质" class="headerlink" title="2.2传输介质"></a>2.2传输介质</h1><ul>
-<li>同轴电缆具有更高的屏蔽性，同时有更好的抗噪声性。</li>
-<li>物理层接口的特性：<br><strong>机械特性</strong>。指明接口所用接线器的形状和尺寸、引脚数目和排列、固定和锁定装置等。<br><strong>电气特性</strong>。指明在接口电缆的各条线上的电压范围、传输速率和距离限制等。<br><strong>功能特性</strong>。指明某条线上出现的某一电平的电压的意义,以及每条线的功能。<br><strong>过程特性</strong>,也称规程特性。指明对不同功能的各种可能事件的出现顺序。</li>
-</ul>
-<h1 id="2-3物理层设备"><a href="#2-3物理层设备" class="headerlink" title="2.3物理层设备"></a>2.3物理层设备</h1><ul>
-<li><strong>中继器</strong>的原理是将衰减的信号再生而不是放大,连接后的网段仍然属于同一个局域网。<br><strong>转发器</strong>只能用来放大信号。<br><strong>集线器</strong>的实质是一个多端口的中继器。集线器没有寻址功能,一个端口接收到数据信号后,从除了接收端口外的其他所有端口转发出去。<br><a href="https://www.doubao.com/thread/a52b99f571a7a"><strong>网桥</strong></a>是数据链路层设备，主要用于连接两个或多个局域网（LAN），并在它们之间转发数据帧。</li>
-<li>互相串联的中继器的个数不能超过4个,而且用4个中继器串联的5段通信介质中,只有3段可以挂接计算机,其余2段只能用作扩展通信范围的链路段,不能挂接计算机。这就是所谓的”<strong>5-4-3规则</strong>“</li>
-<li>若某个网络设备有存储转发功能,则认为它能连接两个不同的协议;</li>
-<li>集线器将多个设备连接在以它为中心的结点上,因此使用它的网络<strong>在物理拓扑上属于星形结<br>构</strong>。集线器不具备交换机所具有的交换表,所以它发送数据时是没有针对性的,而采用广播方式发送。因此,使用集线器的星形以太网<strong>逻辑上仍然是总线网</strong>。</li>
-<li>基带传输，频带传输，宽带传输:<br><strong>基带传输</strong>是信号不经过调制，直接在信道上传输；<br><strong>频带传输</strong>是将信号进行调制之后进行传输；<br><strong>宽带传输</strong>是在频带传输的基础上将链路划分为多个信道进行传输。</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>计算机网络</tag>
       </tags>
   </entry>
   <entry>
@@ -356,6 +322,132 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>操作系统概述</title>
+    <url>/2024/11/21/2024-11-21-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/</url>
+    <content><![CDATA[<h1 id="操作系统概述"><a href="#操作系统概述" class="headerlink" title="操作系统概述"></a>操作系统概述</h1><h2 id="1-1操作系统的基本概念"><a href="#1-1操作系统的基本概念" class="headerlink" title="1.1操作系统的基本概念"></a>1.1操作系统的基本概念</h2><ul>
+<li>操作系统的四大特征:并发,共享,虚拟,异步,前两个是最基本的特征;<br><br><strong>并发</strong>是指两个或多个事件在同一时间间隔内发生;<br><br><strong>共享</strong>是指系统中的资源可供内存中多个并发执行的进程共同使用;<br><br><strong>虚拟</strong>是指将一个物理上的实体变为若干逻辑上的对应物;<br><br><strong>异步</strong>是指计算机中的进程因为资源问题,所以不是一下就运行到底的而是走走停停</li>
+<li>操作系统提供的接口主要分为两类:一类是<strong>命令接口</strong>，用户利用这些操作命令来组织和控制作业的执行:另一类是<strong>程序接口</strong>，编程人员可以使用它们来请求操作系统服务。<br><br>命令接口有联机和脱机两种:联机是输入一条命令就要得到结果,就是交互性;脱机是把处理任务直接扔给计算机,用户不干预计算机的运行,坐等结果;<br><br>程序接口是由一组系统调用组成,GUI就是通过调用程序接口实现的,但是GUI不是操作系统的一部分,GUI调用的系统调用命令是操作系统的一部分;</li>
+</ul>
+<h2 id="1-2操作系统发展历程"><a href="#1-2操作系统发展历程" class="headerlink" title="1.2操作系统发展历程"></a>1.2操作系统发展历程</h2><ul>
+<li><strong>单道批处理系统</strong>:把一堆作业扔给操作系统,配上监督程序,作业一个一个进行,具有自动性,顺序性,单道性;</li>
+<li><strong>多道批处理系统</strong>用户所提交的作业都先存放在外存上并排成一个队列，作业调度程序按一定的算法从后备队列中选择若干作业调入内存，它们在管理程序的控制下相互穿插地运行</li>
+<li><strong>分时操作系统</strong>是指将处理器的运行时间分成很短的时间片，按时间片轮流将处理器分配给各个作业<br>多个用户终端共享主机,响应时间很短,但是对于需要实时反馈的作业就不够了,需要实时系统</li>
+<li><strong>实时系统</strong>有硬实时和软实时,前者对于时间要求很严格,后者拖延一会也没事</li>
+<li>多道程序技术要求进程间能实现并发，需要实现进程调度以保证CPU的工作效率，而并发性的实现需要中断功能的支持。</li>
+</ul>
+<h2 id="1-3操作系统的运行环境"><a href="#1-3操作系统的运行环境" class="headerlink" title="1.3操作系统的运行环境"></a>1.3操作系统的运行环境</h2><ul>
+<li>CPU 的运行模式划分为用户态(目态)和核心态(又称管态、内核态)。</li>
+<li>特权指令(核心态)，是指不允许用户直接使用的指令，如I/O 指令、关中断指令、内存清零指令,存取用于内存保护的寄存器、送 PSW 到程序状态字寄存器等的指令。<br>非特权指令(用户态)，是指允许用户直接使用的指令，它不能直接访问系统中的软硬件资源，仅限于访问用户的地址空间，这也是为了防止用户程序对系统造成破坏。</li>
+<li><strong>中断和异常</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-21_20-21-35.png"></li>
+<li><strong>系统调用的功能</strong>:<br><br>设备管理。完成设备的请求或释放，以及设备启动等功能。<br><br>文件管理。完成文件的读、写、创建及删除等功能。<br><br>进程控制。完成进程的创建、撤销、阻塞及唤醒等功能。<br><br>进程通信。完成进程之间的消息传递或信号传递等功能。<br><br>内存管理。完成内存的分配、回收以及获取作业占用内存区大小和起始地址等功能。</li>
+<li>用户程序创建一个新进程，需使用操作系统提供的系统调用接口<br><br>用户程序使用系统调用命令，该命令经过编译后形成若干参数和陷入指令<br>当操作系统完成用户请求的系统调用功能后，应使CPU从内核态转到用户态</li>
+<li>在中断发生后，进入中断处理的程序只能属于操作系统程序</li>
+<li>计算机通过<strong>硬件</strong>完成操作系统由用户态到核心态的转换，这是通过中断机制来实现的。发生中断事件时，由硬件中断机制将计算机状态置为核心态。</li>
+<li>大多数计算机操作系统的内核包括四个方面的内容，即时钟管理、中断机制、原语和系统控制的数据结构及处理，其中第4部分实际上是系统调用类的指令(广义指令)。<br><blockquote>
+<p>置时钟指令是在核心态运行的,如果该指令允许在用户态执行，那么程序就可以自行更改时间片，会一直霸占CPU。</p>
+</blockquote>
+</li>
+<li>命令解释程序属于命令接口，能面对用户，在用户态下执行。磁盘调度程序、中断处理程序和进程调度程序都工作在内核态。</li>
+<li>“访管”指令仅在用户态下使用，<strong>执行“访管”指令将用户态转变为核心态。</strong></li>
+<li>系统调用命令工作在核心态，系统调用本身是一条在核心态运行的命令，并不是调用系统的命令，调用系统调用的命令才是用户态的。<br><strong>也就是说，系统调用的发生是在用户态，系统调用的执行是在核心态</strong></li>
+<li>I/O设备的请求、时钟中断是外部中断。<br><br>访管指令、缺页异常是内部中断。</li>
+<li>系统调用需要保存 PSW 和PC的值，一般过程调用只需保存PC的值。<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-23_08-53-49.png"><br>一般过程调用的被调用程序与调用程序运行在同一个状态，可能是系统态，也可能是用户态<br>系统调用的被调用过程一定运行在核心态</li>
+<li>trap 指令、跳转指令和压栈指令均可以在用户态执行，其中 trap 指令负责由用户态转换为内核态。关中断指令为特权指令，必须在核心态才能执行。<strong>注意</strong>，在操作系统中，关中断指令是权限非常大的指令，因为中断是现代操作系统正常运行的核心保障之一，能把它关掉，说明执行这条指令的一定是权限非常大的机构(管态)。</li>
+<li>外部中断处理过程，PC 值由中断隐指令自动保存，而通用寄存器内容由操作系统保存。块表(TLB)和 Cache 中的内容则由硬件机构保存。</li>
+<li>执行系统调用的过程：<br><ol>
+<li>传递系统调用参数</li>
+<li>执行陷入(trap)指令</li>
+<li>执行相应的服务程序</li>
+<li>返回用户态</li>
+</ol>
+</li>
+<li>当 CPU 检测到中断信号后，由硬件自动保存被中断程序的断点[程序计数器(PC)和程序状态字寄存器(PSW)]<blockquote>
+<p>麻蛋，到底是硬件保存的还是中断隐指令保存的啊，<strong>暂定是硬件保存的</strong></p>
+</blockquote>
+之后，硬件找到该中断信号对应的中断向量，中断向量指明中断服务程序入口地址(各中断向量统一存放在中断向量表中，该表由操作系统初始化)。<br>接下来开始执行中断服务程序，保存中断屏蔽字、保存各通用寄存器的值，并提供与中断信号对应的中断服务</li>
+<li><strong>系统调用是由用户进程发起的，请求操作系统的服务。</strong><br><ol>
+<li>当内存中的空闲页框不够时，操作系统会将某些页面调出，并将要访问的页面调入，这个过程完全由操作系统完成，不涉及系统调用。</li>
+<li>进程调度完全由操作系统完成，无法通过系统调用完成。</li>
+<li>创建新进程可以通过系统调用来完成，如Linux 中通过 fork 系统调用来创建子进程。</li>
+</ol>
+</li>
+<li>发生系统调用时，CPU 通过执行软中断指令将CPU的运行状态从用户态切换到内核态，这个过程与中断和异常的响应过程相同,，<strong>由硬件负责保存断点和程序状态字,并将 CPU 模式改为内核态</strong>。<br>然后，执行操作系统内核的系统调用入口程序，<strong>该内核程序负责保存通用寄存器的内容，再调用执行特定的系统调用服务例程。</strong><br>综上，前俩由硬件完成，后俩由操作系统完成。</li>
+</ul>
+<h2 id="1-4操作系统的结构，引导和虚拟机"><a href="#1-4操作系统的结构，引导和虚拟机" class="headerlink" title="1.4操作系统的结构，引导和虚拟机"></a>1.4操作系统的结构，引导和虚拟机</h2><ul>
+<li>结构：<br><ol>
+<li><strong>分层法</strong>：把操作系统分层，从底层（硬件）一层层向上扩充，每层只能调用紧邻它的低层的功能和服务(单向依赖)。<ul>
+<li><strong>优势</strong>：容易调试检查错误，一层一层向上检查，很容易确定具体哪一层出错；<br>容易扩充和维护，跟砌墙一样，想实现更高的功能只需要一层层叠加就🆗了</li>
+<li><strong>劣势</strong>：合理定义各层比较困难，各层之间挨得太近，暧昧不分；<br>效率很差，要完成某个功能要从底层开始穿越</li>
+</ul>
+</li>
+<li><strong>模块化</strong>：把操作系统按照不同的功能分为不同的模块<ul>
+<li><strong>优势</strong>：①提高了操作系统设计的正确性、可理解性和可维护性;②增强了操作系统的可适应性;③加速了操作系统的开发过程。</li>
+<li><strong>劣势</strong>：接口很难设计，你不知道它都有啥需求；<br>模块也很难设计，各个模块要齐头并进，顺序很难把握；</li>
+</ul>
+</li>
+<li><a class="link" href="https://www.doubao.com/thread/a4197fa860ae6">微内核<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>是保留最基础的内核功能，把多余的功能都剥离出去。<br><ul>
+<li>优势：<ol>
+<li>扩展性和灵活性。</li>
+<li>可靠性和安全性。</li>
+<li>可移植性</li>
+<li>分布式计算。</li>
+</ol>
+</li>
+<li>劣势：有点性能问题，因为需要频繁地在用户态和内核态之间切换</li>
+</ul>
+</li>
+<li><strong>宏内核</strong>：把所有功能都聚合到一起，效率很高，共享信息很快，但是操作系统越做越大，这种结构就很臃肿</li>
+</ol>
+</li>
+<li>模块化操作系统的各功能模块都在内核中，且模块之间相互调用、相互依赖，任何一个模块出错，都可能导致整个内核崩溃。<br>在微内核操作系统中，内核外的某个功能模块出错不会导致整个系统崩溃，可靠性高。 </li>
+<li>操作系统的启动过程：<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-23_09-40-56.png" alt="text"></li>
+<li>Windows 是融合了宏内核和微内核的操作系统</li>
+<li>在拥有外核的操作系统中，外核只负责硬件资源的分配、回收、保护等，进程管理相关的工作仍然由内核负责。</li>
+<li>引导程序有两种，一种是位于BIOS中的用于引导开启各个设备，一种是位于硬盘中的用于引导操作系统</li>
+<li>第一类虚拟机管理程序直接运行在物理硬件之上，具有高性能和高安全性；第二类虚拟机管理程序运行在现有操作系统之上，安装和使用相对简单。<a class="link" href="https://www.doubao.com/thread/a3ff2039790f2">详细<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>BIOS 将控制权交给排在首位的启动设备后，CPU 将该设备主引导扇区的内容[主引导记录(MBR)]加载到内存中，然后由 MBR 检查分区表，查找活动分区，并将该分区的引导扇区的内容[分区引导记录(PBR)]加载到内存加以执行。</li>
+<li><strong>访管指令与访管中断</strong>：<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-23_10-42-53.png" alt="text"></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>计算机操作系统</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>物理层</title>
+    <url>/2024/11/17/2024-11-17-%E7%89%A9%E7%90%86%E5%B1%82/</url>
+    <content><![CDATA[<h1 id="2-1通信基础"><a href="#2-1通信基础" class="headerlink" title="2.1通信基础"></a>2.1通信基础</h1><ul>
+<li>曼彻斯特编码用码元中间的电平跳变来表示每个比特，可方便收发双方根据跳变来同步时而不需要额外的时钟信号。差分曼彻斯特编码也不需要额外的时钟信号.</li>
+<li>波特率表示信号每秒变化的次数,也是码元的传输速率;</li>
+<li>一般情况下多个比特构成一个码元,所以波特率在数值上&lt;=比特率,但是在以太网实施的曼彻斯特编码中,一个码元等于二分之一个比特等于一个脉冲(我不是很理解这一块,特殊情况特殊记忆)<blockquote>
+<p><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -1.158ex;" xmlns="http://www.w3.org/2000/svg" width="42.86ex" height="3.527ex" role="img" focusable="false" viewBox="0 -1047.1 18944.3 1558.9"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mfrac"><g data-mml-node="mrow" transform="translate(220,516.8) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">比</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(3000,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(3389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g><g data-mml-node="mi" transform="translate(4389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">据</text></g><g data-mml-node="mi" transform="translate(5389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(6389,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g><g data-mml-node="mrow" transform="translate(1555.7,-370.3) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">波</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g></g><rect width="4992.8" height="60" x="120" y="220"></rect></g><g data-mml-node="mo" transform="translate(5510.5,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(6566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">每</text></g><g data-mml-node="mi" transform="translate(7566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">个</text></g><g data-mml-node="mi" transform="translate(8566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">码</text></g><g data-mml-node="mi" transform="translate(9566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">元</text></g><g data-mml-node="mi" transform="translate(10566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">中</text></g><g data-mml-node="mi" transform="translate(11566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">所</text></g><g data-mml-node="mi" transform="translate(12566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">含</text></g><g data-mml-node="mi" transform="translate(13566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(14566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">比</text></g><g data-mml-node="mi" transform="translate(15566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(16566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g><g data-mml-node="mo" transform="translate(17566.3,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(17955.3,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(18555.3,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container><br> <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex;" xmlns="http://www.w3.org/2000/svg" width="18.871ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 8340.8 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="TeXAtom" transform="translate(533,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g><g data-mml-node="mo" transform="translate(1285,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(2340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">码</text></g><g data-mml-node="mi" transform="translate(3340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">元</text></g><g data-mml-node="mi" transform="translate(4340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(5340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">状</text></g><g data-mml-node="mi" transform="translate(6340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">态</text></g><g data-mml-node="mi" transform="translate(7340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g></g></g></svg></mjx-container></p>
+</blockquote>
+</li>
+<li>曼彻斯特编码:看码元中间,统一上升沿为0或1,下降沿为1或0;<br>差分曼彻斯特编码:看码元的连接处(考试的信号段开头第一个码元看不出来),有跳变表示0,无跳变表示1(0比较圆润所以爱跳,1比较正直稳重,所以平稳);<br>非归零编码(NRZ:Non Return Zero Code):高电平1,低电平0;<br>反向非归零编码(NRZI:Non Return Zero Inverted Code):跳变0,不变1;</li>
+<li>根据奈奎斯特定律 ,波特率的上限为2倍的信道带宽率,所以采样数超过这个数值的部分是无意义的</li>
+<li>香农定理:<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.781ex;" xmlns="http://www.w3.org/2000/svg" width="37.662ex" height="2.8ex" role="img" focusable="false" viewBox="0 -892.5 16646.5 1237.5"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">信</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">道</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(3000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">极</text></g><g data-mml-node="mi" transform="translate(4000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">限</text></g><g data-mml-node="mi" transform="translate(5000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">传</text></g><g data-mml-node="mi" transform="translate(6000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">输</text></g><g data-mml-node="mi" transform="translate(7000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">速</text></g><g data-mml-node="mi" transform="translate(8000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(9277.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(10333.6,0)"><path data-c="1D44A" d="M436 683Q450 683 486 682T553 680Q604 680 638 681T677 682Q695 682 695 674Q695 670 692 659Q687 641 683 639T661 637Q636 636 621 632T600 624T597 615Q597 603 613 377T629 138L631 141Q633 144 637 151T649 170T666 200T690 241T720 295T759 362Q863 546 877 572T892 604Q892 619 873 628T831 637Q817 637 817 647Q817 650 819 660Q823 676 825 679T839 682Q842 682 856 682T895 682T949 681Q1015 681 1034 683Q1048 683 1048 672Q1048 666 1045 655T1038 640T1028 637Q1006 637 988 631T958 617T939 600T927 584L923 578L754 282Q586 -14 585 -15Q579 -22 561 -22Q546 -22 542 -17Q539 -14 523 229T506 480L494 462Q472 425 366 239Q222 -13 220 -15T215 -19Q210 -22 197 -22Q178 -22 176 -15Q176 -12 154 304T131 622Q129 631 121 633T82 637H58Q51 644 51 648Q52 671 64 683H76Q118 680 176 680Q301 680 313 683H323Q329 677 329 674T327 656Q322 641 318 637H297Q236 634 232 620Q262 160 266 136L501 550L499 587Q496 629 489 632Q483 636 447 637Q428 637 422 639T416 648Q416 650 418 660Q419 664 420 669T421 676T424 680T428 682T436 683Z"></path></g><g data-mml-node="mi" transform="translate(11381.6,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(11679.6,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(12164.6,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mo" transform="translate(13078.1,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mn" transform="translate(13467.1,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g><g data-mml-node="mo" transform="translate(14189.3,0)"><path data-c="2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path></g><g data-mml-node="mfrac" transform="translate(15189.6,0)"><g data-mml-node="mi" transform="translate(305.9,394) scale(0.707)"><path data-c="1D446" d="M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z"></path></g><g data-mml-node="mi" transform="translate(220,-345) scale(0.707)"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></g><rect width="827.9" height="60" x="120" y="220"></rect></g><g data-mml-node="mo" transform="translate(16257.5,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container><blockquote>
+<p>W:信道的频率带宽;S:信号的平均功率;N:噪声的功率<br><br>S/N有两种形式:一种是功率比,直接代入公式计算;一种是x(dB)单位,利用公式<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="17.572ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 7766.7 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"></path></g><g data-mml-node="mo" transform="translate(849.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(1905.6,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g><g data-mml-node="mi" transform="translate(2905.6,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(3203.6,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(3688.6,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g></g></g><g data-mml-node="mo" transform="translate(4955.7,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(5344.7,0)"><path data-c="1D446" d="M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(5989.7,0)"><g data-mml-node="mo"><path data-c="2F" d="M423 750Q432 750 438 744T444 730Q444 725 271 248T92 -240Q85 -250 75 -250Q68 -250 62 -245T56 -231Q56 -221 230 257T407 740Q411 750 423 750Z"></path></g></g><g data-mml-node="mi" transform="translate(6489.7,0)"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></g><g data-mml-node="mo" transform="translate(7377.7,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container>,计算出S/N代入即可<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/aa6265cf611fd4f022d7c753c7aab827.png" alt="aa6265cf611fd4f022d7c753c7aab827.png"></p>
+</blockquote>
+</li>
+<li>信道的最大传输速率受香农定理和奈奎斯特定理两者作用,二者取其小</li>
+</ul>
+<h1 id="2-2传输介质"><a href="#2-2传输介质" class="headerlink" title="2.2传输介质"></a>2.2传输介质</h1><ul>
+<li>同轴电缆具有更高的屏蔽性，同时有更好的抗噪声性。</li>
+<li>物理层接口的特性：<br><strong>机械特性</strong>。指明接口所用接线器的形状和尺寸、引脚数目和排列、固定和锁定装置等。<br><strong>电气特性</strong>。指明在接口电缆的各条线上的电压范围、传输速率和距离限制等。<br><strong>功能特性</strong>。指明某条线上出现的某一电平的电压的意义,以及每条线的功能。<br><strong>过程特性</strong>,也称规程特性。指明对不同功能的各种可能事件的出现顺序。</li>
+</ul>
+<h1 id="2-3物理层设备"><a href="#2-3物理层设备" class="headerlink" title="2.3物理层设备"></a>2.3物理层设备</h1><ul>
+<li><strong>中继器</strong>的原理是将衰减的信号再生而不是放大,连接后的网段仍然属于同一个局域网。<br><strong>转发器</strong>只能用来放大信号。<br><strong>集线器</strong>的实质是一个多端口的中继器。集线器没有寻址功能,一个端口接收到数据信号后,从除了接收端口外的其他所有端口转发出去。<br><a href="https://www.doubao.com/thread/a52b99f571a7a"><strong>网桥</strong></a>是数据链路层设备，主要用于连接两个或多个局域网（LAN），并在它们之间转发数据帧。</li>
+<li>互相串联的中继器的个数不能超过4个,而且用4个中继器串联的5段通信介质中,只有3段可以挂接计算机,其余2段只能用作扩展通信范围的链路段,不能挂接计算机。这就是所谓的”<strong>5-4-3规则</strong>“</li>
+<li>若某个网络设备有存储转发功能,则认为它能连接两个不同的协议;</li>
+<li>集线器将多个设备连接在以它为中心的结点上,因此使用它的网络<strong>在物理拓扑上属于星形结<br>构</strong>。集线器不具备交换机所具有的交换表,所以它发送数据时是没有针对性的,而采用广播方式发送。因此,使用集线器的星形以太网<strong>逻辑上仍然是总线网</strong>。</li>
+<li>基带传输，频带传输，宽带传输:<br><strong>基带传输</strong>是信号不经过调制，直接在信道上传输；<br><strong>频带传输</strong>是将信号进行调制之后进行传输；<br><strong>宽带传输</strong>是在频带传输的基础上将链路划分为多个信道进行传输。</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>计算机网络</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>IO管理</title>
     <url>/2024/12/17/2024-12-17-IO%E7%AE%A1%E7%90%86/</url>
     <content><![CDATA[<h1 id="5-1IO管理基础"><a href="#5-1IO管理基础" class="headerlink" title="5.1IO管理基础"></a>5.1IO管理基础</h1><ul>
@@ -473,98 +565,6 @@ import {initHBE} from "/js/plugins/hbe.js";
 </li>
 </ul>
 </li>
-</ul>
-]]></content>
-      <tags>
-        <tag>计算机操作系统</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>操作系统概述</title>
-    <url>/2024/11/21/2024-11-21-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/</url>
-    <content><![CDATA[<h1 id="操作系统概述"><a href="#操作系统概述" class="headerlink" title="操作系统概述"></a>操作系统概述</h1><h2 id="1-1操作系统的基本概念"><a href="#1-1操作系统的基本概念" class="headerlink" title="1.1操作系统的基本概念"></a>1.1操作系统的基本概念</h2><ul>
-<li>操作系统的四大特征:并发,共享,虚拟,异步,前两个是最基本的特征;<br><br><strong>并发</strong>是指两个或多个事件在同一时间间隔内发生;<br><br><strong>共享</strong>是指系统中的资源可供内存中多个并发执行的进程共同使用;<br><br><strong>虚拟</strong>是指将一个物理上的实体变为若干逻辑上的对应物;<br><br><strong>异步</strong>是指计算机中的进程因为资源问题,所以不是一下就运行到底的而是走走停停</li>
-<li>操作系统提供的接口主要分为两类:一类是<strong>命令接口</strong>，用户利用这些操作命令来组织和控制作业的执行:另一类是<strong>程序接口</strong>，编程人员可以使用它们来请求操作系统服务。<br><br>命令接口有联机和脱机两种:联机是输入一条命令就要得到结果,就是交互性;脱机是把处理任务直接扔给计算机,用户不干预计算机的运行,坐等结果;<br><br>程序接口是由一组系统调用组成,GUI就是通过调用程序接口实现的,但是GUI不是操作系统的一部分,GUI调用的系统调用命令是操作系统的一部分;</li>
-</ul>
-<h2 id="1-2操作系统发展历程"><a href="#1-2操作系统发展历程" class="headerlink" title="1.2操作系统发展历程"></a>1.2操作系统发展历程</h2><ul>
-<li><strong>单道批处理系统</strong>:把一堆作业扔给操作系统,配上监督程序,作业一个一个进行,具有自动性,顺序性,单道性;</li>
-<li><strong>多道批处理系统</strong>用户所提交的作业都先存放在外存上并排成一个队列，作业调度程序按一定的算法从后备队列中选择若干作业调入内存，它们在管理程序的控制下相互穿插地运行</li>
-<li><strong>分时操作系统</strong>是指将处理器的运行时间分成很短的时间片，按时间片轮流将处理器分配给各个作业<br>多个用户终端共享主机,响应时间很短,但是对于需要实时反馈的作业就不够了,需要实时系统</li>
-<li><strong>实时系统</strong>有硬实时和软实时,前者对于时间要求很严格,后者拖延一会也没事</li>
-<li>多道程序技术要求进程间能实现并发，需要实现进程调度以保证CPU的工作效率，而并发性的实现需要中断功能的支持。</li>
-</ul>
-<h2 id="1-3操作系统的运行环境"><a href="#1-3操作系统的运行环境" class="headerlink" title="1.3操作系统的运行环境"></a>1.3操作系统的运行环境</h2><ul>
-<li>CPU 的运行模式划分为用户态(目态)和核心态(又称管态、内核态)。</li>
-<li>特权指令(核心态)，是指不允许用户直接使用的指令，如I/O 指令、关中断指令、内存清零指令,存取用于内存保护的寄存器、送 PSW 到程序状态字寄存器等的指令。<br>非特权指令(用户态)，是指允许用户直接使用的指令，它不能直接访问系统中的软硬件资源，仅限于访问用户的地址空间，这也是为了防止用户程序对系统造成破坏。</li>
-<li><strong>中断和异常</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-21_20-21-35.png"></li>
-<li><strong>系统调用的功能</strong>:<br><br>设备管理。完成设备的请求或释放，以及设备启动等功能。<br><br>文件管理。完成文件的读、写、创建及删除等功能。<br><br>进程控制。完成进程的创建、撤销、阻塞及唤醒等功能。<br><br>进程通信。完成进程之间的消息传递或信号传递等功能。<br><br>内存管理。完成内存的分配、回收以及获取作业占用内存区大小和起始地址等功能。</li>
-<li>用户程序创建一个新进程，需使用操作系统提供的系统调用接口<br><br>用户程序使用系统调用命令，该命令经过编译后形成若干参数和陷入指令<br>当操作系统完成用户请求的系统调用功能后，应使CPU从内核态转到用户态</li>
-<li>在中断发生后，进入中断处理的程序只能属于操作系统程序</li>
-<li>计算机通过<strong>硬件</strong>完成操作系统由用户态到核心态的转换，这是通过中断机制来实现的。发生中断事件时，由硬件中断机制将计算机状态置为核心态。</li>
-<li>大多数计算机操作系统的内核包括四个方面的内容，即时钟管理、中断机制、原语和系统控制的数据结构及处理，其中第4部分实际上是系统调用类的指令(广义指令)。<br><blockquote>
-<p>置时钟指令是在核心态运行的,如果该指令允许在用户态执行，那么程序就可以自行更改时间片，会一直霸占CPU。</p>
-</blockquote>
-</li>
-<li>命令解释程序属于命令接口，能面对用户，在用户态下执行。磁盘调度程序、中断处理程序和进程调度程序都工作在内核态。</li>
-<li>“访管”指令仅在用户态下使用，<strong>执行“访管”指令将用户态转变为核心态。</strong></li>
-<li>系统调用命令工作在核心态，系统调用本身是一条在核心态运行的命令，并不是调用系统的命令，调用系统调用的命令才是用户态的。<br><strong>也就是说，系统调用的发生是在用户态，系统调用的执行是在核心态</strong></li>
-<li>I/O设备的请求、时钟中断是外部中断。<br><br>访管指令、缺页异常是内部中断。</li>
-<li>系统调用需要保存 PSW 和PC的值，一般过程调用只需保存PC的值。<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-23_08-53-49.png"><br>一般过程调用的被调用程序与调用程序运行在同一个状态，可能是系统态，也可能是用户态<br>系统调用的被调用过程一定运行在核心态</li>
-<li>trap 指令、跳转指令和压栈指令均可以在用户态执行，其中 trap 指令负责由用户态转换为内核态。关中断指令为特权指令，必须在核心态才能执行。<strong>注意</strong>，在操作系统中，关中断指令是权限非常大的指令，因为中断是现代操作系统正常运行的核心保障之一，能把它关掉，说明执行这条指令的一定是权限非常大的机构(管态)。</li>
-<li>外部中断处理过程，PC 值由中断隐指令自动保存，而通用寄存器内容由操作系统保存。块表(TLB)和 Cache 中的内容则由硬件机构保存。</li>
-<li>执行系统调用的过程：<br><ol>
-<li>传递系统调用参数</li>
-<li>执行陷入(trap)指令</li>
-<li>执行相应的服务程序</li>
-<li>返回用户态</li>
-</ol>
-</li>
-<li>当 CPU 检测到中断信号后，由硬件自动保存被中断程序的断点[程序计数器(PC)和程序状态字寄存器(PSW)]<blockquote>
-<p>麻蛋，到底是硬件保存的还是中断隐指令保存的啊，<strong>暂定是硬件保存的</strong></p>
-</blockquote>
-之后，硬件找到该中断信号对应的中断向量，中断向量指明中断服务程序入口地址(各中断向量统一存放在中断向量表中，该表由操作系统初始化)。<br>接下来开始执行中断服务程序，保存中断屏蔽字、保存各通用寄存器的值，并提供与中断信号对应的中断服务</li>
-<li><strong>系统调用是由用户进程发起的，请求操作系统的服务。</strong><br><ol>
-<li>当内存中的空闲页框不够时，操作系统会将某些页面调出，并将要访问的页面调入，这个过程完全由操作系统完成，不涉及系统调用。</li>
-<li>进程调度完全由操作系统完成，无法通过系统调用完成。</li>
-<li>创建新进程可以通过系统调用来完成，如Linux 中通过 fork 系统调用来创建子进程。</li>
-</ol>
-</li>
-<li>发生系统调用时，CPU 通过执行软中断指令将CPU的运行状态从用户态切换到内核态，这个过程与中断和异常的响应过程相同,，<strong>由硬件负责保存断点和程序状态字,并将 CPU 模式改为内核态</strong>。<br>然后，执行操作系统内核的系统调用入口程序，<strong>该内核程序负责保存通用寄存器的内容，再调用执行特定的系统调用服务例程。</strong><br>综上，前俩由硬件完成，后俩由操作系统完成。</li>
-</ul>
-<h2 id="1-4操作系统的结构，引导和虚拟机"><a href="#1-4操作系统的结构，引导和虚拟机" class="headerlink" title="1.4操作系统的结构，引导和虚拟机"></a>1.4操作系统的结构，引导和虚拟机</h2><ul>
-<li>结构：<br><ol>
-<li><strong>分层法</strong>：把操作系统分层，从底层（硬件）一层层向上扩充，每层只能调用紧邻它的低层的功能和服务(单向依赖)。<ul>
-<li><strong>优势</strong>：容易调试检查错误，一层一层向上检查，很容易确定具体哪一层出错；<br>容易扩充和维护，跟砌墙一样，想实现更高的功能只需要一层层叠加就🆗了</li>
-<li><strong>劣势</strong>：合理定义各层比较困难，各层之间挨得太近，暧昧不分；<br>效率很差，要完成某个功能要从底层开始穿越</li>
-</ul>
-</li>
-<li><strong>模块化</strong>：把操作系统按照不同的功能分为不同的模块<ul>
-<li><strong>优势</strong>：①提高了操作系统设计的正确性、可理解性和可维护性;②增强了操作系统的可适应性;③加速了操作系统的开发过程。</li>
-<li><strong>劣势</strong>：接口很难设计，你不知道它都有啥需求；<br>模块也很难设计，各个模块要齐头并进，顺序很难把握；</li>
-</ul>
-</li>
-<li><a class="link" href="https://www.doubao.com/thread/a4197fa860ae6">微内核<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>是保留最基础的内核功能，把多余的功能都剥离出去。<br><ul>
-<li>优势：<ol>
-<li>扩展性和灵活性。</li>
-<li>可靠性和安全性。</li>
-<li>可移植性</li>
-<li>分布式计算。</li>
-</ol>
-</li>
-<li>劣势：有点性能问题，因为需要频繁地在用户态和内核态之间切换</li>
-</ul>
-</li>
-<li><strong>宏内核</strong>：把所有功能都聚合到一起，效率很高，共享信息很快，但是操作系统越做越大，这种结构就很臃肿</li>
-</ol>
-</li>
-<li>模块化操作系统的各功能模块都在内核中，且模块之间相互调用、相互依赖，任何一个模块出错，都可能导致整个内核崩溃。<br>在微内核操作系统中，内核外的某个功能模块出错不会导致整个系统崩溃，可靠性高。 </li>
-<li>操作系统的启动过程：<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-23_09-40-56.png" alt="text"></li>
-<li>Windows 是融合了宏内核和微内核的操作系统</li>
-<li>在拥有外核的操作系统中，外核只负责硬件资源的分配、回收、保护等，进程管理相关的工作仍然由内核负责。</li>
-<li>引导程序有两种，一种是位于BIOS中的用于引导开启各个设备，一种是位于硬盘中的用于引导操作系统</li>
-<li>第一类虚拟机管理程序直接运行在物理硬件之上，具有高性能和高安全性；第二类虚拟机管理程序运行在现有操作系统之上，安装和使用相对简单。<a class="link" href="https://www.doubao.com/thread/a3ff2039790f2">详细<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
-<li>BIOS 将控制权交给排在首位的启动设备后，CPU 将该设备主引导扇区的内容[主引导记录(MBR)]加载到内存中，然后由 MBR 检查分区表，查找活动分区，并将该分区的引导扇区的内容[分区引导记录(PBR)]加载到内存加以执行。</li>
-<li><strong>访管指令与访管中断</strong>：<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-23_10-42-53.png" alt="text"></li>
 </ul>
 ]]></content>
       <tags>
@@ -746,44 +746,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>三体笔记</title>
-    <url>/2024/03/28/2024-3-28-%E4%B8%89%E4%BD%93%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<ul>
-<li>罗辑离开墓碑，站到他为自己挖掘的墓穴旁，将手枪顶到自己的心脏位置，说：”现在，我将让自己的心脏停止跳动，与此同时我也将成为两个世界有史以来最大的罪犯。对于所犯下的罪行，我对两个文明表示深深的歉意，但不会忏悔，因为这是唯一的选择。我知道智子就在身边，但你们对人类的呼唤从不理睬，无言是最大的轻蔑，我们忍受这种轻蔑已经两个世纪了，现在，如果你们愿意，可以继续保持沉默，我只给你们三十秒钟时间。</li>
-<li>晚霞之后可以看星星,朝霞之后只剩下光天化日的现实了</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>三体</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日记</title>
-    <url>/2024/03/28/2024-3-28-%E5%81%87%E5%A6%82%E6%88%91%E9%9D%9E%E6%88%91/</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="ebb562d6867eb06dec0363dc213d8ae21512c9856d46b7efca7c7a8ee9908ec7">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367e98022a39ab29962c777f5319f7acaf2f958a15522f42427c85885cebdd50bdb821b10c46703e458b587925a483e3e36782cc5eda6bb3f558ed23252f64cc7a51e9847b5afb61b533709ae3cc93c830a7a754ea90383b3269c6b7acbc2133241fedcc540ae05941361af842177345da7d9284db4d9f8f8f2ef563c68270fc64a140837e852358ce268f899e30d6c61b42c9fd3ff487f7977f857bb5c8e6429292bb35f2f7d1e20ecbfb1e5992a81af9c3a6b6049510c389fe6fcb3986bb93b2b3fce382e1a56fbd0baffea681ad901bcac9787a643dbdea42517b8df6198ecf516f876685e052eb14840e560d3afb8409bb09c56d192cd6fd4633fde748f4ab76196a97217312a629318c275ca206d02d76ce67b31876d63060140141583dc2b4fa31f24ca5c8ba0e841908a39ce5fd37daef14a728fd0105726941e43ad8d85e706d1190450d4fea95c6512d46fe7cd491ed30ac94528938232134f575562c43f40d50f06ddd34ed809be6454d6113c8e8f573d2e1d522de16b61cd135e0727b00753742e10114b793cc3f099f5a96c59d4805ae76a5f71b26698bc18659df87c5e85165ef4eca20be3a2dd1bc8fb256a64b6ed603ecf72262f89cead105d14b8f129a113662b27551955bc31475b4dc2e4810f953ec700d48bae44a84bef6b685ef9393cafde20b9a6d8e75822c012c85fe62f1fca4c62924b0e3d65c1c1233894823341edc138266117d6421d4e70343be1a8555c3965b5f8d5b779f033f1c166a9c9824ce636a5c8813e3a1ddbddbc65f6cacb1bcc3e0cbae3193176c9e3bd9d683ca7c9ff190148081d460620ad0a0e614783502d566421c744ef7b8387ed7bd23460a3c8e47adfa7f924143d4eceea06889dc21ea5f09e5c3e2274da846d178a97a771f204bae9ffccb73b3c40d1ad73656e1dc2f269256c3dc8deea543654afc82b9498f48ef27abdcb83693a7de5a7062e3f9cdf1ba61cb776382359562f50472f7d2a35dba969c320ba8b00f2a3b2238924c0b1d134c50bfc4924f16f2aa5b46ee3ac4639972e94e58a813fcb57426594c352541fd524460fbf89d196890e284e8fc78e26b27c7a032a337c0f19862f286b8f5b42eb4941409bf5817931281bce5b2a71e833e1b6d50ecae27946f9351f2fecca0f0aea9ad2f10f53f2969be434e9537b07e689096873196d41837eb53eb8366e7ae9e2390cacc0c6d8b907b5ce8779175cc25f06e4aa8eba246d98c0323d329c280f4cbc05ae087867a7830d0fd27c54d6ff690dfb111634ec470569a5811541a7e9df318d2028002033e554568ad83f7c75a021d207ddd3f1ee1d7f5ee22136aa2713ffeff9008ecc05821f410c11ce9d62b04719c74ef310c2a7b001c62eb911b536a68e2dda142de4a083ab8366ad731f69a0b38049c074a2d3cd37e6dbb834b89f3acc783c6856c68a14e4ec12f7d14638d9d044527ba78561ee7530c4e7ab1896bc5d360358dfc381d8c8a6f3e15c38cb70330361505b92bc292a6a38cd3b348f52481d48f0b87ddfbf1b2e3307cc739ed1f590a1417c0b40e5bdcaa6a204faa897a609b36d99fd21a56f322902ad709fc82a8f8160</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>内存管理</title>
     <url>/2024/12/07/2024-12-7-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</url>
     <content><![CDATA[<h1 id="内存管理的基本概念"><a href="#内存管理的基本概念" class="headerlink" title="内存管理的基本概念"></a>内存管理的基本概念</h1><ul>
@@ -843,6 +805,44 @@ import {initHBE} from "/js/plugins/hbe.js";
 ]]></content>
       <tags>
         <tag>计算机操作系统</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>三体笔记</title>
+    <url>/2024/03/28/2024-3-28-%E4%B8%89%E4%BD%93%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<ul>
+<li>罗辑离开墓碑，站到他为自己挖掘的墓穴旁，将手枪顶到自己的心脏位置，说：”现在，我将让自己的心脏停止跳动，与此同时我也将成为两个世界有史以来最大的罪犯。对于所犯下的罪行，我对两个文明表示深深的歉意，但不会忏悔，因为这是唯一的选择。我知道智子就在身边，但你们对人类的呼唤从不理睬，无言是最大的轻蔑，我们忍受这种轻蔑已经两个世纪了，现在，如果你们愿意，可以继续保持沉默，我只给你们三十秒钟时间。</li>
+<li>晚霞之后可以看星星,朝霞之后只剩下光天化日的现实了</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>三体</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日记</title>
+    <url>/2024/03/28/2024-3-28-%E5%81%87%E5%A6%82%E6%88%91%E9%9D%9E%E6%88%91/</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="ebb562d6867eb06dec0363dc213d8ae21512c9856d46b7efca7c7a8ee9908ec7">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367e98022a39ab29962c777f5319f7acaf2f958a15522f42427c85885cebdd50bdb821b10c46703e458b587925a483e3e36782cc5eda6bb3f558ed23252f64cc7a51e9847b5afb61b533709ae3cc93c830a7a754ea90383b3269c6b7acbc2133241fedcc540ae05941361af842177345da7d9284db4d9f8f8f2ef563c68270fc64a140837e852358ce268f899e30d6c61b42c9fd3ff487f7977f857bb5c8e6429292bb35f2f7d1e20ecbfb1e5992a81af9c3a6b6049510c389fe6fcb3986bb93b2b3fce382e1a56fbd0baffea681ad901bcac9787a643dbdea42517b8df6198ecf516f876685e052eb14840e560d3afb8409bb09c56d192cd6fd4633fde748f4ab76196a97217312a629318c275ca206d02d76ce67b31876d63060140141583dc2b4fa31f24ca5c8ba0e841908a39ce5fd37daef14a728fd0105726941e43ad8d85e706d1190450d4fea95c6512d46fe7cd491ed30ac94528938232134f575562c43f40d50f06ddd34ed809be6454d6113c8e8f573d2e1d522de16b61cd135e0727b00753742e10114b793cc3f099f5a96c59d4805ae76a5f71b26698bc18659df87c5e85165ef4eca20be3a2dd1bc8fb256a64b6ed603ecf72262f89cead105d14b8f129a113662b27551955bc31475b4dc2e4810f953ec700d48bae44a84bef6b685ef9393cafde20b9a6d8e75822c012c85fe62f1fca4c62924b0e3d65c1c1233894823341edc138266117d6421d4e70343be1a8555c3965b5f8d5b779f033f1c166a9c9824ce636a5c8813e3a1ddbddbc65f6cacb1bcc3e0cbae3193176c9e3bd9d683ca7c9ff190148081d460620ad0a0e614783502d566421c744ef7b8387ed7bd23460a3c8e47adfa7f924143d4eceea06889dc21ea5f09e5c3e2274da846d178a97a771f204bae9ffccb73b3c40d1ad73656e1dc2f269256c3dc8deea543654afc82b9498f48ef27abdcb83693a7de5a7062e3f9cdf1ba61cb776382359562f50472f7d2a35dba969c320ba8b00f2a3b2238924c0b1d134c50bfc4924f16f2aa5b46ee3ac4639972e94e58a813fcb57426594c352541fd524460fbf89d196890e284e8fc78e26b27c7a032a337c0f19862f286b8f5b42eb4941409bf5817931281bce5b2a71e833e1b6d50ecae27946f9351f2fecca0f0aea9ad2f10f53f2969be434e9537b07e689096873196d41837eb53eb8366e7ae9e2390cacc0c6d8b907b5ce8779175cc25f06e4aa8eba246d98c0323d329c280f4cbc05ae087867a7830d0fd27c54d6ff690dfb111634ec470569a5811541a7e9df318d2028002033e554568ad83f7c75a021d207ddd3f1ee1d7f5ee22136aa2713ffeff9008ecc05821f410c11ce9d62b04719c74ef310c2a7b001c62eb911b536a68e2dda142de4a083ab8366ad731f69a0b38049c074a2d3cd37e6dbb834b89f3acc783c6856c68a14e4ec12f7d14638d9d044527ba78561ee7530c4e7ab1896bc5d360358dfc381d8c8a6f3e15c38cb70330361505b92bc292a6a38cd3b348f52481d48f0b87ddfbf1b2e3307cc739ed1f590a1417c0b40e5bdcaa6a204faa897a609b36d99fd21a56f322902ad709fc82a8f8160</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>日记</tag>
       </tags>
   </entry>
   <entry>
@@ -916,9 +916,348 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>杂记</title>
+    <url>/2024/03/28/2024-3-28-%E8%AF%84%E8%AE%BA%E7%AC%94%E8%AE%B0(%E4%BA%8C)/</url>
+    <content><![CDATA[<p><strong>@染墨时</strong>：王朗：汉帝正逊，山阳犹在，曹魏承汉之正朔。尔等却随编履之徒，从流寇之首，占同姓之州，夺宗亲之地，贪从龙之功，图华夏之土；不拥正统，伪立贼寇，是为不忠；袭占益州，驱其旧主，是为不信；遣疲弊之民，攻熊罴之师，是为不仁，公陶袁曹刘，竟五易其主，是为不义，兴一州之兵，伐正朔之国，是为不智。秦失其鹿，天下共逐，陈吴起事，王侯归土，桓灵昏聩，汉失其德，张角振臂，坠其天命；二十载夙兴夜寐，曹氏归天下于一统，然惜败于赤壁，若非此，吾等可于朝堂坐论天下，岂于阵前，立上而视下，局高而驳谬，以司空之职，斥匹夫伪相之名？<br><br><br>在宋时，百姓听书，每听到刘备败退皆是扼腕叹息，每听到曹操败退皆是鼓掌欢庆。那时人虽然受教育程度不高，但大多都相信世间有仁义之事，有行仁义之人。故多尊刘而贬曹。而今人多利己，不相信世上有不为己的人。这样对比之下，曹操更符合今人的认知。故多尊曹而贬刘。于是枭雄变成了英雄，真仁义变成了伪君子。他们自己做不到仁义，便认为别人也做不到，即使做到了，那也要扣上各种帽子。这样他们才会觉得自己才是世界上认识最清醒的人，这才是符合他们的世界观。躲在角落里，看什么都是黑的。<br><br></p>
+]]></content>
+      <tags>
+        <tag>评论笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How to motivate yourself to change your behavior</title>
+    <url>/2025/01/01/2025-1-1-English-Learning/</url>
+    <content><![CDATA[<h1 id="How-to-motivate-yourself-to-change-your-behavior"><a href="#How-to-motivate-yourself-to-change-your-behavior" class="headerlink" title="How to motivate yourself to change your behavior"></a><a class="link" href="https://www.youtube.com/watch?v=xp0O2vi8DX4">How to motivate yourself to change your behavior<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></h1><p>Transcriber: Leonardo Silva Reviewer: Denise RQ</p>
+<p>So, we all have some behavior</p>
+<p>that we would like to change about ourselves.</p>
+<p>And we certainly all want to help someone else</p>
+<p>change their behavior in a positive way.</p>
+<p>So, maybe it’s your kid, your spouse, your colleague.</p>
+<p>So I want to share some new research with you</p>
+<p>that I think reveals something really important</p>
+<p>about what gets people to change their behavior.</p>
+<p>But before I do that, let’s zoom in on one strategy</p>
+<p>that I think you probably use a lot.</p>
+<p>So, let’s say you’re trying to stop yourself from snacking.</p>
+<p>What do you tell yourself?</p>
+<p>Well, most people, in a monologue, will say,</p>
+<p>“Beware. You’ll be fat.”</p>
+<p>And if this was your kid,</p>
+<p>you would probably tell him that smoking kills</p>
+<p>and, by the way, he’s in big, big trouble.</p>
+<p>(Laughter)</p>
+<p>So, what we’re trying to do here</p>
+<p>is we’re trying to scare ourselves and others</p>
+<p>into changing their behavior.</p>
+<p>And it’s not just us.</p>
+<p>Warnings and threats are really common in health campaigns, in policy.</p>
+<p>It’s because we all share this deep-rooted belief</p>
+<p>that if you threaten people, if fear is induced,</p>
+<p>it will get them to act.</p>
+<p>And it seems like a really reasonable assumption,</p>
+<p>except for the fact that the science shows</p>
+<p>that warnings have very limited impact on behavior.</p>
+<p>So, graphic images on cigarette packets, for example,</p>
+<p>do not deter smokers from smoking,</p>
+<p>and one study found that, after looking at those images,</p>
+<p>quitting actually became a lower priority for smokers.</p>
+<p>So, I’m not saying that warnings and threats never work,</p>
+<p>but what I’m saying is, on average, they seem to have a very limited impact.</p>
+<p>And so, the question is: why?</p>
+<p>Why are we resistant to warnings?</p>
+<p>Well, if you think about animals,</p>
+<p>when you induce fear in an animal,</p>
+<p>the most common response you will see is freezing or fleeing;</p>
+<p>fighting, not as much.</p>
+<p>And so, humans are the same.</p>
+<p>So if something scares us,</p>
+<p>we tend to shut down and we try to eliminate the negative feelings.</p>
+<p>So, we might use rationalizations.</p>
+<p>For example, you might tell yourself:</p>
+<p>“My grandpa smoked. He lived to be 90.</p>
+<p>So, I have really good genes and absolutely nothing to worry about.”</p>
+<p>And this process can actually make you feel more resilient</p>
+<p>than you did before,</p>
+<p>which is why warnings sometimes have this boomerang effect.</p>
+<p>In other times, we simply put our head in the ground.</p>
+<p>(Laughter)</p>
+<p>Take the stock market for example.</p>
+<p>Do you know when people pull their head out of the ground</p>
+<p>to look at their accounts –</p>
+<p>not to make a transaction, just to log in to check their account?</p>
+<p>So, what you’re seeing here, in black,</p>
+<p>is the S&amp;P 500 over two years,</p>
+<p>and in gray, is the number of times</p>
+<p>that people logged in to their account just to check.</p>
+<p>And this is data from Karlsson, Loewenstein &amp; Seppi,</p>
+<p>it’s control [data] for all the obvious confounds.</p>
+<p>So, what do we see?</p>
+<p>When the market is high, people log in all the time,</p>
+<p>because positive information makes you feel good,</p>
+<p>so you seek it out.</p>
+<p>And when the market is low,</p>
+<p>people avoid logging in,</p>
+<p>because negative information makes us feel bad,</p>
+<p>so we try to avoid it altogether.</p>
+<p>And all this is true</p>
+<p>as long as bad information can reasonably be avoided.</p>
+<p>So, what you don’t see here is what happened a few months later,</p>
+<p>in the financial collapse of 2008,</p>
+<p>when the market went drastically down</p>
+<p>and that was when people started logging in frantically,</p>
+<p>but it was a bit too late.</p>
+<p>So, you can think about it like this – it’s not just finance:</p>
+<p>In many different parts of our life,</p>
+<p>(Laughter)</p>
+<p>we have warning signs and bad behaviors now.</p>
+<p>And they could potentially lead to all these bad outcomes later,</p>
+<p>but not necessarily so,</p>
+<p>because there are different routs from your present to your future, right?</p>
+<p>It can go this way, it can go that way.</p>
+<p>And, as time passes,</p>
+<p>you gather more and more information about where the wind is blowing.</p>
+<p>(Laughter)</p>
+<p>And, at any point, you can intervene</p>
+<p>and you could potentially change the outcome,</p>
+<p>but that takes energy and you might tell yourself:</p>
+<p>“What’s the point about worrying about something that might happen?</p>
+<p>It might not happen.”</p>
+<p>Until we reach this point,</p>
+<p>at which time you do jump into action, but sometimes it’s a little bit too late.</p>
+<p>So, we wanted to know, in my lab,</p>
+<p>what type of information does leak into people.</p>
+<p>So, we conducted an experiment</p>
+<p>where we asked approximately 100 people to estimate the likelihood</p>
+<p>of 80 different negative events that might happen to them in the future.</p>
+<p>So, for example, I might ask you:</p>
+<p>“What is the likelihood that you’ll suffer hearing loss in your future?”</p>
+<p>And let’s say you think it’s about 50%.</p>
+<p>Then, I give you the opinion of two different experts.</p>
+<p>So, expert A tells you:</p>
+<p>“You know, for someone like you, I think it’s only 40%.”</p>
+<p>So, they give you a rosier view of your future.</p>
+<p>Expert B says:</p>
+<p>“You know, for someone like you,</p>
+<p>I actually think it’s about 60%. It’s worse.”</p>
+<p>So, they give you a bleaker view of your future.</p>
+<p>What should you do?</p>
+<p>Well, you shouldn’t change your beliefs, right?</p>
+<p>Wrong.</p>
+<p>What we find is that people tend to change their beliefs</p>
+<p>towards a more desirable opinion.</p>
+<p>In other words, people listen to the positive information.</p>
+<p>Now, this study was conducted on college students, so you might say:</p>
+<p>“Well, college students are delusional, right? We all know that.”</p>
+<p>(Laughter)</p>
+<p>And surely, as we grow older, we grow wiser.</p>
+<p>So we said: “OK, let’s test that. Does this really generalize?</p>
+<p>Does it generalize to your kid, to your parent?</p>
+<p>Does it generalize to your spouse?”</p>
+<p>And so, we tested people from the age of 10 until the age of 80,</p>
+<p>and the answer was yes.</p>
+<p>In all these age groups,</p>
+<p>people take in information they want to hear</p>
+<p>– like someone telling you you’re more attractive than you thought –</p>
+<p>than information that they don’t want to hear.</p>
+<p>And the ability to learn from good news</p>
+<p>remained quite stable throughout the life span,</p>
+<p>but the ability to learn from bad news,</p>
+<p>that changes as you age.</p>
+<p>So, what we found was that kids and teenagers</p>
+<p>were the worse at learning from bad news,</p>
+<p>and the ability became better and better as people aged.</p>
+<p>But then, around the age of 40, around midlife,</p>
+<p>it started deteriorating again.</p>
+<p>So, what this means is that the most vulnerable populations,</p>
+<p>kids and teenagers on the one hand, and the elderly on the other hand,</p>
+<p>they’re the least likely to accurately learn from warnings.</p>
+<p>But what you can see here</p>
+<p>is that it doesn’t matter what age you are.</p>
+<p>You can be 20, 30, 40, 50 or 60;</p>
+<p>everyone takes in information they want to hear</p>
+<p>more than information that they don’t.</p>
+<p>And so, we end up with a view like this of ourselves.</p>
+<p>(Laughter)</p>
+<p>Our mistake as teachers, as mentors, as employers</p>
+<p>is that, instead of working with this positive image</p>
+<p>that people so effortfully maintain,</p>
+<p>we try and put a clear mirror in front of them.</p>
+<p>We tell them: “You know,</p>
+<p>the image is just going to get worse and worse and worse.”</p>
+<p>And it doesn’t work.</p>
+<p>It doesn’t work because the brain will frantically try to distort the image,</p>
+<p>using Photoshop and fancy lenses,</p>
+<p>until it gets the image it’s happy with.</p>
+<p>But what would happen if we went along with how our brain works</p>
+<p>and not against it?</p>
+<p>Take handwashing, for example.</p>
+<p>We all know that handwashing is the number one way</p>
+<p>to prevent the spread of disease,</p>
+<p>and this is really important in hospitals.</p>
+<p>So, in a hospital here in the United States,</p>
+<p>a camera was installed</p>
+<p>to see how often medical staff do, in fact, sanitize their hands</p>
+<p>before and after entering a patient’s room.</p>
+<p>Now, the medical staff knew a camera was installed.</p>
+<p>Nevertheless, only one in ten washed their hands</p>
+<p>before and after entering a patient’s room.</p>
+<p>But then, an intervention was introduced:</p>
+<p>an electronic board</p>
+<p>that told the medical staff how well they were doing.</p>
+<p>Every time you washed your hands, the numbers went up on the screen</p>
+<p>and it showed you your rate of your current shift</p>
+<p>and the rate of the weekly staff.</p>
+<p>And what happened? Boom.</p>
+<p>Compliance raised to 90%,</p>
+<p>which is absolutely amazing.</p>
+<p>And the research staff were amazed as well,</p>
+<p>and they made sure to replicate it in another division in the hospital.</p>
+<p>Again, the same results.</p>
+<p>So, why does this intervention work so well?</p>
+<p>It works well</p>
+<p>because, instead of using warnings</p>
+<p>about bad things that can happen in the future, like disease,</p>
+<p>it uses three principles that we know really drive your mind and your behavior.</p>
+<p>Let me explain.</p>
+<p>The first one is social incentives.</p>
+<p>In the hospital study,</p>
+<p>the medical staff could see what other people were doing.</p>
+<p>They can see the rates of the shift, the rate of the week.</p>
+<p>We’re social people, we really care what other people are doing,</p>
+<p>we want to do the same and we want to do it better.</p>
+<p>This is an image from a study that we conducted,</p>
+<p>led by PhD student Micah Edelson,</p>
+<p>and what it’s showing you is a signal in the emotional center of your brain</p>
+<p>when you hear about the opinion of others.</p>
+<p>And what we found was that this signal can predict</p>
+<p>how likely you are to conform at a later time,</p>
+<p>how likely you are to change your behavior.</p>
+<p>So, the British government are using this principle</p>
+<p>to get people to pay taxes on time.</p>
+<p>In an old letter that they sent to people who “forgot” to pay taxes on time,</p>
+<p>they simply stressed how important it was pay taxes,</p>
+<p>and that didn’t help.</p>
+<p>Then, they added one sentence,</p>
+<p>and that sentence said:</p>
+<p>“Nine out of ten people in Britain pay their taxes on time.”</p>
+<p>And that one sentence enhanced compliance within that group by 15%,</p>
+<p>and it’s thought to bring into the British government</p>
+<p>5.6 billion pounds.</p>
+<p>So, highlighting what other people are doing is a really strong incentive.</p>
+<p>The other principle is immediate rewards.</p>
+<p>So,</p>
+<p>every time the staff washed their hand,</p>
+<p>they could see the numbers go up on the board and it made them feel good.</p>
+<p>And knowing that in advance made them do something</p>
+<p>that they, otherwise, may not want to do.</p>
+<p>Now, this works because we value immediate rewards,</p>
+<p>rewards that we can get now,</p>
+<p>more than rewards that we can get in the future.</p>
+<p>And people tend to think it’s because we don’t care about the future,</p>
+<p>but that’s completely wrong, we all care about our future, right?</p>
+<p>We want to be happy and healthy in the future, we want to be successful,</p>
+<p>but the future is so far away.</p>
+<p>I mean, maybe you’ll behave badly now and you’ll be fine in the future,</p>
+<p>and maybe you’ll be altogether dead.</p>
+<p>(Laughter)</p>
+<p>So, the here-and-now you would rather have that tangible drink,</p>
+<p>that tangible T-bone,</p>
+<p>rather than something that’s uncertain in the future.</p>
+<p>If you think about it, it’s not altogether irrational, right?</p>
+<p>You’re choosing something sure now</p>
+<p>rather than something that is unsure in the future.</p>
+<p>But what will happen if you reward people now</p>
+<p>for doing actions that are good for them in the future?</p>
+<p>Studies show that giving people immediate rewards</p>
+<p>make them more likely to quit smoking,</p>
+<p>more likely to start exercising,</p>
+<p>and this effect lasts for at least six months,</p>
+<p>because not smoking becomes associated with a reward,</p>
+<p>and exercising becomes associated with a reward,</p>
+<p>and it becomes a habit,</p>
+<p>it becomes a lifestyle.</p>
+<p>So, we can reward ourselves and others now</p>
+<p>for behaving in ways that are good for us in the future</p>
+<p>and that’s a way for us to bridge the temporal gap.</p>
+<p>And the third principle is progress monitoring.</p>
+<p>So, the electronic board focused the medical staff attention</p>
+<p>on improving their performance.</p>
+<p>This is an image from a study that we conducted,</p>
+<p>that shows you brain activity</p>
+<p>suggestive of efficient coding of positive information about the future.</p>
+<p>And what we found was that the brain does a really good job at this,</p>
+<p>but it doesn’t do such a good job</p>
+<p>at processing negative information about the future.</p>
+<p>So, what does this mean?</p>
+<p>It means that, if you’re trying to get people’s attention,</p>
+<p>you might want to highlight the progress, not the decline.</p>
+<p>So, for example,</p>
+<p>if you take that kid with the cigarette,</p>
+<p>you might want to tell them:</p>
+<p>“You know, if you stop smoking, you’ll become better at sports.”</p>
+<p>Highlight the progress, not the decline.</p>
+<p>Now, before I sum up, let me just share this small anecdote with you.</p>
+<p>A few weeks ago, I got home and I found this bill on my fridge.</p>
+<p>And was really surprised because there’s never any bills on my fridge.</p>
+<p>So, I was wondering why my husband decided to put that on our fridge.</p>
+<p>And so, looking at the bill, I could see that what this bill was trying to do</p>
+<p>is get me to be more efficient with my electricity use.</p>
+<p>And how was it doing it?</p>
+<p>Social incentives, immediate rewards and progress monitoring.</p>
+<p>Let me show you.</p>
+<p>Here are the social incentives.</p>
+<p>In gray is the energy use</p>
+<p>on the average energy use of people in my neighborhood.</p>
+<p>And in blue is my energy use,</p>
+<p>and in green is the most efficient neighbor.</p>
+<p>And my reaction to this was –</p>
+<p>my immediate reaction was:</p>
+<p>“I’m a little bit better than average” (Laughter)</p>
+<p>– a tiny bit, but still…</p>
+<p>and my husband had exactly the same reaction –</p>
+<p>and “I want to get to the green bar.”</p>
+<p>And then, I got a smiley face.</p>
+<p>That was my immediate reward and it was telling me, “You’re doing good,”</p>
+<p>and it made me want to put this on my fridge.</p>
+<p>(Laughter)</p>
+<p>And although I have this one smiley face,</p>
+<p>I can see an opportunity there to get two smiley faces.</p>
+<p>(Laughter)</p>
+<p>So, there’s an opportunity for progress</p>
+<p>and it’s showing me my progress throughout the year,</p>
+<p>how my energy use changes throughout the year.</p>
+<p>And the last thing this bill gave me:</p>
+<p>it gave me a sense of control.</p>
+<p>So, it gave me a sense of I was in control of my use of electricity.</p>
+<p>And that is a really important thing,</p>
+<p>if you try to get people to change their behavior,</p>
+<p>because the brain is constantly trying to seek ways to control its environment.</p>
+<p>It’s one of the principles of what the brain is actually doing.</p>
+<p>And so, giving people a sense of control is a really important motivator.</p>
+<p>OK. So, what am I not saying?</p>
+<p>I’m not saying that we do not need to communicate risks,</p>
+<p>and I’m not saying that there’s one-solution-fits-all,</p>
+<p>but I am saying that, if we want to motivate change,</p>
+<p>we might want to rethink how we do it,</p>
+<p>because fear, the fear of losing your health, the fear of losing money,</p>
+<p>induces inaction,</p>
+<p>while the thrill of a gain induces action.</p>
+<p>And so, to change behavior in ourselves and in others,</p>
+<p>we may want to try these positive strategies</p>
+<p>rather than threats,</p>
+<p>which really capitalize on the human tendency</p>
+<p>to seek progress.</p>
+<p>Thank you.</p>
+<p>(Applause)</p>
+]]></content>
+      <tags>
+        <tag>English Learning</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>How to talk like a native speaker</title>
     <url>/2025/01/04/2025-1-4-English-Leaning/</url>
-    <content><![CDATA[<p>Translator: Phuong Cao Reviewer: Leonardo Silva</p>
+    <content><![CDATA[<h1 id="how-to-talk-like-a-native-speaker"><a href="#how-to-talk-like-a-native-speaker" class="headerlink" title="how to talk like a native speaker"></a><a class="link" href="https://www.youtube.com/watch?v=Ti_gFEe1XNY">how to talk like a native speaker<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></h1><p>Translator: Phuong Cao Reviewer: Leonardo Silva</p>
 <p>My story starts in Moscow.</p>
 <p>I was 15 years old.</p>
 <p>My best friend and I, we were part of a group of Westerners,</p>
@@ -1259,345 +1598,6 @@ import {initHBE} from "/js/plugins/hbe.js";
 ]]></content>
       <tags>
         <tag>English Learning</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>How to motivate yourself to change your behavior</title>
-    <url>/2025/01/01/2025-1-1-English-Learning/</url>
-    <content><![CDATA[<h1 id="How-to-motivate-yourself-to-change-your-behavior"><a href="#How-to-motivate-yourself-to-change-your-behavior" class="headerlink" title="How to motivate yourself to change your behavior"></a><a class="link" href="https://www.youtube.com/watch?v=xp0O2vi8DX4">How to motivate yourself to change your behavior<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></h1><p>Transcriber: Leonardo Silva Reviewer: Denise RQ</p>
-<p>So, we all have some behavior</p>
-<p>that we would like to change about ourselves.</p>
-<p>And we certainly all want to help someone else</p>
-<p>change their behavior in a positive way.</p>
-<p>So, maybe it’s your kid, your spouse, your colleague.</p>
-<p>So I want to share some new research with you</p>
-<p>that I think reveals something really important</p>
-<p>about what gets people to change their behavior.</p>
-<p>But before I do that, let’s zoom in on one strategy</p>
-<p>that I think you probably use a lot.</p>
-<p>So, let’s say you’re trying to stop yourself from snacking.</p>
-<p>What do you tell yourself?</p>
-<p>Well, most people, in a monologue, will say,</p>
-<p>“Beware. You’ll be fat.”</p>
-<p>And if this was your kid,</p>
-<p>you would probably tell him that smoking kills</p>
-<p>and, by the way, he’s in big, big trouble.</p>
-<p>(Laughter)</p>
-<p>So, what we’re trying to do here</p>
-<p>is we’re trying to scare ourselves and others</p>
-<p>into changing their behavior.</p>
-<p>And it’s not just us.</p>
-<p>Warnings and threats are really common in health campaigns, in policy.</p>
-<p>It’s because we all share this deep-rooted belief</p>
-<p>that if you threaten people, if fear is induced,</p>
-<p>it will get them to act.</p>
-<p>And it seems like a really reasonable assumption,</p>
-<p>except for the fact that the science shows</p>
-<p>that warnings have very limited impact on behavior.</p>
-<p>So, graphic images on cigarette packets, for example,</p>
-<p>do not deter smokers from smoking,</p>
-<p>and one study found that, after looking at those images,</p>
-<p>quitting actually became a lower priority for smokers.</p>
-<p>So, I’m not saying that warnings and threats never work,</p>
-<p>but what I’m saying is, on average, they seem to have a very limited impact.</p>
-<p>And so, the question is: why?</p>
-<p>Why are we resistant to warnings?</p>
-<p>Well, if you think about animals,</p>
-<p>when you induce fear in an animal,</p>
-<p>the most common response you will see is freezing or fleeing;</p>
-<p>fighting, not as much.</p>
-<p>And so, humans are the same.</p>
-<p>So if something scares us,</p>
-<p>we tend to shut down and we try to eliminate the negative feelings.</p>
-<p>So, we might use rationalizations.</p>
-<p>For example, you might tell yourself:</p>
-<p>“My grandpa smoked. He lived to be 90.</p>
-<p>So, I have really good genes and absolutely nothing to worry about.”</p>
-<p>And this process can actually make you feel more resilient</p>
-<p>than you did before,</p>
-<p>which is why warnings sometimes have this boomerang effect.</p>
-<p>In other times, we simply put our head in the ground.</p>
-<p>(Laughter)</p>
-<p>Take the stock market for example.</p>
-<p>Do you know when people pull their head out of the ground</p>
-<p>to look at their accounts –</p>
-<p>not to make a transaction, just to log in to check their account?</p>
-<p>So, what you’re seeing here, in black,</p>
-<p>is the S&amp;P 500 over two years,</p>
-<p>and in gray, is the number of times</p>
-<p>that people logged in to their account just to check.</p>
-<p>And this is data from Karlsson, Loewenstein &amp; Seppi,</p>
-<p>it’s control [data] for all the obvious confounds.</p>
-<p>So, what do we see?</p>
-<p>When the market is high, people log in all the time,</p>
-<p>because positive information makes you feel good,</p>
-<p>so you seek it out.</p>
-<p>And when the market is low,</p>
-<p>people avoid logging in,</p>
-<p>because negative information makes us feel bad,</p>
-<p>so we try to avoid it altogether.</p>
-<p>And all this is true</p>
-<p>as long as bad information can reasonably be avoided.</p>
-<p>So, what you don’t see here is what happened a few months later,</p>
-<p>in the financial collapse of 2008,</p>
-<p>when the market went drastically down</p>
-<p>and that was when people started logging in frantically,</p>
-<p>but it was a bit too late.</p>
-<p>So, you can think about it like this – it’s not just finance:</p>
-<p>In many different parts of our life,</p>
-<p>(Laughter)</p>
-<p>we have warning signs and bad behaviors now.</p>
-<p>And they could potentially lead to all these bad outcomes later,</p>
-<p>but not necessarily so,</p>
-<p>because there are different routs from your present to your future, right?</p>
-<p>It can go this way, it can go that way.</p>
-<p>And, as time passes,</p>
-<p>you gather more and more information about where the wind is blowing.</p>
-<p>(Laughter)</p>
-<p>And, at any point, you can intervene</p>
-<p>and you could potentially change the outcome,</p>
-<p>but that takes energy and you might tell yourself:</p>
-<p>“What’s the point about worrying about something that might happen?</p>
-<p>It might not happen.”</p>
-<p>Until we reach this point,</p>
-<p>at which time you do jump into action, but sometimes it’s a little bit too late.</p>
-<p>So, we wanted to know, in my lab,</p>
-<p>what type of information does leak into people.</p>
-<p>So, we conducted an experiment</p>
-<p>where we asked approximately 100 people to estimate the likelihood</p>
-<p>of 80 different negative events that might happen to them in the future.</p>
-<p>So, for example, I might ask you:</p>
-<p>“What is the likelihood that you’ll suffer hearing loss in your future?”</p>
-<p>And let’s say you think it’s about 50%.</p>
-<p>Then, I give you the opinion of two different experts.</p>
-<p>So, expert A tells you:</p>
-<p>“You know, for someone like you, I think it’s only 40%.”</p>
-<p>So, they give you a rosier view of your future.</p>
-<p>Expert B says:</p>
-<p>“You know, for someone like you,</p>
-<p>I actually think it’s about 60%. It’s worse.”</p>
-<p>So, they give you a bleaker view of your future.</p>
-<p>What should you do?</p>
-<p>Well, you shouldn’t change your beliefs, right?</p>
-<p>Wrong.</p>
-<p>What we find is that people tend to change their beliefs</p>
-<p>towards a more desirable opinion.</p>
-<p>In other words, people listen to the positive information.</p>
-<p>Now, this study was conducted on college students, so you might say:</p>
-<p>“Well, college students are delusional, right? We all know that.”</p>
-<p>(Laughter)</p>
-<p>And surely, as we grow older, we grow wiser.</p>
-<p>So we said: “OK, let’s test that. Does this really generalize?</p>
-<p>Does it generalize to your kid, to your parent?</p>
-<p>Does it generalize to your spouse?”</p>
-<p>And so, we tested people from the age of 10 until the age of 80,</p>
-<p>and the answer was yes.</p>
-<p>In all these age groups,</p>
-<p>people take in information they want to hear</p>
-<p>– like someone telling you you’re more attractive than you thought –</p>
-<p>than information that they don’t want to hear.</p>
-<p>And the ability to learn from good news</p>
-<p>remained quite stable throughout the life span,</p>
-<p>but the ability to learn from bad news,</p>
-<p>that changes as you age.</p>
-<p>So, what we found was that kids and teenagers</p>
-<p>were the worse at learning from bad news,</p>
-<p>and the ability became better and better as people aged.</p>
-<p>But then, around the age of 40, around midlife,</p>
-<p>it started deteriorating again.</p>
-<p>So, what this means is that the most vulnerable populations,</p>
-<p>kids and teenagers on the one hand, and the elderly on the other hand,</p>
-<p>they’re the least likely to accurately learn from warnings.</p>
-<p>But what you can see here</p>
-<p>is that it doesn’t matter what age you are.</p>
-<p>You can be 20, 30, 40, 50 or 60;</p>
-<p>everyone takes in information they want to hear</p>
-<p>more than information that they don’t.</p>
-<p>And so, we end up with a view like this of ourselves.</p>
-<p>(Laughter)</p>
-<p>Our mistake as teachers, as mentors, as employers</p>
-<p>is that, instead of working with this positive image</p>
-<p>that people so effortfully maintain,</p>
-<p>we try and put a clear mirror in front of them.</p>
-<p>We tell them: “You know,</p>
-<p>the image is just going to get worse and worse and worse.”</p>
-<p>And it doesn’t work.</p>
-<p>It doesn’t work because the brain will frantically try to distort the image,</p>
-<p>using Photoshop and fancy lenses,</p>
-<p>until it gets the image it’s happy with.</p>
-<p>But what would happen if we went along with how our brain works</p>
-<p>and not against it?</p>
-<p>Take handwashing, for example.</p>
-<p>We all know that handwashing is the number one way</p>
-<p>to prevent the spread of disease,</p>
-<p>and this is really important in hospitals.</p>
-<p>So, in a hospital here in the United States,</p>
-<p>a camera was installed</p>
-<p>to see how often medical staff do, in fact, sanitize their hands</p>
-<p>before and after entering a patient’s room.</p>
-<p>Now, the medical staff knew a camera was installed.</p>
-<p>Nevertheless, only one in ten washed their hands</p>
-<p>before and after entering a patient’s room.</p>
-<p>But then, an intervention was introduced:</p>
-<p>an electronic board</p>
-<p>that told the medical staff how well they were doing.</p>
-<p>Every time you washed your hands, the numbers went up on the screen</p>
-<p>and it showed you your rate of your current shift</p>
-<p>and the rate of the weekly staff.</p>
-<p>And what happened? Boom.</p>
-<p>Compliance raised to 90%,</p>
-<p>which is absolutely amazing.</p>
-<p>And the research staff were amazed as well,</p>
-<p>and they made sure to replicate it in another division in the hospital.</p>
-<p>Again, the same results.</p>
-<p>So, why does this intervention work so well?</p>
-<p>It works well</p>
-<p>because, instead of using warnings</p>
-<p>about bad things that can happen in the future, like disease,</p>
-<p>it uses three principles that we know really drive your mind and your behavior.</p>
-<p>Let me explain.</p>
-<p>The first one is social incentives.</p>
-<p>In the hospital study,</p>
-<p>the medical staff could see what other people were doing.</p>
-<p>They can see the rates of the shift, the rate of the week.</p>
-<p>We’re social people, we really care what other people are doing,</p>
-<p>we want to do the same and we want to do it better.</p>
-<p>This is an image from a study that we conducted,</p>
-<p>led by PhD student Micah Edelson,</p>
-<p>and what it’s showing you is a signal in the emotional center of your brain</p>
-<p>when you hear about the opinion of others.</p>
-<p>And what we found was that this signal can predict</p>
-<p>how likely you are to conform at a later time,</p>
-<p>how likely you are to change your behavior.</p>
-<p>So, the British government are using this principle</p>
-<p>to get people to pay taxes on time.</p>
-<p>In an old letter that they sent to people who “forgot” to pay taxes on time,</p>
-<p>they simply stressed how important it was pay taxes,</p>
-<p>and that didn’t help.</p>
-<p>Then, they added one sentence,</p>
-<p>and that sentence said:</p>
-<p>“Nine out of ten people in Britain pay their taxes on time.”</p>
-<p>And that one sentence enhanced compliance within that group by 15%,</p>
-<p>and it’s thought to bring into the British government</p>
-<p>5.6 billion pounds.</p>
-<p>So, highlighting what other people are doing is a really strong incentive.</p>
-<p>The other principle is immediate rewards.</p>
-<p>So,</p>
-<p>every time the staff washed their hand,</p>
-<p>they could see the numbers go up on the board and it made them feel good.</p>
-<p>And knowing that in advance made them do something</p>
-<p>that they, otherwise, may not want to do.</p>
-<p>Now, this works because we value immediate rewards,</p>
-<p>rewards that we can get now,</p>
-<p>more than rewards that we can get in the future.</p>
-<p>And people tend to think it’s because we don’t care about the future,</p>
-<p>but that’s completely wrong, we all care about our future, right?</p>
-<p>We want to be happy and healthy in the future, we want to be successful,</p>
-<p>but the future is so far away.</p>
-<p>I mean, maybe you’ll behave badly now and you’ll be fine in the future,</p>
-<p>and maybe you’ll be altogether dead.</p>
-<p>(Laughter)</p>
-<p>So, the here-and-now you would rather have that tangible drink,</p>
-<p>that tangible T-bone,</p>
-<p>rather than something that’s uncertain in the future.</p>
-<p>If you think about it, it’s not altogether irrational, right?</p>
-<p>You’re choosing something sure now</p>
-<p>rather than something that is unsure in the future.</p>
-<p>But what will happen if you reward people now</p>
-<p>for doing actions that are good for them in the future?</p>
-<p>Studies show that giving people immediate rewards</p>
-<p>make them more likely to quit smoking,</p>
-<p>more likely to start exercising,</p>
-<p>and this effect lasts for at least six months,</p>
-<p>because not smoking becomes associated with a reward,</p>
-<p>and exercising becomes associated with a reward,</p>
-<p>and it becomes a habit,</p>
-<p>it becomes a lifestyle.</p>
-<p>So, we can reward ourselves and others now</p>
-<p>for behaving in ways that are good for us in the future</p>
-<p>and that’s a way for us to bridge the temporal gap.</p>
-<p>And the third principle is progress monitoring.</p>
-<p>So, the electronic board focused the medical staff attention</p>
-<p>on improving their performance.</p>
-<p>This is an image from a study that we conducted,</p>
-<p>that shows you brain activity</p>
-<p>suggestive of efficient coding of positive information about the future.</p>
-<p>And what we found was that the brain does a really good job at this,</p>
-<p>but it doesn’t do such a good job</p>
-<p>at processing negative information about the future.</p>
-<p>So, what does this mean?</p>
-<p>It means that, if you’re trying to get people’s attention,</p>
-<p>you might want to highlight the progress, not the decline.</p>
-<p>So, for example,</p>
-<p>if you take that kid with the cigarette,</p>
-<p>you might want to tell them:</p>
-<p>“You know, if you stop smoking, you’ll become better at sports.”</p>
-<p>Highlight the progress, not the decline.</p>
-<p>Now, before I sum up, let me just share this small anecdote with you.</p>
-<p>A few weeks ago, I got home and I found this bill on my fridge.</p>
-<p>And was really surprised because there’s never any bills on my fridge.</p>
-<p>So, I was wondering why my husband decided to put that on our fridge.</p>
-<p>And so, looking at the bill, I could see that what this bill was trying to do</p>
-<p>is get me to be more efficient with my electricity use.</p>
-<p>And how was it doing it?</p>
-<p>Social incentives, immediate rewards and progress monitoring.</p>
-<p>Let me show you.</p>
-<p>Here are the social incentives.</p>
-<p>In gray is the energy use</p>
-<p>on the average energy use of people in my neighborhood.</p>
-<p>And in blue is my energy use,</p>
-<p>and in green is the most efficient neighbor.</p>
-<p>And my reaction to this was –</p>
-<p>my immediate reaction was:</p>
-<p>“I’m a little bit better than average” (Laughter)</p>
-<p>– a tiny bit, but still…</p>
-<p>and my husband had exactly the same reaction –</p>
-<p>and “I want to get to the green bar.”</p>
-<p>And then, I got a smiley face.</p>
-<p>That was my immediate reward and it was telling me, “You’re doing good,”</p>
-<p>and it made me want to put this on my fridge.</p>
-<p>(Laughter)</p>
-<p>And although I have this one smiley face,</p>
-<p>I can see an opportunity there to get two smiley faces.</p>
-<p>(Laughter)</p>
-<p>So, there’s an opportunity for progress</p>
-<p>and it’s showing me my progress throughout the year,</p>
-<p>how my energy use changes throughout the year.</p>
-<p>And the last thing this bill gave me:</p>
-<p>it gave me a sense of control.</p>
-<p>So, it gave me a sense of I was in control of my use of electricity.</p>
-<p>And that is a really important thing,</p>
-<p>if you try to get people to change their behavior,</p>
-<p>because the brain is constantly trying to seek ways to control its environment.</p>
-<p>It’s one of the principles of what the brain is actually doing.</p>
-<p>And so, giving people a sense of control is a really important motivator.</p>
-<p>OK. So, what am I not saying?</p>
-<p>I’m not saying that we do not need to communicate risks,</p>
-<p>and I’m not saying that there’s one-solution-fits-all,</p>
-<p>but I am saying that, if we want to motivate change,</p>
-<p>we might want to rethink how we do it,</p>
-<p>because fear, the fear of losing your health, the fear of losing money,</p>
-<p>induces inaction,</p>
-<p>while the thrill of a gain induces action.</p>
-<p>And so, to change behavior in ourselves and in others,</p>
-<p>we may want to try these positive strategies</p>
-<p>rather than threats,</p>
-<p>which really capitalize on the human tendency</p>
-<p>to seek progress.</p>
-<p>Thank you.</p>
-<p>(Applause)</p>
-]]></content>
-      <tags>
-        <tag>English Learning</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杂记</title>
-    <url>/2024/03/28/2024-3-28-%E8%AF%84%E8%AE%BA%E7%AC%94%E8%AE%B0(%E4%BA%8C)/</url>
-    <content><![CDATA[<p><strong>@染墨时</strong>：王朗：汉帝正逊，山阳犹在，曹魏承汉之正朔。尔等却随编履之徒，从流寇之首，占同姓之州，夺宗亲之地，贪从龙之功，图华夏之土；不拥正统，伪立贼寇，是为不忠；袭占益州，驱其旧主，是为不信；遣疲弊之民，攻熊罴之师，是为不仁，公陶袁曹刘，竟五易其主，是为不义，兴一州之兵，伐正朔之国，是为不智。秦失其鹿，天下共逐，陈吴起事，王侯归土，桓灵昏聩，汉失其德，张角振臂，坠其天命；二十载夙兴夜寐，曹氏归天下于一统，然惜败于赤壁，若非此，吾等可于朝堂坐论天下，岂于阵前，立上而视下，局高而驳谬，以司空之职，斥匹夫伪相之名？<br><br><br>在宋时，百姓听书，每听到刘备败退皆是扼腕叹息，每听到曹操败退皆是鼓掌欢庆。那时人虽然受教育程度不高，但大多都相信世间有仁义之事，有行仁义之人。故多尊刘而贬曹。而今人多利己，不相信世上有不为己的人。这样对比之下，曹操更符合今人的认知。故多尊曹而贬刘。于是枭雄变成了英雄，真仁义变成了伪君子。他们自己做不到仁义，便认为别人也做不到，即使做到了，那也要扣上各种帽子。这样他们才会觉得自己才是世界上认识最清醒的人，这才是符合他们的世界观。躲在角落里，看什么都是黑的。<br><br></p>
-]]></content>
-      <tags>
-        <tag>评论笔记</tag>
       </tags>
   </entry>
 </search>
