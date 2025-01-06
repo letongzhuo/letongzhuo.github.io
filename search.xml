@@ -54,10 +54,10 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/2021/02/02/2021-2-2-%E6%97%A5%E8%AE%B0/</url>
+    <url>/2021/02/04/2021-2-4-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="db4e94f965e27ff20b3a5c957656deb75e3b40c1451eb081b7cf8156ecb95799">249107fcce4fdab00b19d327c31fd8f3535427e7c3ba9fbe652aae764677b3cf7e0519e681ddf13739627546f58850cb7b47f58e2a3755f580598a5e64e16ca7e9bd0e04946e951d490404ab45c9e276877d699426c7229f7147e43cc1f667e7ae71347fe2a32d44513a4691f60d5c6d0b38573ba0ef61473d5a71ad41d7bf0235799b442096e6383318e1b3fce6c4fb94ca1389db22c69713c53647d73a13c0628d745f7de48aaf4d3529aef2bc2b0f82109767e51c14992714a9e0291635b12a2bd973bc6b32c39400a38ea7269e7bdc491939d13ffe4508432f24e5c0e61463e599d14ac65d7e7a0e57fdd28edf19e68ef0f7706e4cf449267a3077d8bcfdd30e529d79fa2bd0ce55bd8550eafd47b88814623303854e2c765f3cebc0313bdb951fd70144e54966b8be6d6a9d450ee8ce6b7d5a4d8cc0b40ce13c52394ba486989a3956b589ca5ee14765538d5af2879d843b43e328a1c7e8b736d45123d7fa7a9d24af9da3698d4ba795eca372ec65764ba6dac7be1300377770f73a83a05b564abb403d4022cf15b9375e2090c4</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -105,6 +105,32 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>日记</title>
+    <url>/2021/02/02/2021-2-2-%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="db4e94f965e27ff20b3a5c957656deb75e3b40c1451eb081b7cf8156ecb95799">249107fcce4fdab00b19d327c31fd8f3535427e7c3ba9fbe652aae764677b3cf7e0519e681ddf13739627546f58850cb7b47f58e2a3755f580598a5e64e16ca7e9bd0e04946e951d490404ab45c9e276877d699426c7229f7147e43cc1f667e7ae71347fe2a32d44513a4691f60d5c6d0b38573ba0ef61473d5a71ad41d7bf0235799b442096e6383318e1b3fce6c4fb94ca1389db22c69713c53647d73a13c0628d745f7de48aaf4d3529aef2bc2b0f82109767e51c14992714a9e0291635b12a2bd973bc6b32c39400a38ea7269e7bdc491939d13ffe4508432f24e5c0e61463e599d14ac65d7e7a0e57fdd28edf19e68ef0f7706e4cf449267a3077d8bcfdd30e529d79fa2bd0ce55bd8550eafd47b88814623303854e2c765f3cebc0313bdb951fd70144e54966b8be6d6a9d450ee8ce6b7d5a4d8cc0b40ce13c52394ba486989a3956b589ca5ee14765538d5af2879d843b43e328a1c7e8b736d45123d7fa7a9d24af9da3698d4ba795eca372ec65764ba6dac7be1300377770f73a83a05b564abb403d4022cf15b9375e2090c4</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>计算机网络体系结构</title>
     <url>/2024/11/13/2024-11-13-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/</url>
     <content><![CDATA[<h1 id="1-1计算机网络概述"><a href="#1-1计算机网络概述" class="headerlink" title="1.1计算机网络概述"></a>1.1计算机网络概述</h1><ul>
@@ -120,7 +146,7 @@ import {initHBE} from "/js/plugins/hbe.js";
 </li>
 <li><p><strong>流水线解题思路</strong>:<br>先算第一个分组在整个链路中传输的时间,然后加上剩下的分组在最后一个链路中传播的时间</p>
 <blockquote>
-<p>eg:<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/63bbf393f218793adcf22bf2e25755f6.png" alt="63bbf393f218793adcf22bf2e25755f6.png"><br><br> <img lazyload="" src="/images/loading.svg" data-src="/img/in-post/4bf87c9c4c27a38ee7b384a9ab93fdf9.png" alt="4bf87c9c4c27a38ee7b384a9ab93fdf9.png"><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/f1e6a09f52f78459ac6af6e4264bc191.png" alt="f1e6a09f52f78459ac6af6e4264bc191.png"><br><br> t=3r+(m-1)r<br><br> r:每条链路传输的时间; m:分组的数目;<br><br>第一个分组传输3r; 剩下的m-1个分组每隔r段时间接受一个<br><strong>Tips</strong>:r的算法很灵活，也可以是eg2中的第二问（500+20-20），注意：同一个分段中时间不能重合<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/c3779d7dafdfb80939a3321ba84c09bb.png" alt="c3779d7dafdfb80939a3321ba84c09bb.png"><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/257ac0f51e15f895fc53816562ee0437.png" alt="257ac0f51e15f895fc53816562ee0437.png"></p>
+<p>eg:<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/63bbf393f218793adcf22bf2e25755f6.png" alt="63bbf393f218793adcf22bf2e25755f6.png"><br><br> <img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/4bf87c9c4c27a38ee7b384a9ab93fdf9.png" alt="4bf87c9c4c27a38ee7b384a9ab93fdf9.png"><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/f1e6a09f52f78459ac6af6e4264bc191.png" alt="f1e6a09f52f78459ac6af6e4264bc191.png"><br><br> t=3r+(m-1)r<br><br> r:每条链路传输的时间; m:分组的数目;<br><br>第一个分组传输3r; 剩下的m-1个分组每隔r段时间接受一个<br><strong>Tips</strong>:r的算法很灵活，也可以是eg2中的第二问（500+20-20），注意：同一个分段中时间不能重合<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/c3779d7dafdfb80939a3321ba84c09bb.png" alt="c3779d7dafdfb80939a3321ba84c09bb.png"><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/257ac0f51e15f895fc53816562ee0437.png" alt="257ac0f51e15f895fc53816562ee0437.png"></p>
 </blockquote>
 </li>
 <li><p>QAM是正交振幅调制,将两种调幅信号汇合到一个信道的方法。</p>
@@ -155,29 +181,37 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>日记</title>
-    <url>/2021/02/04/2021-2-4-%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
+    <title>物理层</title>
+    <url>/2024/11/17/2024-11-17-%E7%89%A9%E7%90%86%E5%B1%82/</url>
+    <content><![CDATA[<h1 id="2-1通信基础"><a href="#2-1通信基础" class="headerlink" title="2.1通信基础"></a>2.1通信基础</h1><ul>
+<li>曼彻斯特编码用码元中间的电平跳变来表示每个比特，可方便收发双方根据跳变来同步时而不需要额外的时钟信号。差分曼彻斯特编码也不需要额外的时钟信号.</li>
+<li>波特率表示信号每秒变化的次数,也是码元的传输速率;</li>
+<li>一般情况下多个比特构成一个码元,所以波特率在数值上&lt;=比特率,但是在以太网实施的曼彻斯特编码中,一个码元等于二分之一个比特等于一个脉冲(我不是很理解这一块,特殊情况特殊记忆)<blockquote>
+<p><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -1.158ex;" xmlns="http://www.w3.org/2000/svg" width="42.86ex" height="3.527ex" role="img" focusable="false" viewBox="0 -1047.1 18944.3 1558.9"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mfrac"><g data-mml-node="mrow" transform="translate(220,516.8) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">比</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(3000,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(3389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g><g data-mml-node="mi" transform="translate(4389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">据</text></g><g data-mml-node="mi" transform="translate(5389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(6389,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g><g data-mml-node="mrow" transform="translate(1555.7,-370.3) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">波</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g></g><rect width="4992.8" height="60" x="120" y="220"></rect></g><g data-mml-node="mo" transform="translate(5510.5,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(6566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">每</text></g><g data-mml-node="mi" transform="translate(7566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">个</text></g><g data-mml-node="mi" transform="translate(8566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">码</text></g><g data-mml-node="mi" transform="translate(9566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">元</text></g><g data-mml-node="mi" transform="translate(10566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">中</text></g><g data-mml-node="mi" transform="translate(11566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">所</text></g><g data-mml-node="mi" transform="translate(12566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">含</text></g><g data-mml-node="mi" transform="translate(13566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(14566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">比</text></g><g data-mml-node="mi" transform="translate(15566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(16566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g><g data-mml-node="mo" transform="translate(17566.3,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(17955.3,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(18555.3,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container><br> <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex;" xmlns="http://www.w3.org/2000/svg" width="18.871ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 8340.8 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="TeXAtom" transform="translate(533,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g><g data-mml-node="mo" transform="translate(1285,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(2340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">码</text></g><g data-mml-node="mi" transform="translate(3340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">元</text></g><g data-mml-node="mi" transform="translate(4340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(5340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">状</text></g><g data-mml-node="mi" transform="translate(6340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">态</text></g><g data-mml-node="mi" transform="translate(7340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g></g></g></svg></mjx-container></p>
+</blockquote>
+</li>
+<li>曼彻斯特编码:看码元中间,统一上升沿为0或1,下降沿为1或0;<br>差分曼彻斯特编码:看码元的连接处(考试的信号段开头第一个码元看不出来),有跳变表示0,无跳变表示1(0比较圆润所以爱跳,1比较正直稳重,所以平稳);<br>非归零编码(NRZ:Non Return Zero Code):高电平1,低电平0;<br>反向非归零编码(NRZI:Non Return Zero Inverted Code):跳变0,不变1;</li>
+<li>根据奈奎斯特定律 ,波特率的上限为2倍的信道带宽率,所以采样数超过这个数值的部分是无意义的</li>
+<li>香农定理:<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.781ex;" xmlns="http://www.w3.org/2000/svg" width="37.662ex" height="2.8ex" role="img" focusable="false" viewBox="0 -892.5 16646.5 1237.5"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">信</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">道</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(3000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">极</text></g><g data-mml-node="mi" transform="translate(4000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">限</text></g><g data-mml-node="mi" transform="translate(5000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">传</text></g><g data-mml-node="mi" transform="translate(6000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">输</text></g><g data-mml-node="mi" transform="translate(7000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">速</text></g><g data-mml-node="mi" transform="translate(8000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(9277.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(10333.6,0)"><path data-c="1D44A" d="M436 683Q450 683 486 682T553 680Q604 680 638 681T677 682Q695 682 695 674Q695 670 692 659Q687 641 683 639T661 637Q636 636 621 632T600 624T597 615Q597 603 613 377T629 138L631 141Q633 144 637 151T649 170T666 200T690 241T720 295T759 362Q863 546 877 572T892 604Q892 619 873 628T831 637Q817 637 817 647Q817 650 819 660Q823 676 825 679T839 682Q842 682 856 682T895 682T949 681Q1015 681 1034 683Q1048 683 1048 672Q1048 666 1045 655T1038 640T1028 637Q1006 637 988 631T958 617T939 600T927 584L923 578L754 282Q586 -14 585 -15Q579 -22 561 -22Q546 -22 542 -17Q539 -14 523 229T506 480L494 462Q472 425 366 239Q222 -13 220 -15T215 -19Q210 -22 197 -22Q178 -22 176 -15Q176 -12 154 304T131 622Q129 631 121 633T82 637H58Q51 644 51 648Q52 671 64 683H76Q118 680 176 680Q301 680 313 683H323Q329 677 329 674T327 656Q322 641 318 637H297Q236 634 232 620Q262 160 266 136L501 550L499 587Q496 629 489 632Q483 636 447 637Q428 637 422 639T416 648Q416 650 418 660Q419 664 420 669T421 676T424 680T428 682T436 683Z"></path></g><g data-mml-node="mi" transform="translate(11381.6,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(11679.6,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(12164.6,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mo" transform="translate(13078.1,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mn" transform="translate(13467.1,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g><g data-mml-node="mo" transform="translate(14189.3,0)"><path data-c="2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path></g><g data-mml-node="mfrac" transform="translate(15189.6,0)"><g data-mml-node="mi" transform="translate(305.9,394) scale(0.707)"><path data-c="1D446" d="M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z"></path></g><g data-mml-node="mi" transform="translate(220,-345) scale(0.707)"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></g><rect width="827.9" height="60" x="120" y="220"></rect></g><g data-mml-node="mo" transform="translate(16257.5,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container><blockquote>
+<p>W:信道的频率带宽;S:信号的平均功率;N:噪声的功率<br><br>S/N有两种形式:一种是功率比,直接代入公式计算;一种是x(dB)单位,利用公式<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="17.572ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 7766.7 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"></path></g><g data-mml-node="mo" transform="translate(849.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(1905.6,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g><g data-mml-node="mi" transform="translate(2905.6,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(3203.6,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(3688.6,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g></g></g><g data-mml-node="mo" transform="translate(4955.7,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(5344.7,0)"><path data-c="1D446" d="M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(5989.7,0)"><g data-mml-node="mo"><path data-c="2F" d="M423 750Q432 750 438 744T444 730Q444 725 271 248T92 -240Q85 -250 75 -250Q68 -250 62 -245T56 -231Q56 -221 230 257T407 740Q411 750 423 750Z"></path></g></g><g data-mml-node="mi" transform="translate(6489.7,0)"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></g><g data-mml-node="mo" transform="translate(7377.7,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container>,计算出S/N代入即可<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/aa6265cf611fd4f022d7c753c7aab827.png" alt="aa6265cf611fd4f022d7c753c7aab827.png"></p>
+</blockquote>
+</li>
+<li>信道的最大传输速率受香农定理和奈奎斯特定理两者作用,二者取其小</li>
+</ul>
+<h1 id="2-2传输介质"><a href="#2-2传输介质" class="headerlink" title="2.2传输介质"></a>2.2传输介质</h1><ul>
+<li>同轴电缆具有更高的屏蔽性，同时有更好的抗噪声性。</li>
+<li>物理层接口的特性：<br><strong>机械特性</strong>。指明接口所用接线器的形状和尺寸、引脚数目和排列、固定和锁定装置等。<br><strong>电气特性</strong>。指明在接口电缆的各条线上的电压范围、传输速率和距离限制等。<br><strong>功能特性</strong>。指明某条线上出现的某一电平的电压的意义,以及每条线的功能。<br><strong>过程特性</strong>,也称规程特性。指明对不同功能的各种可能事件的出现顺序。</li>
+</ul>
+<h1 id="2-3物理层设备"><a href="#2-3物理层设备" class="headerlink" title="2.3物理层设备"></a>2.3物理层设备</h1><ul>
+<li><strong>中继器</strong>的原理是将衰减的信号再生而不是放大,连接后的网段仍然属于同一个局域网。<br><strong>转发器</strong>只能用来放大信号。<br><strong>集线器</strong>的实质是一个多端口的中继器。集线器没有寻址功能,一个端口接收到数据信号后,从除了接收端口外的其他所有端口转发出去。<br><a href="https://www.doubao.com/thread/a52b99f571a7a"><strong>网桥</strong></a>是数据链路层设备，主要用于连接两个或多个局域网（LAN），并在它们之间转发数据帧。</li>
+<li>互相串联的中继器的个数不能超过4个,而且用4个中继器串联的5段通信介质中,只有3段可以挂接计算机,其余2段只能用作扩展通信范围的链路段,不能挂接计算机。这就是所谓的”<strong>5-4-3规则</strong>“</li>
+<li>若某个网络设备有存储转发功能,则认为它能连接两个不同的协议;</li>
+<li>集线器将多个设备连接在以它为中心的结点上,因此使用它的网络<strong>在物理拓扑上属于星形结<br>构</strong>。集线器不具备交换机所具有的交换表,所以它发送数据时是没有针对性的,而采用广播方式发送。因此,使用集线器的星形以太网<strong>逻辑上仍然是总线网</strong>。</li>
+<li>基带传输，频带传输，宽带传输:<br><strong>基带传输</strong>是信号不经过调制，直接在信道上传输；<br><strong>频带传输</strong>是将信号进行调制之后进行传输；<br><strong>宽带传输</strong>是在频带传输的基础上将链路划分为多个信道进行传输。</li>
+</ul>
 ]]></content>
       <tags>
-        <tag>日记</tag>
+        <tag>计算机网络</tag>
       </tags>
   </entry>
   <entry>
@@ -185,7 +219,7 @@ import {initHBE} from "/js/plugins/hbe.js";
     <url>/2024/11/20/2024-11-20-%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/</url>
     <content><![CDATA[<h1 id="3-1数据链路层的功能"><a href="#3-1数据链路层的功能" class="headerlink" title="3.1数据链路层的功能"></a>3.1数据链路层的功能</h1><ul>
 <li>为防止在传输过程中帧丢失，在可靠的数据链路层协议中，发送方对发送的每个数据帧设计一个计时器，当计时器到期而该帧的确认帧仍未到达时，发送方将重发该帧。为保证接收方不会接收到重复帧，需要对每个发送的帧进行编号:海明码和循环冗余检验码都用于差错控制。</li>
-<li>对于信道比较可靠且对实时性要求高的网络，数据链路层采用无确认的无连接服务比较合适<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/image.png" alt="img1"></li>
+<li>对于信道比较可靠且对实时性要求高的网络，数据链路层采用无确认的无连接服务比较合适<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/image.png" alt="img1"></li>
 <li>数据链路层的标准协议有<a class="link" href="https://www.doubao.com/thread/a3ab0b18fdb08">HDLC,PPP,SLIP<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>(ICMP是网络层协议)</li>
 </ul>
 <h1 id="3-2组帧"><a href="#3-2组帧" class="headerlink" title="3.2组帧"></a>3.2组帧</h1><ul>
@@ -209,15 +243,15 @@ import {initHBE} from "/js/plugins/hbe.js";
 <p>后两个还要满足两个条件：<br><br>1.发送窗口<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.312ex;" xmlns="http://www.w3.org/2000/svg" width="1.76ex" height="1.751ex" role="img" focusable="false" viewBox="0 -636 778 774"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="2265" d="M83 616Q83 624 89 630T99 636Q107 636 253 568T543 431T687 361Q694 356 694 346T687 331Q685 329 395 192L107 56H101Q83 58 83 76Q83 77 83 79Q82 86 98 95Q117 105 248 167Q326 204 378 228L626 346L360 472Q291 505 200 548Q112 589 98 597T83 616ZM84 -118Q84 -108 99 -98H678Q694 -104 694 -118Q694 -130 679 -138H98Q84 -131 84 -118Z"></path></g></g></g></svg></mjx-container>接受窗口（要不接受窗口永远填不满）<br>2.发送窗口+接受窗口<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.312ex;" xmlns="http://www.w3.org/2000/svg" width="4.668ex" height="1.841ex" role="img" focusable="false" viewBox="0 -675.5 2063 813.5"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="2264" d="M674 636Q682 636 688 630T694 615T687 601Q686 600 417 472L151 346L399 228Q687 92 691 87Q694 81 694 76Q694 58 676 56H670L382 192Q92 329 90 331Q83 336 83 348Q84 359 96 365Q104 369 382 500T665 634Q669 636 674 636ZM84 -118Q84 -108 99 -98H678Q694 -104 694 -118Q694 -130 679 -138H98Q84 -131 84 -118Z"></path></g><g data-mml-node="msup" transform="translate(1055.8,0)"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="TeXAtom" transform="translate(533,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g></g></g></svg></mjx-container>(n:帧编号的比特数)（因为帧编号是重复利用的，如果大于该值就会出现帧编号重复的数据帧）<br>eg:若发送窗口的大小为32，则至少需要6bit序列号协议才不会出错</p>
 </blockquote>
 </li>
-<li><br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/image%20copy.png" alt="alt text"><br>发送方发送012345670123，先发送了012345，接收方也接受到了012345，然后发送确认帧5，期待接受670，<strong>但是</strong>这时候网络不好，发送方没有收到确认帧，然后决定超时重传012345，坏处来了，这个0和接收方想要的0不是一个0</li>
-<li><br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-16_10-06-05.png" alt="alt text"><br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-16_10-10-21.png" alt="alt text"><br>Tips：算数据传输速率的时候可以直接把分子列为每帧中的数据长度</li>
+<li><br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/image%20copy.png" alt="alt text"><br>发送方发送012345670123，先发送了012345，接收方也接受到了012345，然后发送确认帧5，期待接受670，<strong>但是</strong>这时候网络不好，发送方没有收到确认帧，然后决定超时重传012345，坏处来了，这个0和接收方想要的0不是一个0</li>
+<li><br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-16_10-06-05.png" alt="alt text"><br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-16_10-10-21.png" alt="alt text"><br>Tips：算数据传输速率的时候可以直接把分子列为每帧中的数据长度</li>
 </ul>
 <h1 id="3-5介质访问控制"><a href="#3-5介质访问控制" class="headerlink" title="3.5介质访问控制"></a>3.5介质访问控制</h1><ul>
 <li><strong>频分复用</strong>（FDM，Frequency Division Multiplexing）:在一条信道上划分多个频带范围，每个频带之间还要有一定的频带隔离范围，防止互相干扰；<br><br> <strong>时分复用</strong>（TDM，Time Division Multiplexing）：把一条信道的传输时间划分时间片，每个用户的数据帧间隔传输；<br><blockquote>
 <p>时分复用分为同步和异步（统计），前者是固定的时间片，后者是动态地划分时间片</p>
 </blockquote>
 <strong>波分复用</strong>（WDM，wave）：就是光的频分复用；<br><br>**<a class="link" href="https://www.doubao.com/thread/aea6220d302be">码分复用<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>**（CDM，Code Division Multiplexing）：不同的信号采用不同的编码，既共享频率又共享时间<blockquote>
-<p>码分复用时,各个站点的码片序列必须两两正交<br>eg:<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_16-34-41.png"><br><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.439ex;" xmlns="http://www.w3.org/2000/svg" width="25.655ex" height="2.921ex" role="img" focusable="false" viewBox="0 -1097 11339.3 1291"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="TeXAtom" data-mjx-texclass="ORD"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D44E" d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"></path></g><g data-mml-node="mo" transform="translate(264.5,31) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(751.2,0)"><path data-c="22C5" d="M78 250Q78 274 95 292T138 310Q162 310 180 294T199 251Q199 226 182 208T139 190T96 207T78 250Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(1251.4,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D44F" d="M73 647Q73 657 77 670T89 683Q90 683 161 688T234 694Q246 694 246 685T212 542Q204 508 195 472T180 418L176 399Q176 396 182 402Q231 442 283 442Q345 442 383 396T422 280Q422 169 343 79T173 -11Q123 -11 82 27T40 150V159Q40 180 48 217T97 414Q147 611 147 623T109 637Q104 637 101 637H96Q86 637 83 637T76 640T73 647ZM336 325V331Q336 405 275 405Q258 405 240 397T207 376T181 352T163 330L157 322L136 236Q114 150 114 114Q114 66 138 42Q154 26 178 26Q211 26 245 58Q270 81 285 114T318 219Q336 291 336 325Z"></path></g><g data-mml-node="mo" transform="translate(214.5,283) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(1958.2,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(3014,0)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g><g data-mml-node="mo" transform="translate(3514,0)"><path data-c="2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(3958.7,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D44E" d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"></path></g><g data-mml-node="mo" transform="translate(264.5,31) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(4709.9,0)"><path data-c="22C5" d="M78 250Q78 274 95 292T138 310Q162 310 180 294T199 251Q199 226 182 208T139 190T96 207T78 250Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(5210.1,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D450" d="M34 159Q34 268 120 355T306 442Q362 442 394 418T427 355Q427 326 408 306T360 285Q341 285 330 295T319 325T330 359T352 380T366 386H367Q367 388 361 392T340 400T306 404Q276 404 249 390Q228 381 206 359Q162 315 142 235T121 119Q121 73 147 50Q169 26 205 26H209Q321 26 394 111Q403 121 406 121Q410 121 419 112T429 98T420 83T391 55T346 25T282 0T202 -11Q127 -11 81 37T34 159Z"></path></g><g data-mml-node="mo" transform="translate(272.1,31) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(5920.9,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(6976.7,0)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g><g data-mml-node="mo" transform="translate(7476.7,0)"><path data-c="2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(7921.3,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D44F" d="M73 647Q73 657 77 670T89 683Q90 683 161 688T234 694Q246 694 246 685T212 542Q204 508 195 472T180 418L176 399Q176 396 182 402Q231 442 283 442Q345 442 383 396T422 280Q422 169 343 79T173 -11Q123 -11 82 27T40 150V159Q40 180 48 217T97 414Q147 611 147 623T109 637Q104 637 101 637H96Q86 637 83 637T76 640T73 647ZM336 325V331Q336 405 275 405Q258 405 240 397T207 376T181 352T163 330L157 322L136 236Q114 150 114 114Q114 66 138 42Q154 26 178 26Q211 26 245 58Q270 81 285 114T318 219Q336 291 336 325Z"></path></g><g data-mml-node="mo" transform="translate(214.5,283) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(8572.6,0)"><path data-c="22C5" d="M78 250Q78 274 95 292T138 310Q162 310 180 294T199 251Q199 226 182 208T139 190T96 207T78 250Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(9072.8,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D450" d="M34 159Q34 268 120 355T306 442Q362 442 394 418T427 355Q427 326 408 306T360 285Q341 285 330 295T319 325T330 359T352 380T366 386H367Q367 388 361 392T340 400T306 404Q276 404 249 390Q228 381 206 359Q162 315 142 235T121 119Q121 73 147 50Q169 26 205 26H209Q321 26 394 111Q403 121 406 121Q410 121 419 112T429 98T420 83T391 55T346 25T282 0T202 -11Q127 -11 81 37T34 159Z"></path></g><g data-mml-node="mo" transform="translate(272.1,31) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(9783.6,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(10839.3,0)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g></g></g></svg></mjx-container><br><br>通过码分复用恢复出原始信号的实例:<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_16-47-14.png"><br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_16-49-02.png"><br>我不理解为啥通过与原始码片序列做内积运算就可以恢复出结果,死记着算了</p>
+<p>码分复用时,各个站点的码片序列必须两两正交<br>eg:<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-18_16-34-41.png"><br><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.439ex;" xmlns="http://www.w3.org/2000/svg" width="25.655ex" height="2.921ex" role="img" focusable="false" viewBox="0 -1097 11339.3 1291"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="TeXAtom" data-mjx-texclass="ORD"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D44E" d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"></path></g><g data-mml-node="mo" transform="translate(264.5,31) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(751.2,0)"><path data-c="22C5" d="M78 250Q78 274 95 292T138 310Q162 310 180 294T199 251Q199 226 182 208T139 190T96 207T78 250Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(1251.4,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D44F" d="M73 647Q73 657 77 670T89 683Q90 683 161 688T234 694Q246 694 246 685T212 542Q204 508 195 472T180 418L176 399Q176 396 182 402Q231 442 283 442Q345 442 383 396T422 280Q422 169 343 79T173 -11Q123 -11 82 27T40 150V159Q40 180 48 217T97 414Q147 611 147 623T109 637Q104 637 101 637H96Q86 637 83 637T76 640T73 647ZM336 325V331Q336 405 275 405Q258 405 240 397T207 376T181 352T163 330L157 322L136 236Q114 150 114 114Q114 66 138 42Q154 26 178 26Q211 26 245 58Q270 81 285 114T318 219Q336 291 336 325Z"></path></g><g data-mml-node="mo" transform="translate(214.5,283) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(1958.2,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(3014,0)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g><g data-mml-node="mo" transform="translate(3514,0)"><path data-c="2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(3958.7,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D44E" d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"></path></g><g data-mml-node="mo" transform="translate(264.5,31) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(4709.9,0)"><path data-c="22C5" d="M78 250Q78 274 95 292T138 310Q162 310 180 294T199 251Q199 226 182 208T139 190T96 207T78 250Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(5210.1,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D450" d="M34 159Q34 268 120 355T306 442Q362 442 394 418T427 355Q427 326 408 306T360 285Q341 285 330 295T319 325T330 359T352 380T366 386H367Q367 388 361 392T340 400T306 404Q276 404 249 390Q228 381 206 359Q162 315 142 235T121 119Q121 73 147 50Q169 26 205 26H209Q321 26 394 111Q403 121 406 121Q410 121 419 112T429 98T420 83T391 55T346 25T282 0T202 -11Q127 -11 81 37T34 159Z"></path></g><g data-mml-node="mo" transform="translate(272.1,31) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(5920.9,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(6976.7,0)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g><g data-mml-node="mo" transform="translate(7476.7,0)"><path data-c="2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(7921.3,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D44F" d="M73 647Q73 657 77 670T89 683Q90 683 161 688T234 694Q246 694 246 685T212 542Q204 508 195 472T180 418L176 399Q176 396 182 402Q231 442 283 442Q345 442 383 396T422 280Q422 169 343 79T173 -11Q123 -11 82 27T40 150V159Q40 180 48 217T97 414Q147 611 147 623T109 637Q104 637 101 637H96Q86 637 83 637T76 640T73 647ZM336 325V331Q336 405 275 405Q258 405 240 397T207 376T181 352T163 330L157 322L136 236Q114 150 114 114Q114 66 138 42Q154 26 178 26Q211 26 245 58Q270 81 285 114T318 219Q336 291 336 325Z"></path></g><g data-mml-node="mo" transform="translate(214.5,283) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(8572.6,0)"><path data-c="22C5" d="M78 250Q78 274 95 292T138 310Q162 310 180 294T199 251Q199 226 182 208T139 190T96 207T78 250Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(9072.8,0)"><g data-mml-node="mover"><g data-mml-node="mi"><path data-c="1D450" d="M34 159Q34 268 120 355T306 442Q362 442 394 418T427 355Q427 326 408 306T360 285Q341 285 330 295T319 325T330 359T352 380T366 386H367Q367 388 361 392T340 400T306 404Q276 404 249 390Q228 381 206 359Q162 315 142 235T121 119Q121 73 147 50Q169 26 205 26H209Q321 26 394 111Q403 121 406 121Q410 121 419 112T429 98T420 83T391 55T346 25T282 0T202 -11Q127 -11 81 37T34 159Z"></path></g><g data-mml-node="mo" transform="translate(272.1,31) translate(-250 0)"><path data-c="20D7" d="M377 694Q377 702 382 708T397 714Q404 714 409 709Q414 705 419 690Q429 653 460 633Q471 626 471 615Q471 606 468 603T454 594Q411 572 379 531Q377 529 374 525T369 519T364 517T357 516Q350 516 344 521T337 536Q337 555 384 595H213L42 596Q29 605 29 615Q29 622 42 635H401Q377 673 377 694Z"></path></g></g></g><g data-mml-node="mo" transform="translate(9783.6,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(10839.3,0)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g></g></g></svg></mjx-container><br><br>通过码分复用恢复出原始信号的实例:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-18_16-47-14.png"><br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-18_16-49-02.png"><br>我不理解为啥通过与原始码片序列做内积运算就可以恢复出结果,死记着算了</p>
 </blockquote>
 </li>
 <li>频分复用适合传输模拟信号，时分复用适合传输数字信号，所以现代网络中时分复用用的更多,<a class="link" href="https://www.doubao.com/thread/aafb5e5ce67d8">解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
@@ -227,7 +261,7 @@ import {initHBE} from "/js/plugins/hbe.js";
 <li><strong>CSMA/CD协议</strong>(Carrier Sense Multiple Access with Collision Detection，载波监听多路访问/碰撞检测):先听后发，边听边发，冲突停发，随机重发;<br>CSMA/CD 协议中定义的<strong>争用期</strong>是指信号在最远两个端点之间往返传输的时间。<blockquote>
 <p>10Mb/s和100Mb/s的以太网中的争用期被定义为64B的发送时间(<a class="link" href="https://www.doubao.com/thread/ab717a81b1383">解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>)</p>
 <blockquote>
-<p>eg:<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_16-15-37.png"><br>一个站点到hub是100米,两个站点之间是200米,一来一回400米;</p>
+<p>eg:<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-18_16-15-37.png"><br>一个站点到hub是100米,两个站点之间是200米,一来一回400米;</p>
 </blockquote>
 </blockquote>
 </li>
@@ -245,17 +279,17 @@ import {initHBE} from "/js/plugins/hbe.js";
 <li><strong>二进制退避算法</strong>:从[0,<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.186ex;" xmlns="http://www.w3.org/2000/svg" width="6.049ex" height="2.117ex" role="img" focusable="false" viewBox="0 -853.7 2673.8 935.7"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="TeXAtom" transform="translate(533,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="1D458" d="M121 647Q121 657 125 670T137 683Q138 683 209 688T282 694Q294 694 294 686Q294 679 244 477Q194 279 194 272Q213 282 223 291Q247 309 292 354T362 415Q402 442 438 442Q468 442 485 423T503 369Q503 344 496 327T477 302T456 291T438 288Q418 288 406 299T394 328Q394 353 410 369T442 390L458 393Q446 405 434 405H430Q398 402 367 380T294 316T228 255Q230 254 243 252T267 246T293 238T320 224T342 206T359 180T365 147Q365 130 360 106T354 66Q354 26 381 26Q429 26 459 145Q461 153 479 153H483Q499 153 499 144Q499 139 496 130Q455 -11 378 -11Q333 -11 305 15T277 90Q277 108 280 121T283 145Q283 167 269 183T234 206T200 217T182 220H180Q168 178 159 139T145 81T136 44T129 20T122 7T111 -2Q98 -11 83 -11Q66 -11 57 -1T48 16Q48 26 85 176T158 471L195 616Q196 629 188 632T149 637H144Q134 637 131 637T124 640T121 647Z"></path></g></g></g><g data-mml-node="mo" transform="translate(1173.6,0)"><path data-c="2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path></g><g data-mml-node="mn" transform="translate(2173.8,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g></g></g></svg></mjx-container>]里随机选一个数<blockquote>
 <p>超出10次以外的冲突就不算了,要是算的话,要等到猴年马月去了,也就是说k=min[k,10];</p>
 <blockquote>
-<p><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_09-25-19.png" alt="alt text"></p>
+<p><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-18_09-25-19.png" alt="alt text"></p>
 </blockquote>
 </blockquote>
 </li>
 <li><strong>令牌环网络</strong>:<br><blockquote>
-<p><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_09-01-37.png" alt="alt text"><br>令牌环网络的结点只能在一定时间内(令牌持有时间)发送数据,不能一直持有令牌,并且如果结点没有数据传输时要迅速把令牌传递下去</p>
+<p><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-18_09-01-37.png" alt="alt text"><br>令牌环网络的结点只能在一定时间内(令牌持有时间)发送数据,不能一直持有令牌,并且如果结点没有数据传输时要迅速把令牌传递下去</p>
 </blockquote>
 </li>
 <li><strong>以太网的最小帧长</strong>是指在争用期这一段时间内发送数据的长度,也就是说,最小帧长是数据填满信道一来一回的长度,第一个bit刚刚回来,最后一个bit刚刚发出</li>
 <li>无线局域网不使用 CSMA/CD 而使用 CSMA/CA 的原因是，无线局域网难以实现冲突检测，存在隐蔽站和暴露站问题<br><blockquote>
-<p><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_16-21-50.png"><br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-18_16-22-09.png"></p>
+<p><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-18_16-21-50.png"><br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-18_16-22-09.png"></p>
 </blockquote>
 </li>
 </ul>
@@ -296,7 +330,7 @@ import {initHBE} from "/js/plugins/hbe.js";
 <blockquote>
 <p>地址3记忆方法:<br>发给AP的时候要让AP知道数据帧是发给谁的;接受AP来的数据帧的时候要让别人知道这个数据帧是谁发过来的</p>
 <blockquote>
-<p><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-20_15-25-49.png"><br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-20_15-26-05.png"></p>
+<p><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-20_15-25-49.png"><br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-20_15-26-05.png"></p>
 </blockquote>
 </blockquote>
 </li>
@@ -338,7 +372,7 @@ import {initHBE} from "/js/plugins/hbe.js";
 <h2 id="1-3操作系统的运行环境"><a href="#1-3操作系统的运行环境" class="headerlink" title="1.3操作系统的运行环境"></a>1.3操作系统的运行环境</h2><ul>
 <li>CPU 的运行模式划分为用户态(目态)和核心态(又称管态、内核态)。</li>
 <li>特权指令(核心态)，是指不允许用户直接使用的指令，如I/O 指令、关中断指令、内存清零指令,存取用于内存保护的寄存器、送 PSW 到程序状态字寄存器等的指令。<br>非特权指令(用户态)，是指允许用户直接使用的指令，它不能直接访问系统中的软硬件资源，仅限于访问用户的地址空间，这也是为了防止用户程序对系统造成破坏。</li>
-<li><strong>中断和异常</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-21_20-21-35.png"></li>
+<li><strong>中断和异常</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-21_20-21-35.png"></li>
 <li><strong>系统调用的功能</strong>:<br><br>设备管理。完成设备的请求或释放，以及设备启动等功能。<br><br>文件管理。完成文件的读、写、创建及删除等功能。<br><br>进程控制。完成进程的创建、撤销、阻塞及唤醒等功能。<br><br>进程通信。完成进程之间的消息传递或信号传递等功能。<br><br>内存管理。完成内存的分配、回收以及获取作业占用内存区大小和起始地址等功能。</li>
 <li>用户程序创建一个新进程，需使用操作系统提供的系统调用接口<br><br>用户程序使用系统调用命令，该命令经过编译后形成若干参数和陷入指令<br>当操作系统完成用户请求的系统调用功能后，应使CPU从内核态转到用户态</li>
 <li>在中断发生后，进入中断处理的程序只能属于操作系统程序</li>
@@ -351,7 +385,7 @@ import {initHBE} from "/js/plugins/hbe.js";
 <li>“访管”指令仅在用户态下使用，<strong>执行“访管”指令将用户态转变为核心态。</strong></li>
 <li>系统调用命令工作在核心态，系统调用本身是一条在核心态运行的命令，并不是调用系统的命令，调用系统调用的命令才是用户态的。<br><strong>也就是说，系统调用的发生是在用户态，系统调用的执行是在核心态</strong></li>
 <li>I/O设备的请求、时钟中断是外部中断。<br><br>访管指令、缺页异常是内部中断。</li>
-<li>系统调用需要保存 PSW 和PC的值，一般过程调用只需保存PC的值。<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-23_08-53-49.png"><br>一般过程调用的被调用程序与调用程序运行在同一个状态，可能是系统态，也可能是用户态<br>系统调用的被调用过程一定运行在核心态</li>
+<li>系统调用需要保存 PSW 和PC的值，一般过程调用只需保存PC的值。<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_08-53-49.png"><br>一般过程调用的被调用程序与调用程序运行在同一个状态，可能是系统态，也可能是用户态<br>系统调用的被调用过程一定运行在核心态</li>
 <li>trap 指令、跳转指令和压栈指令均可以在用户态执行，其中 trap 指令负责由用户态转换为内核态。关中断指令为特权指令，必须在核心态才能执行。<strong>注意</strong>，在操作系统中，关中断指令是权限非常大的指令，因为中断是现代操作系统正常运行的核心保障之一，能把它关掉，说明执行这条指令的一定是权限非常大的机构(管态)。</li>
 <li>外部中断处理过程，PC 值由中断隐指令自动保存，而通用寄存器内容由操作系统保存。块表(TLB)和 Cache 中的内容则由硬件机构保存。</li>
 <li>执行系统调用的过程：<br><ol>
@@ -400,13 +434,13 @@ import {initHBE} from "/js/plugins/hbe.js";
 </ol>
 </li>
 <li>模块化操作系统的各功能模块都在内核中，且模块之间相互调用、相互依赖，任何一个模块出错，都可能导致整个内核崩溃。<br>在微内核操作系统中，内核外的某个功能模块出错不会导致整个系统崩溃，可靠性高。 </li>
-<li>操作系统的启动过程：<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-23_09-40-56.png" alt="text"></li>
+<li>操作系统的启动过程：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_09-40-56.png" alt="text"></li>
 <li>Windows 是融合了宏内核和微内核的操作系统</li>
 <li>在拥有外核的操作系统中，外核只负责硬件资源的分配、回收、保护等，进程管理相关的工作仍然由内核负责。</li>
 <li>引导程序有两种，一种是位于BIOS中的用于引导开启各个设备，一种是位于硬盘中的用于引导操作系统</li>
 <li>第一类虚拟机管理程序直接运行在物理硬件之上，具有高性能和高安全性；第二类虚拟机管理程序运行在现有操作系统之上，安装和使用相对简单。<a class="link" href="https://www.doubao.com/thread/a3ff2039790f2">详细<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
 <li>BIOS 将控制权交给排在首位的启动设备后，CPU 将该设备主引导扇区的内容[主引导记录(MBR)]加载到内存中，然后由 MBR 检查分区表，查找活动分区，并将该分区的引导扇区的内容[分区引导记录(PBR)]加载到内存加以执行。</li>
-<li><strong>访管指令与访管中断</strong>：<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-23_10-42-53.png" alt="text"></li>
+<li><strong>访管指令与访管中断</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_10-42-53.png" alt="text"></li>
 </ul>
 ]]></content>
       <tags>
@@ -414,37 +448,122 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>物理层</title>
-    <url>/2024/11/17/2024-11-17-%E7%89%A9%E7%90%86%E5%B1%82/</url>
-    <content><![CDATA[<h1 id="2-1通信基础"><a href="#2-1通信基础" class="headerlink" title="2.1通信基础"></a>2.1通信基础</h1><ul>
-<li>曼彻斯特编码用码元中间的电平跳变来表示每个比特，可方便收发双方根据跳变来同步时而不需要额外的时钟信号。差分曼彻斯特编码也不需要额外的时钟信号.</li>
-<li>波特率表示信号每秒变化的次数,也是码元的传输速率;</li>
-<li>一般情况下多个比特构成一个码元,所以波特率在数值上&lt;=比特率,但是在以太网实施的曼彻斯特编码中,一个码元等于二分之一个比特等于一个脉冲(我不是很理解这一块,特殊情况特殊记忆)<blockquote>
-<p><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -1.158ex;" xmlns="http://www.w3.org/2000/svg" width="42.86ex" height="3.527ex" role="img" focusable="false" viewBox="0 -1047.1 18944.3 1558.9"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mfrac"><g data-mml-node="mrow" transform="translate(220,516.8) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">比</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(3000,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(3389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g><g data-mml-node="mi" transform="translate(4389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">据</text></g><g data-mml-node="mi" transform="translate(5389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(6389,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g><g data-mml-node="mrow" transform="translate(1555.7,-370.3) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">波</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g></g><rect width="4992.8" height="60" x="120" y="220"></rect></g><g data-mml-node="mo" transform="translate(5510.5,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(6566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">每</text></g><g data-mml-node="mi" transform="translate(7566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">个</text></g><g data-mml-node="mi" transform="translate(8566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">码</text></g><g data-mml-node="mi" transform="translate(9566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">元</text></g><g data-mml-node="mi" transform="translate(10566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">中</text></g><g data-mml-node="mi" transform="translate(11566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">所</text></g><g data-mml-node="mi" transform="translate(12566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">含</text></g><g data-mml-node="mi" transform="translate(13566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(14566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">比</text></g><g data-mml-node="mi" transform="translate(15566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(16566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g><g data-mml-node="mo" transform="translate(17566.3,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(17955.3,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(18555.3,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container><br> <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex;" xmlns="http://www.w3.org/2000/svg" width="18.871ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 8340.8 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="TeXAtom" transform="translate(533,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g><g data-mml-node="mo" transform="translate(1285,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(2340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">码</text></g><g data-mml-node="mi" transform="translate(3340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">元</text></g><g data-mml-node="mi" transform="translate(4340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(5340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">状</text></g><g data-mml-node="mi" transform="translate(6340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">态</text></g><g data-mml-node="mi" transform="translate(7340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g></g></g></svg></mjx-container></p>
+    <title>进程与线程</title>
+    <url>/2024/11/23/2024-11-23-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</url>
+    <content><![CDATA[<h1 id="进程与线程"><a href="#进程与线程" class="headerlink" title="进程与线程"></a>进程与线程</h1><h2 id="2-1进程与线程"><a href="#2-1进程与线程" class="headerlink" title="2.1进程与线程"></a>2.1进程与线程</h2><ul>
+<li>进程包括三个部分:<ul>
+<li>进程控制块PCB:创建进程的时候创建PCB,里边是进程的控制信息,操作系统通过这个来获取进程的信息</li>
+<li>程序部分</li>
+<li>数据部分<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-24_11-25-37.png" alt="text"></li>
+</ul>
+</li>
+<li>进程有5个状态:运行态,就绪态,阻塞态,创建态,终止态<br>前三个是基本状态<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-24_11-28-29.png"><br>一个进程从运行态变为阻塞态是主动的行为，而从阻塞态变为就绪态是被动的行为，需要其他相关进程的协助。</li>
+<li>进程可以创建子进程,如果子进程删除,那么子进程的资源要归还父进程,如果父进程删除,子进程也要被删除</li>
+<li>在操作系统中，终端用户登录系统、作业调度、系统提供服务、用户程序的应用请求等都会引起进程的创建。</li>
+<li><strong>创建新进程的操作</strong>:<ol>
+<li>给进程分配一个唯一的标识号,然后申请一个空白的PCB(PCB是有限的),申请不到就创建失败</li>
+<li>给进程分配资源(这些资源是在PCB中体现的),如果资源不够,那也不算创建失败,而是处于创建态</li>
+<li>初始化PCB,也就是初始化PCB包括的内容第二栏(进程控制和管理信息)</li>
+<li>如果就绪队列还没满,那么这个进程就去排队,变为就绪态等待被调度</li>
+</ol>
+</li>
+<li><strong>进程终止的操作</strong>:<ol>
+<li>根据进程的PID、UID检测出这个进程的PCB，获取该进程的状态</li>
+<li>然后终止该进程和子孙进程的运行</li>
+<li>把该进程的资源归还给父进程或者是操作系统</li>
+<li>然后把这个进程的PCB给删喽</li>
+</ol>
+</li>
+<li>进程之间的通信PV操作是低级通信，效率很低，高级通信有以下几种：<ol>
+<li><strong>共享存储</strong>：两个进程之间有个共有的内存空间，两个进程都可以通过PV操作对这段空间进行读写</li>
+<li><strong>消息传递</strong>：两个进程之间没有公共的区域，通过发消息来进行通信，这种方式很能支持多CPU系统、分布式系统和计算机网络，所以用途的广<ul>
+<li>直接通信方式 ：进程把消息发到对面的消息缓冲队列上边，对面的进程从队列上获取消息</li>
+<li>间接通信方式：把消息发给中间的实体（信箱），接受进程从信箱里边获取消息</li>
+</ul>
+</li>
+<li><strong>管道通信</strong>：管道是一个特殊的共享文件，数据在管道里边FIFO,管道两边只能各有一个进程，并且读的时候写进程阻塞，写的时候读进程阻塞<br>这种方式在Linux里边用的很多，Linux里管道文件为4KB，读写速度可能不匹配，当管道空的时候或者满的时候，谁快阻塞谁<br> <img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-24_11-57-13.png"></li>
+</ol>
+</li>
+<li>线程是轻量级的进程，在上下文切换的时候时空开销比较小，<a class="link" href="https://www.doubao.com/thread/ab5fe96119646">线程就像是生产线，进程像工厂<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，TCP（thread）线程控制块和PCB（process）很像，啥都像<br>线程是CPU调度的基本单位,可以独立执行程序</li>
+<li><a class="link" href="https://www.doubao.com/thread/a557406390af1">线程的实现<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>可以分为两类:<strong>用户级线程</strong>(User-Level Thread，ULT)和<strong>内核级线程</strong>(Kernel-Level Thread，KLT)。<br><br>用户级线程是在用户视角下能看见的线程，操作系统不用干预，所以线程之间的切换不用转换到内核态，开销很小<br><br><strong>用户级线程就像是民间组织</strong>，可以非常灵活解决不用内核操心的问题，但是涉及内核的问题（I\O等）就需要和内核商榷，开销大<br><br><strong>内核级线程就像是官方机构</strong>，行为调度极为严整，相对重量级，虽然做事效率高，但是消耗大</li>
+<li><a class="link" href="https://www.doubao.com/thread/abcc237f909df">多线程模型<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>：<ul>
+<li><strong>一对一模型</strong>：每个民间组织对应一个具体的官方负责人，行为调度非常明确，这个民间组织工作受阻也不影响其他活动，但是因为这个组织啥都让负责人负责，所以开销大<blockquote>
+<p>优点:当一个线程被阻塞后，允许调度另一个线程运行，所以并发能力较强。<br>缺点:每创建一个用户线程，相应地就需要创建一个内核线程，开销较大。</p>
 </blockquote>
 </li>
-<li>曼彻斯特编码:看码元中间,统一上升沿为0或1,下降沿为1或0;<br>差分曼彻斯特编码:看码元的连接处(考试的信号段开头第一个码元看不出来),有跳变表示0,无跳变表示1(0比较圆润所以爱跳,1比较正直稳重,所以平稳);<br>非归零编码(NRZ:Non Return Zero Code):高电平1,低电平0;<br>反向非归零编码(NRZI:Non Return Zero Inverted Code):跳变0,不变1;</li>
-<li>根据奈奎斯特定律 ,波特率的上限为2倍的信道带宽率,所以采样数超过这个数值的部分是无意义的</li>
-<li>香农定理:<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.781ex;" xmlns="http://www.w3.org/2000/svg" width="37.662ex" height="2.8ex" role="img" focusable="false" viewBox="0 -892.5 16646.5 1237.5"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">信</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">道</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(3000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">极</text></g><g data-mml-node="mi" transform="translate(4000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">限</text></g><g data-mml-node="mi" transform="translate(5000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">传</text></g><g data-mml-node="mi" transform="translate(6000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">输</text></g><g data-mml-node="mi" transform="translate(7000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">速</text></g><g data-mml-node="mi" transform="translate(8000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(9277.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(10333.6,0)"><path data-c="1D44A" d="M436 683Q450 683 486 682T553 680Q604 680 638 681T677 682Q695 682 695 674Q695 670 692 659Q687 641 683 639T661 637Q636 636 621 632T600 624T597 615Q597 603 613 377T629 138L631 141Q633 144 637 151T649 170T666 200T690 241T720 295T759 362Q863 546 877 572T892 604Q892 619 873 628T831 637Q817 637 817 647Q817 650 819 660Q823 676 825 679T839 682Q842 682 856 682T895 682T949 681Q1015 681 1034 683Q1048 683 1048 672Q1048 666 1045 655T1038 640T1028 637Q1006 637 988 631T958 617T939 600T927 584L923 578L754 282Q586 -14 585 -15Q579 -22 561 -22Q546 -22 542 -17Q539 -14 523 229T506 480L494 462Q472 425 366 239Q222 -13 220 -15T215 -19Q210 -22 197 -22Q178 -22 176 -15Q176 -12 154 304T131 622Q129 631 121 633T82 637H58Q51 644 51 648Q52 671 64 683H76Q118 680 176 680Q301 680 313 683H323Q329 677 329 674T327 656Q322 641 318 637H297Q236 634 232 620Q262 160 266 136L501 550L499 587Q496 629 489 632Q483 636 447 637Q428 637 422 639T416 648Q416 650 418 660Q419 664 420 669T421 676T424 680T428 682T436 683Z"></path></g><g data-mml-node="mi" transform="translate(11381.6,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(11679.6,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(12164.6,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mo" transform="translate(13078.1,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mn" transform="translate(13467.1,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g><g data-mml-node="mo" transform="translate(14189.3,0)"><path data-c="2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path></g><g data-mml-node="mfrac" transform="translate(15189.6,0)"><g data-mml-node="mi" transform="translate(305.9,394) scale(0.707)"><path data-c="1D446" d="M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z"></path></g><g data-mml-node="mi" transform="translate(220,-345) scale(0.707)"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></g><rect width="827.9" height="60" x="120" y="220"></rect></g><g data-mml-node="mo" transform="translate(16257.5,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container><blockquote>
-<p>W:信道的频率带宽;S:信号的平均功率;N:噪声的功率<br><br>S/N有两种形式:一种是功率比,直接代入公式计算;一种是x(dB)单位,利用公式<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="17.572ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 7766.7 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"></path></g><g data-mml-node="mo" transform="translate(849.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(1905.6,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g><g data-mml-node="mi" transform="translate(2905.6,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(3203.6,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(3688.6,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g></g></g><g data-mml-node="mo" transform="translate(4955.7,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(5344.7,0)"><path data-c="1D446" d="M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(5989.7,0)"><g data-mml-node="mo"><path data-c="2F" d="M423 750Q432 750 438 744T444 730Q444 725 271 248T92 -240Q85 -250 75 -250Q68 -250 62 -245T56 -231Q56 -221 230 257T407 740Q411 750 423 750Z"></path></g></g><g data-mml-node="mi" transform="translate(6489.7,0)"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></g><g data-mml-node="mo" transform="translate(7377.7,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container>,计算出S/N代入即可<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/aa6265cf611fd4f022d7c753c7aab827.png" alt="aa6265cf611fd4f022d7c753c7aab827.png"></p>
+<li><strong>一对多模型</strong>：一个官方负责人管了好几个组织，遇到的问题可以在内部讨论解决，效率高，但是有一个组织遇到问题，整个组织就就会受到影响<blockquote>
+<p>优点:线程管理是在用户空间进行的，无须切换到核心态，因而效率比较高。<br>缺点:如果一个线程在访问内核时发生阻塞，则整个进程都会被阻塞;在任何时刻，只有一个线程能够访问内核，多个线程不能同时在多个CPU上运行。</p>
 </blockquote>
 </li>
-<li>信道的最大传输速率受香农定理和奈奎斯特定理两者作用,二者取其小</li>
+<li><strong>多对多模型</strong>：有前两个的优点</li>
 </ul>
-<h1 id="2-2传输介质"><a href="#2-2传输介质" class="headerlink" title="2.2传输介质"></a>2.2传输介质</h1><ul>
-<li>同轴电缆具有更高的屏蔽性，同时有更好的抗噪声性。</li>
-<li>物理层接口的特性：<br><strong>机械特性</strong>。指明接口所用接线器的形状和尺寸、引脚数目和排列、固定和锁定装置等。<br><strong>电气特性</strong>。指明在接口电缆的各条线上的电压范围、传输速率和距离限制等。<br><strong>功能特性</strong>。指明某条线上出现的某一电平的电压的意义,以及每条线的功能。<br><strong>过程特性</strong>,也称规程特性。指明对不同功能的各种可能事件的出现顺序。</li>
+</li>
+<li>单处理器中如果有10个进程，可能会有下边几种情况：<ul>
+<li>一个处于运行态，其余九个处于阻塞态或者就绪态</li>
+<li>10个进程全部阻塞</li>
+<li>就算10个进程并发执行，也是一个运行九个就绪</li>
 </ul>
-<h1 id="2-3物理层设备"><a href="#2-3物理层设备" class="headerlink" title="2.3物理层设备"></a>2.3物理层设备</h1><ul>
-<li><strong>中继器</strong>的原理是将衰减的信号再生而不是放大,连接后的网段仍然属于同一个局域网。<br><strong>转发器</strong>只能用来放大信号。<br><strong>集线器</strong>的实质是一个多端口的中继器。集线器没有寻址功能,一个端口接收到数据信号后,从除了接收端口外的其他所有端口转发出去。<br><a href="https://www.doubao.com/thread/a52b99f571a7a"><strong>网桥</strong></a>是数据链路层设备，主要用于连接两个或多个局域网（LAN），并在它们之间转发数据帧。</li>
-<li>互相串联的中继器的个数不能超过4个,而且用4个中继器串联的5段通信介质中,只有3段可以挂接计算机,其余2段只能用作扩展通信范围的链路段,不能挂接计算机。这就是所谓的”<strong>5-4-3规则</strong>“</li>
-<li>若某个网络设备有存储转发功能,则认为它能连接两个不同的协议;</li>
-<li>集线器将多个设备连接在以它为中心的结点上,因此使用它的网络<strong>在物理拓扑上属于星形结<br>构</strong>。集线器不具备交换机所具有的交换表,所以它发送数据时是没有针对性的,而采用广播方式发送。因此,使用集线器的星形以太网<strong>逻辑上仍然是总线网</strong>。</li>
-<li>基带传输，频带传输，宽带传输:<br><strong>基带传输</strong>是信号不经过调制，直接在信道上传输；<br><strong>频带传输</strong>是将信号进行调制之后进行传输；<br><strong>宽带传输</strong>是在频带传输的基础上将链路划分为多个信道进行传输。</li>
+</li>
+<li>C语言编写的程序在使用内存时一般分为三个段，它们一般是<strong>正文段</strong>(代码和赋值数据段)、<strong>数据堆段</strong>和<strong>数据栈段</strong>。<br><strong>二进制代码和常量存放在正文段，动态分配的存储区在数据堆段，临时使用的变量在数据栈段。</strong><br>由此，我们可以确定全局赋值变量在正文段赋值数据段，未赋值的局部变量和实参传递在栈段，动态内存分配在堆段，常量在正文段，进程的优先级只能在 PCB内。</li>
+<li>在同一进程中，线程的切换不会引起进程的切换。当从一个进程中的线程切换到另一个进程中的线程时，才会引起进程的切换。</li>
+<li><a class="link" href="https://www.doubao.com/thread/a1ab29322ff04">线程可以节省系统资源<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，但线程并不能增强进程安全性，因为线程共享进程的地址空间和资源，若一个线程出错，则可能影响整个进程的运行。</li>
+<li>CPU调度以线程为单位,在多处理器中,内核级线程的调度是并行的,用户级线程不行,因为操作系统只能看到进程这一级。</li>
+<li>从阻塞变为执行才叫唤醒，从就绪变为执行不叫唤醒。</li>
+</ul>
+<h2 id="2-2CPU调度"><a href="#2-2CPU调度" class="headerlink" title="2.2CPU调度"></a>2.2CPU调度</h2><ul>
+<li>三种调度：<ul>
+<li>高级调度：作业调度，把作业从外存调入内存。</li>
+<li>中级调度：把内存中暂时不用的进程调到外存中（挂起态）。</li>
+<li>低级调度：进程调度，决定哪个进程获得CPU，发生频率很高，一般几十毫秒一次</li>
+</ul>
+</li>
+<li>进行CPU调度的事件：<ul>
+<li>创建新进程：父进程和子进程都处于就绪态，操作系统需要决定运行哪个。</li>
+<li>进程结束或者被终止，操作系统从就绪队列中选择一个进程运行，没有的话就运行闲逛进程</li>
+<li>进程被阻塞之后要选择别的进程运行</li>
+<li>被阻塞的进程所要的条件被满足之后CPU会决定运行这个进程还是接着运行现在的进程</li>
+</ul>
+</li>
+<li>不能进行调度的情况：<ul>
+<li>在中断处理的时候，这个中断处理程序属于系统的操作，不属于某个进程所以不能进行调度</li>
+<li>在执行原子操作的时候</li>
+</ul>
+</li>
+<li>用户级线程和内核级线程的调度：<ul>
+<li>操作系统不知道有用户级线程的存在，所以操作系统还是跟以前一样选择一个进程发放时间片运行，由进程自己决定运行哪一个线程</li>
+<li>操作系统会选择一个线程，不考虑这个线程属于哪一个进程，就分配时间片之后运行</li>
+</ul>
+</li>
+<li>上下文切换的流程：<ul>
+<li>把CPU的信息保存到进程的PCB中，里边有程序计数器和其他寄存器</li>
+<li>把这个进程的PCB移入就绪或者阻塞队列</li>
+<li>选择另一个进程读取它的PCB</li>
+<li>恢复新进程的上下文</li>
+<li>跳转到新进程PCB里边PC指向的位置执行</li>
+</ul>
+</li>
+<li>CPU调度的算法：<ul>
+<li>先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I\O繁忙型，因为CPU繁忙的作业计算完就走了，I\O繁忙的作业还要等可长时候才开始计算</li>
+<li>短作业优先，要是一直有短作业来，那长作业要饿死</li>
+<li>高相应比优先：<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -1.158ex;" xmlns="http://www.w3.org/2000/svg" width="28.042ex" height="3.447ex" role="img" focusable="false" viewBox="0 -1011.8 12394.8 1523.5"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">相</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">应</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">比</text></g><g data-mml-node="mo" transform="translate(3277.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mfrac" transform="translate(4333.6,0)"><g data-mml-node="mrow" transform="translate(220,481.4) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">等</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">待</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">时</text></g><g data-mml-node="mi" transform="translate(3000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">间</text></g><g data-mml-node="mo" transform="translate(4000,0)"><path data-c="2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path></g><g data-mml-node="mi" transform="translate(4778,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">要</text></g><g data-mml-node="mi" transform="translate(5778,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">求</text></g><g data-mml-node="mi" transform="translate(6778,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">服</text></g><g data-mml-node="mi" transform="translate(7778,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">务</text></g><g data-mml-node="mi" transform="translate(8778,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">时</text></g><g data-mml-node="mi" transform="translate(9778,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">间</text></g></g><g data-mml-node="mrow" transform="translate(1909.3,-370.3) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">要</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">求</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">服</text></g><g data-mml-node="mi" transform="translate(3000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">务</text></g><g data-mml-node="mi" transform="translate(4000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">时</text></g><g data-mml-node="mi" transform="translate(5000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">间</text></g></g><rect width="7821.2" height="60" x="120" y="220"></rect></g></g></g></svg></mjx-container></li>
+<li>优先级调度：<ul>
+<li>系统进程&gt;用户进程；</li>
+<li>交互型进程（前台进程）&gt;非交互型进程（后台进程）</li>
+<li>I\O型进程&gt;计算型进程，因为I\O很慢，所以要先启动设备</li>
+</ul>
+</li>
+<li>时间片轮转调度</li>
+<li>多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法</li>
+</ul>
+</li>
+</ul>
+<hr>
+<ul>
+<li><a class="link" href="https://www.doubao.com/thread/adabb502dbcd9">信号量等于0的时候的理解<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>：<br>当信号量=0时，仍然可以进行wait操作，因为现在虽然没有资源了，但是仍然可以分配，如果有进程释放资源就可以给他分配了，小于0就不行。</li>
 </ul>
 ]]></content>
       <tags>
-        <tag>计算机网络</tag>
+        <tag>计算机操作系统</tag>
       </tags>
   </entry>
   <entry>
@@ -467,7 +586,7 @@ import {initHBE} from "/js/plugins/hbe.js";
 <li>通道：通道与 DMA 方式的区别是:DMA 方式需要 CPU 来控制传输的数据块大小、传输的内存位置，而通道方式中这些信息是由通道控制的。另外，每个DMA 控制器对应一台设备与内存传递数据，而一个通道可以控制多台设备与内存的数据交换。</li>
 </ul>
 </li>
-<li><strong>IO软件层次结构</strong>：<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-17_16-53-38.png" alt="text"><br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-17_17-02-36.png" alt="text"></li>
+<li><strong>IO软件层次结构</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_16-53-38.png" alt="text"><br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_17-02-36.png" alt="text"></li>
 <li><strong>IO设备接口分类</strong>：<ul>
 <li><strong>字符设备接口</strong>：鼠标这种，没有地址，采用中断驱动方式，建议了一个字符缓冲区，读写都是对缓冲区进行</li>
 <li><strong>块设备接口</strong>：硬盘这种，有地址，采用DMA方式，</li>
@@ -486,10 +605,10 @@ import {initHBE} from "/js/plugins/hbe.js";
 <li>将未利用的内存空间作为一个缓冲池,供请求分页系统和磁盘 I/O 时共享。</li>
 </ul>
 </li>
-<li><strong>单缓冲</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-21_09-22-40.png" alt="text"><br>必须等缓冲区满后才能从缓冲区取数据。T和C是可以并行的,所以就有单缓冲区处理每块数据的平均时间是Max(T,C)+M。<br>缓冲区是共享资源,所以需要互斥访问。</li>
-<li><strong>双缓冲</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-21_09-27-35.png" alt="text"><br>缓冲区1满了向缓冲区2输入,缓冲区2满了向缓冲区1输入,这样就可以并行的处理每块数据C和M是可以与T并行的。处理时间为Max(T,C+M)。</li>
+<li><strong>单缓冲</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-21_09-22-40.png" alt="text"><br>必须等缓冲区满后才能从缓冲区取数据。T和C是可以并行的,所以就有单缓冲区处理每块数据的平均时间是Max(T,C)+M。<br>缓冲区是共享资源,所以需要互斥访问。</li>
+<li><strong>双缓冲</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-21_09-27-35.png" alt="text"><br>缓冲区1满了向缓冲区2输入,缓冲区2满了向缓冲区1输入,这样就可以并行的处理每块数据C和M是可以与T并行的。处理时间为Max(T,C+M)。</li>
 <li><strong>循环缓冲</strong>:跟数据结构中循环队列差不多。</li>
-<li><strong>缓冲池</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-21_09-39-22.png" alt="text"><br>管理了多个缓冲区,plus版</li>
+<li><strong>缓冲池</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-21_09-39-22.png" alt="text"><br>管理了多个缓冲区,plus版</li>
 </ul>
 <h2 id="设备分配与回收"><a href="#设备分配与回收" class="headerlink" title="设备分配与回收"></a>设备分配与回收</h2><ul>
 <li>在系统中，可能存在多个通道，每个通道可以连接多个控制器，每个控制器可以连接多个物理设备。设备分配的数据结构要能体现出这种从属关系<ul>
@@ -513,7 +632,7 @@ import {initHBE} from "/js/plugins/hbe.js";
 <li>多用户系统中为每个用户设置一张LUT,同时在系统中配置系统设备表,所以不同的用户可以使用相同的逻辑设备名。</li>
 </ul>
 </li>
-<li>SPOOLing技术(假脱机技术)：将用户程序的输入和输出信息暂时保存在磁盘上，而不是直接送入打印机或从键盘上接收。将独占设备改造成共享设备，解决CPU和设备之间速度不匹配的问题。<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-23_15-54-44.png" alt="alt text"><ul>
+<li>SPOOLing技术(假脱机技术)：将用户程序的输入和输出信息暂时保存在磁盘上，而不是直接送入打印机或从键盘上接收。将独占设备改造成共享设备，解决CPU和设备之间速度不匹配的问题。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-54-44.png" alt="alt text"><ul>
 <li><strong>输入井和输出井</strong>：在磁盘中开辟两个缓冲区,一个收容输入设备的数据,一个收容用户程序输出的数据。</li>
 <li><strong>输入缓冲区和输出缓冲区</strong>：在内存中开辟两个缓冲区,一个收容输入井的数据,一个收容输出井的数据。<blockquote>
 <p>真奇怪，输出数据先输出到输出井（在磁盘上），然后再输出到输出缓冲区（在内存上），然后再输出到打印机。</p>
@@ -524,11 +643,11 @@ import {initHBE} from "/js/plugins/hbe.js";
 </li>
 </ul>
 </li>
-<li><strong>设备驱动程序</strong>：<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-23_16-04-25.png" alt="alt text"><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-23_16-05-04.png" alt="alt text"></li>
+<li><strong>设备驱动程序</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-04-25.png" alt="alt text"><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-05-04.png" alt="alt text"></li>
 </ul>
 <h1 id="5-3磁盘和固态硬盘"><a href="#5-3磁盘和固态硬盘" class="headerlink" title="5.3磁盘和固态硬盘"></a>5.3磁盘和固态硬盘</h1><ul>
 <li>之前的磁盘内外磁道的扇区数是相同的，但是现在为了提高磁盘的存储容量，把盘面划分为了若干个环带，同一环带内的所有磁道具有相同的扇区数</li>
-<li>磁盘地址用“柱面号、盘面号、扇区号”来表示。<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-23_16-11-14.png" alt="text"><blockquote>
+<li>磁盘地址用“柱面号、盘面号、扇区号”来表示。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-11-14.png" alt="text"><blockquote>
 <p>柱面号也就是磁道号</p>
 </blockquote>
 </li>
@@ -554,8 +673,8 @@ import {initHBE} from "/js/plugins/hbe.js";
 <li>循环扫描（C-CSAN）：磁头从一个磁道向另一个磁道移动，直到到达最外磁道，然后再向一个磁道移动，直到到达最内磁道。</li>
 </ul>
 </li>
-<li><strong>减少延迟时间的方法</strong>：磁盘是连续自转设备，磁头读入一个扇区后，需要经过短暂的处理时间，才能开始读入下一个扇区。若逻辑上相邻的块在物理上也相邻，则读入几个连续的逻辑块可能需要很长的延迟时间。为此，可对一个盘面的扇区进行交替编号，即让逻辑上相邻的块物理上保持一定的间隔，于是读入多个连续块时能够减少延迟时间。<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-23_16-51-06.png" alt="text"></li>
-<li><strong>改善磁盘IO性能的方法</strong>：<img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-23_16-52-29.png" alt="text"><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-12-23_16-53-07.png" alt="text"></li>
+<li><strong>减少延迟时间的方法</strong>：磁盘是连续自转设备，磁头读入一个扇区后，需要经过短暂的处理时间，才能开始读入下一个扇区。若逻辑上相邻的块在物理上也相邻，则读入几个连续的逻辑块可能需要很长的延迟时间。为此，可对一个盘面的扇区进行交替编号，即让逻辑上相邻的块物理上保持一定的间隔，于是读入多个连续块时能够减少延迟时间。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-51-06.png" alt="text"></li>
+<li><strong>改善磁盘IO性能的方法</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-52-29.png" alt="text"><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-53-07.png" alt="text"></li>
 <li>固态硬盘：<ul>
 <li>和U盘没有本质区别，只是容量大，存取性能更好。<br>随机写很慢，因为擦除块比较慢，通常比访问页高一个数量级。其次，如果写操作试图修改一个包含已有数据的页P，那么这个块中所有含有用数据的页都必须被复制到一个新(擦除过的)块中，然后才能进行对页P的写操作。</li>
 <li><strong>磨损均衡</strong>：<ul>
@@ -644,108 +763,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>进程与线程</title>
-    <url>/2024/11/23/2024-11-23-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</url>
-    <content><![CDATA[<h1 id="进程与线程"><a href="#进程与线程" class="headerlink" title="进程与线程"></a>进程与线程</h1><h2 id="2-1进程与线程"><a href="#2-1进程与线程" class="headerlink" title="2.1进程与线程"></a>2.1进程与线程</h2><ul>
-<li>进程包括三个部分:<ul>
-<li>进程控制块PCB:创建进程的时候创建PCB,里边是进程的控制信息,操作系统通过这个来获取进程的信息</li>
-<li>程序部分</li>
-<li>数据部分<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-24_11-25-37.png" alt="text"></li>
-</ul>
-</li>
-<li>进程有5个状态:运行态,就绪态,阻塞态,创建态,终止态<br>前三个是基本状态<br><img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-24_11-28-29.png"><br>一个进程从运行态变为阻塞态是主动的行为，而从阻塞态变为就绪态是被动的行为，需要其他相关进程的协助。</li>
-<li>进程可以创建子进程,如果子进程删除,那么子进程的资源要归还父进程,如果父进程删除,子进程也要被删除</li>
-<li>在操作系统中，终端用户登录系统、作业调度、系统提供服务、用户程序的应用请求等都会引起进程的创建。</li>
-<li><strong>创建新进程的操作</strong>:<ol>
-<li>给进程分配一个唯一的标识号,然后申请一个空白的PCB(PCB是有限的),申请不到就创建失败</li>
-<li>给进程分配资源(这些资源是在PCB中体现的),如果资源不够,那也不算创建失败,而是处于创建态</li>
-<li>初始化PCB,也就是初始化PCB包括的内容第二栏(进程控制和管理信息)</li>
-<li>如果就绪队列还没满,那么这个进程就去排队,变为就绪态等待被调度</li>
-</ol>
-</li>
-<li><strong>进程终止的操作</strong>:<ol>
-<li>根据进程的PID、UID检测出这个进程的PCB，获取该进程的状态</li>
-<li>然后终止该进程和子孙进程的运行</li>
-<li>把该进程的资源归还给父进程或者是操作系统</li>
-<li>然后把这个进程的PCB给删喽</li>
-</ol>
-</li>
-<li>进程之间的通信PV操作是低级通信，效率很低，高级通信有以下几种：<ol>
-<li><strong>共享存储</strong>：两个进程之间有个共有的内存空间，两个进程都可以通过PV操作对这段空间进行读写</li>
-<li><strong>消息传递</strong>：两个进程之间没有公共的区域，通过发消息来进行通信，这种方式很能支持多CPU系统、分布式系统和计算机网络，所以用途的广<ul>
-<li>直接通信方式 ：进程把消息发到对面的消息缓冲队列上边，对面的进程从队列上获取消息</li>
-<li>间接通信方式：把消息发给中间的实体（信箱），接受进程从信箱里边获取消息</li>
-</ul>
-</li>
-<li><strong>管道通信</strong>：管道是一个特殊的共享文件，数据在管道里边FIFO,管道两边只能各有一个进程，并且读的时候写进程阻塞，写的时候读进程阻塞<br>这种方式在Linux里边用的很多，Linux里管道文件为4KB，读写速度可能不匹配，当管道空的时候或者满的时候，谁快阻塞谁<br> <img lazyload="" src="/images/loading.svg" data-src="/img/in-post/Snipaste_2024-11-24_11-57-13.png"></li>
-</ol>
-</li>
-<li>线程是轻量级的进程，在上下文切换的时候时空开销比较小，<a class="link" href="https://www.doubao.com/thread/ab5fe96119646">线程就像是生产线，进程像工厂<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，TCP（thread）线程控制块和PCB（process）很像，啥都像<br>线程是CPU调度的基本单位,可以独立执行程序</li>
-<li><a class="link" href="https://www.doubao.com/thread/a557406390af1">线程的实现<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>可以分为两类:<strong>用户级线程</strong>(User-Level Thread，ULT)和<strong>内核级线程</strong>(Kernel-Level Thread，KLT)。<br><br>用户级线程是在用户视角下能看见的线程，操作系统不用干预，所以线程之间的切换不用转换到内核态，开销很小<br><br><strong>用户级线程就像是民间组织</strong>，可以非常灵活解决不用内核操心的问题，但是涉及内核的问题（I\O等）就需要和内核商榷，开销大<br><br><strong>内核级线程就像是官方机构</strong>，行为调度极为严整，相对重量级，虽然做事效率高，但是消耗大</li>
-<li><a class="link" href="https://www.doubao.com/thread/abcc237f909df">多线程模型<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>：<ul>
-<li><strong>一对一模型</strong>：每个民间组织对应一个具体的官方负责人，行为调度非常明确，这个民间组织工作受阻也不影响其他活动，但是因为这个组织啥都让负责人负责，所以开销大<blockquote>
-<p>优点:当一个线程被阻塞后，允许调度另一个线程运行，所以并发能力较强。<br>缺点:每创建一个用户线程，相应地就需要创建一个内核线程，开销较大。</p>
-</blockquote>
-</li>
-<li><strong>一对多模型</strong>：一个官方负责人管了好几个组织，遇到的问题可以在内部讨论解决，效率高，但是有一个组织遇到问题，整个组织就就会受到影响<blockquote>
-<p>优点:线程管理是在用户空间进行的，无须切换到核心态，因而效率比较高。<br>缺点:如果一个线程在访问内核时发生阻塞，则整个进程都会被阻塞;在任何时刻，只有一个线程能够访问内核，多个线程不能同时在多个CPU上运行。</p>
-</blockquote>
-</li>
-<li><strong>多对多模型</strong>：有前两个的优点</li>
-</ul>
-</li>
-<li>单处理器中如果有10个进程，可能会有下边几种情况：<ul>
-<li>一个处于运行态，其余九个处于阻塞态或者就绪态</li>
-<li>10个进程全部阻塞</li>
-<li>就算10个进程并发执行，也是一个运行九个就绪</li>
-</ul>
-</li>
-<li>C语言编写的程序在使用内存时一般分为三个段，它们一般是<strong>正文段</strong>(代码和赋值数据段)、<strong>数据堆段</strong>和<strong>数据栈段</strong>。<br><strong>二进制代码和常量存放在正文段，动态分配的存储区在数据堆段，临时使用的变量在数据栈段。</strong><br>由此，我们可以确定全局赋值变量在正文段赋值数据段，未赋值的局部变量和实参传递在栈段，动态内存分配在堆段，常量在正文段，进程的优先级只能在 PCB内。</li>
-<li>在同一进程中，线程的切换不会引起进程的切换。当从一个进程中的线程切换到另一个进程中的线程时，才会引起进程的切换。</li>
-<li><a class="link" href="https://www.doubao.com/thread/a1ab29322ff04">线程可以节省系统资源<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，但线程并不能增强进程安全性，因为线程共享进程的地址空间和资源，若一个线程出错，则可能影响整个进程的运行。</li>
-<li>CPU调度以线程为单位,在多处理器中,内核级线程的调度是并行的,用户级线程不行,因为操作系统只能看到进程这一级。</li>
-<li>从阻塞变为执行才叫唤醒，从就绪变为执行不叫唤醒。</li>
-</ul>
-<h2 id="2-2CPU调度"><a href="#2-2CPU调度" class="headerlink" title="2.2CPU调度"></a>2.2CPU调度</h2><ul>
-<li>三种调度：<ul>
-<li>高级调度：作业调度，把作业从外存调入内存。</li>
-<li>中级调度：把内存中暂时不用的进程调到外存中（挂起态）。</li>
-<li>低级调度：进程调度，决定哪个进程获得CPU，发生频率很高，一般几十毫秒一次</li>
-</ul>
-</li>
-<li>进行CPU调度的事件：<ul>
-<li>创建新进程：父进程和子进程都处于就绪态，操作系统需要决定运行哪个。</li>
-<li>进程结束或者被终止，操作系统从就绪队列中选择一个进程运行，没有的话就运行闲逛进程</li>
-<li>进程被阻塞之后要选择别的进程运行</li>
-<li>被阻塞的进程所要的条件被满足之后CPU会决定运行这个进程还是接着运行现在的进程</li>
-</ul>
-</li>
-<li>不能进行调度的情况：<ul>
-<li>在中断处理的时候，这个中断处理程序属于系统的操作，不属于某个进程所以不能进行调度</li>
-<li>在执行原子操作的时候</li>
-</ul>
-</li>
-<li>用户级线程和内核级线程的调度：<ul>
-<li>操作系统不知道有用户级线程的存在，所以操作系统还是跟以前一样选择一个进程发放时间片运行，由进程自己决定运行哪一个线程</li>
-<li>操作系统会选择一个线程，不考虑这个线程属于哪一个进程，就分配时间片之后运行</li>
-</ul>
-</li>
-<li>上下文切换的流程：<ul>
-<li>把CPU的信息保存到进程的PCB中，里边有程序计数器和其他寄存器</li>
-<li>把这个进程的PCB移入就绪或者阻塞队列</li>
-<li>选择另一个进程读取它的PCB</li>
-<li>恢复新进程的上下文</li>
-<li>跳转到新进程PCB里边PC指向的位置执行</li>
-</ul>
-</li>
-<li><h2 id="CPU调度的算法：-先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I-O繁忙型，因为CPU繁忙的作业计算完就走了，I-O繁忙的作业还要等可长时候才开始计算-短作业优先，要是一直有短作业来，那长作业要饿死-高相应比优先：-相应比-frac-等待时间-要求服务时间-要求服务时间-优先级调度：-系统进程-用户进程；-交互型进程（前台进程）-非交互型进程（后台进程）-I-O型进程-计算型进程，因为I-O很慢，所以要先启动设备-时间片轮转调度-多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法"><a href="#CPU调度的算法：-先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I-O繁忙型，因为CPU繁忙的作业计算完就走了，I-O繁忙的作业还要等可长时候才开始计算-短作业优先，要是一直有短作业来，那长作业要饿死-高相应比优先：-相应比-frac-等待时间-要求服务时间-要求服务时间-优先级调度：-系统进程-用户进程；-交互型进程（前台进程）-非交互型进程（后台进程）-I-O型进程-计算型进程，因为I-O很慢，所以要先启动设备-时间片轮转调度-多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法" class="headerlink" title="CPU调度的算法：- 先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I\O繁忙型，因为CPU繁忙的作业计算完就走了，I\O繁忙的作业还要等可长时候才开始计算- 短作业优先，要是一直有短作业来，那长作业要饿死- 高相应比优先：$相应比=\frac{等待时间+要求服务时间}{要求服务时间}$- 优先级调度：  - 系统进程>用户进程；  - 交互型进程（前台进程）>非交互型进程（后台进程）  - I\O型进程>计算型进程，因为I\O很慢，所以要先启动设备- 时间片轮转调度- 多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法"></a>CPU调度的算法：<br>- 先来先服务，效果很不好，因为有利于CPU繁忙型，不利于I\O繁忙型，因为CPU繁忙的作业计算完就走了，I\O繁忙的作业还要等可长时候才开始计算<br>- 短作业优先，要是一直有短作业来，那长作业要饿死<br>- 高相应比优先：<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -1.158ex;" xmlns="http://www.w3.org/2000/svg" width="28.042ex" height="3.447ex" role="img" focusable="false" viewBox="0 -1011.8 12394.8 1523.5"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">相</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">应</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">比</text></g><g data-mml-node="mo" transform="translate(3277.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mfrac" transform="translate(4333.6,0)"><g data-mml-node="mrow" transform="translate(220,481.4) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">等</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">待</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">时</text></g><g data-mml-node="mi" transform="translate(3000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">间</text></g><g data-mml-node="mo" transform="translate(4000,0)"><path data-c="2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path></g><g data-mml-node="mi" transform="translate(4778,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">要</text></g><g data-mml-node="mi" transform="translate(5778,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">求</text></g><g data-mml-node="mi" transform="translate(6778,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">服</text></g><g data-mml-node="mi" transform="translate(7778,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">务</text></g><g data-mml-node="mi" transform="translate(8778,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">时</text></g><g data-mml-node="mi" transform="translate(9778,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">间</text></g></g><g data-mml-node="mrow" transform="translate(1909.3,-370.3) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">要</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">求</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">服</text></g><g data-mml-node="mi" transform="translate(3000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">务</text></g><g data-mml-node="mi" transform="translate(4000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">时</text></g><g data-mml-node="mi" transform="translate(5000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">间</text></g></g><rect width="7821.2" height="60" x="120" y="220"></rect></g></g></g></svg></mjx-container><br>- 优先级调度：<br>  - 系统进程&gt;用户进程；<br>  - 交互型进程（前台进程）&gt;非交互型进程（后台进程）<br>  - I\O型进程&gt;计算型进程，因为I\O很慢，所以要先启动设备<br>- 时间片轮转调度<br>- 多级队列调度算法：把不同的作业分为不同的队列，不同的队列中采用不同的调度算法</h2></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>计算机操作系统</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>内存管理</title>
     <url>/2024/12/07/2024-12-7-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</url>
     <content><![CDATA[<h1 id="内存管理的基本概念"><a href="#内存管理的基本概念" class="headerlink" title="内存管理的基本概念"></a>内存管理的基本概念</h1><ul>
@@ -766,8 +783,8 @@ import {initHBE} from "/js/plugins/hbe.js";
 </li>
 <li>编译、链接、装入：<ul>
 <li>编译是把源代码变成目标语言，这种语言可能是机器语言或者是某种中间表示形式</li>
-<li>链接是把目标文件和库文件连在一起，生成可执行文件</li>
-<li>装入是由装入程序把可执行文件装入内存<blockquote>
+<li>链接是把目标文件和库文件连在一起，生成可执行文件，逻辑地址就是在这个阶段形成的</li>
+<li>装入是由装入程序把可执行文件装入内存，这个阶段中，逻辑地址变为物理地址。<blockquote>
 <p>装入有三种方式：</p>
 <ol>
 <li>绝对装入：逻辑地址就是物理地址，程序直接放到内存</li>
@@ -799,6 +816,23 @@ import {initHBE} from "/js/plugins/hbe.js";
 <li>邻近适应算法（next fit）：在first fit的基础上，从上一个结束查找的位置开始查找，也就是循环查找，通常比first fit的性能更差</li>
 <li>最佳适应算法（best fit）：把容量从小到大开始排，从头开始找到合适的分区</li>
 <li>最坏适应算法（worst fit）：把容量从大到小开始排，从头开始找到合适的分区</li>
+</ul>
+</li>
+</ul>
+<hr>
+<ul>
+<li><a class="link" href="https://www.doubao.com/thread/a7c545530a0d4">在段式和段页式分配方式下，CPU的访存次数<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>：<br><ul>
+<li>段式：<ul>
+<li>第一次访存为了特定段的基址</li>
+<li>第二次访存根据基址和偏移量得到数据</li>
+</ul>
+</li>
+<li>段页式：<ul>
+<li>第一次为了特定段和页表的基址</li>
+<li>第二次根据段和页表得到物理块号</li>
+<li>第三次根据物理块号和偏移量得到数据</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -1595,6 +1629,193 @@ import {initHBE} from "/js/plugins/hbe.js";
 <p>Good luck to you all and…</p>
 <p>(Russian) Thank you.</p>
 <p>(Applause)</p>
+]]></content>
+      <tags>
+        <tag>English Learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Should we let students use ChatGPT?</title>
+    <url>/2025/01/06/2025-1-6-English-Learning/</url>
+    <content><![CDATA[<h2 id="Should-we-let-students-use-ChatGPT"><a href="#Should-we-let-students-use-ChatGPT" class="headerlink" title="Should we let students use ChatGPT?"></a><a class="link" href="https://www.youtube.com/watch?v=ogcSQ-cFRVM">Should we let students use ChatGPT?<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></h2><p>this past December I was sitting around a table having lunch with some English</p>
+<p>teachers when one of them started sharing how she had recently caught a</p>
+<p>student cheating on an essay using this new form of artificial intelligence</p>
+<p>called chat GPT she watched in awe astonishment and a</p>
+<p>bit of mild horror as this program constructed an entire essay for the</p>
+<p>student with a click of a button the initial reaction around the table</p>
+<p>was disbelief there’s no way that AI can write a quality essay</p>
+<p>naturally curious I whipped out my laptop to test it out</p>
+<p>all of us watched in shock as this AI program constructed a well-written</p>
+<p>analysis essay right before our eyes in a matter of seconds if you’ve ever</p>
+<p>wondered how to induce an immediate existential crisis amongst a group of</p>
+<p>English teachers yeah that’s how</p>
+<p>while there are dozens of text generative AI programs out there</p>
+<p>open ai’s chat GPT which was released to the public this past November is the</p>
+<p>most well known since its release chat GPT has been</p>
+<p>featured on almost every major news station and even made it to the cover of</p>
+<p>Time magazine in February this program caught the World by storm</p>
+<p>because it was 10 times smarter than the version that had come before it</p>
+<p>chat GPT is what is known as a large language model which is essentially a</p>
+<p>network of neural pathway connections that allows the program to learn and</p>
+<p>become more accurate in its responses over time</p>
+<p>when I asked chat GPT what it wanted the world to know about its capabilities</p>
+<p>it responded I can provide information on a wide</p>
+<p>range of topics and understand and respond to natural language I can also</p>
+<p>generate creative and personalized responses and learn from my interactions</p>
+<p>to improve my language processing capabilities over time</p>
+<p>oh is that all</p>
+<p>right after its public emergence companies and people around the world</p>
+<p>began harnessing the immense power of this technology doctors have used it to</p>
+<p>help diagnose patients businesses began using it to create advertisements and</p>
+<p>blog posts and Joe schmoe has been using it to help him write all those pesky</p>
+<p>thank you cards from his wedding 14 months ago</p>
+<p>and all of this is being done with the click of a button</p>
+<p>common applications like Snapchat instacart</p>
+<p>Duolingo and Quizlet have also begun to integrate this technology into their</p>
+<p>platforms and then openai released gpt4 in March</p>
+<p>which is the newest version of the system that powers chat GPT</p>
+<p>gpt4 unlike chat GPT can also analyze images and web links instead of being</p>
+<p>restricted to text input only Microsoft began using gbt4 to power</p>
+<p>their search engine Bing they also have plans to integrate gpt4 with the</p>
+<p>Microsoft Office Suite products soon you’ll be able to turn your boss’s</p>
+<p>20-page email into a comprehensive PowerPoint presentation with a single</p>
+<p>click a couple of weeks after Microsoft</p>
+<p>released their new search engine Google released their AI system bard</p>
+<p>and I’m sure it’s only a matter of time until we see artificial intelligence</p>
+<p>Incorporated with the Google Suite products as well</p>
+<p>the tech world has entered an AI arms race</p>
+<p>but with such an explosive advancement in technology seemingly overnight</p>
+<p>Educators across the globe have entered a state of panic of course there are the</p>
+<p>typical concerns about AI taking over the world courtesy of too many movies</p>
+<p>and TV shows like Terminator and Westworld</p>
+<p>but for educators the concern lies more with their students</p>
+<p>post-pandemic Educators have noticed severe declines in students ability to</p>
+<p>think critically and problem solve at the most basic levels but now with AI</p>
+<p>able to do the thinking for them educators are Awash in worry not merely</p>
+<p>for their jobs but for the development of their students</p>
+<p>but as author and writing instructor John Warner points out</p>
+<p>the reason the appearance of this Tech is so shocking is because it forces us</p>
+<p>to confront what we value rather than letting the status quo churn along</p>
+<p>unexamined</p>
+<p>there is no doubt that AI is going to transform the landscape of Education as</p>
+<p>we know it after all we’ve seen this type of transformation before and for</p>
+<p>most of us it happened within our lifetimes the widespread proliferation</p>
+<p>of the internet just a few decades ago completely transformed how schools and</p>
+<p>our global economy functioned isn’t it safe to assume that a new technological</p>
+<p>leap might do the same hard work of this leap is going to fall</p>
+<p>to educators generative AI systems will force</p>
+<p>Educators and educational institutions to re-evaluate what they teach and why</p>
+<p>and how they teach it do students really need to know how to</p>
+<p>write a five paragraph rigorously structured essay</p>
+<p>or do they need to understand how to approach a concept break it down and</p>
+<p>organize it into bite-sized pieces since the dawn of time teachers have</p>
+<p>been posed to question by students when will I use this in real life</p>
+<p>well now is the time to come up with a concrete answer to that question because</p>
+<p>the truth is many of the assignments given in the classroom really don’t</p>
+<p>prepare students for real life when are students going to need to know how to</p>
+<p>diagram a compound complex sentence unless you end up an English teacher</p>
+<p>Chances Are Never if students feel as though what they are</p>
+<p>learning in the classroom will benefit them in the long run they will become</p>
+<p>invested in the learning and won’t be looking for shortcuts to Simply get the</p>
+<p>work done but instead of embracing and learning</p>
+<p>from this new technology many schools across the country</p>
+<p>responded to the public release of chat GPT by immediately blocking it and other</p>
+<p>AI applications on all School sanctioned devices</p>
+<p>but is it beneficial to restrict student use of a technology that businesses</p>
+<p>around the world are using or should we instead teach our students how to</p>
+<p>interact with AI safely and productively anyone that has been around teenagers</p>
+<p>for any length of time understands All Too Well the implications of reverse</p>
+<p>psychology even adults fall prey to this trap if I tell you not to think of an</p>
+<p>elephant like whatever you do don’t think about an elephant</p>
+<p>yeah we’re all thinking about an elephant right now if you tell a teacher</p>
+<p>a teenager not to do something you can bet they’ll be itching to try it out as</p>
+<p>soon as your back is turned blocking chat GPT and similar AI applications</p>
+<p>won’t work it will only make the programs more intriguing for students</p>
+<p>who wouldn’t want to explore the secrets this technology holds that has caused</p>
+<p>such an adverse reaction amongst their teachers</p>
+<p>plus we can’t control what students do outside of their classrooms and school</p>
+<p>buildings it’s all too easy for students to pull up this program on their phone</p>
+<p>when they go to the bathroom or simply access it on a different device when</p>
+<p>they’re completing their schoolwork at home</p>
+<p>and once Microsoft and Google integrate this technology into their office suite</p>
+<p>products unless we want to regress to the pre-internet age of paper and pencil</p>
+<p>we won’t be able to avoid AI in the classroom we will never be able to truly</p>
+<p>and fully block it instead we have to find ways to work with and around it</p>
+<p>in order to implement effective use of AI in the classroom teachers may need to</p>
+<p>re-evaluate how they are teaching the material and assessing student learning</p>
+<p>What If instead of assigning worksheets and essays we encouraged more</p>
+<p>collaboration in the classroom project-based and student directive</p>
+<p>learning have always been my go-to’s as an educator</p>
+<p>as an English teacher my students were constantly creating posters and</p>
+<p>participating in debates in order to analyze various aspects of literary work</p>
+<p>they would work on group projects and presentations as their end of unit</p>
+<p>assessment and we would use gameplay to review material such as participating in</p>
+<p>an escape room or a competitive game of Jeopardy</p>
+<p>even if my students were able to access AI in my classroom it wouldn’t have</p>
+<p>provided them with much help beyond the ability to be a sounding board for their</p>
+<p>ideas and what would be so wrong with that</p>
+<p>I think most Educators would agree that the goal of education is to help our</p>
+<p>students learn how to think critically and problem solve AI technology can be</p>
+<p>incorporated into the classroom in ways that actually engage students in</p>
+<p>critical thinking math students could create their own math problems and then</p>
+<p>use AI to test the results social studies students could use chat</p>
+<p>GPT to write alternative realities to history and then discuss the results as</p>
+<p>a class science students could use the chat bot</p>
+<p>to adopt the voice of a famous scientist and then engage in a stimulating</p>
+<p>conversation about their discoveries students can also utilize AI to help</p>
+<p>edit their Writing Practice vocabulary terms provide individualized tutoring</p>
+<p>and edit their ideas and research and these are just a few of the</p>
+<p>unlimited applications from the student perspective</p>
+<p>but it also has abilities that can benefit teachers</p>
+<p>almost immediately after my school blocked AI on all of our student devices</p>
+<p>my co-workers began using it to help them do their jobs more effectively</p>
+<p>they use chat GPT to write lesson plans come up with discussion prompts and</p>
+<p>create tests and quizzes and I actually used it to help me write</p>
+<p>a final exam for my students a process that normally takes me hours</p>
+<p>took only 30 minutes with the assistance of AI</p>
+<p>not only does AI have the ability to Save hours of preparation time for</p>
+<p>teachers but it can also take a piece of writing and adapt it in any way the user</p>
+<p>asks which can help make learning and reading more accessible to students of</p>
+<p>all abilities for example we could ask chat GPT to</p>
+<p>take a complex text and transform it into something a fourth grader could</p>
+<p>read or we could have it transform</p>
+<p>Shakespeare’s Romeo and Juliet into a modern day Telenovela</p>
+<p>possibilities are only as limited as the user’s imagination</p>
+<p>we are living in a digitally Progressive world</p>
+<p>shouldn’t our schools reflect that as Matt Miller from ditch that textbook</p>
+<p>said this version of chat GPT is the weakest</p>
+<p>most rudimentary artificial intelligence of its kind our students will ever use</p>
+<p>if we are blocking technology in our schools that are being used in</p>
+<p>businesses across the country and around the world we aren’t adequately preparing</p>
+<p>our students to enter the 21st century Workforce</p>
+<p>our students need to be trained how to interact with the world around them via</p>
+<p>the technology at their disposal and how to do so safely</p>
+<p>and who will teach them these skills if teachers don’t</p>
+<p>but if we also need to give students the benefit of the doubt just like Educators</p>
+<p>do with other classroom technology teachers can establish times to utilize</p>
+<p>Ai and times to not when one educator gave the option for</p>
+<p>his students to use chat GPT on an assignment</p>
+<p>only four actually took him up on the offer</p>
+<p>many students are just as nervous as their adult counterparts are about this</p>
+<p>new technology they too worry about the impact that it will have on their</p>
+<p>ability to problem solve and become functioning adults who are able to make</p>
+<p>a positive contribution to the world in fact</p>
+<p>there are many students who don’t know about this new technology</p>
+<p>of course this will change in the coming months and years</p>
+<p>but for now we have time and we need to use this time to adapt</p>
+<p>accordingly just as the internet did before it AI is</p>
+<p>going to weave its way into every facet of Our Lives the process is already</p>
+<p>started we’re already carrying around little AI machines in our pockets and</p>
+<p>purses and while Chad GPT and gpt4 are far more advanced than Siri or Alexa</p>
+<p>they too will eventually become a staple in our everyday routines</p>
+<p>large language model generative AI is going to change the landscape of the</p>
+<p>world’s economy and launch us into a new era of Education</p>
+<p>schools need to start teaching their students how to use AI safely and</p>
+<p>effectively and teachers need to begin reevaluating and redesigning their</p>
+<p>curriculum so that next year we’re not sitting around a table in shock as our</p>
+<p>co-worker shares how they just caught a student cheating using whatever form of</p>
+<p>AI is coming next thank you</p>
+<p>[Applause]</p>
 ]]></content>
       <tags>
         <tag>English Learning</tag>
