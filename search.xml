@@ -28,32 +28,6 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/2021/02/02/2021-2-2-%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="db4e94f965e27ff20b3a5c957656deb75e3b40c1451eb081b7cf8156ecb95799">249107fcce4fdab00b19d327c31fd8f3535427e7c3ba9fbe652aae764677b3cf7e0519e681ddf13739627546f58850cb7b47f58e2a3755f580598a5e64e16ca7e9bd0e04946e951d490404ab45c9e276877d699426c7229f7147e43cc1f667e7ae71347fe2a32d44513a4691f60d5c6d0b38573ba0ef61473d5a71ad41d7bf0235799b442096e6383318e1b3fce6c4fb94ca1389db22c69713c53647d73a13c0628d745f7de48aaf4d3529aef2bc2b0f82109767e51c14992714a9e0291635b12a2bd973bc6b32c39400a38ea7269e7bdc491939d13ffe4508432f24e5c0e61463e599d14ac65d7e7a0e57fdd28edf19e68ef0f7706e4cf449267a3077d8bcfdd30e529d79fa2bd0ce55bd8550eafd47b88814623303854e2c765f3cebc0313bdb951fd70144e54966b8be6d6a9d450ee8ce6b7d5a4d8cc0b40ce13c52394ba486989a3956b589ca5ee14765538d5af2879d843b43e328a1c7e8b736d45123d7fa7a9d24af9da3698d4ba795eca372ec65764ba6dac7be1300377770f73a83a05b564abb403d4022cf15b9375e2090c4</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日记</title>
     <url>/2021/02/01/2021-2-1-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -80,10 +54,10 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/2021/03/14/2021-3-14-%E6%97%A5%E8%AE%B0/</url>
+    <url>/2021/02/04/2021-2-4-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="abc3339a655f449b8b0e49bf85e351a332f6c31f85a95225f75d668afb94908a">249107fcce4fdab00b19d327c31fd8f33af60cc07c7fca5acec9f3d9dbfa6fd6e04d38ad181f8cede03dd9af51349f8d4fa3fd4380e1f3f378354b9b8cf3efeb07b5cd0c0e3a9f3ef9a6a531dc851d28fbbd58642fbb329bdbda96bcaaa5bd3d4b9656f9fbf2527ef07c20767129c8b8e2fdc0688d580ee71d32eafb308094da8893e9abd989e48c177e0d3f443760d5583705f01b844b1431473f39beef9a08</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -106,10 +80,36 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/2021/02/04/2021-2-4-%E6%97%A5%E8%AE%B0/</url>
+    <url>/2021/02/02/2021-2-2-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="db4e94f965e27ff20b3a5c957656deb75e3b40c1451eb081b7cf8156ecb95799">249107fcce4fdab00b19d327c31fd8f3535427e7c3ba9fbe652aae764677b3cf7e0519e681ddf13739627546f58850cb7b47f58e2a3755f580598a5e64e16ca7e9bd0e04946e951d490404ab45c9e276877d699426c7229f7147e43cc1f667e7ae71347fe2a32d44513a4691f60d5c6d0b38573ba0ef61473d5a71ad41d7bf0235799b442096e6383318e1b3fce6c4fb94ca1389db22c69713c53647d73a13c0628d745f7de48aaf4d3529aef2bc2b0f82109767e51c14992714a9e0291635b12a2bd973bc6b32c39400a38ea7269e7bdc491939d13ffe4508432f24e5c0e61463e599d14ac65d7e7a0e57fdd28edf19e68ef0f7706e4cf449267a3077d8bcfdd30e529d79fa2bd0ce55bd8550eafd47b88814623303854e2c765f3cebc0313bdb951fd70144e54966b8be6d6a9d450ee8ce6b7d5a4d8cc0b40ce13c52394ba486989a3956b589ca5ee14765538d5af2879d843b43e328a1c7e8b736d45123d7fa7a9d24af9da3698d4ba795eca372ec65764ba6dac7be1300377770f73a83a05b564abb403d4022cf15b9375e2090c4</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日记</title>
+    <url>/2021/03/14/2021-3-14-%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="abc3339a655f449b8b0e49bf85e351a332f6c31f85a95225f75d668afb94908a">249107fcce4fdab00b19d327c31fd8f33af60cc07c7fca5acec9f3d9dbfa6fd6e04d38ad181f8cede03dd9af51349f8d4fa3fd4380e1f3f378354b9b8cf3efeb07b5cd0c0e3a9f3ef9a6a531dc851d28fbbd58642fbb329bdbda96bcaaa5bd3d4b9656f9fbf2527ef07c20767129c8b8e2fdc0688d580ee71d32eafb308094da8893e9abd989e48c177e0d3f443760d5583705f01b844b1431473f39beef9a08</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -220,102 +220,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </categories>
       <tags>
         <tag>计算机网络</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>操作系统概述</title>
-    <url>/2024/11/21/2024-11-21-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/</url>
-    <content><![CDATA[<h2 id="1-1操作系统的基本概念"><a href="#1-1操作系统的基本概念" class="headerlink" title="1.1操作系统的基本概念"></a>1.1操作系统的基本概念</h2><ul>
-<li>操作系统的四大特征:并发,共享,虚拟,异步,前两个是最基本的特征;<br><br><strong>并发</strong>是指两个或多个事件在同一时间间隔内发生;<br><br><strong>共享</strong>是指系统中的资源可供内存中多个并发执行的进程共同使用;<br><br><strong>虚拟</strong>是指将一个物理上的实体变为若干逻辑上的对应物;<br><br><strong>异步</strong>是指计算机中的进程因为资源问题,所以不是一下就运行到底的而是走走停停</li>
-<li>操作系统提供的接口主要分为两类:一类是<strong>命令接口</strong>，用户利用这些操作命令来组织和控制作业的执行:另一类是<strong>程序接口</strong>，编程人员可以使用它们来请求操作系统服务。<br><br>命令接口有联机和脱机两种:联机是输入一条命令就要得到结果,就是交互性;脱机是把处理任务直接扔给计算机,用户不干预计算机的运行,坐等结果;<br><br>程序接口是由一组系统调用组成,GUI就是通过调用程序接口实现的,但是GUI不是操作系统的一部分,GUI调用的系统调用命令是操作系统的一部分;</li>
-</ul>
-<h2 id="1-2操作系统发展历程"><a href="#1-2操作系统发展历程" class="headerlink" title="1.2操作系统发展历程"></a>1.2操作系统发展历程</h2><ul>
-<li><strong>单道批处理系统</strong>:把一堆作业扔给操作系统,配上监督程序,作业一个一个进行,具有自动性,顺序性,单道性;</li>
-<li><strong>多道批处理系统</strong>用户所提交的作业都先存放在外存上并排成一个队列，作业调度程序按一定的算法从后备队列中选择若干作业调入内存，它们在管理程序的控制下相互穿插地运行</li>
-<li><strong>分时操作系统</strong>是指将处理器的运行时间分成很短的时间片，按时间片轮流将处理器分配给各个作业<br>多个用户终端共享主机,响应时间很短,但是对于需要实时反馈的作业就不够了,需要实时系统</li>
-<li><strong>实时系统</strong>有硬实时和软实时,前者对于时间要求很严格,后者拖延一会也没事</li>
-<li>多道程序技术要求进程间能实现并发，需要实现进程调度以保证CPU的工作效率，而并发性的实现需要中断功能的支持。</li>
-</ul>
-<h2 id="1-3操作系统的运行环境"><a href="#1-3操作系统的运行环境" class="headerlink" title="1.3操作系统的运行环境"></a>1.3操作系统的运行环境</h2><ul>
-<li>CPU 的运行模式划分为用户态(目态)和核心态(又称管态、内核态)。</li>
-<li>特权指令(核心态)，是指不允许用户直接使用的指令，如I/O 指令、关中断指令、内存清零指令,存取用于内存保护的寄存器、送 PSW 到程序状态字寄存器等的指令。<br>非特权指令(用户态)，是指允许用户直接使用的指令，它不能直接访问系统中的软硬件资源，仅限于访问用户的地址空间，这也是为了防止用户程序对系统造成破坏。</li>
-<li><strong>中断和异常</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-21_20-21-35.png"></li>
-<li><strong>系统调用的功能</strong>:<br><br>设备管理。完成设备的请求或释放，以及设备启动等功能。<br><br>文件管理。完成文件的读、写、创建及删除等功能。<br><br>进程控制。完成进程的创建、撤销、阻塞及唤醒等功能。<br><br>进程通信。完成进程之间的消息传递或信号传递等功能。<br><br>内存管理。完成内存的分配、回收以及获取作业占用内存区大小和起始地址等功能。</li>
-<li>用户程序创建一个新进程，需使用操作系统提供的系统调用接口<br><br>用户程序使用系统调用命令，该命令经过编译后形成若干参数和陷入指令<br>当操作系统完成用户请求的系统调用功能后，应使CPU从内核态转到用户态</li>
-<li>在中断发生后，进入中断处理的程序只能属于操作系统程序</li>
-<li>计算机通过<strong>硬件</strong>完成操作系统由用户态到核心态的转换，这是通过中断机制来实现的。发生中断事件时，由硬件中断机制将计算机状态置为核心态。</li>
-<li>大多数计算机操作系统的内核包括四个方面的内容，即时钟管理、中断机制、原语和系统控制的数据结构及处理，其中第4部分实际上是系统调用类的指令(广义指令)。<br><blockquote>
-<p>置时钟指令是在核心态运行的,如果该指令允许在用户态执行，那么程序就可以自行更改时间片，会一直霸占CPU。</p>
-</blockquote>
-</li>
-<li>命令解释程序属于命令接口，能面对用户，在用户态下执行。磁盘调度程序、中断处理程序和进程调度程序都工作在内核态。</li>
-<li>“访管”指令仅在用户态下使用，<strong>执行“访管”指令将用户态转变为核心态。</strong></li>
-<li>系统调用命令工作在核心态，系统调用本身是一条在核心态运行的命令，并不是调用系统的命令，调用系统调用的命令才是用户态的。<br><strong>也就是说，系统调用的发生是在用户态，系统调用的执行是在核心态</strong></li>
-<li>I/O设备的请求、时钟中断是外部中断。<br><br>访管指令、缺页异常是内部中断。</li>
-<li>系统调用需要保存 PSW 和PC的值，一般过程调用只需保存PC的值。<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_08-53-49.png"><br>一般过程调用的被调用程序与调用程序运行在同一个状态，可能是系统态，也可能是用户态<br>系统调用的被调用过程一定运行在核心态</li>
-<li>trap 指令、跳转指令和压栈指令均可以在用户态执行，其中 trap 指令负责由用户态转换为内核态。关中断指令为特权指令，必须在核心态才能执行。<strong>注意</strong>，在操作系统中，关中断指令是权限非常大的指令，因为中断是现代操作系统正常运行的核心保障之一，能把它关掉，说明执行这条指令的一定是权限非常大的机构(管态)。</li>
-<li>外部中断处理过程，PC 值由中断隐指令自动保存，而通用寄存器内容由操作系统保存。块表(TLB)和 Cache 中的内容则由硬件机构保存。</li>
-<li>执行系统调用的过程：<br><ol>
-<li>传递系统调用参数</li>
-<li>执行陷入(trap)指令</li>
-<li>执行相应的服务程序</li>
-<li>返回用户态</li>
-</ol>
-</li>
-<li>当 CPU 检测到中断信号后，由硬件自动保存被中断程序的断点[程序计数器(PC)和程序状态字寄存器(PSW)]<blockquote>
-<p>麻蛋，到底是硬件保存的还是中断隐指令保存的啊，<strong>暂定是硬件保存的</strong></p>
-</blockquote>
-之后，硬件找到该中断信号对应的中断向量，中断向量指明中断服务程序入口地址(各中断向量统一存放在中断向量表中，该表由操作系统初始化)。<br>接下来开始执行中断服务程序，保存中断屏蔽字、保存各通用寄存器的值，并提供与中断信号对应的中断服务</li>
-<li><strong>系统调用是由用户进程发起的，请求操作系统的服务。</strong><br><ol>
-<li>当内存中的空闲页框不够时，操作系统会将某些页面调出，并将要访问的页面调入，这个过程完全由操作系统完成，不涉及系统调用。</li>
-<li>进程调度完全由操作系统完成，无法通过系统调用完成。</li>
-<li>创建新进程可以通过系统调用来完成，如Linux 中通过 fork 系统调用来创建子进程。</li>
-</ol>
-</li>
-<li>发生系统调用时，CPU 通过执行软中断指令将CPU的运行状态从用户态切换到内核态，这个过程与中断和异常的响应过程相同,，<strong>由硬件负责保存断点和程序状态字,并将 CPU 模式改为内核态</strong>。<br>然后，执行操作系统内核的系统调用入口程序，<strong>该内核程序负责保存通用寄存器的内容，再调用执行特定的系统调用服务例程。</strong><br>综上，前俩由硬件完成，后俩由操作系统完成。</li>
-</ul>
-<h2 id="1-4操作系统的结构，引导和虚拟机"><a href="#1-4操作系统的结构，引导和虚拟机" class="headerlink" title="1.4操作系统的结构，引导和虚拟机"></a>1.4操作系统的结构，引导和虚拟机</h2><ul>
-<li>结构：<br><ol>
-<li><strong>分层法</strong>：把操作系统分层，从底层（硬件）一层层向上扩充，每层只能调用紧邻它的低层的功能和服务(单向依赖)。<ul>
-<li><strong>优势</strong>：容易调试检查错误，一层一层向上检查，很容易确定具体哪一层出错；<br>容易扩充和维护，跟砌墙一样，想实现更高的功能只需要一层层叠加就🆗了</li>
-<li><strong>劣势</strong>：合理定义各层比较困难，各层之间挨得太近，暧昧不分；<br>效率很差，要完成某个功能要从底层开始穿越</li>
-</ul>
-</li>
-<li><strong>模块化</strong>：把操作系统按照不同的功能分为不同的模块<ul>
-<li><strong>优势</strong>：①提高了操作系统设计的正确性、可理解性和可维护性;②增强了操作系统的可适应性;③加速了操作系统的开发过程。</li>
-<li><strong>劣势</strong>：接口很难设计，你不知道它都有啥需求；<br>模块也很难设计，各个模块要齐头并进，顺序很难把握；</li>
-</ul>
-</li>
-<li><a class="link" href="https://www.doubao.com/thread/a4197fa860ae6">微内核<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>是保留最基础的内核功能，把多余的功能都剥离出去。<br><ul>
-<li>优势：<ol>
-<li>扩展性和灵活性。</li>
-<li>可靠性和安全性。</li>
-<li>可移植性</li>
-<li>分布式计算。</li>
-</ol>
-</li>
-<li>劣势：有点性能问题，因为需要频繁地在用户态和内核态之间切换</li>
-</ul>
-</li>
-<li><strong>宏内核</strong>：把所有功能都聚合到一起，效率很高，共享信息很快，但是操作系统越做越大，这种结构就很臃肿</li>
-</ol>
-</li>
-<li>模块化操作系统的各功能模块都在内核中，且模块之间相互调用、相互依赖，任何一个模块出错，都可能导致整个内核崩溃。<br>在微内核操作系统中，内核外的某个功能模块出错不会导致整个系统崩溃，可靠性高。 </li>
-<li>操作系统的启动过程：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_09-40-56.png" alt="text"></li>
-<li>Windows 是融合了宏内核和微内核的操作系统</li>
-<li>在拥有外核的操作系统中，外核只负责硬件资源的分配、回收、保护等，进程管理相关的工作仍然由内核负责。</li>
-<li>引导程序有两种，一种是位于BIOS中的用于引导开启各个设备，一种是位于硬盘中的用于引导操作系统</li>
-<li>第一类虚拟机管理程序直接运行在物理硬件之上，具有高性能和高安全性；第二类虚拟机管理程序运行在现有操作系统之上，安装和使用相对简单。<a class="link" href="https://www.doubao.com/thread/a3ff2039790f2">详细<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
-<li>BIOS 将控制权交给排在首位的启动设备后，CPU 将该设备主引导扇区的内容[主引导记录(MBR)]加载到内存中，然后由 MBR 检查分区表，查找活动分区，并将该分区的引导扇区的内容[分区引导记录(PBR)]加载到内存加以执行。</li>
-<li><strong>访管指令与访管中断</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_10-42-53.png" alt="text"></li>
-</ul>
-]]></content>
-      <categories>
-        <category>计算机操作系统</category>
-        <category>概述</category>
-      </categories>
-      <tags>
-        <tag>计算机操作系统</tag>
       </tags>
   </entry>
   <entry>
@@ -461,6 +365,102 @@ import {initHBE} from "/js/plugins/hbe.js";
       </categories>
       <tags>
         <tag>计算机网络</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>操作系统概述</title>
+    <url>/2024/11/21/2024-11-21-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/</url>
+    <content><![CDATA[<h2 id="1-1操作系统的基本概念"><a href="#1-1操作系统的基本概念" class="headerlink" title="1.1操作系统的基本概念"></a>1.1操作系统的基本概念</h2><ul>
+<li>操作系统的四大特征:并发,共享,虚拟,异步,前两个是最基本的特征;<br><br><strong>并发</strong>是指两个或多个事件在同一时间间隔内发生;<br><br><strong>共享</strong>是指系统中的资源可供内存中多个并发执行的进程共同使用;<br><br><strong>虚拟</strong>是指将一个物理上的实体变为若干逻辑上的对应物;<br><br><strong>异步</strong>是指计算机中的进程因为资源问题,所以不是一下就运行到底的而是走走停停</li>
+<li>操作系统提供的接口主要分为两类:一类是<strong>命令接口</strong>，用户利用这些操作命令来组织和控制作业的执行:另一类是<strong>程序接口</strong>，编程人员可以使用它们来请求操作系统服务。<br><br>命令接口有联机和脱机两种:联机是输入一条命令就要得到结果,就是交互性;脱机是把处理任务直接扔给计算机,用户不干预计算机的运行,坐等结果;<br><br>程序接口是由一组系统调用组成,GUI就是通过调用程序接口实现的,但是GUI不是操作系统的一部分,GUI调用的系统调用命令是操作系统的一部分;</li>
+</ul>
+<h2 id="1-2操作系统发展历程"><a href="#1-2操作系统发展历程" class="headerlink" title="1.2操作系统发展历程"></a>1.2操作系统发展历程</h2><ul>
+<li><strong>单道批处理系统</strong>:把一堆作业扔给操作系统,配上监督程序,作业一个一个进行,具有自动性,顺序性,单道性;</li>
+<li><strong>多道批处理系统</strong>用户所提交的作业都先存放在外存上并排成一个队列，作业调度程序按一定的算法从后备队列中选择若干作业调入内存，它们在管理程序的控制下相互穿插地运行</li>
+<li><strong>分时操作系统</strong>是指将处理器的运行时间分成很短的时间片，按时间片轮流将处理器分配给各个作业<br>多个用户终端共享主机,响应时间很短,但是对于需要实时反馈的作业就不够了,需要实时系统</li>
+<li><strong>实时系统</strong>有硬实时和软实时,前者对于时间要求很严格,后者拖延一会也没事</li>
+<li>多道程序技术要求进程间能实现并发，需要实现进程调度以保证CPU的工作效率，而并发性的实现需要中断功能的支持。</li>
+</ul>
+<h2 id="1-3操作系统的运行环境"><a href="#1-3操作系统的运行环境" class="headerlink" title="1.3操作系统的运行环境"></a>1.3操作系统的运行环境</h2><ul>
+<li>CPU 的运行模式划分为用户态(目态)和核心态(又称管态、内核态)。</li>
+<li>特权指令(核心态)，是指不允许用户直接使用的指令，如I/O 指令、关中断指令、内存清零指令,存取用于内存保护的寄存器、送 PSW 到程序状态字寄存器等的指令。<br>非特权指令(用户态)，是指允许用户直接使用的指令，它不能直接访问系统中的软硬件资源，仅限于访问用户的地址空间，这也是为了防止用户程序对系统造成破坏。</li>
+<li><strong>中断和异常</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-21_20-21-35.png"></li>
+<li><strong>系统调用的功能</strong>:<br><br>设备管理。完成设备的请求或释放，以及设备启动等功能。<br><br>文件管理。完成文件的读、写、创建及删除等功能。<br><br>进程控制。完成进程的创建、撤销、阻塞及唤醒等功能。<br><br>进程通信。完成进程之间的消息传递或信号传递等功能。<br><br>内存管理。完成内存的分配、回收以及获取作业占用内存区大小和起始地址等功能。</li>
+<li>用户程序创建一个新进程，需使用操作系统提供的系统调用接口<br><br>用户程序使用系统调用命令，该命令经过编译后形成若干参数和陷入指令<br>当操作系统完成用户请求的系统调用功能后，应使CPU从内核态转到用户态</li>
+<li>在中断发生后，进入中断处理的程序只能属于操作系统程序</li>
+<li>计算机通过<strong>硬件</strong>完成操作系统由用户态到核心态的转换，这是通过中断机制来实现的。发生中断事件时，由硬件中断机制将计算机状态置为核心态。</li>
+<li>大多数计算机操作系统的内核包括四个方面的内容，即时钟管理、中断机制、原语和系统控制的数据结构及处理，其中第4部分实际上是系统调用类的指令(广义指令)。<br><blockquote>
+<p>置时钟指令是在核心态运行的,如果该指令允许在用户态执行，那么程序就可以自行更改时间片，会一直霸占CPU。</p>
+</blockquote>
+</li>
+<li>命令解释程序属于命令接口，能面对用户，在用户态下执行。磁盘调度程序、中断处理程序和进程调度程序都工作在内核态。</li>
+<li>“访管”指令仅在用户态下使用，<strong>执行“访管”指令将用户态转变为核心态。</strong></li>
+<li>系统调用命令工作在核心态，系统调用本身是一条在核心态运行的命令，并不是调用系统的命令，调用系统调用的命令才是用户态的。<br><strong>也就是说，系统调用的发生是在用户态，系统调用的执行是在核心态</strong></li>
+<li>I/O设备的请求、时钟中断是外部中断。<br><br>访管指令、缺页异常是内部中断。</li>
+<li>系统调用需要保存 PSW 和PC的值，一般过程调用只需保存PC的值。<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_08-53-49.png"><br>一般过程调用的被调用程序与调用程序运行在同一个状态，可能是系统态，也可能是用户态<br>系统调用的被调用过程一定运行在核心态</li>
+<li>trap 指令、跳转指令和压栈指令均可以在用户态执行，其中 trap 指令负责由用户态转换为内核态。关中断指令为特权指令，必须在核心态才能执行。<strong>注意</strong>，在操作系统中，关中断指令是权限非常大的指令，因为中断是现代操作系统正常运行的核心保障之一，能把它关掉，说明执行这条指令的一定是权限非常大的机构(管态)。</li>
+<li>外部中断处理过程，PC 值由中断隐指令自动保存，而通用寄存器内容由操作系统保存。块表(TLB)和 Cache 中的内容则由硬件机构保存。</li>
+<li>执行系统调用的过程：<br><ol>
+<li>传递系统调用参数</li>
+<li>执行陷入(trap)指令</li>
+<li>执行相应的服务程序</li>
+<li>返回用户态</li>
+</ol>
+</li>
+<li>当 CPU 检测到中断信号后，由硬件自动保存被中断程序的断点[程序计数器(PC)和程序状态字寄存器(PSW)]<blockquote>
+<p>麻蛋，到底是硬件保存的还是中断隐指令保存的啊，<strong>暂定是硬件保存的</strong></p>
+</blockquote>
+之后，硬件找到该中断信号对应的中断向量，中断向量指明中断服务程序入口地址(各中断向量统一存放在中断向量表中，该表由操作系统初始化)。<br>接下来开始执行中断服务程序，保存中断屏蔽字、保存各通用寄存器的值，并提供与中断信号对应的中断服务</li>
+<li><strong>系统调用是由用户进程发起的，请求操作系统的服务。</strong><br><ol>
+<li>当内存中的空闲页框不够时，操作系统会将某些页面调出，并将要访问的页面调入，这个过程完全由操作系统完成，不涉及系统调用。</li>
+<li>进程调度完全由操作系统完成，无法通过系统调用完成。</li>
+<li>创建新进程可以通过系统调用来完成，如Linux 中通过 fork 系统调用来创建子进程。</li>
+</ol>
+</li>
+<li>发生系统调用时，CPU 通过执行软中断指令将CPU的运行状态从用户态切换到内核态，这个过程与中断和异常的响应过程相同,，<strong>由硬件负责保存断点和程序状态字,并将 CPU 模式改为内核态</strong>。<br>然后，执行操作系统内核的系统调用入口程序，<strong>该内核程序负责保存通用寄存器的内容，再调用执行特定的系统调用服务例程。</strong><br>综上，前俩由硬件完成，后俩由操作系统完成。</li>
+</ul>
+<h2 id="1-4操作系统的结构，引导和虚拟机"><a href="#1-4操作系统的结构，引导和虚拟机" class="headerlink" title="1.4操作系统的结构，引导和虚拟机"></a>1.4操作系统的结构，引导和虚拟机</h2><ul>
+<li>结构：<br><ol>
+<li><strong>分层法</strong>：把操作系统分层，从底层（硬件）一层层向上扩充，每层只能调用紧邻它的低层的功能和服务(单向依赖)。<ul>
+<li><strong>优势</strong>：容易调试检查错误，一层一层向上检查，很容易确定具体哪一层出错；<br>容易扩充和维护，跟砌墙一样，想实现更高的功能只需要一层层叠加就🆗了</li>
+<li><strong>劣势</strong>：合理定义各层比较困难，各层之间挨得太近，暧昧不分；<br>效率很差，要完成某个功能要从底层开始穿越</li>
+</ul>
+</li>
+<li><strong>模块化</strong>：把操作系统按照不同的功能分为不同的模块<ul>
+<li><strong>优势</strong>：①提高了操作系统设计的正确性、可理解性和可维护性;②增强了操作系统的可适应性;③加速了操作系统的开发过程。</li>
+<li><strong>劣势</strong>：接口很难设计，你不知道它都有啥需求；<br>模块也很难设计，各个模块要齐头并进，顺序很难把握；</li>
+</ul>
+</li>
+<li><a class="link" href="https://www.doubao.com/thread/a4197fa860ae6">微内核<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>是保留最基础的内核功能，把多余的功能都剥离出去。<br><ul>
+<li>优势：<ol>
+<li>扩展性和灵活性。</li>
+<li>可靠性和安全性。</li>
+<li>可移植性</li>
+<li>分布式计算。</li>
+</ol>
+</li>
+<li>劣势：有点性能问题，因为需要频繁地在用户态和内核态之间切换</li>
+</ul>
+</li>
+<li><strong>宏内核</strong>：把所有功能都聚合到一起，效率很高，共享信息很快，但是操作系统越做越大，这种结构就很臃肿</li>
+</ol>
+</li>
+<li>模块化操作系统的各功能模块都在内核中，且模块之间相互调用、相互依赖，任何一个模块出错，都可能导致整个内核崩溃。<br>在微内核操作系统中，内核外的某个功能模块出错不会导致整个系统崩溃，可靠性高。 </li>
+<li>操作系统的启动过程：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_09-40-56.png" alt="text"></li>
+<li>Windows 是融合了宏内核和微内核的操作系统</li>
+<li>在拥有外核的操作系统中，外核只负责硬件资源的分配、回收、保护等，进程管理相关的工作仍然由内核负责。</li>
+<li>引导程序有两种，一种是位于BIOS中的用于引导开启各个设备，一种是位于硬盘中的用于引导操作系统</li>
+<li>第一类虚拟机管理程序直接运行在物理硬件之上，具有高性能和高安全性；第二类虚拟机管理程序运行在现有操作系统之上，安装和使用相对简单。<a class="link" href="https://www.doubao.com/thread/a3ff2039790f2">详细<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>BIOS 将控制权交给排在首位的启动设备后，CPU 将该设备主引导扇区的内容[主引导记录(MBR)]加载到内存中，然后由 MBR 检查分区表，查找活动分区，并将该分区的引导扇区的内容[分区引导记录(PBR)]加载到内存加以执行。</li>
+<li><strong>访管指令与访管中断</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_10-42-53.png" alt="text"></li>
+</ul>
+]]></content>
+      <categories>
+        <category>计算机操作系统</category>
+        <category>概述</category>
+      </categories>
+      <tags>
+        <tag>计算机操作系统</tag>
       </tags>
   </entry>
   <entry>
@@ -899,6 +899,278 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>内存管理</title>
+    <url>/2024/12/07/2024-12-7-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</url>
+    <content><![CDATA[<h2 id="内存管理概念"><a href="#内存管理概念" class="headerlink" title="内存管理概念"></a>内存管理概念</h2><ul>
+<li><strong>内存管理的功能</strong>:<ul>
+<li>内存空间的分配与回收</li>
+<li>内存转换:从逻辑地址到物理地址的转换</li>
+<li>内存扩展:虚拟存储,把外存当做内存用</li>
+<li>内存保护:进程只在自己的领域活动,不跑到别的进程的地址空间<blockquote>
+<p>有两种方法：</p>
+<ol>
+<li>在CPU中设置一对儿上下限寄存器，访问的时候直接和这俩值相比</li>
+<li>用基地址（基地址寄存器）和偏移量（界地址寄存器）这种方法</li>
+</ol>
+</blockquote>
+</li>
+<li>内存共享:让多个进程访问同一内存段,实现进程的通信</li>
+</ul>
+</li>
+<li><strong>编译、链接、装入</strong>：<ul>
+<li>编译是把源代码变成目标语言，这种语言可能是机器语言或者是某种中间表示形式</li>
+<li>链接是把目标文件和库文件连在一起，生成可执行文件，逻辑地址就是在这个阶段形成的</li>
+<li>装入是由装入程序把可执行文件装入内存，这个阶段中，逻辑地址变为物理地址。<blockquote>
+<p>装入有三种方式：</p>
+<ol>
+<li><strong>绝对装入</strong>：逻辑地址就是物理地址，程序直接放到内存</li>
+<li><strong>可重定位装入</strong>：程序的地址从0开始，所有地址相当于偏移量，装入的时候修改基地址就好</li>
+<li><strong>动态运行时装入</strong>：先把这个程序装入内存，直到程序执行的时候才变换地址，这种方式可以动态申请内存，还可以不连续存放</li>
+</ol>
+</blockquote>
+</li>
+</ul>
+</li>
+<li><strong>连续分配管理方式</strong>：<ul>
+<li><strong>单一连续分配</strong>：把内存划分为用户区和系统区，用户区就一个用户程序，最垃圾，只适合单任务，单用户的操作系统使用，内存利用率也超级低</li>
+<li><strong>固定分区分配</strong>：把内存划分为固定的分区供程序装入<ul>
+<li><strong>分区相等</strong>：没有灵活性，程序太大无法装入，程序太小碎片老多</li>
+<li><strong>分区不等</strong>：多个小分区，适量中分区，一点大分区</li>
+</ul>
+</li>
+<li><strong>动态分区分配</strong>：来一个程序排一个程序，中间有程序撤退的时候，把来的程序看情况塞到中间的空挡里；这种方法用的时间长的话内部碎片会越来越多<br>回收的时候有四种情况：<ol>
+<li>回收区的前边是空闲分区，合并的时候修改前一个分区表项的大小即可</li>
+<li>回收区的后边是空闲分区，合并的时候修改后一个分区表项的始址和大小</li>
+<li>回收区的前边和后边都是空闲分区，合并的时候取消后一个分区的表项，修改前一个分区的大小</li>
+<li>回收区前后都没有空闲分区，为这个分区新建一个表项，把这个表项插入到空闲分区链中</li>
+</ol>
+</li>
+</ul>
+</li>
+<li><strong>基于顺序搜索的分配算法</strong>：<ul>
+<li><strong>首次适应算法</strong>（first fit）：把地址从小到大开始排，从头开始找适合的分区</li>
+<li><strong>邻近适应算法</strong>（next fit）：在first fit的基础上，从上一个结束查找的位置开始查找，也就是循环查找，通常比first fit的性能更差</li>
+<li><strong>最佳适应算法</strong>（best fit）：把容量从小到大开始排，从头开始找到合适的分区，会产生最多的<em>外部碎片</em>。</li>
+<li><strong>最坏适应算法</strong>（worst fit）：把容量从大到小开始排，从头开始找到合适的分区<br>综合来看：<strong>首次适应算法的性能最好</strong>。</li>
+</ul>
+</li>
+<li><strong>基于索引搜索的分配算法</strong>：对每类大小相同的空闲分区单独设立一个空闲分区链，然后设置一张索引表来管理这些空闲分区链<ul>
+<li><strong>快速适应算法</strong>：分配过程有两部：1.根据进程的长度在索引表中找到一个刚好能容纳这个进程的空闲分区链；2. 从链表中取出第一块分配给进程<ul>
+<li>优点：查找快，不产生内部碎片；</li>
+<li>缺点：回收分区要有效合并分区系统开销大</li>
+</ul>
+</li>
+<li><a href="https://www.doubao.com/thread/aa7650ff1e5f6"><strong>伙伴系统</strong></a>：分区的大小为1、2、4、8、……，假如有个进程大小是3 ，那就先找4的空闲分区链，如果4的空闲分区链用完了，那就找8的空闲分区链，然后把8分区链里边拿出一个8分成两个4（这两个4就是伙伴），一个4归进程用，另一个4加入4的空闲分区链</li>
+<li><strong>哈希算法</strong>：建立哈希函数，构建一个以空闲分区大小为关键字的哈希表，分配时根据分区大小通过哈希函数计算得到哈希表中的位置，从而得到相应的空闲分区链表（我不是太懂哈希，数据结构没学好，这个好抽象）</li>
+</ul>
+</li>
+</ul>
+<h3 id="基本分页存储管理"><a href="#基本分页存储管理" class="headerlink" title="基本分页存储管理"></a>基本分页存储管理</h3><ul>
+<li>固定分区会产生内部碎片，动态分区会产生外部碎片</li>
+<li><strong>分页存储的基本概念</strong>：<ul>
+<li>逻辑地址的页面叫<strong>页号</strong>；物理地址的页面叫<strong>页框号</strong>；页号与页框号一一对应；（可烦人，这俩名字有可多小名，弄嘞人可迷）</li>
+<li>逻辑地址的地址结构：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250122114532.png"><br>页面太小会导致页面数过多，占用大量内存；<br>页面太大会导致内部碎片过多，降低内存使用率；<br>页面的大小可以根据页内偏移量计算</li>
+<li><strong>页表的作用</strong>是逻辑地址到物理地址的转换<br>页表由<strong>页号和块号（页框号）</strong> 组成，页表的页表项是连续存储的，就按顺序来数页表项也和页号对应，所以页号不用存储，实际上就一个块号<br><a class="link" href="https://www.doubao.com/thread/a3c6706247650">从逻辑地址到物理地址的计算过程<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>：<ul>
+<li>计算页号和偏移量</li>
+<li>判断页号是否越界</li>
+<li>根据页号得到块号（页框号）</li>
+<li>根据块号和偏移量得到物理地址</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>地址转换不能太慢，要不进程访存就很卡，然后就引入了<strong>快表(TLB)</strong><ul>
+<li>具有快表的地址变换和访问cache差不多（cache和TLB是不同的两个硬件机构）：<ul>
+<li>根据CPU给出的逻辑地址查快表</li>
+<li>快表有就命中，直接根据找到的页框号访问物理地址，快表里边没有就上内存查页表，然后把这个页表项存到快表里边</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>两级页表</strong>：<ul>
+<li>二级页表的逻辑地址结构：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250122122301.png"></li>
+<li>二级页表地址变换示意图：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250122122346.png"></li>
+<li><strong>地址变换的过程</strong>：<ul>
+<li>根据二级页号找到外层页表（第二级页表）对应的页表项的块号</li>
+<li>这个块号又成了下一级页表的页号，根据这个页号找到对应的一级页表项在哪个具体的一级页表</li>
+<li>再根据逻辑地址给出的页号在上一步找到的页表里边找对应的页表项，这次就找到了最终的物理块号</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="基本分段存储管理"><a href="#基本分段存储管理" class="headerlink" title="基本分段存储管理"></a>基本分段存储管理</h3><ul>
+<li>分段和分页差不多：分段是根据程序的逻辑分的，就像按书的章节分一样；分页就是无脑把内存均分成相等的空间，跟书页的一面一面分一样<ul>
+<li><strong>段表的内容</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250122123654.png">其实段表里边就存了<strong>段长</strong>和这一段<strong>在主存中的基址</strong>，因为段表和页表一样也是按段表项连续存放的<br>段长的作用就是和偏移量比较看有没有越界<br>计算物理地址直接后一基址+偏移量就得出了<blockquote>
+<p>哦哦哦~~~，这也就是为什么说分页的地址是一维的，分段是二维的。好无语，就这还起一个抽象的一维二维的名字，不就是地址是一个东西还是两个东西</p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li><strong>段的共享与保护</strong>：<ul>
+<li><strong>共享</strong>：分页系统也能实现共享但是没有分段系统方便，比如一个程序要进行共享，分页的话要建立很多页表项指向要分享的页框，但是在分段系统中，只需要一个段表项指向要分享的段就行<br>比如，我向你分享一个故事情节，我可告诉你这个情节在第几页到第几页，但是我也可以直接告诉你情节在哪一段，显然第二个更方便</li>
+<li><strong>保护</strong>：地址越界保护，分页是看页号越界了没有，分段直接拿段长和偏移量比较看越界了没</li>
+</ul>
+</li>
+</ul>
+<h3 id="段页式存储管理"><a href="#段页式存储管理" class="headerlink" title="段页式存储管理"></a>段页式存储管理</h3><ul>
+<li>分页存储管理能有效地提高内存利用率，而分段存储管理能反映程序的逻辑结构并有利于段的共享和保护</li>
+<li><strong>段页式的逻辑地址</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250122173658.png">每个程序有一个段表，每个段有一个页表</li>
+<li><a class="link" href="https://www.doubao.com/thread/a7c545530a0d4">在段式和段页式分配方式下，CPU的访存次数<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>：<ul>
+<li>段式：<ul>
+<li>第一次访存为了特定段的基址</li>
+<li>第二次访存根据基址和偏移量得到数据</li>
+</ul>
+</li>
+<li>段页式：<ul>
+<li>第一次为了特定段和页表的基址</li>
+<li>第二次根据段和页表得到物理块号</li>
+<li>第三次根据物理块号和偏移量得到数据</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="虚拟内存管理"><a href="#虚拟内存管理" class="headerlink" title="虚拟内存管理"></a>虚拟内存管理</h2><ul>
+<li>虚拟内存对应手机上设置里边那个扩展内存；<ul>
+<li>传统的内存管理，一个作业想要运行需要把整个作业装入内存，一是占地大，二是可多程序需要装入内存的时候就能装几个，降低了系统的并发性<ul>
+<li>一次性</li>
+<li>驻留性</li>
+</ul>
+</li>
+<li>然后就有了虚拟内存，根据局部性原理，只需要把用的到页或段调入内存作业就能运行<ul>
+<li>多次性</li>
+<li>对换性</li>
+<li>虚拟性</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>虚拟内存的实现方式</strong>：<ul>
+<li>请求分页存储管理</li>
+<li>请求分段存储管理</li>
+<li>请求段页式存储管理</li>
+</ul>
+</li>
+</ul>
+<h3 id="请求分页管理方式"><a href="#请求分页管理方式" class="headerlink" title="请求分页管理方式"></a>请求分页管理方式</h3><ul>
+<li><p><strong>页表项的组成</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250122194436.png">可以看到多了后边四个（又解锁一个小名：物理块号，目前有：页框号、块号、物理块号）</p>
+<ul>
+<li>状态位：程序是否调入内存</li>
+<li>访问字段：记录本页的访问次数，给调出算法提供指示</li>
+<li>修改位：这一页是否被修改过</li>
+<li>外存地址：记录本页在外存存放的物理块号</li>
+</ul>
+</li>
+<li><p><strong>缺页处理的过程和进程状态的变化</strong>：</p>
+<ol>
+<li><strong>产生缺页中断</strong>：当进程要访问的页面不在内存时，便产生一个缺页中断，请求操作系统的缺页中断处理程序处理。</li>
+<li><strong>阻塞进程</strong>：此时缺页的进程被阻塞，并放入阻塞队列。</li>
+<li><strong>判断内存页框情况</strong><ul>
+<li><strong>有空闲页框</strong>：若内存中有空闲页框，则为进程分配一个页框，将所缺页面从外存装入该页框，并修改页表中的相应表项。</li>
+<li><strong>无空闲页框</strong>：若内存中没有空闲页框，则由页面置换算法选择一个页面淘汰。若该页在内存期间被修改过，则还要将其写回外存；未被修改过的页面不用写回外存。</li>
+</ul>
+</li>
+<li><strong>唤醒进程</strong>：调页完成后，将被阻塞的进程唤醒，放回就绪队列。</li>
+<li><strong>中断处理步骤</strong>：缺页中断作为中断，要经历保护 CPU 环境、分析中断原因、转入缺页中断处理程序、恢复 CPU 环境等步骤。<blockquote>
+<ul>
+<li>缺页中断属于内部异常</li>
+<li>一条指令在执行期间可能会产生多次缺页中断</li>
+</ul>
+</blockquote>
+</li>
+</ol>
+</li>
+<li><p><strong>地址变换的过程</strong>：要实现虚拟内存，在一般的分页系统地址变换的基础上增加了缺页中断的功能</p>
+<ol>
+<li><strong>先查看快表</strong><ul>
+<li><strong>命中</strong>：取出该页的块号，修改访问位</li>
+<li><strong>未命中</strong>：去内存的页表里边查</li>
+</ul>
+</li>
+<li><strong>查看页表</strong>：<ul>
+<li><strong>命中</strong>：取出该页的块号，把该页写进快表</li>
+<li><strong>未命中</strong>：产生缺页中断，请求系统（哦~~~，请求分页原来是这个意思）把该页从外存拉到内存，然后更新页表和快表（这种最坏的情况俩表都要更新）</li>
+</ul>
+</li>
+<li>根据物理块号和页内地址（小名，又是可恶的小名，偏移量）拼接成物理地址</li>
+</ol>
+</li>
+</ul>
+<h3 id="页框分配"><a href="#页框分配" class="headerlink" title="页框分配"></a>页框分配</h3><ul>
+<li><strong>驻留集</strong>：在内存中给单个进程分配的页框的集合就叫驻留集<ul>
+<li>驻留集越小，内存可以容纳的进程就越多，系统的并发性就越强，但是进程的缺页率会升高</li>
+<li>驻留集越大，大到一定程度时对缺页率的改善就不明显了，这样就浪费内存空间而且还降低了系统的并发能力</li>
+</ul>
+</li>
+<li><strong>内存分配策略</strong>：<ul>
+<li>分配有两种：<ul>
+<li><strong>固定分配</strong>：每个程序的驻留集（在内存中分配的页框）在整个程序运行时都保持不变</li>
+<li><strong>可变分配</strong>：可变就是运行的时候程序占的页数一直在动态调整</li>
+</ul>
+</li>
+<li>置换也有两种：<ul>
+<li><strong>全局置换</strong>：缺页调换页时，这个程序的页可以和其他程序的页进行调换，也就是占用别人的空间了</li>
+<li><strong>局部置换</strong>：缺页调换页时，只能在本程序内进行调换</li>
+</ul>
+</li>
+<li>常理来说，这四个可以两两搭配组合成4种分配策略，<strong>但是</strong>，<strong>没有固定分配全局置换</strong>，因为全局置换会占用别人的空间，而固定分配每个程序的空间已经固定下来了</li>
+</ul>
+</li>
+<li><strong>固定分配时物理块调入</strong>：<ul>
+<li><strong>平均分配</strong>：把空闲的内存均分给每个进程</li>
+<li><strong>按比例分配</strong>：根据进程的大小按比例分配空闲内存</li>
+<li><strong>优先权分配</strong>：为优先权高的进程多分配一些内存<blockquote>
+<p>通常可以把内存分成两个部分：一部分按比例分配，一部分按优先权分配</p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li><strong>调入页面的时机</strong>：<ul>
+<li><strong>预调入策略</strong>：又是局部性原理，但是这种策略的准确率不高，也就50%，所以主要用于首次调入</li>
+<li><strong>请求调页策略</strong>：需要哪一个调入哪一个，这是虚拟存储器大多采用的策略，但是I/O开销比较大</li>
+</ul>
+</li>
+<li><strong>从什么地方调入页面的三种情况</strong>：<br>分页系统把外存分为两部分：<br><strong>对换区</strong>：用于存放对换页面，连续存储所以I/O比较快<br><strong>文件区</strong>：离散存放，I/O慢<ol>
+<li><strong>系统拥有足够的对换区空间</strong>：把与进程有关的页面全部复制到对换区，全部页面都从对换区调入</li>
+<li><strong>系统缺少对换区空间</strong>：把需要修改的页面调入对换区，把只用读的文件还停放在文件区</li>
+<li><strong>UNIX方式</strong>：未运行过得页面从文件区调入，曾经运行过但是被调出的页面放到对换区</li>
+</ol>
+</li>
+</ul>
+<h3 id="页面置换算法"><a href="#页面置换算法" class="headerlink" title="页面置换算法"></a>页面置换算法</h3><ul>
+<li><strong>最佳置换算法（OPT）</strong>：<br>例如:给某个进程分配了三个页框，访问的页面序列：7、0、1、2、0、3、0、4、2、3、0、3、2、1、2、0、1、7、0、1<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/%E6%89%AB%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8B%202025-01-24%2013.02.jpg"></li>
+<li><strong>先进先出算法（FIFO）</strong>：没有利用局部性原理，所以性能较差，而且这个算法还会出现Belady异常，因为就算分配的再多页框数，这个算法访问的页面不按常理访问，一点都不遵循局部性原理</li>
+<li><strong>最近最久未使用算法（LRU）</strong>：和最佳置换算法差不多，OPT是根据未来选择最近最久未使用的页面置换，LRU是根据过去选择最近最久未使用的页面置换，但是过去与未来没有必然的联系，就这样这个算法也是<strong>性能最接近OPT的</strong>，就是实现起来消耗太大</li>
+<li><strong>时钟（CLOCK）置换算法</strong>：<ul>
+<li>把每个页面设置一个访问位并且赋值为1，然后弄一个循环指针在页面上转圈，转到谁，谁减一，也就是说给这些页面一次驻留内存的机会，一旦这个指针转到0的页面上边就把这个页面淘汰出去</li>
+<li><strong>改进型CLOCK算法</strong>：增加一个修改位，和传统的办法差不多，这个是把页面分成了4个等级，没有修改没有访问等级最低最先被淘汰，<strong>而且！！！</strong>，<strong>修改位比访问位更重要</strong></li>
+</ul>
+</li>
+<li><a href="https://www.doubao.com/thread/ae24ca4e802ac"><strong>TLB和cache的综合</strong></a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>计算机操作系统</category>
+        <category>内存管理</category>
+      </categories>
+      <tags>
+        <tag>计算机操作系统</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>三体笔记</title>
+    <url>/2024/03/28/2024-3-28-%E4%B8%89%E4%BD%93%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<ul>
+<li>罗辑离开墓碑，站到他为自己挖掘的墓穴旁，将手枪顶到自己的心脏位置，说：”现在，我将让自己的心脏停止跳动，与此同时我也将成为两个世界有史以来最大的罪犯。对于所犯下的罪行，我对两个文明表示深深的歉意，但不会忏悔，因为这是唯一的选择。我知道智子就在身边，但你们对人类的呼唤从不理睬，无言是最大的轻蔑，我们忍受这种轻蔑已经两个世纪了，现在，如果你们愿意，可以继续保持沉默，我只给你们三十秒钟时间。</li>
+<li>晚霞之后可以看星星,朝霞之后只剩下光天化日的现实了</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>三体</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>日记</title>
     <url>/2024/03/28/2024-3-28-%E5%81%87%E5%A6%82%E6%88%91%E9%9D%9E%E6%88%91/</url>
     <content><![CDATA[
@@ -925,113 +1197,9 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>三体笔记</title>
-    <url>/2024/03/28/2024-3-28-%E4%B8%89%E4%BD%93%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<ul>
-<li>罗辑离开墓碑，站到他为自己挖掘的墓穴旁，将手枪顶到自己的心脏位置，说：”现在，我将让自己的心脏停止跳动，与此同时我也将成为两个世界有史以来最大的罪犯。对于所犯下的罪行，我对两个文明表示深深的歉意，但不会忏悔，因为这是唯一的选择。我知道智子就在身边，但你们对人类的呼唤从不理睬，无言是最大的轻蔑，我们忍受这种轻蔑已经两个世纪了，现在，如果你们愿意，可以继续保持沉默，我只给你们三十秒钟时间。</li>
-<li>晚霞之后可以看星星,朝霞之后只剩下光天化日的现实了</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>三体</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>内存管理</title>
-    <url>/2024/12/07/2024-12-7-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</url>
-    <content><![CDATA[<ul>
-<li>内存管理的功能:<ul>
-<li>内存空间的分配与回收</li>
-<li>内存转换:从逻辑地址到物理地址的转换</li>
-<li>内存扩展:虚拟存储,把外存当做内存用</li>
-<li>内存保护:进程只在自己的领域活动,不跑到别的进程的地址空间<blockquote>
-<p>有两种方法：</p>
-<ol>
-<li>在CPU中设置一对儿上下限寄存器，访问的时候直接和这俩值相比</li>
-<li>用基地址（基地址寄存器）和偏移量（界地址寄存器）这种方法</li>
-</ol>
-</blockquote>
-</li>
-<li>内存共享:让多个进程访问同一内存段,实现进程的通信</li>
-</ul>
-</li>
-<li>编译、链接、装入：<ul>
-<li>编译是把源代码变成目标语言，这种语言可能是机器语言或者是某种中间表示形式</li>
-<li>链接是把目标文件和库文件连在一起，生成可执行文件，逻辑地址就是在这个阶段形成的</li>
-<li>装入是由装入程序把可执行文件装入内存，这个阶段中，逻辑地址变为物理地址。<blockquote>
-<p>装入有三种方式：</p>
-<ol>
-<li>绝对装入：逻辑地址就是物理地址，程序直接放到内存</li>
-<li>可重定位装入：程序的地址从0开始，所有地址相当于偏移量，装入的时候修改基地址就好</li>
-<li>动态运行时装入：先把这个程序装入内存，直到程序执行的时候才变换地址，这种方式可以动态申请内存，还可以不连续存放</li>
-</ol>
-</blockquote>
-</li>
-</ul>
-</li>
-<li>连续分配管理方式：<ul>
-<li>单一连续分配：把内存划分为用户区和系统区，用户区就一个用户程序，最垃圾，只适合单任务，单用户的操作系统使用，内存利用率也超级低</li>
-<li>固定分区分配：把内存划分为固定的分区供程序装入<ul>
-<li>分区相等：没有灵活性，程序太大无法装入，程序太小碎片老多</li>
-<li>分区不等：多个小分区，适量中分区，一点大分区</li>
-</ul>
-</li>
-<li>动态分区分配：来一个程序排一个程序，中间有程序撤退的时候，把来的程序看情况塞到中间的空挡里；这种方法用的时间长的话内部碎片会越来越多<br>回收的时候有四种情况：<ol>
-<li>回收区的前边是空闲分区，合并的时候修改前一个分区表项的大小即可</li>
-<li>回收区的后边是空闲分区，合并的时候修改后一个分区表项的始址和大小</li>
-<li>回收区的前边和后边都是空闲分区，合并的时候取消后一个分区的表项，修改前一个分区的大小</li>
-<li>回收区前后都没有空闲分区，为这个分区新建一个表项，把这个表项插入到空闲分区链中</li>
-</ol>
-</li>
-</ul>
-</li>
-<li>动态分区算法：<ul>
-<li>首次适应算法（first fit）：把地址从小到大开始排，从头开始找适合的分区</li>
-<li>邻近适应算法（next fit）：在first fit的基础上，从上一个结束查找的位置开始查找，也就是循环查找，通常比first fit的性能更差</li>
-<li>最佳适应算法（best fit）：把容量从小到大开始排，从头开始找到合适的分区</li>
-<li>最坏适应算法（worst fit）：把容量从大到小开始排，从头开始找到合适的分区</li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li><a class="link" href="https://www.doubao.com/thread/a7c545530a0d4">在段式和段页式分配方式下，CPU的访存次数<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>：<br><ul>
-<li>段式：<ul>
-<li>第一次访存为了特定段的基址</li>
-<li>第二次访存根据基址和偏移量得到数据</li>
-</ul>
-</li>
-<li>段页式：<ul>
-<li>第一次为了特定段和页表的基址</li>
-<li>第二次根据段和页表得到物理块号</li>
-<li>第三次根据物理块号和偏移量得到数据</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>计算机操作系统</category>
-        <category>内存管理</category>
-      </categories>
-      <tags>
-        <tag>计算机操作系统</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>杂记</title>
     <url>/2024/03/28/2024-3-28-%E5%BF%86%E5%85%AB%E5%8D%81%E4%BA%BA%E7%94%9F/</url>
     <content><![CDATA[<p><strong>@峥峥名车汇</strong>：我已八十了，看见6岁的自己，在田野里跌倒，弄脏了衣服，弄丢了玩具，惊慌又失措。我想告诉他，没关系，成长的路慢慢来。<br><br><br>我已八十了，看在12岁的自己翻山徒步去教室上课，没有新书包、没有新鞋子，自卑又尴尬。我想告诉他，别怯懦，嘲笑的人与你的人生本就是平行线，日后不会相交。<br><br><br>我已八十了，看见18岁的自己，没考上一本，面对昏暗的大学，失落又无奈。我想告诉他，要坚持，一时失败不代表节节败退，日后的你也会快乐精彩。<br><br><br>我已八十了，看见24岁的自己，独自躺在手术台，害怕又担忧。我想告诉他，别担心会过去，生活会继续<br><br><br>我已八十了，看见34岁的自己，一事无成，未婚未育，迷茫又无助。我想告诉他，别内疚，成家立业不是每个人的必经之路，坚定内心选择也不会怎么样。<br><br><br>我已八十了，看见50岁的自己，看见父母离去，无助又迷茫，我想告诉他，人生就是一个人，离开自己看本我，无所谓聚散离合。<br><br><br>我已八十了，看见80岁的自己，生命如风中烛光摇摇曳曳，膝下无子，爱人离去，平静又慈祥。我想告诉我自己，这一生你已足够幸运，足够努力，无需任何人评价。人生就是看见自己的过程，我看见我自己的一生，惊慌的、怯懦的、失落的、内疚的、最后释然的离开。</p>
-]]></content>
-      <tags>
-        <tag>评论笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杂记</title>
-    <url>/2024/03/28/2024-3-28-%E8%AF%84%E8%AE%BA%E7%AC%94%E8%AE%B0(%E4%BA%8C)/</url>
-    <content><![CDATA[<p><strong>@染墨时</strong>：王朗：汉帝正逊，山阳犹在，曹魏承汉之正朔。尔等却随编履之徒，从流寇之首，占同姓之州，夺宗亲之地，贪从龙之功，图华夏之土；不拥正统，伪立贼寇，是为不忠；袭占益州，驱其旧主，是为不信；遣疲弊之民，攻熊罴之师，是为不仁，公陶袁曹刘，竟五易其主，是为不义，兴一州之兵，伐正朔之国，是为不智。秦失其鹿，天下共逐，陈吴起事，王侯归土，桓灵昏聩，汉失其德，张角振臂，坠其天命；二十载夙兴夜寐，曹氏归天下于一统，然惜败于赤壁，若非此，吾等可于朝堂坐论天下，岂于阵前，立上而视下，局高而驳谬，以司空之职，斥匹夫伪相之名？<br><br><br>在宋时，百姓听书，每听到刘备败退皆是扼腕叹息，每听到曹操败退皆是鼓掌欢庆。那时人虽然受教育程度不高，但大多都相信世间有仁义之事，有行仁义之人。故多尊刘而贬曹。而今人多利己，不相信世上有不为己的人。这样对比之下，曹操更符合今人的认知。故多尊曹而贬刘。于是枭雄变成了英雄，真仁义变成了伪君子。他们自己做不到仁义，便认为别人也做不到，即使做到了，那也要扣上各种帽子。这样他们才会觉得自己才是世界上认识最清醒的人，这才是符合他们的世界观。躲在角落里，看什么都是黑的。<br><br></p>
 ]]></content>
       <tags>
         <tag>评论笔记</tag>
@@ -1090,22 +1258,21 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>电脑空白图标解决方案</title>
-    <url>/2025/01/21/2025-1-21%20%E7%A9%BA%E7%99%BD%E5%9B%BE%E6%A0%87/</url>
-    <content><![CDATA[<p>新建txt文件，粘贴以下内容，更改后缀名为bat，双击运行</p>
-<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line"></span><br><span class="line">taskkill /f /im explorer.exe</span><br><span class="line"></span><br><span class="line">CD /d %userprofile%\AppData\Local</span><br><span class="line"></span><br><span class="line">DEL IconCache.db /a</span><br><span class="line"></span><br><span class="line">start explorer.exe</span><br><span class="line"></span><br><span class="line">cho 操作完成</span><br></pre></td></tr></table></figure></div>]]></content>
+    <title>杂记</title>
+    <url>/2024/03/28/2024-3-28-%E8%AF%84%E8%AE%BA%E7%AC%94%E8%AE%B0(%E4%B8%80)/</url>
+    <content><![CDATA[<p><strong>@没得感情滴人</strong>：罗翔老师这段话让我茅塞顿开: “其实没什么好后悔的，很多事情就算时间能重来一遍，以当时的心智和阅历还是会做同样的选择，避免不了同样的结果。人本来就是在失败中学乖的，与其抱着过去后悔，不如擦擦眼泪向前走吧。我们可能经常会想:“如果当初我怎样怎样就好了；如果当初我换了一个专业就好了；如果当时没来这个城市就好了；如果当初再见他一面就好了。” 似乎未选择的那条路总是更好的，但事实真的如此吗?可能你选择另一条路，大概率也是换一个新的烦恼，那些似乎必然通向好的结局也只是你的遐想。 但人生最有趣的一点就是，无论你做出什么选择，你都是在向前走。所以不要纠结和后悔，脚下的这条路就是最好的路，不要总是去美化未选择的路，不要站在现在的角度去批判当时的自己，要相信一切都是上天最好的安排，你所错过的很可能都是上天在保护你。<br><br><br><strong>@皮皮小肉包</strong>：“不要欺负以前的自己，她当时一个人站在大雾里也很迷茫” <br><br><br><strong>@阅己越己悦己</strong>：这就是一个责任主体的争论，孩子没完成作业，妈妈比孩子更着急，是为了完成任务，责任主体变成了妈妈，爸爸是让孩子明白，没有完成作业，责任主体是孩子。妈妈着眼于当下，爸爸着眼于未来，我们要明白，孩子是独立的个体，始终要独自面对世界，培养独立的人格，学会独立思考，独立判断，这才是作为父母留给孩子长期影响，受益终身的事情。</p>
+]]></content>
       <tags>
-        <tag>一键执行脚本</tag>
+        <tag>评论笔记</tag>
       </tags>
   </entry>
   <entry>
-    <title>一键推送脚本</title>
-    <url>/2025/01/21/2025-1-21-deploy%E8%84%9A%E6%9C%AC/</url>
-    <content><![CDATA[<p>每次写完博客都要执行固定的命令，写了一个脚本实现一键推送<br>server.vbs是以管理员身份执行server.bat</p>
-<h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:start</span><br><span class="line">echo 请输入操作编号：</span><br><span class="line">echo 0. 退出</span><br><span class="line">echo 1. 执行 hexo server</span><br><span class="line">echo 2. 执行 npm run server</span><br><span class="line">echo 3. 执行 npm run deploy</span><br><span class="line">set /p choice=输入:</span><br><span class="line"></span><br><span class="line">if "%choice%"=="0" (</span><br><span class="line">    exit /b</span><br><span class="line">) else if "%choice%"=="1" (</span><br><span class="line">    start "" cmd /c  hexo server</span><br><span class="line">) else if "%choice%"=="2" (</span><br><span class="line">    start "" cmd /c npm run server</span><br><span class="line">) else if "%choice%"=="3" (</span><br><span class="line">    start "" cmd /c npm run deploy</span><br><span class="line">) else (</span><br><span class="line">    echo 输入错误，请输入 0、1、2 或 3。</span><br><span class="line">    goto start</span><br><span class="line">)</span><br><span class="line">echo 操作已完成，按任意键继续...</span><br><span class="line">pause &gt; nul</span><br><span class="line">goto start</span><br></pre></td></tr></table></figure></div>
-<h3 id="server-vbs"><a href="#server-vbs" class="headerlink" title="server.vbs"></a>server.vbs</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Set UAC = CreateObject("Shell.Application")</span><br><span class="line">UAC.ShellExecute "server.bat", "", "", "runas", 1</span><br></pre></td></tr></table></figure></div>]]></content>
+    <title>杂记</title>
+    <url>/2024/03/28/2024-3-28-%E8%AF%84%E8%AE%BA%E7%AC%94%E8%AE%B0(%E4%BA%8C)/</url>
+    <content><![CDATA[<p><strong>@染墨时</strong>：王朗：汉帝正逊，山阳犹在，曹魏承汉之正朔。尔等却随编履之徒，从流寇之首，占同姓之州，夺宗亲之地，贪从龙之功，图华夏之土；不拥正统，伪立贼寇，是为不忠；袭占益州，驱其旧主，是为不信；遣疲弊之民，攻熊罴之师，是为不仁，公陶袁曹刘，竟五易其主，是为不义，兴一州之兵，伐正朔之国，是为不智。秦失其鹿，天下共逐，陈吴起事，王侯归土，桓灵昏聩，汉失其德，张角振臂，坠其天命；二十载夙兴夜寐，曹氏归天下于一统，然惜败于赤壁，若非此，吾等可于朝堂坐论天下，岂于阵前，立上而视下，局高而驳谬，以司空之职，斥匹夫伪相之名？<br><br><br>在宋时，百姓听书，每听到刘备败退皆是扼腕叹息，每听到曹操败退皆是鼓掌欢庆。那时人虽然受教育程度不高，但大多都相信世间有仁义之事，有行仁义之人。故多尊刘而贬曹。而今人多利己，不相信世上有不为己的人。这样对比之下，曹操更符合今人的认知。故多尊曹而贬刘。于是枭雄变成了英雄，真仁义变成了伪君子。他们自己做不到仁义，便认为别人也做不到，即使做到了，那也要扣上各种帽子。这样他们才会觉得自己才是世界上认识最清醒的人，这才是符合他们的世界观。躲在角落里，看什么都是黑的。<br><br></p>
+]]></content>
       <tags>
-        <tag>一键执行脚本</tag>
+        <tag>评论笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -1439,12 +1606,31 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>杂记</title>
-    <url>/2024/03/28/2024-3-28-%E8%AF%84%E8%AE%BA%E7%AC%94%E8%AE%B0(%E4%B8%80)/</url>
-    <content><![CDATA[<p><strong>@没得感情滴人</strong>：罗翔老师这段话让我茅塞顿开: “其实没什么好后悔的，很多事情就算时间能重来一遍，以当时的心智和阅历还是会做同样的选择，避免不了同样的结果。人本来就是在失败中学乖的，与其抱着过去后悔，不如擦擦眼泪向前走吧。我们可能经常会想:“如果当初我怎样怎样就好了；如果当初我换了一个专业就好了；如果当时没来这个城市就好了；如果当初再见他一面就好了。” 似乎未选择的那条路总是更好的，但事实真的如此吗?可能你选择另一条路，大概率也是换一个新的烦恼，那些似乎必然通向好的结局也只是你的遐想。 但人生最有趣的一点就是，无论你做出什么选择，你都是在向前走。所以不要纠结和后悔，脚下的这条路就是最好的路，不要总是去美化未选择的路，不要站在现在的角度去批判当时的自己，要相信一切都是上天最好的安排，你所错过的很可能都是上天在保护你。<br><br><br><strong>@皮皮小肉包</strong>：“不要欺负以前的自己，她当时一个人站在大雾里也很迷茫” <br><br><br><strong>@阅己越己悦己</strong>：这就是一个责任主体的争论，孩子没完成作业，妈妈比孩子更着急，是为了完成任务，责任主体变成了妈妈，爸爸是让孩子明白，没有完成作业，责任主体是孩子。妈妈着眼于当下，爸爸着眼于未来，我们要明白，孩子是独立的个体，始终要独自面对世界，培养独立的人格，学会独立思考，独立判断，这才是作为父母留给孩子长期影响，受益终身的事情。</p>
-]]></content>
+    <title>电脑空白图标解决方案</title>
+    <url>/2025/01/21/2025-1-21%20%E7%A9%BA%E7%99%BD%E5%9B%BE%E6%A0%87/</url>
+    <content><![CDATA[<p>新建txt文件，粘贴以下内容，更改后缀名为bat，双击运行</p>
+<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line"></span><br><span class="line">taskkill /f /im explorer.exe</span><br><span class="line"></span><br><span class="line">CD /d %userprofile%\AppData\Local</span><br><span class="line"></span><br><span class="line">DEL IconCache.db /a</span><br><span class="line"></span><br><span class="line">start explorer.exe</span><br><span class="line"></span><br><span class="line">cho 操作完成</span><br></pre></td></tr></table></figure></div>]]></content>
       <tags>
-        <tag>评论笔记</tag>
+        <tag>一键执行脚本</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一键推送脚本</title>
+    <url>/2025/01/21/2025-1-21-deploy%E8%84%9A%E6%9C%AC/</url>
+    <content><![CDATA[<p>每次写完博客都要执行固定的命令，写了一个脚本实现一键推送<br>server.vbs是以管理员身份执行server.bat</p>
+<h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:start</span><br><span class="line">echo 请输入操作编号：</span><br><span class="line">echo 0. 退出</span><br><span class="line">echo 1. 执行 hexo clean</span><br><span class="line">echo 2. 执行 hexo generate</span><br><span class="line">echo 3. 执行 hexo server</span><br><span class="line">echo 4. 执行 hexo deploy</span><br><span class="line">echo 5. 执行 npm run server</span><br><span class="line">echo 6. 执行 npm run deploy</span><br><span class="line">set /p choice=输入:</span><br><span class="line"></span><br><span class="line">if "%choice%"=="0" (</span><br><span class="line">    exit /b</span><br><span class="line">) else if "%choice%"=="1" (</span><br><span class="line">    start "" cmd /c  hexo clean</span><br><span class="line">) else if "%choice%"=="2" (</span><br><span class="line">    start "" cmd /c hexo generate</span><br><span class="line">) else if "%choice%"=="3" (</span><br><span class="line">    start "" cmd /c hexo server</span><br><span class="line">) else if "%choice%"=="4" (</span><br><span class="line">    start "" cmd /c hexo deploy</span><br><span class="line">) else if "%choice%"=="5" (</span><br><span class="line">    start "" cmd /c npm run server</span><br><span class="line">) else if "%choice%"=="6" (</span><br><span class="line">    start "" cmd /c npm run deploy</span><br><span class="line">) else (</span><br><span class="line">    echo 输入错误，请输入 0、1、2 、3、4、5或 6。</span><br><span class="line">    goto start</span><br><span class="line">)</span><br><span class="line">echo 操作已完成，按任意键继续...</span><br><span class="line">pause &gt; nul</span><br><span class="line">goto start</span><br></pre></td></tr></table></figure></div>
+<h3 id="server-vbs"><a href="#server-vbs" class="headerlink" title="server.vbs"></a>server.vbs</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Set UAC = CreateObject("Shell.Application")</span><br><span class="line">UAC.ShellExecute "server.bat", "", "", "runas", 1</span><br></pre></td></tr></table></figure></div>]]></content>
+      <tags>
+        <tag>一键执行脚本</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>smoothscroll时间戳转换</title>
+    <url>/2025/01/21/2025-1-21-smoothscroll%E6%97%B6%E9%97%B4%E6%88%B3%E8%BD%AC%E6%8D%A2/</url>
+    <content><![CDATA[<p>新建txt文件，粘贴以下内容，更改后缀名为bat，双击运行</p>
+<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line">set "$=%temp%\Spring"</span><br><span class="line">&gt;%$% Echo WScript.Echo((new Date()).getTime()/1000)</span><br><span class="line">for /f %%a in ('cscript -nologo -e:jscript %$%') do set timestamp=%%a</span><br><span class="line">del /f /q %$%</span><br><span class="line">echo %timestamp%</span><br><span class="line"> </span><br><span class="line">reg add "HKEY_CURRENT_USER\Software\SmoothScroll" /v "kSSInstallDate" /d "%timestamp:~0,10%" /f</span><br></pre></td></tr></table></figure></div>]]></content>
+      <tags>
+        <tag>一键执行脚本</tag>
       </tags>
   </entry>
   <entry>
@@ -1791,15 +1977,6 @@ import {initHBE} from "/js/plugins/hbe.js";
 ]]></content>
       <tags>
         <tag>English-Learning</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>smoothscroll时间戳转换</title>
-    <url>/2025/01/21/2025-1-21-smoothscroll%E6%97%B6%E9%97%B4%E6%88%B3%E8%BD%AC%E6%8D%A2/</url>
-    <content><![CDATA[<p>新建txt文件，粘贴以下内容，更改后缀名为bat，双击运行</p>
-<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line">set "$=%temp%\Spring"</span><br><span class="line">&gt;%$% Echo WScript.Echo((new Date()).getTime()/1000)</span><br><span class="line">for /f %%a in ('cscript -nologo -e:jscript %$%') do set timestamp=%%a</span><br><span class="line">del /f /q %$%</span><br><span class="line">echo %timestamp%</span><br><span class="line"> </span><br><span class="line">reg add "HKEY_CURRENT_USER\Software\SmoothScroll" /v "kSSInstallDate" /d "%timestamp:~0,10%" /f</span><br></pre></td></tr></table></figure></div>]]></content>
-      <tags>
-        <tag>一键执行脚本</tag>
       </tags>
   </entry>
   <entry>
