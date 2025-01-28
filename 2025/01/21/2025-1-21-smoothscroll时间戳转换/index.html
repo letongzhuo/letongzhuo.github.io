@@ -30,9 +30,9 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://letongzhuo.cn/images/redefine-og.webp">
 <meta property="article:published_time" content="2025-01-21T06:13:00.000Z">
-<meta property="article:modified_time" content="2025-01-21T11:53:42.058Z">
+<meta property="article:modified_time" content="2025-01-25T07:11:25.942Z">
 <meta property="article:author" content="lele">
-<meta property="article:tag" content="一键执行脚本">
+<meta property="article:tag" content="code">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://letongzhuo.cn/images/redefine-og.webp">
     
@@ -513,15 +513,15 @@ mjx-container[display="true"] + br {
 
         <div class="statistics flex justify-around my-2.5">
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/tags">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">标签</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/categories">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">10</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">分类</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">26</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">29</div>
         <div class="label text-third-text-color text-sm">文章</div>
     </a>
 </div>
@@ -572,8 +572,8 @@ mjx-container[display="true"] + br {
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-21 19:53:42</span>
-            <span class="mobile">2025-01-21 19:53:42</span>
+            <span class="desktop">2025-01-25 15:11:25</span>
+            <span class="mobile">2025-01-25 15:11:25</span>
             <span class="hover-info">更新</span>
         </span>
     
@@ -585,7 +585,7 @@ mjx-container[display="true"] + br {
             <ul>
                 
                     <li>
-                        <a href="/tags/%E4%B8%80%E9%94%AE%E6%89%A7%E8%A1%8C%E8%84%9A%E6%9C%AC/">一键执行脚本</a>&nbsp;
+                        <a href="/tags/code/">code</a>&nbsp;
                     </li>
                 
             </ul>
@@ -595,7 +595,7 @@ mjx-container[display="true"] + br {
     
     
         <span class="article-wordcount article-meta-item">
-            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>63 字</span>
+            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>20 字</span>
         </span>
     
     
@@ -619,8 +619,25 @@ mjx-container[display="true"] + br {
 
 
 		<div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-			<p>新建txt文件，粘贴以下内容，更改后缀名为bat，双击运行</p>
-<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">@echo off</span><br><span class="line">set "$=%temp%\Spring"</span><br><span class="line">&gt;%$% Echo WScript.Echo((new Date()).getTime()/1000)</span><br><span class="line">for /f %%a in ('cscript -nologo -e:jscript %$%') do set timestamp=%%a</span><br><span class="line">del /f /q %$%</span><br><span class="line">echo %timestamp%</span><br><span class="line"> </span><br><span class="line">reg add "HKEY_CURRENT_USER\Software\SmoothScroll" /v "kSSInstallDate" /d "%timestamp:~0,10%" /f</span><br></pre></td></tr></table></figure></div>
+			
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="7ce92ae054e7cbbc1d0ed7461e5bf10dc6ca32189edb2b4bf333ba7e6d7ce6b5">2bcd9132b535ab0c63807d4882ee65a891eecbc71abec43ee9e28e147df9015492a43fdf8053ac9fce6eb65c142de9853bcc7b3e5e7b48ca592e5344fc8ebbada2f2daafca108dda1f73867de3c27a7dbe5b9e1776b9af85518822942b48ea8aa12f37a576a561815d69e42133a8e21bc20058d1253442a7bdd0d28973f702a0fca5dfade6b9e03e68a9fa3325d1e1fa31850b46b3163d485883826632c65bab5ff04014d8882c0d3fbdf3412e958448af176e676a938cd188bb6c1c3f7c126373dd8683e2c8fee1d0fdbd03d38378d5b382aee749af36eff196e297b4f5b07e55ff53b1f51b53dcf2fb4404fd4d12dbf574307cbfbd314dca79cc2b7711360fdbcee77f34ba675535556bbb42b6302142da409b6f3de34dab019d1ed9b33652ac5aef69c4d65c0c888320728864ae982ac3c17bb9e2ab59d4fa07760e6e5b82d48dec0461ba8d9343279bf9529323ae9afe46d505dac713a370c2ca22a42458288faa3f010ad855e29f4e94fbb6734054c414ae160b4121b78f6762ad0e74fab45c4201461fb7e43408658060bd33dd870273c08d78d5f86bba8520a41f224cea21e2253ddee38006e879661f441eee0b29bb8f8ae129bc91ed126bde83f306b9b62ae7a66cad146c9431e5cf5ff2c1567cad4cd6447e4e3ab0f34fa08810bcc5822e20ab7cc1d8f27c6e9d3731059e437a10384c87f833bb7ad3844e79b2b59f8897aa89371674fd0dbe65f64eb3a83262b34c634eefcd8694e3986133fea1e5cc502dbe1b026ed9aad76345afb824c482eac5cd2b53223299a73af3477054f8ccadfda0367540857098e6d019f07fe8bc410e6e9b9a20261ad9b2087715d5606ed657d1859f2a929cdc672ed03c47d0872c21a56725ed5f7ef9ed389ccd3e7531f9ec5c51975b3d1283410da839bc5d6625abdc4825126b685793c2ff98276f4b4b320965920e994395a3ae03cc405ed719701b5dbb94b96eaaae9446e08e4396a0db1a0b65cdf2afed4c3e9932a535ff08bd37583bc13e4ba3ba1b2e400a8195481745158c89fe0c56a7c872defb25b2319099ab8125d6ad9eed57807a602660f277f17a12dfac48f75eaa0ba8f4fcd9a14ee12aba55698377a7e685a653d8dd6b7345f41096a6f4a7fe2414315f56d3e82c6417e9b0efcc40e1e644437b70affc19f13aae49ab00a18ac7fd56b9ed9f8773b9343d106d991e72603ad9cec1c09b8aa8e274a21c5776406bf49d5d631b5734a8daeaf14281d2f4af3501652572a4de27df76f846383b118a9fe1a3161a374a6b0d2c25ef47d912ce333b8864fcc33a9a4adf33ed380e1160ac0be4274568ada3f298a32ee7c7da52b1eb953b411764a9325f7e8d1bbe011db4fd704445a66ceebf641d89acf7ac1415981850375b1042ab1c22c10fceadc5c08634ac623f800fdcc104f6881ea5aecb3efb6cf0c6937f871d1864bf486ab1cb1e0bdba62cf527f043d836d9184743bf27cb7b065cbc1247207b0bf3cd9b635fcb803d81d189641a08f044b7cf3f85748cc7</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+
 		</div>
 
 		
@@ -634,7 +651,7 @@ mjx-container[display="true"] + br {
         
             <li>
                 <strong>更新于
-                    :</strong> 2025-01-21 19:53:42
+                    :</strong> 2025-01-25 15:11:25
             </li>
         
         <li>
@@ -660,7 +677,7 @@ mjx-container[display="true"] + br {
 		<ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
 			
 			<li class="tag-item mx-0.5">
-				<a href="/tags/%E4%B8%80%E9%94%AE%E6%89%A7%E8%A1%8C%E8%84%9A%E6%9C%AC/">#一键执行脚本</a>&nbsp;
+				<a href="/tags/code/">#code</a>&nbsp;
 			</li>
 			
 		</ul>
@@ -672,33 +689,45 @@ mjx-container[display="true"] + br {
     <div class="recommended-article-header text-xl md:text-3xl font-bold mt-10">
      <i aria-hidden="true"></i><span>推荐阅读</span>
     </div>
-    <div class="recommended-article-group"><a class="recommended-article-item" href="/2025/01/21/2025-1-21 空白图标/" title="电脑空白图标解决方案" rel="bookmark">
+    <div class="recommended-article-group"><a class="recommended-article-item" href="/2025/01/25/2025-1-25-IDM/" title="IDM-IAS" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="IDM-IAS" class="!max-w-none">
+  <span class="title">IDM-IAS</span>
+</a><a class="recommended-article-item" href="/2025/01/21/2025-1-21 空白图标/" title="电脑空白图标解决方案" rel="bookmark">
   <img src="/images/wallhaven-wqery6-light.webp" alt="电脑空白图标解决方案" class="!max-w-none">
   <span class="title">电脑空白图标解决方案</span>
 </a><a class="recommended-article-item" href="/2025/01/21/2025-1-21-deploy脚本/" title="一键推送脚本" rel="bookmark">
   <img src="/images/wallhaven-wqery6-light.webp" alt="一键推送脚本" class="!max-w-none">
   <span class="title">一键推送脚本</span>
-</a><a class="recommended-article-item" href="/2024/11/13/2024-11-13-计算机网络体系结构/" title="计算机网络体系结构" rel="bookmark">
-  <img src="/images/wallhaven-wqery6-light.webp" alt="计算机网络体系结构" class="!max-w-none">
-  <span class="title">计算机网络体系结构</span>
 </a></div>
    </div>
    <div class="recommended-mobile">
    <div class="recommended-article-header text-xl md:text-3xl font-bold mt-10">
      <i aria-hidden="true"></i><span>推荐阅读</span>
    </div>
-   <div class="recommended-article-group"><a class="recommended-article-item" href="/2025/01/21/2025-1-21 空白图标/" title="电脑空白图标解决方案" rel="bookmark">
+   <div class="recommended-article-group"><a class="recommended-article-item" href="/2025/01/25/2025-1-25-IDM/" title="IDM-IAS" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="IDM-IAS" class="!max-w-none">
+  <span class="title">IDM-IAS</span>
+</a><a class="recommended-article-item" href="/2025/01/21/2025-1-21 空白图标/" title="电脑空白图标解决方案" rel="bookmark">
   <img src="/images/wallhaven-wqery6-light.webp" alt="电脑空白图标解决方案" class="!max-w-none">
   <span class="title">电脑空白图标解决方案</span>
-</a><a class="recommended-article-item" href="/2025/01/21/2025-1-21-deploy脚本/" title="一键推送脚本" rel="bookmark">
-  <img src="/images/wallhaven-wqery6-light.webp" alt="一键推送脚本" class="!max-w-none">
-  <span class="title">一键推送脚本</span>
 </a></div>
    </div>
   </div>
 
 		
 		<div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
+			
+			<div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
+				<a class="prev" rel="prev" href="/2025/01/25/2025-1-25-%E7%BD%91%E7%BB%9C%E5%B1%82/">
+					<span class="left arrow-icon flex justify-center items-center">
+						<i class="fa-solid fa-chevron-left"></i>
+					</span>
+					<span class="title flex justify-center items-center">
+						<span class="post-nav-title-item">网络层</span>
+						<span class="post-nav-item">上一篇</span>
+					</span>
+				</a>
+			</div>
 			
 			
 			<div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
@@ -796,11 +825,11 @@ mjx-container[display="true"] + br {
                 
                 <p class="post-count space-x-0.5">
                     <span>
-                        共撰写了 26 篇文章
+                        共撰写了 29 篇文章
                     </span>
                     
                         <span>
-                            共 32.1k 字
+                            共 36.4k 字
                         </span>
                     
                 </p>

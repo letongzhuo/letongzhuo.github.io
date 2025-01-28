@@ -30,9 +30,10 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://letongzhuo.cn/images/redefine-og.webp">
 <meta property="article:published_time" content="2024-11-17T04:00:00.000Z">
-<meta property="article:modified_time" content="2025-01-20T06:52:40.690Z">
+<meta property="article:modified_time" content="2025-01-25T04:33:45.974Z">
 <meta property="article:author" content="lele">
 <meta property="article:tag" content="计算机网络">
+<meta property="article:tag" content="计算机408">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://letongzhuo.cn/images/redefine-og.webp">
     
@@ -513,15 +514,15 @@ mjx-container[display="true"] + br {
 
         <div class="statistics flex justify-around my-2.5">
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/tags">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">标签</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/categories">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">10</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">分类</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">26</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">29</div>
         <div class="label text-third-text-color text-sm">文章</div>
     </a>
 </div>
@@ -572,8 +573,8 @@ mjx-container[display="true"] + br {
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-20 14:52:40</span>
-            <span class="mobile">2025-01-20 14:52:40</span>
+            <span class="desktop">2025-01-25 12:33:45</span>
+            <span class="mobile">2025-01-25 12:33:45</span>
             <span class="hover-info">更新</span>
         </span>
     
@@ -614,6 +615,10 @@ mjx-container[display="true"] + br {
                         <a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/">计算机网络</a>&nbsp;
                     </li>
                 
+                    <li>
+                        | <a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA408/">计算机408</a>&nbsp;
+                    </li>
+                
             </ul>
         </span>
     
@@ -645,7 +650,7 @@ mjx-container[display="true"] + br {
 
 
 		<div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-			<h1 id="2-1通信基础"><a href="#2-1通信基础" class="headerlink" title="2.1通信基础"></a>2.1通信基础</h1><ul>
+			<h2 id="通信基础"><a href="#通信基础" class="headerlink" title="通信基础"></a>通信基础</h2><ul>
 <li>曼彻斯特编码用码元中间的电平跳变来表示每个比特，可方便收发双方根据跳变来同步时而不需要额外的时钟信号。差分曼彻斯特编码也不需要额外的时钟信号.</li>
 <li>波特率表示信号每秒变化的次数,也是码元的传输速率;</li>
 <li>一般情况下多个比特构成一个码元,所以波特率在数值上&lt;=比特率,但是在以太网实施的曼彻斯特编码中,一个码元等于二分之一个比特等于一个脉冲(我不是很理解这一块,特殊情况特殊记忆)<blockquote>
@@ -660,11 +665,11 @@ mjx-container[display="true"] + br {
 </li>
 <li>信道的最大传输速率受香农定理和奈奎斯特定理两者作用,二者取其小</li>
 </ul>
-<h1 id="2-2传输介质"><a href="#2-2传输介质" class="headerlink" title="2.2传输介质"></a>2.2传输介质</h1><ul>
+<h2 id="传输介质"><a href="#传输介质" class="headerlink" title="传输介质"></a>传输介质</h2><ul>
 <li>同轴电缆具有更高的屏蔽性，同时有更好的抗噪声性。</li>
 <li>物理层接口的特性：<br><strong>机械特性</strong>。指明接口所用接线器的形状和尺寸、引脚数目和排列、固定和锁定装置等。<br><strong>电气特性</strong>。指明在接口电缆的各条线上的电压范围、传输速率和距离限制等。<br><strong>功能特性</strong>。指明某条线上出现的某一电平的电压的意义,以及每条线的功能。<br><strong>过程特性</strong>,也称规程特性。指明对不同功能的各种可能事件的出现顺序。</li>
 </ul>
-<h1 id="2-3物理层设备"><a href="#2-3物理层设备" class="headerlink" title="2.3物理层设备"></a>2.3物理层设备</h1><ul>
+<h2 id="物理层设备"><a href="#物理层设备" class="headerlink" title="物理层设备"></a>物理层设备</h2><ul>
 <li><strong>中继器</strong>的原理是将衰减的信号再生而不是放大,连接后的网段仍然属于同一个局域网。<br><strong>转发器</strong>只能用来放大信号。<br><strong>集线器</strong>的实质是一个多端口的中继器。集线器没有寻址功能,一个端口接收到数据信号后,从除了接收端口外的其他所有端口转发出去。<br><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/a52b99f571a7a"><strong>网桥</strong></a>是数据链路层设备，主要用于连接两个或多个局域网（LAN），并在它们之间转发数据帧。</li>
 <li>互相串联的中继器的个数不能超过4个,而且用4个中继器串联的5段通信介质中,只有3段可以挂接计算机,其余2段只能用作扩展通信范围的链路段,不能挂接计算机。这就是所谓的”<strong>5-4-3规则</strong>“</li>
 <li>若某个网络设备有存储转发功能,则认为它能连接两个不同的协议;</li>
@@ -685,7 +690,7 @@ mjx-container[display="true"] + br {
         
             <li>
                 <strong>更新于
-                    :</strong> 2025-01-20 14:52:40
+                    :</strong> 2025-01-25 12:33:45
             </li>
         
         <li>
@@ -712,6 +717,10 @@ mjx-container[display="true"] + br {
 			
 			<li class="tag-item mx-0.5">
 				<a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/">#计算机网络</a>&nbsp;
+			</li>
+			
+			<li class="tag-item mx-0.5">
+				<a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA408/">#计算机408</a>&nbsp;
 			</li>
 			
 		</ul>
@@ -832,7 +841,7 @@ mjx-container[display="true"] + br {
 	<div class="post-toc">
 		<div class="toc-title">目录</div>
 		<div class="page-title">物理层</div>
-		<ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#2-1%E9%80%9A%E4%BF%A1%E5%9F%BA%E7%A1%80"><span class="nav-text">2.1通信基础</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2-2%E4%BC%A0%E8%BE%93%E4%BB%8B%E8%B4%A8"><span class="nav-text">2.2传输介质</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2-3%E7%89%A9%E7%90%86%E5%B1%82%E8%AE%BE%E5%A4%87"><span class="nav-text">2.3物理层设备</span></a></li></ol>
+		<ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%80%9A%E4%BF%A1%E5%9F%BA%E7%A1%80"><span class="nav-text">通信基础</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BC%A0%E8%BE%93%E4%BB%8B%E8%B4%A8"><span class="nav-text">传输介质</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%89%A9%E7%90%86%E5%B1%82%E8%AE%BE%E5%A4%87"><span class="nav-text">物理层设备</span></a></li></ol>
 
 	</div>
 </div>
@@ -859,11 +868,11 @@ mjx-container[display="true"] + br {
                 
                 <p class="post-count space-x-0.5">
                     <span>
-                        共撰写了 26 篇文章
+                        共撰写了 29 篇文章
                     </span>
                     
                         <span>
-                            共 32.1k 字
+                            共 36.4k 字
                         </span>
                     
                 </p>
