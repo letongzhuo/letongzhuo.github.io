@@ -30,7 +30,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://letongzhuo.cn/images/redefine-og.webp">
 <meta property="article:published_time" content="2025-01-25T05:13:00.000Z">
-<meta property="article:modified_time" content="2025-01-25T09:59:00.243Z">
+<meta property="article:modified_time" content="2025-01-28T11:01:58.126Z">
 <meta property="article:author" content="lele">
 <meta property="article:tag" content="计算机网络">
 <meta property="article:tag" content="计算机408">
@@ -514,7 +514,7 @@ mjx-container[display="true"] + br {
 
         <div class="statistics flex justify-around my-2.5">
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/tags">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9</div>
         <div class="label text-third-text-color text-sm">标签</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/categories">
@@ -522,7 +522,7 @@ mjx-container[display="true"] + br {
         <div class="label text-third-text-color text-sm">分类</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">29</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">32</div>
         <div class="label text-third-text-color text-sm">文章</div>
     </a>
 </div>
@@ -559,7 +559,7 @@ mjx-container[display="true"] + br {
 				<div class="author flex items-center">
 					<span class="name text-default-text-color text-lg font-semibold">lele</span>
 					
-					<span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv3</span>
+					<span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv4</span>
 					
 				</div>
 				<div class="meta-info">
@@ -573,8 +573,8 @@ mjx-container[display="true"] + br {
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-25 17:59</span>
-            <span class="mobile">2025-01-25 17:59</span>
+            <span class="desktop">2025-01-28 19:01:58</span>
+            <span class="mobile">2025-01-28 19:01:58</span>
             <span class="hover-info">更新</span>
         </span>
     
@@ -626,12 +626,12 @@ mjx-container[display="true"] + br {
     
     
         <span class="article-wordcount article-meta-item">
-            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>894 字</span>
+            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>4.1k 字</span>
         </span>
     
     
         <span class="article-min2read article-meta-item">
-            <i class="fa-regular fa-clock"></i>&nbsp;<span>3 分钟</span>
+            <i class="fa-regular fa-clock"></i>&nbsp;<span>14 分钟</span>
         </span>
     
     
@@ -651,17 +651,16 @@ mjx-container[display="true"] + br {
 
 		<div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
 			<h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><ul>
-<li><p><strong>路由器的两个功能</strong>：</p>
-<ul>
+<li><strong>路由器的两个功能</strong>：<ul>
 <li><strong>路由选择</strong>：定期与相邻的路由器交换信息，获取最新的网络拓扑，然后更新路由表，根据路由表确定分组到达目的的最优路线</li>
-<li><strong>分组转发</strong>：根据转发表选择合适的端口将分组转发出去<blockquote>
-<p>转发表是根据路由表得出来的，虽然不是一个东西，但是讨论的时候可以互相代替</p>
-</blockquote>
-</li>
+<li><strong>分组转发</strong>：根据转发表选择合适的端口将分组转发出去
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>转发表是根据路由表得出来的，虽然不是一个东西，但是讨论的时候可以互相代替</p>
+
+  </div></li>
 </ul>
 </li>
-<li><p><strong>网络层提供两种服务</strong>：</p>
-<ul>
+<li><strong>网络层提供两种服务</strong>：<ul>
 <li><strong>虚电路</strong>：两台计算机通信时先建立网络层连接即虚电路，通信分虚电路建立、数据传输、虚电路释放三阶段。建立时分配虚电路号，之后分组首部只需携带该编号。<ul>
 <li><strong>工作原理</strong>：<ul>
 <li>数据传输前，主机 A 发 “呼叫请求” 分组给主机 B，主机 B 同意则发 “呼叫应答” 分组确认。</li>
@@ -699,11 +698,283 @@ mjx-container[display="true"] + br {
 </ul>
 </li>
 </ul>
-<blockquote>
-<p><a class="link" target="_blank" rel="noopener" href="https://www.doubao.com/thread/ab4007f53f4ab">数据报和分组转发<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>越看越像一个东西，数据报是宏观的的服务，分组转发是具体的行为，应该可以这样描述：“<strong>数据报服务是通过分组转发技术实现的</strong>”。</p>
-</blockquote>
+
+  <div class="note p-4 mb-4 rounded-small default">
+    <p><a class="link" target="_blank" rel="noopener" href="https://www.doubao.com/thread/ab4007f53f4ab">数据报和分组转发<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>越看越像一个东西，数据报是宏观的的服务，分组转发是具体的行为，应该可以这样描述：“<strong>数据报服务是通过分组转发技术实现的</strong>”。</p>
+
+  </div>
 <ul>
-<li><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/a687298dca0b0"><strong>SDN软件定义网络</strong></a>：把网络比作城市的交通系统传统的网络就是按着固定的红绿灯倒计时进行交通控制，SDN就像是有一个掌控全局的幕后大佬控制着每个路口的交通信号灯，根据各个方向车辆的多少来控制各个方向的倒计时</li>
+<li><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/a687298dca0b0"><strong>SDN软件定义网络</strong></a>：把网络比作城市的交通系统，传统的网络就是按着固定的红绿灯倒计时进行交通控制，SDN就像是有一个掌控全局的幕后大佬控制着每个路口的交通信号灯，根据各个方向车辆的多少来控制各个方向的倒计时</li>
+<li><strong>拥塞控制</strong>：<ul>
+<li>拥塞控制是指对整个网络中的分组进行控制，网络能承载的流量是有限的，网络中的分组太多就会造成阻塞，所以拥塞控制是全局的行为、流量控制是俩主机之间点对点的行为</li>
+<li><strong>拥塞控制的两种方法</strong>：<ul>
+<li><strong>开环控制</strong>：是一种静态预防方法，在设计网络时就将拥塞相关因素考虑周全。系统启动运行后中途无需修改，手段包括确定接收新流量、丢弃分组的时机及对象，以及调度策略等，决策时不考虑当前网络状态。</li>
+<li><strong>闭环控制</strong>：事先不考虑拥塞因素，通过监测网络系统来监视拥塞发生位置，然后将拥塞信息传至合适地方，以调整网络系统运行并解决问题，是基于反馈环路概念的动态方法。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="IPv4"><a href="#IPv4" class="headerlink" title="IPv4"></a>IPv4</h2><h3 id="IPv4分组的格式"><a href="#IPv4分组的格式" class="headerlink" title="IPv4分组的格式"></a>IPv4分组的格式</h3><ul>
+<li><strong>格式</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250126104609.png"><ul>
+<li><strong>版本</strong>：v4还是v6</li>
+<li><strong>首部长度</strong>：表示首部的长度，最常用的是20B，这时候不使用任何可选字段，最长表示60B</li>
+<li><strong>区分服务</strong>：用于表示这个分组的特殊要求，比如延迟、优先级这种，根据这个字段提供不同的处理</li>
+<li><strong>总长度</strong>：表示这个分组的全部长度，一定不能超过下一层（数据链路层）的MTU（最大传输单元）的长度，<strong>以太网帧的最大传送单元(MTU)为1500B</strong></li>
+<li><strong>标识</strong>：用于表示这个分组属于哪个数据报，用于最后重组数据报的时候通过这个字段判断</li>
+<li><strong>标志</strong>：表示这个分组能不能分片，DF=0（Don’t Fragment）表示可以分片，MF=1（More Fragment表示这一片后边还有分片，MF=0表示这一片是最后一个分片</li>
+<li><strong>片偏移</strong>：表示这个分组在数据报中的位置</li>
+<li><strong>生存时间</strong>：分组经过一个路由器生存时间减一，减到零的时候丢弃这个分组，避免这个分组在网络中无限循环</li>
+<li><strong>协议</strong>：表示这个分组应该给上层的哪个协议处理，值为6表示TCP，值为17表示UDP</li>
+<li><strong>首部检验和</strong>：经过一个路由器，都要重新计算首部检验和看这个分组的首部出错了没有</li>
+<li><strong>源地址</strong>：发送这个分组的主机IP</li>
+<li><strong>目的地址</strong>：接受这个分组的主机IP
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-triangle-exclamation"></i><p>warning题中经常出现这几个长度之间的加减运算</p>
+
+    </div>
+    <div class="notel-content">
+      <p>基本单位长度：<br>首部4B<br>总长度1B<br>片偏移8B<br><strong>基本单位长度的含义</strong>：比如，若首部长度字段的值为 5，那么首部实际长度就是 5×4 = 20 字节。</p>
+
+    </div>
+  </div></li>
+</ul>
+</li>
+</ul>
+<h3 id="IPv4与NAT"><a href="#IPv4与NAT" class="headerlink" title="IPv4与NAT"></a>IPv4与NAT</h3><ul>
+<li><strong>特殊IP的用途</strong>：<ul>
+<li>主机号全为0表示本网络，eg:202.98.174.0//前三个部分是网络号</li>
+<li>主机号全为1表示广播地址</li>
+<li>127.x.x.x是环回自检地址，意思就是本主机，这个地址永远不会出现到互联网
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-triangle-exclamation"></i><p>震惊，原来除了127.0.0.1只要是127开头的都是，我才知道</p>
+
+    </div>
+    <div class="notel-content">
+      <p><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250127111356.png"></p>
+
+    </div>
+  </div></li>
+<li>0.0.0.0表示本网络的本主机
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-triangle-exclamation"></i><p>GOD!!!,0.0.0.0竟然也可以</p>
+
+    </div>
+    <div class="notel-content">
+      <p><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250127111631.png"></p>
+
+    </div>
+  </div></li>
+<li>255.255.255.255表示整个网络的广播地址，但是因为路由器对广播域的隔离作用，实际等效为本网络的广播地址</li>
+<li><strong>常用的三类IP适用范围</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250127114136.png"><ul>
+<li><strong>A类网络最大可用网络数-2的原因</strong>：<ul>
+<li>一个全为零的IP，0.0.0.0</li>
+<li>一个127开头的地址</li>
+</ul>
+</li>
+<li><strong>最大主机数-2的原因</strong>：<ul>
+<li>一个主机号全为零表示网络号</li>
+<li>主机号全为1表示广播地址</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+  
+  <div class="note p-4 mb-4 rounded-small red">
+    <p>现在这种分类的网络已经被淘汰了（无语了，淘汰了还考屁啊）<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/09A4825A.png"></p>
+
+  </div></li>
+<li><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/a5a9667dbb56d"><strong>NAT中私有地址的网段</strong></a>：<ul>
+<li>一个A类地址：<strong>10</strong>.0.0.0~<strong>10</strong>.255.255.255（我学校的局域网就是这个网段）</li>
+<li>16个B类地址：<strong>172.16</strong>.0.0~<strong>172.31</strong>.255.255</li>
+<li>256个C类地址：<strong>192.168.0</strong>.0~<strong>192.168.255</strong>.255（我家是这个）</li>
+</ul>
+</li>
+<li><strong>NAT的实现原理</strong>：<ul>
+<li>内网的主机以【端口1（eg:3345）】发送web请求</li>
+<li>路由器接受该请求然后从【端口2(eg:5001)】发送web请求</li>
+<li>服务器相应80端口的web请求</li>
+<li>路由器接受【端口2】的数据</li>
+<li>最后把数据转发到到内网主机的【端口1】<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250127152053.png"></li>
+</ul>
+</li>
+</ul>
+<h3 id="划分子网与路由聚合"><a href="#划分子网与路由聚合" class="headerlink" title="划分子网与路由聚合"></a>划分子网与路由聚合</h3><ul>
+<li><strong>划分子网的IP地址的结构</strong>：<br>{&lt;网络号&gt;,&lt;子网号&gt;,&lt;主机号&gt;}
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>其实就是把主机号分成两部分再划分网段，方便内部管理</p>
+
+  </div></li>
+<li><strong>子网掩码</strong>：和IP地址长度一样，用1表示网络号和子网号，0表示主机号<ul>
+<li>A类地址的默认子网掩码：255.0.0.0</li>
+<li>B类地址的默认子网掩码：255.255.0.0</li>
+<li>C类地址的默认子网掩码：255.255.255.0</li>
+</ul>
+</li>
+<li>ABC分类的地址早都淘汰了，现在是<strong>CIDR</strong>（我读：赛der(#^.^#)）（<strong>无分类编址</strong>，Classless Inter-Domain Routing）的天下<br>IP地址的格式：{&lt;网络前缀&gt;,&lt;主机号&gt;}<ul>
+<li>可以用子网掩码来表示网络前缀</li>
+<li>也可以用“x.x.x.x/20”这种方法表示</li>
+</ul>
+</li>
+<li><strong>路由聚合</strong>也叫构成超网，举例说明这个东西：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250127155000.png">网络1和网络2的掩码一样，都是17位，然后聚合之后在R1看来就是两个网络都是16位的掩码，这就是聚合，两网络聚合成一个网络<ul>
+<li><strong>路由器分组转发的方法</strong>：使用CIDR之后网络号变得不一样长，所以在转发的时候要越具体越好，选择<strong>最长匹配的网络号</strong>进行转发
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>为了减少查询的时间，可以在路由器中<strong>按前缀的长短由长到短排序</strong></p>
+
+  </div></li>
+</ul>
+</li>
+<li><strong>CIDR的应用</strong>：208.115.21.0/24，划分三个部门，各部分的主机数为50、20、5<ul>
+<li>除了要分配对应主机数的IP地址之外还要给每个部门分配一个<strong>路由器接口地址</strong>，也就是51、21、6个IP</li>
+<li>总共三个部分，所以要用2个比特位表示3个部门，后边的主机号只要够用就好<ul>
+<li>也就是208.115.21.0000 0000\26</li>
+<li>208.115.21.0100 0000\26</li>
+<li>208.115.21.1000 0000\26。</li>
+</ul>
+</li>
+<li>除了这样按网络号分配（每个部门都剩下了可多IP）之外，还可以<strong>按主机分配</strong>(这样可以减少IP的浪费)，直接把掩码拉到IP刚好够主机数</li>
+</ul>
+</li>
+</ul>
+<h3 id="网络层转发分组的过程"><a href="#网络层转发分组的过程" class="headerlink" title="网络层转发分组的过程"></a>网络层转发分组的过程</h3><ul>
+<li><strong>路由表中的两条特殊路由</strong>：<ul>
+<li><strong>x.x.x.x/32</strong>：对于特定的主机专门弄一条路由，子网掩码全是1，这样可以方便管理员控制和测试网络，确保这个流量优先传送</li>
+<li><strong>0.0.0.0/0</strong>：这个是默认路由，路由表最后一个表项，随便一个分组都能与它匹配，这个用于前边没有表项与分组匹配。默认路由通常用于路由器到互联网的路由</li>
+</ul>
+</li>
+<li><a href="/2025/01/28/2025-01-28-IP%E4%B8%8EMAC%E5%8D%8F%E5%90%8C%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B"><strong>路由器分组转发的过程</strong></a>:<ol>
+<li>提取出分组目的IP</li>
+<li>把IP和子网掩码AND运算</li>
+<li>把结果与表项逐一比较</li>
+<li>找到之后交付到本网络的主机，或者交付到下一个网络</li>
+<li>没有匹配的就转发到默认路由，否则报错
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-triangle-exclamation"></i><p>warning</p>
+
+    </div>
+    <div class="notel-content">
+      <p>第四步中得到目的IP地址之后不能直接转发，还要解封MAC帧，通过ARP协议得到下一跳的MAC地址封装到MAC帧中<br>IP是全局的，MAC是局部的，每经过一个网络，MAC帧的源地址和目的地址都要更新，IP地址始终不变</p>
+
+    </div>
+  </div></li>
+</ol>
+</li>
+</ul>
+<h3 id="地址解析协议ARP"><a href="#地址解析协议ARP" class="headerlink" title="地址解析协议ARP"></a>地址解析协议ARP</h3><ul>
+<li><strong>ARP的工作原理</strong>：<ol>
+<li><strong>缓存查询</strong>：主机A欲向主机B发送IP数据报时，先在其ARP高速缓存中查找主机B的IP地址。</li>
+<li><strong>缓存命中处理</strong>：若缓存中有主机B的IP地址，则查出对应的硬件地址（MAC地址），将其写入MAC帧，通过局域网将该MAC帧发往此硬件地址。 </li>
+<li><strong>缓存未命中处理</strong>：若缓存中无主机B的IP地址，主机A使用目的MAC地址为FF - FF - FF - FF - FF - FF的帧来封装并广播ARP请求分组，使得同一个局域网里的所有主机都能收到此ARP请求。</li>
+<li><strong>响应发送</strong>：主机B收到ARP请求后，向主机A发出ARP响应分组（单播发送），分组中包含主机B的IP地址与MAC地址的映射关系。 </li>
+<li><strong>缓存更新与数据发送</strong>：主机A收到ARP响应分组后，将主机B的IP - MAC映射关系写入ARP缓存，然后按查询到的硬件地址发送MAC帧。
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>如果两个主机不在一个局域网中，A主机把分组发给路由器，让路由器把分组转发到目的网络</p>
+
+  </div></li>
+</ol>
+</li>
+</ul>
+<h3 id="动态主机配置协议DHCP"><a href="#动态主机配置协议DHCP" class="headerlink" title="动态主机配置协议DHCP"></a>动态主机配置协议DHCP</h3><ul>
+<li><strong>DHCP的工作流程</strong>：<ol>
+<li>客户主机向服务器发送“DHCP发现”消息，想找到网络上的DHCP服务器。源地址：0.0.0.0，目标地址：255.255.255.255</li>
+<li>服务器收到这个消息，然后发送“DHCP提供”消息，这个消息里边还有提供的IP地址。源地址为服务器IP地址（不是0.0.0.0），目的地址是255.255.255.255</li>
+<li>客户机收到这个消息，如果接受了这个IP就广播“DHCP请求”消息，请求提供IP。源地址：0.0.0.0，目标地址：255.255.255.255</li>
+<li>服务器广播“DHCP确认”消息，把第2步发出去的IP分配给这个主机。源地址为服务器IP地址，目的地址是255.255.255.255
+  <div class="note-large blue">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-question"></i><p><a href="/2025/01/28/2025-01-28-DHCP%E6%B5%81%E7%A8%8B%E7%96%91%E9%97%AE">为什么第二步提供IP了第三步还要请求</a></p>
+
+    </div>
+    <div class="notel-content">
+      <p>第二步表示我提供这个IP，第三步表示我要用这个IP，第四步表示服务器确认</p>
+
+    </div>
+  </div></li>
+</ol>
+</li>
+</ul>
+<h3 id="网际控制报文ICMP"><a href="#网际控制报文ICMP" class="headerlink" title="网际控制报文ICMP"></a>网际控制报文ICMP</h3><ul>
+<li>ICMP有两种<ol>
+<li><strong>ICMP差错报告报文</strong>：五种类型<ol>
+<li>终点不可达报文</li>
+<li>源点抑制（网络拥塞而丢弃数据报就发送这个报文，<strong>现在已经弃用</strong>）</li>
+<li>时间超过：TTL减到0路由器丢弃数据报就发送这个</li>
+<li>参数问题：数据报首部有字段不正确发送这个</li>
+<li>改变路由（重定向）：发送这个让主机知道下次发给别的路由器，这个路由器有更好的路由路径</li>
+</ol>
+<ul>
+<li>对下边情况不发送ICMP差错报告报文<ul>
+<li>对于ICMP报文不再发送ICMP差错报文（禁止套娃！！！）</li>
+<li>对于分片的数据报，除了第一个，后续的所有报片都不发送</li>
+<li>多播地址不发送</li>
+<li>特殊地址不发送（127.x.x.x，0.0.0.0这种）</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>ICMP询问报文</strong>：<ol>
+<li>回送请求和回答报文</li>
+<li>时间戳请求和回答报文</li>
+<li>地址掩码请求和回答报文</li>
+<li>路由器请求和通告报文
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>啥！啥！啥！这四个都是啥！</p>
+
+  </div></li>
+</ol>
+</li>
+</ol>
+</li>
+<li>ICMP的应用是ping和tracert命令，<strong>but</strong>ping工作在应用层，tracert工作在网络层</li>
+</ul>
+<h2 id="IPv6"><a href="#IPv6" class="headerlink" title="IPv6"></a>IPv6</h2><ul>
+<li><strong>IPv6的数据报首部格式</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250128152703.png"><ul>
+<li><strong>版本</strong>：6</li>
+<li><strong>通信量类</strong>：用来区分不同IPv6的类别或优先级</li>
+<li><strong>流标号</strong>：把从特定源点到特定终点的一系列数据报称作流，这种数据报都有实时性要求 ，应该是为这种流量设的字段，传统的非实时性的流量用不上，可以设置为0</li>
+<li><strong>有效载荷长度</strong>：指明除了基本首部的数据长度（包括扩展首部）</li>
+<li><strong>下一个首部</strong>：这个数据报没有扩展首部时：这个字段指明本数据报装的是什么协议的数据；有扩展首部时：这个字段指明第一个扩展首部的类型</li>
+<li><strong>跳数限制</strong>：最大TTL值为255
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>因为IPv6有128位，所以虽然基本首部减少到8个字段，但是还是比IPv4长</p>
+
+  </div></li>
+</ul>
+</li>
+<li><strong>IPv6地址类型</strong>：<ul>
+<li><strong>单播</strong>：点对点通信</li>
+<li><strong>多播</strong></li>
+<li><strong>任播</strong>：任播的终点是一组计算机，但是数据报只交付其中距离最近的一个主机</li>
+</ul>
+</li>
+<li><strong>地址分类</strong>：<ul>
+<li><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250128184328.png"></li>
+<li><strong>未指明地址</strong>：用作未分配IPv6地址的主机作为源地址（DHCP那里也是这，0.0.0.0作为源地址）</li>
+<li><strong>环回地址</strong>：IPv6的环回地址就这一个，不像IPv4一样只要127开头都可以</li>
+<li><strong>多播地址</strong>：前八位都是1</li>
+<li><strong>本地链路单播地址</strong>：IPv6的局域网地址<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250128184738.png"></li>
+<li><strong>全球单播地址</strong>：分成三部分<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250128185602.png">
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-triangle-exclamation"></i><p><a href="/2025/01/28/2025-01-28-IPv6%E5%8D%8F%E8%AE%AE%E4%B8%ADARP%E7%9A%84%E7%96%91%E9%97%AE">IPv6中ARP协议怎么办</a></p>
+
+    </div>
+    <div class="notel-content">
+      <ul>
+<li><strong>IPv6 淘汰了传统 ARP 协议</strong>，其地址解析功能由 <strong>NDP（基于 ICMPv6）</strong> 实现。</li>
+<li>若 IPv6 地址的接口标识符基于 MAC 地址（如 EUI-64），可直接从地址中提取硬件信息，无需额外解析。</li>
+<li>对于非 MAC 地址生成的接口标识符（如随机化地址），仍需通过 NDP 的 NS/NA 交互完成地址解析。</li>
+</ul>
+
+    </div>
+  </div></li>
+</ul>
+</li>
 </ul>
 
 		</div>
@@ -719,7 +990,7 @@ mjx-container[display="true"] + br {
         
             <li>
                 <strong>更新于
-                    :</strong> 2025-01-25 17:59:00
+                    :</strong> 2025-01-28 19:01:58
             </li>
         
         <li>
@@ -761,27 +1032,27 @@ mjx-container[display="true"] + br {
     <div class="recommended-article-header text-xl md:text-3xl font-bold mt-10">
      <i aria-hidden="true"></i><span>推荐阅读</span>
     </div>
-    <div class="recommended-article-group"><a class="recommended-article-item" href="/2024/11/13/2024-11-13-计算机网络体系结构/" title="计算机网络体系结构" rel="bookmark">
+    <div class="recommended-article-group"><a class="recommended-article-item" href="/2025/01/28/2025-01-28-IP与MAC协同工作流程/" title="IP与MAC协同工作流程" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="IP与MAC协同工作流程" class="!max-w-none">
+  <span class="title">IP与MAC协同工作流程</span>
+</a><a class="recommended-article-item" href="/2024/11/13/2024-11-13-计算机网络体系结构/" title="计算机网络体系结构" rel="bookmark">
   <img src="/images/wallhaven-wqery6-light.webp" alt="计算机网络体系结构" class="!max-w-none">
   <span class="title">计算机网络体系结构</span>
 </a><a class="recommended-article-item" href="/2024/11/20/2024-11-20-数据链路层/" title="数据链路层" rel="bookmark">
   <img src="/images/wallhaven-wqery6-light.webp" alt="数据链路层" class="!max-w-none">
   <span class="title">数据链路层</span>
-</a><a class="recommended-article-item" href="/2024/11/17/2024-11-17-物理层/" title="物理层" rel="bookmark">
-  <img src="/images/wallhaven-wqery6-light.webp" alt="物理层" class="!max-w-none">
-  <span class="title">物理层</span>
 </a></div>
    </div>
    <div class="recommended-mobile">
    <div class="recommended-article-header text-xl md:text-3xl font-bold mt-10">
      <i aria-hidden="true"></i><span>推荐阅读</span>
    </div>
-   <div class="recommended-article-group"><a class="recommended-article-item" href="/2024/11/13/2024-11-13-计算机网络体系结构/" title="计算机网络体系结构" rel="bookmark">
+   <div class="recommended-article-group"><a class="recommended-article-item" href="/2025/01/28/2025-01-28-IP与MAC协同工作流程/" title="IP与MAC协同工作流程" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="IP与MAC协同工作流程" class="!max-w-none">
+  <span class="title">IP与MAC协同工作流程</span>
+</a><a class="recommended-article-item" href="/2024/11/13/2024-11-13-计算机网络体系结构/" title="计算机网络体系结构" rel="bookmark">
   <img src="/images/wallhaven-wqery6-light.webp" alt="计算机网络体系结构" class="!max-w-none">
   <span class="title">计算机网络体系结构</span>
-</a><a class="recommended-article-item" href="/2024/11/20/2024-11-20-数据链路层/" title="数据链路层" rel="bookmark">
-  <img src="/images/wallhaven-wqery6-light.webp" alt="数据链路层" class="!max-w-none">
-  <span class="title">数据链路层</span>
 </a></div>
    </div>
   </div>
@@ -870,7 +1141,7 @@ mjx-container[display="true"] + br {
 	<div class="post-toc">
 		<div class="toc-title">目录</div>
 		<div class="page-title">网络层</div>
-		<ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8A%9F%E8%83%BD"><span class="nav-text">功能</span></a></li></ol>
+		<ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8A%9F%E8%83%BD"><span class="nav-text">功能</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#IPv4"><span class="nav-text">IPv4</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#IPv4%E5%88%86%E7%BB%84%E7%9A%84%E6%A0%BC%E5%BC%8F"><span class="nav-text">IPv4分组的格式</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#IPv4%E4%B8%8ENAT"><span class="nav-text">IPv4与NAT</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%88%92%E5%88%86%E5%AD%90%E7%BD%91%E4%B8%8E%E8%B7%AF%E7%94%B1%E8%81%9A%E5%90%88"><span class="nav-text">划分子网与路由聚合</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%BD%91%E7%BB%9C%E5%B1%82%E8%BD%AC%E5%8F%91%E5%88%86%E7%BB%84%E7%9A%84%E8%BF%87%E7%A8%8B"><span class="nav-text">网络层转发分组的过程</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9C%B0%E5%9D%80%E8%A7%A3%E6%9E%90%E5%8D%8F%E8%AE%AEARP"><span class="nav-text">地址解析协议ARP</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8A%A8%E6%80%81%E4%B8%BB%E6%9C%BA%E9%85%8D%E7%BD%AE%E5%8D%8F%E8%AE%AEDHCP"><span class="nav-text">动态主机配置协议DHCP</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%BD%91%E9%99%85%E6%8E%A7%E5%88%B6%E6%8A%A5%E6%96%87ICMP"><span class="nav-text">网际控制报文ICMP</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#IPv6"><span class="nav-text">IPv6</span></a></li></ol>
 
 	</div>
 </div>
@@ -897,11 +1168,11 @@ mjx-container[display="true"] + br {
                 
                 <p class="post-count space-x-0.5">
                     <span>
-                        共撰写了 29 篇文章
+                        共撰写了 32 篇文章
                     </span>
                     
                         <span>
-                            共 36.4k 字
+                            共 41.6k 字
                         </span>
                     
                 </p>
