@@ -947,7 +947,7 @@ video {
 }
 
 .cursor-default {
-    cursor: url(../../images/my.cur), url(../../images/my.png), auto;
+    cursor: default
 }
 
 .cursor-pointer {
