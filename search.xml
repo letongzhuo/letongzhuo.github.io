@@ -28,58 +28,6 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/2021/02/01/2021-2-1-%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="ac2c294148fe5f08ef71e1129aa8cffd4aecf76517c1d3164e1b5677cca82cfe">249107fcce4fdab00b19d327c31fd8f3391582e1934f620d485f8d387d53437fe866eca361f7e448cbd323c1ab078057e1d4619d48760fce188797ef5e29c71df3f2d0a383734f0b54ca103243d58e42e2b9f56845e5553b8efb88a26c176fda62ad7bcc2faf1f56cf7ba98d1b0237529d826f34a0d6adb67ef6caf71da7a2b560d5758f5332cab2dad14e1884024b6ae877c96777713fe06b85d0b16c5369b8c524cb9dbcf50ba0370024bc9f9dd14072c19c84f65d83eff795109d9084b440704b2ad559592b377ec42fbf82f7e2c762e5005d1cdb850c79be34451ad2f77a26f4fa53cdef064331b88d4d3105a2e2815d122a4060d3bdde391c450dce68bd25f9a29a4a9c94923cfa7e6f75072df03710d2e3a706b680de08f03e100303147b8244f82bb7755259004225b21d19f056357ab810af69cf5b6f1a29ed886150d1dd3f593f76b2539c682f2c0ec906f3c4eeb1c3d31702f2b92540db3f75574bca3839ed9168bd006da9c285d7bd723a9a7189aa67dd75faed4f28e7a6d9916e190d620c225263dc1a2be096306564be6c1015f520892cb05f4ba81eaab13e13fe89d3b5a064e94569d58204ed11c56a8ae5034da4e35ca297f3431b5ce4376631b10bb7cdfef1de2f2a249e2135ede68d3aa363c2798a40346eecf9dff120f8a86b08ac35a92ffdd354ddcfe73b613bb28448377b3df01440b083b030e9ce34af7302a9c2f88e6d9b732cc1ca038d058961a73a1c6c95477b871c38e7a4be53d225fe6c014305875203516f91845fcfabd2863fa8345f3ffaaa96114c2c596e75b69255165f35b5675fdf2458ee2d10d234e37931b6bbb09e2285430b3b2f7b206c3ed97af718fb78fc05a5f23db1beb480bfc24ad68b5c914c68ae01f187d1c11443a5dceeac5891424418193313b99c149eaa4064a5f5cb94c1680c8d65cc2f9823f493bcabf0525cb69bb9494060031fac4c2736521960259fd578642711e193c08217fa967a6e43ebcf2f39e98156e1cf0cbd5cb0b8cc62c5f9d3595c6c18e9b9bc04b607dfc3c617e9dfd0deb025a6184086796dfc416154ef04220794333437cd60a4c24203749676da211dd3e78e1580b269e20d6babf610836f507197c2cdc9f651dd6bf846df9656828e12bb5f512be4503d9a78679d37cacb91db708e9df541d636e40c652c5fe946422dda78da9592b92a806874142cbdc30af8ae101c84bf82a5553df1412b31b1a7e1a9ea70f7d8225598250f8ca1e0bcbdb14dbf5560e067f32d9dfddf8c3ce26548b0cb4cc1e8b6565b2996ae1ca3abd946c2b6309f21a6e0d7262f6f516b424e65e119aa600c725eae72de08d1b3a7f9c00c3fd2e70da8519715a11b2c642699cc28c30184b1b0774220cbe19d02f732421a01615f4371e8b09748a5e0a98aaa9c23d68b2b2d3efacc7f6c09bb74a8753bfd61b3f70bbf1dd7cadae4797680b4f9c7515f4823781a379d8a8b07fab22b319939f4bfa032b61ef21ddad3da9956a3a8180f4023a21377469b75df97c338e7f33e554ee90fae689d57605c0daa4785d9d7190942533ad23c8293ce27f889b9b97d2b5b9ac1610ae08c1a63b87b86e5d87d7ad14d5fad3df5ca475d49bc8dfe6ecf33c2e23be36235132ea194de0ee26a0ae838a8619f0f633b154121cdd7b784f754970a2541c7a4edcfb85ea05895513a11d03e0ac1491f09a0d92f7a442741a8d2c8e146b2f9bc2cd154341fbcb83a60f2b56f0b15275a66e65654818480e42fb58f77497f569295fadea3cbc5253871b5d14024585b941f9ea80cfa566467679447741af09dd8a1c979f48ee3992e006b8cfe7f61e0db23b56d6d00f865</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日记</title>
-    <url>/2021/02/04/2021-2-4-%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日记</title>
     <url>/2021/02/02/2021-2-2-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -106,10 +54,62 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
+    <url>/2021/02/01/2021-2-1-%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="ac2c294148fe5f08ef71e1129aa8cffd4aecf76517c1d3164e1b5677cca82cfe">249107fcce4fdab00b19d327c31fd8f3391582e1934f620d485f8d387d53437fe866eca361f7e448cbd323c1ab078057e1d4619d48760fce188797ef5e29c71df3f2d0a383734f0b54ca103243d58e42e2b9f56845e5553b8efb88a26c176fda62ad7bcc2faf1f56cf7ba98d1b0237529d826f34a0d6adb67ef6caf71da7a2b560d5758f5332cab2dad14e1884024b6ae877c96777713fe06b85d0b16c5369b8c524cb9dbcf50ba0370024bc9f9dd14072c19c84f65d83eff795109d9084b440704b2ad559592b377ec42fbf82f7e2c762e5005d1cdb850c79be34451ad2f77a26f4fa53cdef064331b88d4d3105a2e2815d122a4060d3bdde391c450dce68bd25f9a29a4a9c94923cfa7e6f75072df03710d2e3a706b680de08f03e100303147b8244f82bb7755259004225b21d19f056357ab810af69cf5b6f1a29ed886150d1dd3f593f76b2539c682f2c0ec906f3c4eeb1c3d31702f2b92540db3f75574bca3839ed9168bd006da9c285d7bd723a9a7189aa67dd75faed4f28e7a6d9916e190d620c225263dc1a2be096306564be6c1015f520892cb05f4ba81eaab13e13fe89d3b5a064e94569d58204ed11c56a8ae5034da4e35ca297f3431b5ce4376631b10bb7cdfef1de2f2a249e2135ede68d3aa363c2798a40346eecf9dff120f8a86b08ac35a92ffdd354ddcfe73b613bb28448377b3df01440b083b030e9ce34af7302a9c2f88e6d9b732cc1ca038d058961a73a1c6c95477b871c38e7a4be53d225fe6c014305875203516f91845fcfabd2863fa8345f3ffaaa96114c2c596e75b69255165f35b5675fdf2458ee2d10d234e37931b6bbb09e2285430b3b2f7b206c3ed97af718fb78fc05a5f23db1beb480bfc24ad68b5c914c68ae01f187d1c11443a5dceeac5891424418193313b99c149eaa4064a5f5cb94c1680c8d65cc2f9823f493bcabf0525cb69bb9494060031fac4c2736521960259fd578642711e193c08217fa967a6e43ebcf2f39e98156e1cf0cbd5cb0b8cc62c5f9d3595c6c18e9b9bc04b607dfc3c617e9dfd0deb025a6184086796dfc416154ef04220794333437cd60a4c24203749676da211dd3e78e1580b269e20d6babf610836f507197c2cdc9f651dd6bf846df9656828e12bb5f512be4503d9a78679d37cacb91db708e9df541d636e40c652c5fe946422dda78da9592b92a806874142cbdc30af8ae101c84bf82a5553df1412b31b1a7e1a9ea70f7d8225598250f8ca1e0bcbdb14dbf5560e067f32d9dfddf8c3ce26548b0cb4cc1e8b6565b2996ae1ca3abd946c2b6309f21a6e0d7262f6f516b424e65e119aa600c725eae72de08d1b3a7f9c00c3fd2e70da8519715a11b2c642699cc28c30184b1b0774220cbe19d02f732421a01615f4371e8b09748a5e0a98aaa9c23d68b2b2d3efacc7f6c09bb74a8753bfd61b3f70bbf1dd7cadae4797680b4f9c7515f4823781a379d8a8b07fab22b319939f4bfa032b61ef21ddad3da9956a3a8180f4023a21377469b75df97c338e7f33e554ee90fae689d57605c0daa4785d9d7190942533ad23c8293ce27f889b9b97d2b5b9ac1610ae08c1a63b87b86e5d87d7ad14d5fad3df5ca475d49bc8dfe6ecf33c2e23be36235132ea194de0ee26a0ae838a8619f0f633b154121cdd7b784f754970a2541c7a4edcfb85ea05895513a11d03e0ac1491f09a0d92f7a442741a8d2c8e146b2f9bc2cd154341fbcb83a60f2b56f0b15275a66e65654818480e42fb58f77497f569295fadea3cbc5253871b5d14024585b941f9ea80cfa566467679447741af09dd8a1c979f48ee3992e006b8cfe7f61e0db23b56d6d00f865</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日记</title>
     <url>/2021/03/14/2021-3-14-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
   <script id="hbeData" type="hbeData" data-hmacdigest="abc3339a655f449b8b0e49bf85e351a332f6c31f85a95225f75d668afb94908a">249107fcce4fdab00b19d327c31fd8f33af60cc07c7fca5acec9f3d9dbfa6fd6e04d38ad181f8cede03dd9af51349f8d4fa3fd4380e1f3f378354b9b8cf3efeb07b5cd0c0e3a9f3ef9a6a531dc851d28fbbd58642fbb329bdbda96bcaaa5bd3d4b9656f9fbf2527ef07c20767129c8b8e2fdc0688d580ee71d32eafb308094da8893e9abd989e48c177e0d3f443760d5583705f01b844b1431473f39beef9a08</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日记</title>
+    <url>/2021/02/04/2021-2-4-%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -439,103 +439,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       <tags>
         <tag>计算机网络</tag>
         <tag>计算机408</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>操作系统概述</title>
-    <url>/2024/11/21/2024-11-21-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/</url>
-    <content><![CDATA[<h2 id="1-1操作系统的基本概念"><a href="#1-1操作系统的基本概念" class="headerlink" title="1.1操作系统的基本概念"></a>1.1操作系统的基本概念</h2><ul>
-<li>操作系统的四大特征:并发,共享,虚拟,异步,前两个是最基本的特征;<br><br><strong>并发</strong>是指两个或多个事件在同一时间间隔内发生;<br><br><strong>共享</strong>是指系统中的资源可供内存中多个并发执行的进程共同使用;<br><br><strong>虚拟</strong>是指将一个物理上的实体变为若干逻辑上的对应物;<br><br><strong>异步</strong>是指计算机中的进程因为资源问题,所以不是一下就运行到底的而是走走停停</li>
-<li>操作系统提供的接口主要分为两类:一类是<strong>命令接口</strong>，用户利用这些操作命令来组织和控制作业的执行:另一类是<strong>程序接口</strong>，编程人员可以使用它们来请求操作系统服务。<br><br>命令接口有联机和脱机两种:联机是输入一条命令就要得到结果,就是交互性;脱机是把处理任务直接扔给计算机,用户不干预计算机的运行,坐等结果;<br><br>程序接口是由一组系统调用组成,GUI就是通过调用程序接口实现的,但是GUI不是操作系统的一部分,GUI调用的系统调用命令是操作系统的一部分;</li>
-</ul>
-<h2 id="1-2操作系统发展历程"><a href="#1-2操作系统发展历程" class="headerlink" title="1.2操作系统发展历程"></a>1.2操作系统发展历程</h2><ul>
-<li><strong>单道批处理系统</strong>:把一堆作业扔给操作系统,配上监督程序,作业一个一个进行,具有自动性,顺序性,单道性;</li>
-<li><strong>多道批处理系统</strong>用户所提交的作业都先存放在外存上并排成一个队列，作业调度程序按一定的算法从后备队列中选择若干作业调入内存，它们在管理程序的控制下相互穿插地运行</li>
-<li><strong>分时操作系统</strong>是指将处理器的运行时间分成很短的时间片，按时间片轮流将处理器分配给各个作业<br>多个用户终端共享主机,响应时间很短,但是对于需要实时反馈的作业就不够了,需要实时系统</li>
-<li><strong>实时系统</strong>有硬实时和软实时,前者对于时间要求很严格,后者拖延一会也没事</li>
-<li>多道程序技术要求进程间能实现并发，需要实现进程调度以保证CPU的工作效率，而并发性的实现需要中断功能的支持。</li>
-</ul>
-<h2 id="1-3操作系统的运行环境"><a href="#1-3操作系统的运行环境" class="headerlink" title="1.3操作系统的运行环境"></a>1.3操作系统的运行环境</h2><ul>
-<li>CPU 的运行模式划分为用户态(目态)和核心态(又称管态、内核态)。</li>
-<li>特权指令(核心态)，是指不允许用户直接使用的指令，如I/O 指令、关中断指令、内存清零指令,存取用于内存保护的寄存器、送 PSW 到程序状态字寄存器等的指令。<br>非特权指令(用户态)，是指允许用户直接使用的指令，它不能直接访问系统中的软硬件资源，仅限于访问用户的地址空间，这也是为了防止用户程序对系统造成破坏。</li>
-<li><strong>中断和异常</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-21_20-21-35.png"></li>
-<li><strong>系统调用的功能</strong>:<br><br>设备管理。完成设备的请求或释放，以及设备启动等功能。<br><br>文件管理。完成文件的读、写、创建及删除等功能。<br><br>进程控制。完成进程的创建、撤销、阻塞及唤醒等功能。<br><br>进程通信。完成进程之间的消息传递或信号传递等功能。<br><br>内存管理。完成内存的分配、回收以及获取作业占用内存区大小和起始地址等功能。</li>
-<li>用户程序创建一个新进程，需使用操作系统提供的系统调用接口<br><br>用户程序使用系统调用命令，该命令经过编译后形成若干参数和陷入指令<br>当操作系统完成用户请求的系统调用功能后，应使CPU从内核态转到用户态</li>
-<li>在中断发生后，进入中断处理的程序只能属于操作系统程序</li>
-<li>计算机通过<strong>硬件</strong>完成操作系统由用户态到核心态的转换，这是通过中断机制来实现的。发生中断事件时，由硬件中断机制将计算机状态置为核心态。</li>
-<li>大多数计算机操作系统的内核包括四个方面的内容，即时钟管理、中断机制、原语和系统控制的数据结构及处理，其中第4部分实际上是系统调用类的指令(广义指令)。<br><blockquote>
-<p>置时钟指令是在核心态运行的,如果该指令允许在用户态执行，那么程序就可以自行更改时间片，会一直霸占CPU。</p>
-</blockquote>
-</li>
-<li>命令解释程序属于命令接口，能面对用户，在用户态下执行。磁盘调度程序、中断处理程序和进程调度程序都工作在内核态。</li>
-<li>“访管”指令仅在用户态下使用，<strong>执行“访管”指令将用户态转变为核心态。</strong></li>
-<li>系统调用命令工作在核心态，系统调用本身是一条在核心态运行的命令，并不是调用系统的命令，调用系统调用的命令才是用户态的。<br><strong>也就是说，系统调用的发生是在用户态，系统调用的执行是在核心态</strong></li>
-<li>I/O设备的请求、时钟中断是外部中断。<br><br>访管指令、缺页异常是内部中断。</li>
-<li>系统调用需要保存 PSW 和PC的值，一般过程调用只需保存PC的值。<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_08-53-49.png"><br>一般过程调用的被调用程序与调用程序运行在同一个状态，可能是系统态，也可能是用户态<br>系统调用的被调用过程一定运行在核心态</li>
-<li>trap 指令、跳转指令和压栈指令均可以在用户态执行，其中 trap 指令负责由用户态转换为内核态。关中断指令为特权指令，必须在核心态才能执行。<strong>注意</strong>，在操作系统中，关中断指令是权限非常大的指令，因为中断是现代操作系统正常运行的核心保障之一，能把它关掉，说明执行这条指令的一定是权限非常大的机构(管态)。</li>
-<li>外部中断处理过程，PC 值由中断隐指令自动保存，而通用寄存器内容由操作系统保存。块表(TLB)和 Cache 中的内容则由硬件机构保存。</li>
-<li>执行系统调用的过程：<br><ol>
-<li>传递系统调用参数</li>
-<li>执行陷入(trap)指令</li>
-<li>执行相应的服务程序</li>
-<li>返回用户态</li>
-</ol>
-</li>
-<li>当 CPU 检测到中断信号后，由硬件自动保存被中断程序的断点[程序计数器(PC)和程序状态字寄存器(PSW)]<blockquote>
-<p>麻蛋，到底是硬件保存的还是中断隐指令保存的啊，<strong>暂定是硬件保存的</strong></p>
-</blockquote>
-之后，硬件找到该中断信号对应的中断向量，中断向量指明中断服务程序入口地址(各中断向量统一存放在中断向量表中，该表由操作系统初始化)。<br>接下来开始执行中断服务程序，保存中断屏蔽字、保存各通用寄存器的值，并提供与中断信号对应的中断服务</li>
-<li><strong>系统调用是由用户进程发起的，请求操作系统的服务。</strong><br><ol>
-<li>当内存中的空闲页框不够时，操作系统会将某些页面调出，并将要访问的页面调入，这个过程完全由操作系统完成，不涉及系统调用。</li>
-<li>进程调度完全由操作系统完成，无法通过系统调用完成。</li>
-<li>创建新进程可以通过系统调用来完成，如Linux 中通过 fork 系统调用来创建子进程。</li>
-</ol>
-</li>
-<li>发生系统调用时，CPU 通过执行软中断指令将CPU的运行状态从用户态切换到内核态，这个过程与中断和异常的响应过程相同,，<strong>由硬件负责保存断点和程序状态字,并将 CPU 模式改为内核态</strong>。<br>然后，执行操作系统内核的系统调用入口程序，<strong>该内核程序负责保存通用寄存器的内容，再调用执行特定的系统调用服务例程。</strong><br>综上，前俩由硬件完成，后俩由操作系统完成。</li>
-</ul>
-<h2 id="1-4操作系统的结构，引导和虚拟机"><a href="#1-4操作系统的结构，引导和虚拟机" class="headerlink" title="1.4操作系统的结构，引导和虚拟机"></a>1.4操作系统的结构，引导和虚拟机</h2><ul>
-<li>结构：<br><ol>
-<li><strong>分层法</strong>：把操作系统分层，从底层（硬件）一层层向上扩充，每层只能调用紧邻它的低层的功能和服务(单向依赖)。<ul>
-<li><strong>优势</strong>：容易调试检查错误，一层一层向上检查，很容易确定具体哪一层出错；<br>容易扩充和维护，跟砌墙一样，想实现更高的功能只需要一层层叠加就🆗了</li>
-<li><strong>劣势</strong>：合理定义各层比较困难，各层之间挨得太近，暧昧不分；<br>效率很差，要完成某个功能要从底层开始穿越</li>
-</ul>
-</li>
-<li><strong>模块化</strong>：把操作系统按照不同的功能分为不同的模块<ul>
-<li><strong>优势</strong>：①提高了操作系统设计的正确性、可理解性和可维护性;②增强了操作系统的可适应性;③加速了操作系统的开发过程。</li>
-<li><strong>劣势</strong>：接口很难设计，你不知道它都有啥需求；<br>模块也很难设计，各个模块要齐头并进，顺序很难把握；</li>
-</ul>
-</li>
-<li><a class="link" href="https://www.doubao.com/thread/a4197fa860ae6">微内核<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>是保留最基础的内核功能，把多余的功能都剥离出去。<br><ul>
-<li>优势：<ol>
-<li>扩展性和灵活性。</li>
-<li>可靠性和安全性。</li>
-<li>可移植性</li>
-<li>分布式计算。</li>
-</ol>
-</li>
-<li>劣势：有点性能问题，因为需要频繁地在用户态和内核态之间切换</li>
-</ul>
-</li>
-<li><strong>宏内核</strong>：把所有功能都聚合到一起，效率很高，共享信息很快，但是操作系统越做越大，这种结构就很臃肿</li>
-</ol>
-</li>
-<li>模块化操作系统的各功能模块都在内核中，且模块之间相互调用、相互依赖，任何一个模块出错，都可能导致整个内核崩溃。<br>在微内核操作系统中，内核外的某个功能模块出错不会导致整个系统崩溃，可靠性高。 </li>
-<li>操作系统的启动过程：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_09-40-56.png" alt="text"></li>
-<li>Windows 是融合了宏内核和微内核的操作系统</li>
-<li>在拥有外核的操作系统中，外核只负责硬件资源的分配、回收、保护等，进程管理相关的工作仍然由内核负责。</li>
-<li>引导程序有两种，一种是位于BIOS中的用于引导开启各个设备，一种是位于硬盘中的用于引导操作系统</li>
-<li>第一类虚拟机管理程序直接运行在物理硬件之上，具有高性能和高安全性；第二类虚拟机管理程序运行在现有操作系统之上，安装和使用相对简单。<a class="link" href="https://www.doubao.com/thread/a3ff2039790f2">详细<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
-<li>BIOS 将控制权交给排在首位的启动设备后，CPU 将该设备主引导扇区的内容[主引导记录(MBR)]加载到内存中，然后由 MBR 检查分区表，查找活动分区，并将该分区的引导扇区的内容[分区引导记录(PBR)]加载到内存加以执行。</li>
-<li><strong>访管指令与访管中断</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_10-42-53.png" alt="text"></li>
-</ul>
-]]></content>
-      <categories>
-        <category>计算机操作系统</category>
-        <category>概述</category>
-      </categories>
-      <tags>
-        <tag>计算机408</tag>
-        <tag>计算机操作系统</tag>
       </tags>
   </entry>
   <entry>
@@ -900,15 +803,177 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>三体笔记</title>
-    <url>/2024/03/28/2024-3-28-%E4%B8%89%E4%BD%93%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<ul>
-<li>罗辑离开墓碑，站到他为自己挖掘的墓穴旁，将手枪顶到自己的心脏位置，说：”现在，我将让自己的心脏停止跳动，与此同时我也将成为两个世界有史以来最大的罪犯。对于所犯下的罪行，我对两个文明表示深深的歉意，但不会忏悔，因为这是唯一的选择。我知道智子就在身边，但你们对人类的呼唤从不理睬，无言是最大的轻蔑，我们忍受这种轻蔑已经两个世纪了，现在，如果你们愿意，可以继续保持沉默，我只给你们三十秒钟时间。</li>
-<li>晚霞之后可以看星星,朝霞之后只剩下光天化日的现实了</li>
+    <title>操作系统概述</title>
+    <url>/2024/11/21/2024-11-21-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/</url>
+    <content><![CDATA[<h2 id="1-1操作系统的基本概念"><a href="#1-1操作系统的基本概念" class="headerlink" title="1.1操作系统的基本概念"></a>1.1操作系统的基本概念</h2><ul>
+<li>操作系统的四大特征:并发,共享,虚拟,异步,前两个是最基本的特征;<br><br><strong>并发</strong>是指两个或多个事件在同一时间间隔内发生;<br><br><strong>共享</strong>是指系统中的资源可供内存中多个并发执行的进程共同使用;<br><br><strong>虚拟</strong>是指将一个物理上的实体变为若干逻辑上的对应物;<br><br><strong>异步</strong>是指计算机中的进程因为资源问题,所以不是一下就运行到底的而是走走停停</li>
+<li>操作系统提供的接口主要分为两类:一类是<strong>命令接口</strong>，用户利用这些操作命令来组织和控制作业的执行:另一类是<strong>程序接口</strong>，编程人员可以使用它们来请求操作系统服务。<br><br>命令接口有联机和脱机两种:联机是输入一条命令就要得到结果,就是交互性;脱机是把处理任务直接扔给计算机,用户不干预计算机的运行,坐等结果;<br><br>程序接口是由一组系统调用组成,GUI就是通过调用程序接口实现的,但是GUI不是操作系统的一部分,GUI调用的系统调用命令是操作系统的一部分;</li>
+</ul>
+<h2 id="1-2操作系统发展历程"><a href="#1-2操作系统发展历程" class="headerlink" title="1.2操作系统发展历程"></a>1.2操作系统发展历程</h2><ul>
+<li><strong>单道批处理系统</strong>:把一堆作业扔给操作系统,配上监督程序,作业一个一个进行,具有自动性,顺序性,单道性;</li>
+<li><strong>多道批处理系统</strong>用户所提交的作业都先存放在外存上并排成一个队列，作业调度程序按一定的算法从后备队列中选择若干作业调入内存，它们在管理程序的控制下相互穿插地运行</li>
+<li><strong>分时操作系统</strong>是指将处理器的运行时间分成很短的时间片，按时间片轮流将处理器分配给各个作业<br>多个用户终端共享主机,响应时间很短,但是对于需要实时反馈的作业就不够了,需要实时系统</li>
+<li><strong>实时系统</strong>有硬实时和软实时,前者对于时间要求很严格,后者拖延一会也没事</li>
+<li>多道程序技术要求进程间能实现并发，需要实现进程调度以保证CPU的工作效率，而并发性的实现需要中断功能的支持。</li>
+</ul>
+<h2 id="1-3操作系统的运行环境"><a href="#1-3操作系统的运行环境" class="headerlink" title="1.3操作系统的运行环境"></a>1.3操作系统的运行环境</h2><ul>
+<li>CPU 的运行模式划分为用户态(目态)和核心态(又称管态、内核态)。</li>
+<li>特权指令(核心态)，是指不允许用户直接使用的指令，如I/O 指令、关中断指令、内存清零指令,存取用于内存保护的寄存器、送 PSW 到程序状态字寄存器等的指令。<br>非特权指令(用户态)，是指允许用户直接使用的指令，它不能直接访问系统中的软硬件资源，仅限于访问用户的地址空间，这也是为了防止用户程序对系统造成破坏。</li>
+<li><strong>中断和异常</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-21_20-21-35.png"></li>
+<li><strong>系统调用的功能</strong>:<br><br>设备管理。完成设备的请求或释放，以及设备启动等功能。<br><br>文件管理。完成文件的读、写、创建及删除等功能。<br><br>进程控制。完成进程的创建、撤销、阻塞及唤醒等功能。<br><br>进程通信。完成进程之间的消息传递或信号传递等功能。<br><br>内存管理。完成内存的分配、回收以及获取作业占用内存区大小和起始地址等功能。</li>
+<li>用户程序创建一个新进程，需使用操作系统提供的系统调用接口<br><br>用户程序使用系统调用命令，该命令经过编译后形成若干参数和陷入指令<br>当操作系统完成用户请求的系统调用功能后，应使CPU从内核态转到用户态</li>
+<li>在中断发生后，进入中断处理的程序只能属于操作系统程序</li>
+<li>计算机通过<strong>硬件</strong>完成操作系统由用户态到核心态的转换，这是通过中断机制来实现的。发生中断事件时，由硬件中断机制将计算机状态置为核心态。</li>
+<li>大多数计算机操作系统的内核包括四个方面的内容，即时钟管理、中断机制、原语和系统控制的数据结构及处理，其中第4部分实际上是系统调用类的指令(广义指令)。<br><blockquote>
+<p>置时钟指令是在核心态运行的,如果该指令允许在用户态执行，那么程序就可以自行更改时间片，会一直霸占CPU。</p>
+</blockquote>
+</li>
+<li>命令解释程序属于命令接口，能面对用户，在用户态下执行。磁盘调度程序、中断处理程序和进程调度程序都工作在内核态。</li>
+<li>“访管”指令仅在用户态下使用，<strong>执行“访管”指令将用户态转变为核心态。</strong></li>
+<li>系统调用命令工作在核心态，系统调用本身是一条在核心态运行的命令，并不是调用系统的命令，调用系统调用的命令才是用户态的。<br><strong>也就是说，系统调用的发生是在用户态，系统调用的执行是在核心态</strong></li>
+<li>I/O设备的请求、时钟中断是外部中断。<br><br>访管指令、缺页异常是内部中断。</li>
+<li>系统调用需要保存 PSW 和PC的值，一般过程调用只需保存PC的值。<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_08-53-49.png"><br>一般过程调用的被调用程序与调用程序运行在同一个状态，可能是系统态，也可能是用户态<br>系统调用的被调用过程一定运行在核心态</li>
+<li>trap 指令、跳转指令和压栈指令均可以在用户态执行，其中 trap 指令负责由用户态转换为内核态。关中断指令为特权指令，必须在核心态才能执行。<strong>注意</strong>，在操作系统中，关中断指令是权限非常大的指令，因为中断是现代操作系统正常运行的核心保障之一，能把它关掉，说明执行这条指令的一定是权限非常大的机构(管态)。</li>
+<li>外部中断处理过程，PC 值由中断隐指令自动保存，而通用寄存器内容由操作系统保存。块表(TLB)和 Cache 中的内容则由硬件机构保存。</li>
+<li>执行系统调用的过程：<br><ol>
+<li>传递系统调用参数</li>
+<li>执行陷入(trap)指令</li>
+<li>执行相应的服务程序</li>
+<li>返回用户态</li>
+</ol>
+</li>
+<li>当 CPU 检测到中断信号后，由硬件自动保存被中断程序的断点[程序计数器(PC)和程序状态字寄存器(PSW)]<blockquote>
+<p>麻蛋，到底是硬件保存的还是中断隐指令保存的啊，<strong>暂定是硬件保存的</strong></p>
+</blockquote>
+之后，硬件找到该中断信号对应的中断向量，中断向量指明中断服务程序入口地址(各中断向量统一存放在中断向量表中，该表由操作系统初始化)。<br>接下来开始执行中断服务程序，保存中断屏蔽字、保存各通用寄存器的值，并提供与中断信号对应的中断服务</li>
+<li><strong>系统调用是由用户进程发起的，请求操作系统的服务。</strong><br><ol>
+<li>当内存中的空闲页框不够时，操作系统会将某些页面调出，并将要访问的页面调入，这个过程完全由操作系统完成，不涉及系统调用。</li>
+<li>进程调度完全由操作系统完成，无法通过系统调用完成。</li>
+<li>创建新进程可以通过系统调用来完成，如Linux 中通过 fork 系统调用来创建子进程。</li>
+</ol>
+</li>
+<li>发生系统调用时，CPU 通过执行软中断指令将CPU的运行状态从用户态切换到内核态，这个过程与中断和异常的响应过程相同,，<strong>由硬件负责保存断点和程序状态字,并将 CPU 模式改为内核态</strong>。<br>然后，执行操作系统内核的系统调用入口程序，<strong>该内核程序负责保存通用寄存器的内容，再调用执行特定的系统调用服务例程。</strong><br>综上，前俩由硬件完成，后俩由操作系统完成。</li>
+</ul>
+<h2 id="1-4操作系统的结构，引导和虚拟机"><a href="#1-4操作系统的结构，引导和虚拟机" class="headerlink" title="1.4操作系统的结构，引导和虚拟机"></a>1.4操作系统的结构，引导和虚拟机</h2><ul>
+<li>结构：<br><ol>
+<li><strong>分层法</strong>：把操作系统分层，从底层（硬件）一层层向上扩充，每层只能调用紧邻它的低层的功能和服务(单向依赖)。<ul>
+<li><strong>优势</strong>：容易调试检查错误，一层一层向上检查，很容易确定具体哪一层出错；<br>容易扩充和维护，跟砌墙一样，想实现更高的功能只需要一层层叠加就🆗了</li>
+<li><strong>劣势</strong>：合理定义各层比较困难，各层之间挨得太近，暧昧不分；<br>效率很差，要完成某个功能要从底层开始穿越</li>
+</ul>
+</li>
+<li><strong>模块化</strong>：把操作系统按照不同的功能分为不同的模块<ul>
+<li><strong>优势</strong>：①提高了操作系统设计的正确性、可理解性和可维护性;②增强了操作系统的可适应性;③加速了操作系统的开发过程。</li>
+<li><strong>劣势</strong>：接口很难设计，你不知道它都有啥需求；<br>模块也很难设计，各个模块要齐头并进，顺序很难把握；</li>
+</ul>
+</li>
+<li><a class="link" href="https://www.doubao.com/thread/a4197fa860ae6">微内核<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>是保留最基础的内核功能，把多余的功能都剥离出去。<br><ul>
+<li>优势：<ol>
+<li>扩展性和灵活性。</li>
+<li>可靠性和安全性。</li>
+<li>可移植性</li>
+<li>分布式计算。</li>
+</ol>
+</li>
+<li>劣势：有点性能问题，因为需要频繁地在用户态和内核态之间切换</li>
+</ul>
+</li>
+<li><strong>宏内核</strong>：把所有功能都聚合到一起，效率很高，共享信息很快，但是操作系统越做越大，这种结构就很臃肿</li>
+</ol>
+</li>
+<li>模块化操作系统的各功能模块都在内核中，且模块之间相互调用、相互依赖，任何一个模块出错，都可能导致整个内核崩溃。<br>在微内核操作系统中，内核外的某个功能模块出错不会导致整个系统崩溃，可靠性高。 </li>
+<li>操作系统的启动过程：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_09-40-56.png" alt="text"></li>
+<li>Windows 是融合了宏内核和微内核的操作系统</li>
+<li>在拥有外核的操作系统中，外核只负责硬件资源的分配、回收、保护等，进程管理相关的工作仍然由内核负责。</li>
+<li>引导程序有两种，一种是位于BIOS中的用于引导开启各个设备，一种是位于硬盘中的用于引导操作系统</li>
+<li>第一类虚拟机管理程序直接运行在物理硬件之上，具有高性能和高安全性；第二类虚拟机管理程序运行在现有操作系统之上，安装和使用相对简单。<a class="link" href="https://www.doubao.com/thread/a3ff2039790f2">详细<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>BIOS 将控制权交给排在首位的启动设备后，CPU 将该设备主引导扇区的内容[主引导记录(MBR)]加载到内存中，然后由 MBR 检查分区表，查找活动分区，并将该分区的引导扇区的内容[分区引导记录(PBR)]加载到内存加以执行。</li>
+<li><strong>访管指令与访管中断</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_10-42-53.png" alt="text"></li>
 </ul>
 ]]></content>
+      <categories>
+        <category>计算机操作系统</category>
+        <category>概述</category>
+      </categories>
       <tags>
-        <tag>三体</tag>
+        <tag>计算机408</tag>
+        <tag>计算机操作系统</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>文件管理</title>
+    <url>/2024/12/17/2024-12-17-%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/</url>
+    <content><![CDATA[<h1 id="4-1文件系统基础"><a href="#4-1文件系统基础" class="headerlink" title="4.1文件系统基础"></a>4.1文件系统基础</h1><ul>
+<li>文件控制块(File Control Block，FCB)是用来存放控制文件需要的各种信息的数据结构，<strong>以实现按名存取</strong>。文件与 FCB 一一对应。</li>
+<li>文件很多的时候,文件目录会占用很多的盘块,在查找目录的时候会把第一个盘块调入内存,然后用给定的文件名逐一比较,但是在这个过程中只用到了文件名,其他的信息都没有用,只有找到对应的文件才把对应的目录项调入内存,这样会浪费很多时间,所以需要把目录项调入内存,这样就可以直接比较文件名了,这就是索引文件。</li>
+<li><strong>文件打开的过程</strong>:用户对一个文件多次读写时,为了避免多次重复地检索目录,先利用系统调用open打开文件,系统维护一个打开文件表。打开的同时系统会给用户一个文件描述符(索引号),用户再次打开这个文件时,通过文件描述符来访问这个文件。文件不用时,系统调用close关闭文件,系统会回收这个文件描述符,从打开文件表中删除这个表目录。</li>
+<li><strong>文件关闭过程</strong>:在操作系统中，当文件不再使用时，会利用系统调用close来关闭文件。关闭文件时，会删除单个进程的打开文件表中的相应条目，系统表中的相应打开计数器（Open Count）也会递减。当打开计数器为0时，表示该文件不再被使用，并且可以从系统表中删除相应条目。</li>
+<li>只要完成了文件打开 open()系统调用，后面再使用 read()、write()、Lseek()、close()等文件操作的系统调用，就不再使用文件名，而使用文件描述符。</li>
+<li><strong>文件的逻辑结构</strong>:<ul>
+<li><strong>无结构文件(流式文件)</strong>:无结构文件是最简单的文件组织形式，由字符流构成，长度以字节为单位。访问流式文件通过读/写指针来定位字节。系统中的源程序、可执行文件、库函数等多采用无结构文件，但由于其无结构，记录访问只能通过穷举搜索，因此对很多应用不适用。</li>
+<li><strong>有结构文件(记录式文件)</strong>:<br><br> <strong>定长记录</strong>: 定长记录是指每个记录的长度相等，每个记录的结构是相同的。定长记录的优点是存取速度快，缺点是浪费存储空间。<br><br> <strong>不定长记录</strong>: 不定长记录是指每个记录的长度不等，每个记录的结构也不相同。不定长记录的优点是存储空间利用率高，缺点是存取速度慢。<ul>
+<li>顺序文件：顺序文件是指文件中的记录按照物理顺序存储，每个记录的物理地址与其逻辑地址相同。对于定长记录的顺序文件的优点是检索时可以用折半查找,查找速度快，缺点是插入和删除记录时需要移动大量记录。</li>
+<li>索引文件:配了一张索引表,每个文件都有一个索引项</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>文件的物理结构</strong>:<ul>
+<li><strong>连续分配</strong>: 连续分配是指将文件的所有记录存储在连续的物理块中。支持顺序访问和随机访问,但是会有外部碎片</li>
+<li><strong>链式分配</strong>:消除了外部碎片,修改插入也很方便<ul>
+<li>隐式链接: 隐式链接是指在文件的每个记录中增加一个指针域，指向下一个记录的盘块号。只能用于顺序访问。</li>
+<li>显式链接: 显式链接是指将用于链接文件各物理块的指针，显式地存放在内存的一张链接表中，该表在整个磁盘中仅设置一张，称为文件分配表(File Allocation Table，FAT)。可以顺序访问和随机访问。</li>
+</ul>
+</li>
+<li><strong>索引分配</strong>:在一个盘块内集合了多个记录,每个记录都有一个索引项,索引项中包含了记录的物理地址。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-30-41.png" alt="text">这种分配方法也不会产生外部碎片</li>
+<li><strong>混合索引分配</strong>:为了照顾大中小文件,把小文件的盘块地址直接放入FCB,中型文件采用需要先从 FCB 中找到该文件的索引表，从中获得该文件的盘块地址，即为一次间址。大文件采用两级或三级索引分配</li>
+</ul>
+</li>
+</ul>
+<h1 id="4-2目录"><a href="#4-2目录" class="headerlink" title="4.2目录"></a>4.2目录</h1><ul>
+<li>FCB 的有序集合称为文件目录，一个FCB就是一个文件目录项。</li>
+<li><strong>目录结构</strong>:<ul>
+<li><strong>单级目录结构</strong>:对多用户很不利,因为用户与用户之间也不允许文件重名<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-41-57.png" alt="text"><br></li>
+<li><strong>两级目录结构</strong>:虽然把用户分开了,但是缺乏灵活性,不能对文件进行分类<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-43-58.png" alt="text"><br></li>
+<li><strong>树形目录结构</strong>:也就是Windows的目录结构</li>
+<li><strong>无环图目录结构</strong>:在树的基础上进行改进,一个文件可以有多个父亲,虽然很灵活,但是管理复杂,有一个计数器,用来记录有多少个父亲,当计数器为0时,表示没有父亲,可以删除了<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-47-22.png" alt="text"></li>
+</ul>
+</li>
+<li>硬链接是基于索引节点的共享方式，文件的信息不放在目录中，而是放在索引节点中，多个目录项指向同一个索引节点。也是用一个count计数,当count为0时,才可以删除<br>软链接就是将到达共享文件的路径保存下来，当要访问文件时，根据路径寻找文件。硬链接的查找速度比软链接快。</li>
+<li>目录管理最基本的功能是按名存取<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-59-10.png" alt="text"></li>
+</ul>
+<h1 id="4-3文件系统"><a href="#4-3文件系统" class="headerlink" title="4.3文件系统"></a>4.3文件系统</h1><ul>
+<li><strong><a class="link" href="https://www.doubao.com/thread/ac4346e6e8dd6">文件系统结构<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_14-07-24.png" alt="text"></li>
+<li><strong>文件系统布局</strong>:<br><ul>
+<li><strong>主引导记录</strong>: 主引导记录是操作系统的引导程序，它位于磁盘的第一个扇区，用于引导操作系统。bios运行之后就到这个了</li>
+<li><strong>引导块</strong>: 引导块是操作系统的引导程序，它位于磁盘的第二个扇区，用于引导操作系统。每个分区都是统一从引导块开始</li>
+<li><strong>超级块</strong>: 超级块是文件系统的控制块，它位于磁盘的第三个扇区，用于存储文件系统的控制信息。</li>
+<li><strong><a class="link" href="https://www.doubao.com/thread/a576fe60b41ae">空闲块<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:空闲块是指那些当前没有被任何文件或目录占用的存储块。这些存储块可以用于存储新的文件数据、目录信息或者扩展现有文件的大小</li>
+</ul>
+</li>
+<li><strong>磁盘空闲空间的管理方法</strong>:<ul>
+<li><strong>空闲表法</strong>:每个空闲区对应一个空闲表项,其中包括表项序号、该空闲区的第一个空闲盘块号、空闲盘块数，然后再把所有空闲区按照起始盘块号递增的顺序排列<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-04-45.png" alt="text"><br>盘块回收的时候跟内存回收一样，相邻的空闲区合并成一个空闲区。然后更改表项</li>
+<li><strong>空闲链表法</strong>：<ol>
+<li><strong>空闲盘块链</strong>：将磁盘上的所有空闲空间以盘块为单位拉成一条链。但是这种方法会导致空闲盘块链很长</li>
+<li><strong>空闲盘区链</strong>：将磁盘上的所有空闲盘区拉成一条链，每个盘区包含若干相邻的盘块。这种方法虽然分配回收效率高，长度也比较短，但是分配回收的过程很复杂</li>
+</ol>
+</li>
+<li><strong>位示图法</strong>：使用一个位示图来表示磁盘上的空闲空间。位示图是一个位向量，其中每个位表示一个盘块的状态。如果一个盘块是空闲的，那么对应的位就被置为1，否则就被置为0。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-13-55.png" alt="text"><blockquote>
+<p>这种方法有的从0开始编号，有的从1开始编号，很简单，就是把盘块号按写字的顺序一位一位对照起来</p>
+</blockquote>
+</li>
+<li><strong>成组链接法</strong>：前两种方法都不适应大型文件系统，所以UNIX使用的是成组链接法，我不明白这种方法是咋弄着嘞，看不懂，<a class="link" href="https://blog.csdn.net/qq_45744501/article/details/116953538">参考这个<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+</li>
+<li></li>
+</ul>
+]]></content>
+      <categories>
+        <category>计算机操作系统</category>
+        <category>文件管理</category>
+      </categories>
+      <tags>
+        <tag>计算机408</tag>
+        <tag>计算机操作系统</tag>
       </tags>
   </entry>
   <entry>
@@ -1173,6 +1238,18 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>三体笔记</title>
+    <url>/2024/03/28/2024-3-28-%E4%B8%89%E4%BD%93%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<ul>
+<li>罗辑离开墓碑，站到他为自己挖掘的墓穴旁，将手枪顶到自己的心脏位置，说：”现在，我将让自己的心脏停止跳动，与此同时我也将成为两个世界有史以来最大的罪犯。对于所犯下的罪行，我对两个文明表示深深的歉意，但不会忏悔，因为这是唯一的选择。我知道智子就在身边，但你们对人类的呼唤从不理睬，无言是最大的轻蔑，我们忍受这种轻蔑已经两个世纪了，现在，如果你们愿意，可以继续保持沉默，我只给你们三十秒钟时间。</li>
+<li>晚霞之后可以看星星,朝霞之后只剩下光天化日的现实了</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>三体</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>日记</title>
     <url>/2024/03/28/2024-3-28-%E5%81%87%E5%A6%82%E6%88%91%E9%9D%9E%E6%88%91/</url>
     <content><![CDATA[
@@ -1199,92 +1276,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>文件管理</title>
-    <url>/2024/12/17/2024-12-17-%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/</url>
-    <content><![CDATA[<h1 id="4-1文件系统基础"><a href="#4-1文件系统基础" class="headerlink" title="4.1文件系统基础"></a>4.1文件系统基础</h1><ul>
-<li>文件控制块(File Control Block，FCB)是用来存放控制文件需要的各种信息的数据结构，<strong>以实现按名存取</strong>。文件与 FCB 一一对应。</li>
-<li>文件很多的时候,文件目录会占用很多的盘块,在查找目录的时候会把第一个盘块调入内存,然后用给定的文件名逐一比较,但是在这个过程中只用到了文件名,其他的信息都没有用,只有找到对应的文件才把对应的目录项调入内存,这样会浪费很多时间,所以需要把目录项调入内存,这样就可以直接比较文件名了,这就是索引文件。</li>
-<li><strong>文件打开的过程</strong>:用户对一个文件多次读写时,为了避免多次重复地检索目录,先利用系统调用open打开文件,系统维护一个打开文件表。打开的同时系统会给用户一个文件描述符(索引号),用户再次打开这个文件时,通过文件描述符来访问这个文件。文件不用时,系统调用close关闭文件,系统会回收这个文件描述符,从打开文件表中删除这个表目录。</li>
-<li><strong>文件关闭过程</strong>:在操作系统中，当文件不再使用时，会利用系统调用close来关闭文件。关闭文件时，会删除单个进程的打开文件表中的相应条目，系统表中的相应打开计数器（Open Count）也会递减。当打开计数器为0时，表示该文件不再被使用，并且可以从系统表中删除相应条目。</li>
-<li>只要完成了文件打开 open()系统调用，后面再使用 read()、write()、Lseek()、close()等文件操作的系统调用，就不再使用文件名，而使用文件描述符。</li>
-<li><strong>文件的逻辑结构</strong>:<ul>
-<li><strong>无结构文件(流式文件)</strong>:无结构文件是最简单的文件组织形式，由字符流构成，长度以字节为单位。访问流式文件通过读/写指针来定位字节。系统中的源程序、可执行文件、库函数等多采用无结构文件，但由于其无结构，记录访问只能通过穷举搜索，因此对很多应用不适用。</li>
-<li><strong>有结构文件(记录式文件)</strong>:<br><br> <strong>定长记录</strong>: 定长记录是指每个记录的长度相等，每个记录的结构是相同的。定长记录的优点是存取速度快，缺点是浪费存储空间。<br><br> <strong>不定长记录</strong>: 不定长记录是指每个记录的长度不等，每个记录的结构也不相同。不定长记录的优点是存储空间利用率高，缺点是存取速度慢。<ul>
-<li>顺序文件：顺序文件是指文件中的记录按照物理顺序存储，每个记录的物理地址与其逻辑地址相同。对于定长记录的顺序文件的优点是检索时可以用折半查找,查找速度快，缺点是插入和删除记录时需要移动大量记录。</li>
-<li>索引文件:配了一张索引表,每个文件都有一个索引项</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>文件的物理结构</strong>:<ul>
-<li><strong>连续分配</strong>: 连续分配是指将文件的所有记录存储在连续的物理块中。支持顺序访问和随机访问,但是会有外部碎片</li>
-<li><strong>链式分配</strong>:消除了外部碎片,修改插入也很方便<ul>
-<li>隐式链接: 隐式链接是指在文件的每个记录中增加一个指针域，指向下一个记录的盘块号。只能用于顺序访问。</li>
-<li>显式链接: 显式链接是指将用于链接文件各物理块的指针，显式地存放在内存的一张链接表中，该表在整个磁盘中仅设置一张，称为文件分配表(File Allocation Table，FAT)。可以顺序访问和随机访问。</li>
-</ul>
-</li>
-<li><strong>索引分配</strong>:在一个盘块内集合了多个记录,每个记录都有一个索引项,索引项中包含了记录的物理地址。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-30-41.png" alt="text">这种分配方法也不会产生外部碎片</li>
-<li><strong>混合索引分配</strong>:为了照顾大中小文件,把小文件的盘块地址直接放入FCB,中型文件采用需要先从 FCB 中找到该文件的索引表，从中获得该文件的盘块地址，即为一次间址。大文件采用两级或三级索引分配</li>
-</ul>
-</li>
-</ul>
-<h1 id="4-2目录"><a href="#4-2目录" class="headerlink" title="4.2目录"></a>4.2目录</h1><ul>
-<li>FCB 的有序集合称为文件目录，一个FCB就是一个文件目录项。</li>
-<li><strong>目录结构</strong>:<ul>
-<li><strong>单级目录结构</strong>:对多用户很不利,因为用户与用户之间也不允许文件重名<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-41-57.png" alt="text"><br></li>
-<li><strong>两级目录结构</strong>:虽然把用户分开了,但是缺乏灵活性,不能对文件进行分类<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-43-58.png" alt="text"><br></li>
-<li><strong>树形目录结构</strong>:也就是Windows的目录结构</li>
-<li><strong>无环图目录结构</strong>:在树的基础上进行改进,一个文件可以有多个父亲,虽然很灵活,但是管理复杂,有一个计数器,用来记录有多少个父亲,当计数器为0时,表示没有父亲,可以删除了<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-47-22.png" alt="text"></li>
-</ul>
-</li>
-<li>硬链接是基于索引节点的共享方式，文件的信息不放在目录中，而是放在索引节点中，多个目录项指向同一个索引节点。也是用一个count计数,当count为0时,才可以删除<br>软链接就是将到达共享文件的路径保存下来，当要访问文件时，根据路径寻找文件。硬链接的查找速度比软链接快。</li>
-<li>目录管理最基本的功能是按名存取<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-59-10.png" alt="text"></li>
-</ul>
-<h1 id="4-3文件系统"><a href="#4-3文件系统" class="headerlink" title="4.3文件系统"></a>4.3文件系统</h1><ul>
-<li><strong><a class="link" href="https://www.doubao.com/thread/ac4346e6e8dd6">文件系统结构<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_14-07-24.png" alt="text"></li>
-<li><strong>文件系统布局</strong>:<br><ul>
-<li><strong>主引导记录</strong>: 主引导记录是操作系统的引导程序，它位于磁盘的第一个扇区，用于引导操作系统。bios运行之后就到这个了</li>
-<li><strong>引导块</strong>: 引导块是操作系统的引导程序，它位于磁盘的第二个扇区，用于引导操作系统。每个分区都是统一从引导块开始</li>
-<li><strong>超级块</strong>: 超级块是文件系统的控制块，它位于磁盘的第三个扇区，用于存储文件系统的控制信息。</li>
-<li><strong><a class="link" href="https://www.doubao.com/thread/a576fe60b41ae">空闲块<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:空闲块是指那些当前没有被任何文件或目录占用的存储块。这些存储块可以用于存储新的文件数据、目录信息或者扩展现有文件的大小</li>
-</ul>
-</li>
-<li><strong>磁盘空闲空间的管理方法</strong>:<ul>
-<li><strong>空闲表法</strong>:每个空闲区对应一个空闲表项,其中包括表项序号、该空闲区的第一个空闲盘块号、空闲盘块数，然后再把所有空闲区按照起始盘块号递增的顺序排列<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-04-45.png" alt="text"><br>盘块回收的时候跟内存回收一样，相邻的空闲区合并成一个空闲区。然后更改表项</li>
-<li><strong>空闲链表法</strong>：<ol>
-<li><strong>空闲盘块链</strong>：将磁盘上的所有空闲空间以盘块为单位拉成一条链。但是这种方法会导致空闲盘块链很长</li>
-<li><strong>空闲盘区链</strong>：将磁盘上的所有空闲盘区拉成一条链，每个盘区包含若干相邻的盘块。这种方法虽然分配回收效率高，长度也比较短，但是分配回收的过程很复杂</li>
-</ol>
-</li>
-<li><strong>位示图法</strong>：使用一个位示图来表示磁盘上的空闲空间。位示图是一个位向量，其中每个位表示一个盘块的状态。如果一个盘块是空闲的，那么对应的位就被置为1，否则就被置为0。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-13-55.png" alt="text"><blockquote>
-<p>这种方法有的从0开始编号，有的从1开始编号，很简单，就是把盘块号按写字的顺序一位一位对照起来</p>
-</blockquote>
-</li>
-<li><strong>成组链接法</strong>：前两种方法都不适应大型文件系统，所以UNIX使用的是成组链接法，我不明白这种方法是咋弄着嘞，看不懂，<a class="link" href="https://blog.csdn.net/qq_45744501/article/details/116953538">参考这个<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
-</ul>
-</li>
-<li></li>
-</ul>
-]]></content>
-      <categories>
-        <category>计算机操作系统</category>
-        <category>文件管理</category>
-      </categories>
-      <tags>
-        <tag>计算机408</tag>
-        <tag>计算机操作系统</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杂记</title>
-    <url>/2024/03/28/2024-3-28-%E5%BF%86%E5%85%AB%E5%8D%81%E4%BA%BA%E7%94%9F/</url>
-    <content><![CDATA[<p><strong>@峥峥名车汇</strong>：我已八十了，看见6岁的自己，在田野里跌倒，弄脏了衣服，弄丢了玩具，惊慌又失措。我想告诉他，没关系，成长的路慢慢来。<br><br><br>我已八十了，看在12岁的自己翻山徒步去教室上课，没有新书包、没有新鞋子，自卑又尴尬。我想告诉他，别怯懦，嘲笑的人与你的人生本就是平行线，日后不会相交。<br><br><br>我已八十了，看见18岁的自己，没考上一本，面对昏暗的大学，失落又无奈。我想告诉他，要坚持，一时失败不代表节节败退，日后的你也会快乐精彩。<br><br><br>我已八十了，看见24岁的自己，独自躺在手术台，害怕又担忧。我想告诉他，别担心会过去，生活会继续<br><br><br>我已八十了，看见34岁的自己，一事无成，未婚未育，迷茫又无助。我想告诉他，别内疚，成家立业不是每个人的必经之路，坚定内心选择也不会怎么样。<br><br><br>我已八十了，看见50岁的自己，看见父母离去，无助又迷茫，我想告诉他，人生就是一个人，离开自己看本我，无所谓聚散离合。<br><br><br>我已八十了，看见80岁的自己，生命如风中烛光摇摇曳曳，膝下无子，爱人离去，平静又慈祥。我想告诉我自己，这一生你已足够幸运，足够努力，无需任何人评价。人生就是看见自己的过程，我看见我自己的一生，惊慌的、怯懦的、失落的、内疚的、最后释然的离开。</p>
-]]></content>
-      <tags>
-        <tag>评论笔记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>日记</title>
     <url>/2024/03/28/2024-3-28-%E8%87%B4%E8%80%81%E5%B8%88/</url>
     <content><![CDATA[
@@ -1308,6 +1299,15 @@ import {initHBE} from "/js/plugins/hbe.js";
 ]]></content>
       <tags>
         <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杂记</title>
+    <url>/2024/03/28/2024-3-28-%E5%BF%86%E5%85%AB%E5%8D%81%E4%BA%BA%E7%94%9F/</url>
+    <content><![CDATA[<p><strong>@峥峥名车汇</strong>：我已八十了，看见6岁的自己，在田野里跌倒，弄脏了衣服，弄丢了玩具，惊慌又失措。我想告诉他，没关系，成长的路慢慢来。<br><br><br>我已八十了，看在12岁的自己翻山徒步去教室上课，没有新书包、没有新鞋子，自卑又尴尬。我想告诉他，别怯懦，嘲笑的人与你的人生本就是平行线，日后不会相交。<br><br><br>我已八十了，看见18岁的自己，没考上一本，面对昏暗的大学，失落又无奈。我想告诉他，要坚持，一时失败不代表节节败退，日后的你也会快乐精彩。<br><br><br>我已八十了，看见24岁的自己，独自躺在手术台，害怕又担忧。我想告诉他，别担心会过去，生活会继续<br><br><br>我已八十了，看见34岁的自己，一事无成，未婚未育，迷茫又无助。我想告诉他，别内疚，成家立业不是每个人的必经之路，坚定内心选择也不会怎么样。<br><br><br>我已八十了，看见50岁的自己，看见父母离去，无助又迷茫，我想告诉他，人生就是一个人，离开自己看本我，无所谓聚散离合。<br><br><br>我已八十了，看见80岁的自己，生命如风中烛光摇摇曳曳，膝下无子，爱人离去，平静又慈祥。我想告诉我自己，这一生你已足够幸运，足够努力，无需任何人评价。人生就是看见自己的过程，我看见我自己的一生，惊慌的、怯懦的、失落的、内疚的、最后释然的离开。</p>
+]]></content>
+      <tags>
+        <tag>评论笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -1397,52 +1397,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>IPv6协议中ARP的疑问</title>
-    <url>/2025/01/28/2025-01-28-IPv6%E5%8D%8F%E8%AE%AE%E4%B8%ADARP%E7%9A%84%E7%96%91%E9%97%AE/</url>
-    <content><![CDATA[<p>IPv6 确实<strong>不再依赖传统的 ARP 协议</strong>，而是通过 <strong>邻居发现协议（Neighbor Discovery Protocol, NDP）</strong> 实现地址解析功能。以下是详细解释：</p>
-<hr>
-<h3 id="1-IPv6-接口标识符与硬件地址的关系"><a href="#1-IPv6-接口标识符与硬件地址的关系" class="headerlink" title="1. IPv6 接口标识符与硬件地址的关系"></a>1. <strong>IPv6 接口标识符与硬件地址的关系</strong></h3><ul>
-<li>IPv6 地址的<strong>接口标识符（后 64 位）</strong>通常基于网卡的 <strong>MAC 地址</strong>生成（例如 EUI-64 格式）。例如：<ul>
-<li>若 MAC 地址为 <code>00:11:22:33:44:55</code>，则接口标识符可能为 <code>0211:22ff:fe33:4455</code>。</li>
-</ul>
-</li>
-<li>通过这种方式，IPv6 地址可以直接包含硬件地址信息，理论上无需额外解析。</li>
-</ul>
-<hr>
-<h3 id="2-为什么说“不需要-ARP”？"><a href="#2-为什么说“不需要-ARP”？" class="headerlink" title="2. 为什么说“不需要 ARP”？"></a>2. <strong>为什么说“不需要 ARP”？</strong></h3><ul>
-<li><strong>直接编码</strong>：当接口标识符基于 MAC 地址时，可通过 IPv6 地址直接推导出目标设备的 MAC 地址，省去了类似 ARP 的广播查询过程。</li>
-<li><strong>NDP 替代 ARP</strong>：IPv6 使用 <strong>NDP</strong>（基于 ICMPv6）实现以下功能：<ul>
-<li><strong>邻居请求（Neighbor Solicitation, NS）</strong>：类似 ARP 请求，用于查询目标 IPv6 地址对应的 MAC 地址。</li>
-<li><strong>邻居公告（Neighbor Advertisement, NA）</strong>：类似 ARP 响应，提供 MAC 地址信息。</li>
-</ul>
-</li>
-<li><strong>无广播依赖</strong>：NDP 使用组播而非广播，效率更高。</li>
-</ul>
-<hr>
-<h3 id="3-例外情况与补充说明"><a href="#3-例外情况与补充说明" class="headerlink" title="3. 例外情况与补充说明"></a>3. <strong>例外情况与补充说明</strong></h3><ul>
-<li><strong>隐私扩展地址</strong>：某些 IPv6 地址（如临时地址）的接口标识符是随机生成的，不基于 MAC 地址。此时仍需通过 NDP 解析 MAC 地址。</li>
-<li><strong>NDP 仍需要交互</strong>：即使接口标识符包含 MAC 地址，NDP 的 NS/NA 消息仍需验证地址的可用性和可达性（例如检测重复地址）。</li>
-<li><strong>ARP 完全淘汰</strong>：在纯 IPv6 网络中，传统 ARP 协议已被 NDP 取代；但在 IPv4/IPv6 双栈环境中，ARP 仍用于 IPv4 地址解析。</li>
-</ul>
-<hr>
-<h3 id="4-实际网络中的验证"><a href="#4-实际网络中的验证" class="headerlink" title="4. 实际网络中的验证"></a>4. <strong>实际网络中的验证</strong></h3><ul>
-<li>在 IPv6 网络中，可通过以下命令观察地址解析过程：<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ping6 fe80::[接口标识符]%[接口名]   <span class="comment"># 触发 NDP 请求</span></span><br><span class="line">ip -6 neigh show                  <span class="comment"># 查看 IPv6 邻居表（类似 ARP 表）</span></span><br></pre></td></tr></table></figure></div></li>
-<li>抓包工具（如 Wireshark）可捕获 <strong>ICMPv6 类型的 NS/NA 报文</strong>，而非 ARP 报文。</li>
-</ul>
-<hr>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><ul>
-<li><strong>IPv6 淘汰了传统 ARP 协议</strong>，其地址解析功能由 <strong>NDP（基于 ICMPv6）</strong> 实现。</li>
-<li>若 IPv6 地址的接口标识符基于 MAC 地址（如 EUI-64），可直接从地址中提取硬件信息，无需额外解析。</li>
-<li>对于非 MAC 地址生成的接口标识符（如随机化地址），仍需通过 NDP 的 NS/NA 交互完成地址解析。  </li>
-<li>因此，材料中“不需要 ARP”的表述是准确的，但需注意其背后依赖的是更高效的 NDP 机制。<br>
-<a class="button  regular" href="/2025/01/25/2025-1-25-网络层" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>外链</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>IP与MAC协同工作流程</title>
     <url>/2025/01/28/2025-01-28-IP%E4%B8%8EMAC%E5%8D%8F%E5%90%8C%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/</url>
     <content><![CDATA[<p>在分组转发过程中，<strong>IP地址</strong>和<strong>MAC地址</strong>协同工作，但作用层次不同：</p>
@@ -1492,6 +1446,52 @@ import {initHBE} from "/js/plugins/hbe.js";
 </ul>
 <p>通过这种分层协作，数据包能在复杂的网络环境中高效、准确地从源传输到目的地。<br><br></p>
 <a class="button  regular" href="/2025/01/25/2025-1-25-网络层" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a>]]></content>
+      <tags>
+        <tag>外链</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>IPv6协议中ARP的疑问</title>
+    <url>/2025/01/28/2025-01-28-IPv6%E5%8D%8F%E8%AE%AE%E4%B8%ADARP%E7%9A%84%E7%96%91%E9%97%AE/</url>
+    <content><![CDATA[<p>IPv6 确实<strong>不再依赖传统的 ARP 协议</strong>，而是通过 <strong>邻居发现协议（Neighbor Discovery Protocol, NDP）</strong> 实现地址解析功能。以下是详细解释：</p>
+<hr>
+<h3 id="1-IPv6-接口标识符与硬件地址的关系"><a href="#1-IPv6-接口标识符与硬件地址的关系" class="headerlink" title="1. IPv6 接口标识符与硬件地址的关系"></a>1. <strong>IPv6 接口标识符与硬件地址的关系</strong></h3><ul>
+<li>IPv6 地址的<strong>接口标识符（后 64 位）</strong>通常基于网卡的 <strong>MAC 地址</strong>生成（例如 EUI-64 格式）。例如：<ul>
+<li>若 MAC 地址为 <code>00:11:22:33:44:55</code>，则接口标识符可能为 <code>0211:22ff:fe33:4455</code>。</li>
+</ul>
+</li>
+<li>通过这种方式，IPv6 地址可以直接包含硬件地址信息，理论上无需额外解析。</li>
+</ul>
+<hr>
+<h3 id="2-为什么说“不需要-ARP”？"><a href="#2-为什么说“不需要-ARP”？" class="headerlink" title="2. 为什么说“不需要 ARP”？"></a>2. <strong>为什么说“不需要 ARP”？</strong></h3><ul>
+<li><strong>直接编码</strong>：当接口标识符基于 MAC 地址时，可通过 IPv6 地址直接推导出目标设备的 MAC 地址，省去了类似 ARP 的广播查询过程。</li>
+<li><strong>NDP 替代 ARP</strong>：IPv6 使用 <strong>NDP</strong>（基于 ICMPv6）实现以下功能：<ul>
+<li><strong>邻居请求（Neighbor Solicitation, NS）</strong>：类似 ARP 请求，用于查询目标 IPv6 地址对应的 MAC 地址。</li>
+<li><strong>邻居公告（Neighbor Advertisement, NA）</strong>：类似 ARP 响应，提供 MAC 地址信息。</li>
+</ul>
+</li>
+<li><strong>无广播依赖</strong>：NDP 使用组播而非广播，效率更高。</li>
+</ul>
+<hr>
+<h3 id="3-例外情况与补充说明"><a href="#3-例外情况与补充说明" class="headerlink" title="3. 例外情况与补充说明"></a>3. <strong>例外情况与补充说明</strong></h3><ul>
+<li><strong>隐私扩展地址</strong>：某些 IPv6 地址（如临时地址）的接口标识符是随机生成的，不基于 MAC 地址。此时仍需通过 NDP 解析 MAC 地址。</li>
+<li><strong>NDP 仍需要交互</strong>：即使接口标识符包含 MAC 地址，NDP 的 NS/NA 消息仍需验证地址的可用性和可达性（例如检测重复地址）。</li>
+<li><strong>ARP 完全淘汰</strong>：在纯 IPv6 网络中，传统 ARP 协议已被 NDP 取代；但在 IPv4/IPv6 双栈环境中，ARP 仍用于 IPv4 地址解析。</li>
+</ul>
+<hr>
+<h3 id="4-实际网络中的验证"><a href="#4-实际网络中的验证" class="headerlink" title="4. 实际网络中的验证"></a>4. <strong>实际网络中的验证</strong></h3><ul>
+<li>在 IPv6 网络中，可通过以下命令观察地址解析过程：<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ping6 fe80::[接口标识符]%[接口名]   <span class="comment"># 触发 NDP 请求</span></span><br><span class="line">ip -6 neigh show                  <span class="comment"># 查看 IPv6 邻居表（类似 ARP 表）</span></span><br></pre></td></tr></table></figure></div></li>
+<li>抓包工具（如 Wireshark）可捕获 <strong>ICMPv6 类型的 NS/NA 报文</strong>，而非 ARP 报文。</li>
+</ul>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><ul>
+<li><strong>IPv6 淘汰了传统 ARP 协议</strong>，其地址解析功能由 <strong>NDP（基于 ICMPv6）</strong> 实现。</li>
+<li>若 IPv6 地址的接口标识符基于 MAC 地址（如 EUI-64），可直接从地址中提取硬件信息，无需额外解析。</li>
+<li>对于非 MAC 地址生成的接口标识符（如随机化地址），仍需通过 NDP 的 NS/NA 交互完成地址解析。  </li>
+<li>因此，材料中“不需要 ARP”的表述是准确的，但需注意其背后依赖的是更高效的 NDP 机制。<br>
+<a class="button  regular" href="/2025/01/25/2025-1-25-网络层" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a></li>
+</ul>
+]]></content>
       <tags>
         <tag>外链</tag>
       </tags>
@@ -1548,52 +1548,36 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>距离向量路由算法</title>
-    <url>/2025/01/29/2025-01-29-%E8%B7%9D%E7%A6%BB%E5%90%91%E9%87%8F%E8%B7%AF%E7%94%B1%E7%AE%97%E6%B3%95/</url>
-    <content><![CDATA[<h3 id="距离向量路由算法简单版解释"><a href="#距离向量路由算法简单版解释" class="headerlink" title="距离向量路由算法简单版解释"></a><strong>距离向量路由算法简单版解释</strong></h3><ol>
-<li><p><strong>初始状态</strong><br>每个节点（如邮局）只知道<strong>直接邻居的路径费用</strong>：  </p>
-<ul>
-<li>例：节点 <code>x</code> 知道到邻居 <code>y</code> 费用2，到 <code>z</code> 费用7；节点 <code>y</code> 知道到 <code>x</code> 费用2，到 <code>z</code> 费用1，以此类推。</li>
+    <title>传输层</title>
+    <url>/2025/02/01/2025-02-01-%E4%BC%A0%E8%BE%93%E5%B1%82/</url>
+    <content><![CDATA[<h2 id="传输层提供的服务"><a href="#传输层提供的服务" class="headerlink" title="传输层提供的服务"></a>传输层提供的服务</h2><ul>
+<li><strong>传输层的功能</strong>：<ul>
+<li><strong>应用进程之间的逻辑通信</strong>：从网络层的角度看，通信的是两台主机，从传输层的角度来看，通信的是两台主机中的进程</li>
+<li><strong>复用和分用</strong>：复用是指：不同的进程可以都可以使用同一个传输层的协议发送数据；分用是指：接收到数据之后可以解封交付给不同的协议</li>
+<li><strong>检查错误</strong>：网路层是检查数据报首部有错误没有，传输层是检查数据部分有错误没有</li>
+<li><strong>提供面向连接TCP和无连接的传输协议</strong></li>
 </ul>
 </li>
-<li><p><strong>第一次信息交换</strong>  </p>
-<ul>
-<li>所有节点把自己的路径表<strong>广播给邻居</strong>（比如 <code>x</code> 告诉 <code>y</code> 和 <code>z</code>：“我到自己的费用是0，到 <code>y</code> 是2，到 <code>z</code> 是7”）。  </li>
-<li>收到邻居的路径表后，<strong>更新自己的路径</strong>：  <ul>
-<li>例：<code>x</code> 发现通过邻居 <code>y</code> 到 <code>z</code> 更便宜（<code>x→y→z</code> 总费用=2+1=3），于是将到 <code>z</code> 的费用从7改为3。</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p><strong>第二次信息交换</strong>  </p>
-<ul>
-<li>只有路径表<strong>有变化的节点</strong>（如 <code>x</code> 和 <code>z</code>）再次广播新路径表。  </li>
-<li>其他节点检查后，发现没有更优路径，<strong>不再更新</strong>。</li>
-</ul>
-</li>
-<li><p><strong>算法停止</strong>  </p>
-<ul>
-<li>当所有节点的路径表<strong>不再变化</strong>时，算法结束，网络进入稳定状态，每个节点都知道全局最优路径。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="举个生活例子"><a href="#举个生活例子" class="headerlink" title="举个生活例子"></a><strong>举个生活例子</strong></h3><p>想象三个村庄（<code>x</code>, <code>y</code>, <code>z</code>）互相通邮：  </p>
-<ol>
-<li><strong>初始</strong>：各村只知道直接相邻村的邮路费用（如 <code>x</code> 到 <code>y</code> 邮费2元）。  </li>
-<li><strong>第一次通信</strong>：各村互相告知邮费表，<code>x</code> 发现通过 <code>y</code> 寄到 <code>z</code> 更便宜（总3元），于是更新自己的邮费表。  </li>
-<li><strong>第二次通信</strong>：只有更新过的村（<code>x</code> 和 <code>z</code>）再次通知邻居，其他村发现邮费没变，不再行动。  </li>
-<li><strong>最终</strong>：所有村都掌握了全局最低邮费路径，寄信时自动选最省钱的路！</li>
-</ol>
-<hr>
-<h3 id="核心思想"><a href="#核心思想" class="headerlink" title="核心思想"></a><strong>核心思想</strong></h3><ul>
-<li><strong>本地信息+定期广播</strong>：每个节点只和邻居交换信息，逐步推导全局最优路径。  </li>
-<li><strong>动态更新</strong>：发现更优路径立即修正，直到全网稳定。  </li>
-<li><strong>简单高效</strong>：适合小型网络，但大型网络中可能收敛慢或产生环路（需额外机制解决）。<a class="button  regular" href="/2025/01/25/2025-1-25-网络层" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a></li>
+<li><strong>端口</strong>：这个端口和物理层的端口不是一个概念，物理层的端口就是几个插口；传输层的端口是一种进程标识号，可以把数据传输给正确的进程<br>
+  <div class="note-large blue">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-question"></i><p>服务访问点</p>
+
+    </div>
+    <div class="notel-content">
+      <p>数据链路层的服务访问点为帧的“类型”字段；<br>网络层的服务访问点为 IP 数据报的“协议”字段；<br>传输层的服务访问点为“端口号”字段；<br>应用层的服务访问点为“用户界面”。</p>
+
+    </div>
+  </div></li>
 </ul>
 ]]></content>
+      <categories>
+        <category>计算机网络</category>
+        <category>传输层</category>
+      </categories>
       <tags>
-        <tag>外链</tag>
+        <tag>计算机网络</tag>
+        <tag>计算机408</tag>
       </tags>
   </entry>
   <entry>
@@ -1681,36 +1665,52 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>传输层</title>
-    <url>/2025/02/01/2025-02-01-%E4%BC%A0%E8%BE%93%E5%B1%82/</url>
-    <content><![CDATA[<h2 id="传输层提供的服务"><a href="#传输层提供的服务" class="headerlink" title="传输层提供的服务"></a>传输层提供的服务</h2><ul>
-<li><strong>传输层的功能</strong>：<ul>
-<li><strong>应用进程之间的逻辑通信</strong>：从网络层的角度看，通信的是两台主机，从传输层的角度来看，通信的是两台主机中的进程</li>
-<li><strong>复用和分用</strong>：复用是指：不同的进程可以都可以使用同一个传输层的协议发送数据；分用是指：接收到数据之后可以解封交付给不同的协议</li>
-<li><strong>检查错误</strong>：网路层是检查数据报首部有错误没有，传输层是检查数据部分有错误没有</li>
-<li><strong>提供面向连接TCP和无连接的传输协议</strong></li>
+    <title>距离向量路由算法</title>
+    <url>/2025/01/29/2025-01-29-%E8%B7%9D%E7%A6%BB%E5%90%91%E9%87%8F%E8%B7%AF%E7%94%B1%E7%AE%97%E6%B3%95/</url>
+    <content><![CDATA[<h3 id="距离向量路由算法简单版解释"><a href="#距离向量路由算法简单版解释" class="headerlink" title="距离向量路由算法简单版解释"></a><strong>距离向量路由算法简单版解释</strong></h3><ol>
+<li><p><strong>初始状态</strong><br>每个节点（如邮局）只知道<strong>直接邻居的路径费用</strong>：  </p>
+<ul>
+<li>例：节点 <code>x</code> 知道到邻居 <code>y</code> 费用2，到 <code>z</code> 费用7；节点 <code>y</code> 知道到 <code>x</code> 费用2，到 <code>z</code> 费用1，以此类推。</li>
 </ul>
 </li>
-<li><strong>端口</strong>：这个端口和物理层的端口不是一个概念，物理层的端口就是几个插口；传输层的端口是一种进程标识号，可以把数据传输给正确的进程<br>
-  <div class="note-large blue">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <i class="notel-icon fa-solid fa-question"></i><p>服务访问点</p>
-
-    </div>
-    <div class="notel-content">
-      <p>数据链路层的服务访问点为帧的“类型”字段；<br>网络层的服务访问点为 IP 数据报的“协议”字段；<br>传输层的服务访问点为“端口号”字段；<br>应用层的服务访问点为“用户界面”。</p>
-
-    </div>
-  </div></li>
+<li><p><strong>第一次信息交换</strong>  </p>
+<ul>
+<li>所有节点把自己的路径表<strong>广播给邻居</strong>（比如 <code>x</code> 告诉 <code>y</code> 和 <code>z</code>：“我到自己的费用是0，到 <code>y</code> 是2，到 <code>z</code> 是7”）。  </li>
+<li>收到邻居的路径表后，<strong>更新自己的路径</strong>：  <ul>
+<li>例：<code>x</code> 发现通过邻居 <code>y</code> 到 <code>z</code> 更便宜（<code>x→y→z</code> 总费用=2+1=3），于是将到 <code>z</code> 的费用从7改为3。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>第二次信息交换</strong>  </p>
+<ul>
+<li>只有路径表<strong>有变化的节点</strong>（如 <code>x</code> 和 <code>z</code>）再次广播新路径表。  </li>
+<li>其他节点检查后，发现没有更优路径，<strong>不再更新</strong>。</li>
+</ul>
+</li>
+<li><p><strong>算法停止</strong>  </p>
+<ul>
+<li>当所有节点的路径表<strong>不再变化</strong>时，算法结束，网络进入稳定状态，每个节点都知道全局最优路径。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="举个生活例子"><a href="#举个生活例子" class="headerlink" title="举个生活例子"></a><strong>举个生活例子</strong></h3><p>想象三个村庄（<code>x</code>, <code>y</code>, <code>z</code>）互相通邮：  </p>
+<ol>
+<li><strong>初始</strong>：各村只知道直接相邻村的邮路费用（如 <code>x</code> 到 <code>y</code> 邮费2元）。  </li>
+<li><strong>第一次通信</strong>：各村互相告知邮费表，<code>x</code> 发现通过 <code>y</code> 寄到 <code>z</code> 更便宜（总3元），于是更新自己的邮费表。  </li>
+<li><strong>第二次通信</strong>：只有更新过的村（<code>x</code> 和 <code>z</code>）再次通知邻居，其他村发现邮费没变，不再行动。  </li>
+<li><strong>最终</strong>：所有村都掌握了全局最低邮费路径，寄信时自动选最省钱的路！</li>
+</ol>
+<hr>
+<h3 id="核心思想"><a href="#核心思想" class="headerlink" title="核心思想"></a><strong>核心思想</strong></h3><ul>
+<li><strong>本地信息+定期广播</strong>：每个节点只和邻居交换信息，逐步推导全局最优路径。  </li>
+<li><strong>动态更新</strong>：发现更优路径立即修正，直到全网稳定。  </li>
+<li><strong>简单高效</strong>：适合小型网络，但大型网络中可能收敛慢或产生环路（需额外机制解决）。<a class="button  regular" href="/2025/01/25/2025-1-25-网络层" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a></li>
 </ul>
 ]]></content>
-      <categories>
-        <category>计算机网络</category>
-        <category>传输层</category>
-      </categories>
       <tags>
-        <tag>计算机网络</tag>
-        <tag>计算机408</tag>
+        <tag>外链</tag>
       </tags>
   </entry>
   <entry>
@@ -1886,6 +1886,36 @@ import {initHBE} from "/js/plugins/hbe.js";
       </categories>
       <tags>
         <tag>教资</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PDF设置书签</title>
+    <url>/2025/02/06/2025-02-06-PDF%E8%AE%BE%E7%BD%AE%E4%B9%A6%E7%AD%BE/</url>
+    <content><![CDATA[<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">import xml.etree.ElementTree as ET  </span><br><span class="line"><span class="meta prompt_">  </span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">解析XML文件</span>  </span><br><span class="line">tree = ET.parse('d:/Users/tongz/Desktop/test.xml')  </span><br><span class="line">root = tree.getroot()  </span><br><span class="line"><span class="meta prompt_">  </span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">遍历所有的ITEM元素</span>  </span><br><span class="line">for item in root.findall('.//ITEM'):  </span><br><span class="line">    page = item.get('PAGE')  </span><br><span class="line">    if page is not None:  </span><br><span class="line">        # 将PAGE属性的值减一  </span><br><span class="line">        new_page = str(int(page) - 1)  </span><br><span class="line">        item.set('PAGE', new_page)  </span><br><span class="line"><span class="meta prompt_">  </span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">将修改后的内容写回文件</span>  </span><br><span class="line">tree.write('d:/Users/tongz/Desktop/test.xml')</span><br></pre></td></tr></table></figure></div>
+<ol>
+<li>导出txt空白目录文件</li>
+<li>OCR识别目录、填写页码</li>
+<li>导入txt，在导出xml</li>
+<li>更改<code>tree = ET.parse('d:/Users/tongz/Desktop/test.xml') </code> 路径</li>
+<li>更改<code>new_page = str(int(page) - 1) </code> 偏移量</li>
+<li>导入xml目录文件<br><br>
+  <div class="note p-4 mb-4 rounded-small red">
+    <p>done，麻烦！！！</p>
+
+  </div></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>电脑空白图标解决方案</title>
+    <url>/2025/01/21/2025-1-21%20%E7%A9%BA%E7%99%BD%E5%9B%BE%E6%A0%87/</url>
+    <content><![CDATA[<p>新建txt文件，粘贴以下内容，更改后缀名为bat，双击运行</p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line"></span><br><span class="line">taskkill /f /im explorer.exe</span><br><span class="line"></span><br><span class="line">CD /d %userprofile%\AppData\Local</span><br><span class="line"></span><br><span class="line">DEL IconCache.db /a</span><br><span class="line"></span><br><span class="line">start explorer.exe</span><br><span class="line"></span><br><span class="line">cho 操作完成</span><br></pre></td></tr></table></figure></div>]]></content>
+      <tags>
+        <tag>code</tag>
       </tags>
   </entry>
   <entry>
@@ -2219,26 +2249,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>电脑空白图标解决方案</title>
-    <url>/2025/01/21/2025-1-21%20%E7%A9%BA%E7%99%BD%E5%9B%BE%E6%A0%87/</url>
-    <content><![CDATA[<p>新建txt文件，粘贴以下内容，更改后缀名为bat，双击运行</p>
-<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line"></span><br><span class="line">taskkill /f /im explorer.exe</span><br><span class="line"></span><br><span class="line">CD /d %userprofile%\AppData\Local</span><br><span class="line"></span><br><span class="line">DEL IconCache.db /a</span><br><span class="line"></span><br><span class="line">start explorer.exe</span><br><span class="line"></span><br><span class="line">cho 操作完成</span><br></pre></td></tr></table></figure></div>]]></content>
-      <tags>
-        <tag>code</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一键推送脚本</title>
-    <url>/2025/01/21/2025-1-21-deploy%E8%84%9A%E6%9C%AC/</url>
-    <content><![CDATA[<p>server.vbs是以管理员身份执行server.bat</p>
-<h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:start</span><br><span class="line">echo 请输入操作编号：</span><br><span class="line">echo 0. 退出</span><br><span class="line">echo 1. 执行 hexo clean</span><br><span class="line">echo 2. 执行 hexo generate</span><br><span class="line">echo 3. 执行 hexo server</span><br><span class="line">echo 4. 执行 hexo deploy</span><br><span class="line">echo 5. 执行 npm run server</span><br><span class="line">echo 6. 执行 npm run deploy</span><br><span class="line">set /p choice=输入:</span><br><span class="line"></span><br><span class="line">if "%choice%"=="0" (</span><br><span class="line">    exit /b</span><br><span class="line">) else if "%choice%"=="1" (</span><br><span class="line">    start "" cmd /c  hexo clean</span><br><span class="line">) else if "%choice%"=="2" (</span><br><span class="line">    start "" cmd /c hexo generate</span><br><span class="line">) else if "%choice%"=="3" (</span><br><span class="line">    start "" cmd /c hexo server</span><br><span class="line">) else if "%choice%"=="4" (</span><br><span class="line">    start "" cmd /c hexo deploy</span><br><span class="line">) else if "%choice%"=="5" (</span><br><span class="line">    start "" cmd /c npm run server</span><br><span class="line">) else if "%choice%"=="6" (</span><br><span class="line">    start "" cmd /c npm run deploy</span><br><span class="line">) else (</span><br><span class="line">    echo 输入错误，请输入 0、1、2 、3、4、5或 6。</span><br><span class="line">    goto start</span><br><span class="line">)</span><br><span class="line">echo 操作已完成，按任意键继续...</span><br><span class="line">pause &gt; nul</span><br><span class="line">goto start</span><br></pre></td></tr></table></figure></div>
-<h3 id="server-vbs"><a href="#server-vbs" class="headerlink" title="server.vbs"></a>server.vbs</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Set UAC = CreateObject("Shell.Application")</span><br><span class="line">UAC.ShellExecute "server.bat", "", "", "runas", 1</span><br></pre></td></tr></table></figure></div>
-]]></content>
-      <tags>
-        <tag>code</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>smoothscroll时间戳转换</title>
     <url>/2025/01/21/2025-1-21-smoothscroll%E6%97%B6%E9%97%B4%E6%88%B3%E8%BD%AC%E6%8D%A2/</url>
     <content><![CDATA[
@@ -2259,6 +2269,17 @@ import {initHBE} from "/js/plugins/hbe.js";
   console.log("hexo-blog-encrypt: loaded.");
     initHBE();
 </script>
+]]></content>
+      <tags>
+        <tag>code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一键推送脚本</title>
+    <url>/2025/01/21/2025-1-21-deploy%E8%84%9A%E6%9C%AC/</url>
+    <content><![CDATA[<p>server.vbs是以管理员身份执行server.bat</p>
+<h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:start</span><br><span class="line">echo 请输入操作编号：</span><br><span class="line">echo 0. 退出</span><br><span class="line">echo 1. 执行 hexo clean</span><br><span class="line">echo 2. 执行 hexo generate</span><br><span class="line">echo 3. 执行 hexo server</span><br><span class="line">echo 4. 执行 hexo deploy</span><br><span class="line">echo 5. 执行 npm run server</span><br><span class="line">echo 6. 执行 npm run deploy</span><br><span class="line">set /p choice=输入:</span><br><span class="line"></span><br><span class="line">if "%choice%"=="0" (</span><br><span class="line">    exit /b</span><br><span class="line">) else if "%choice%"=="1" (</span><br><span class="line">    start "" cmd /c  hexo clean</span><br><span class="line">) else if "%choice%"=="2" (</span><br><span class="line">    start "" cmd /c hexo generate</span><br><span class="line">) else if "%choice%"=="3" (</span><br><span class="line">    start "" cmd /c hexo server</span><br><span class="line">) else if "%choice%"=="4" (</span><br><span class="line">    start "" cmd /c hexo deploy</span><br><span class="line">) else if "%choice%"=="5" (</span><br><span class="line">    start "" cmd /c npm run server</span><br><span class="line">) else if "%choice%"=="6" (</span><br><span class="line">    start "" cmd /c npm run deploy</span><br><span class="line">) else (</span><br><span class="line">    echo 输入错误，请输入 0、1、2 、3、4、5或 6。</span><br><span class="line">    goto start</span><br><span class="line">)</span><br><span class="line">echo 操作已完成，按任意键继续...</span><br><span class="line">pause &gt; nul</span><br><span class="line">goto start</span><br></pre></td></tr></table></figure></div>
+<h3 id="server-vbs"><a href="#server-vbs" class="headerlink" title="server.vbs"></a>server.vbs</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Set UAC = CreateObject("Shell.Application")</span><br><span class="line">UAC.ShellExecute "server.bat", "", "", "runas", 1</span><br></pre></td></tr></table></figure></div>
 ]]></content>
       <tags>
         <tag>code</tag>
@@ -2288,6 +2309,36 @@ import {initHBE} from "/js/plugins/hbe.js";
 ]]></content>
       <tags>
         <tag>code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>曼士先生的教育理论</title>
+    <url>/2025/01/25/2025-1-25-%E6%9B%BC%E5%A3%AB%E6%B2%89%E6%80%9D%E5%BD%95/</url>
+    <content><![CDATA[<p><a class="link" href="https://www.bilibili.com/video/BV1Sa6oYUExh/?spm_id_from=333.1387.top_right_bar_window_history.content.click&vd_source=714c140af01ff536d815ed1b43db6ceb">【漫士】怎样才能学明白数学？<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<div class="tabs" id="tab-曼士的数学教育"><ul class="nav-tabs"><li class="tab active"><a class="#曼士的数学教育-1">Chinese</a></li><li class="tab"><a class="#曼士的数学教育-2">English</a></li></ul><div class="tab-content"><div class="tab-pane active" id="曼士的数学教育-1"><p>漫士是一名清华大学在读博士生，研究人工智能和理论机器学习，同时也是科普视频创作者。在其分享中，包含了自身考试经历、对教育的反思、费曼的相关例子以及黄金圈理论： </p>
+<ol>
+<li><strong>作者考试经历</strong>：漫士初三数学考试时，遇到一道求两个抛物线中间阴影区域面积的题目。由于出题人阴影填充方式的问题，这道题并非常规的长乘宽计算，而是要计算抛物弓形面积。其他同学因不会便默认按平时练习的长乘宽来算，但漫士觉得题目有趣。他依据听说的微积分思想，将横坐标0 - 1分成N份，每份宽度为N分之一，用小矩形面积代替该部分面积，宽是N分之一，长是横坐标的平方，把整个面积表示成N个小矩形求和的形式。在计算过程中，由平方求和联想到正方形，进而想到小立方体体积、金字塔，最终联系到四棱锥体积公式（四棱锥体积是1/3底面积乘高，此处底面积为1×1，高为1 ，体积是1/3），由此算出抛物弓形面积为1/3，进而得出整个阴影面积。然而，当他自信交卷后，老师只是打了个叉，未作任何解释。后来漫士学习了微积分，才意识到自己当时在考场上的做法，实际上走过了先贤探索黎曼积分的道路，可自己的探索就这样被扼杀了。 </li>
+<li><strong>教育反思</strong>：漫士认为应试教育存在很大问题。在学习过程中，学生们会产生很多有趣的想法，比如为什么尺规作图不能三等分角、二元一次方程组无解的条件与平行四边形面积公式有什么联系、无限大加一等于什么、自然数的和为何等于 -1/12等。这些本可以成为理解深邃数学知识和思想的窗口，但应试教育却以“考试不考”为由将其扼杀，让学生在重复计算中打转，导致很多人讨厌数学，而有兴趣深入学习的同学也找不到有价值的学习资料。同时，课堂教学方式也不佳，像“孔乙己排开几文大钱”一样，直接将大量定义、定理、证明、技术名词和方法一股脑地抛给学生。学生只能疲于记忆，机械地重复课本上的计算和基本方法，根本不理解这些知识为何存在，以及方法背后的核心精神和原理。这样的学习方式，就如同只知道鸟的各种名字，却对鸟的生活习性、行为本质一无所知，学生学到的只是一些机械的信息和概念，无法转化为有生命力和创造力的创新。 </li>
+<li><strong>费曼的例子</strong><ul>
+<li><strong>费曼父亲对鸟的讲解</strong>：费曼是美国著名物理学家，参与过曼哈顿计划并获得诺贝尔奖。他的父亲曾教导他knowing和knowing the name的区别。比如看到一只鸟，知道它叫brown throated thrush，在德国叫HEYSONFUGA，中文叫棕景东或棕猴冬，但这些只是人类对鸟的称呼。鸟会唱歌、教幼鸟飞翔、夏天能飞越全国好几英里，而人们并不知道它是如何做到这些的。所以，仅仅知道鸟的名字，并不代表真正了解这种鸟。</li>
+<li><strong>关于“什么让它动起来”的回答</strong>：有一本书展示了发条玩具、汽车、骑自行车的男孩的图片，并提出“什么让它动起来”的问题。常规教育方式会从机械学角度讲发条玩具内部弹簧如何工作、有什么弹簧，从化学角度讲内燃机、发动机的运作和部件名字，从生物学角度说肌肉如何工作。但费曼的父亲回答是因为太阳在照耀。费曼不理解，他父亲通过一步步引导，问他发条怎么上紧、他自己如何动起来，最终让费曼明白吃的东西能生长是因为太阳照耀，传达出能量转化的思想。同时，费曼父亲还指出，书里用“能量”解释和用“挖ALAXIS”等随意的词解释没区别，因为只知道这些名字，并不包含有意义的知识或理解。这就像平时上课，老师讲了一堆名字和机械联系让学生背诵，却没讲清楚名字背后真正的原理和知识，所以学生考完试就容易忘。</li>
+</ul>
+</li>
+<li><strong>黄金圈理论</strong>：由著名学者SIMONSENIC克提出，该理论指出想要完全理解一件事情，有三个层面。最表层是“what”，指具体的定义、概念、方法、标准；中间层是“how”，即这些具体的概念和方法是如何产生的；核心层是“why”，比如为什么会有对偶空间、编程中为何提出继承和多态的概念、为什么要研究随机变量的特征函数、函数极限的定义为何是这样等。只有能很好地回答这些“why”的问题，才算真正理解一个学科，并且能够将这种知识转化为未来可以运用的素养。可惜的是，现在的课堂和辅导机构在这方面做得远远不够，大多只注重“what”，很少涉及“how”，几乎没有“why”。漫士希望自己的视频能回答这些“why”的问题，填补空白，讲清各学科知识体系背后的精神思想和联系。</li>
+</ol></div><div class="tab-pane" id="曼士的数学教育-2"><p>Man Shi is a Ph.D. candidate at Tsinghua University, researching artificial intelligence and theoretical machine learning. He is also a science popularization video creator. In his sharing, he included his own exam experience, reflections on education, examples related to Feynman, and the Golden Circle Theory.</p>
+<ol>
+<li><strong>The Author’s Exam Experience</strong>: During Man Shi’s junior high school math exam in grade three, he encountered a question asking for the area of the shaded region between two parabolas. Due to the way the examiner filled in the shaded area, this question was not a regular length-times-width calculation but required calculating the area of a parabolic segment. Other classmates, not knowing how to solve it, defaulted to using the length-times-width method as they did in usual exercises. However, Man Shi found the question interesting. Based on the calculus ideas he had heard about, he divided the abscissa from 0 to 1 into N equal parts, with each part having a width of 1/N. He used the area of a small rectangle to approximate the area of that part, where the width of the rectangle was 1/N and the length was the square of the abscissa. In this way, he expressed the entire area as the sum of N small rectangles. During the calculation, from the sum of squares, he thought of a square, then the volume of small cubes, a pyramid, and finally related it to the volume formula of a square pyramid (the volume of a square pyramid is 1/3 of the base area times the height. Here, the base area is 1×1 and the height is 1, so the volume is 1/3). Thus, he calculated that the area of the parabolic segment was 1/3, and then obtained the area of the entire shaded region. However, when he confidently handed in the test paper, the teacher only marked it wrong with an “X” and did not give any explanation. Later, after learning calculus, Man Shi realized that what he did in the exam actually retraced the path of the predecessors’ exploration of Riemann integration, but his exploration was stifled like this.</li>
+<li><strong>Reflections on Education</strong>: Man Shi believes that there are significant problems with the exam-oriented education system. During the learning process, students come up with many interesting ideas, such as why it is impossible to trisect an angle using only a compass and straightedge, what the connection is between the condition for a system of binary linear equations to have no solution and the area formula of a parallelogram, what is the result of infinity plus one, and why the sum of natural numbers is equal to -1/12. These could have been windows to understanding profound mathematical knowledge and ideas. However, the exam-oriented education system stifles these explorations with the excuse of “not being tested in the exam,” making students get stuck in repetitive calculations. This causes many people to dislike mathematics, and students who are interested in in-depth study cannot find valuable learning materials. At the same time, the classroom teaching method is also unsatisfactory. It’s like “Kong Yiji laying out a few big coins,” directly bombarding students with a large number of definitions, theorems, proofs, technical terms, and methods. Students can only struggle to memorize and mechanically repeat the calculations and basic methods in the textbooks. They根本 do not understand why such knowledge exists or the core spirit and principles behind these methods. This learning method is like only knowing the various names of a bird but having no idea about its living habits and behavioral essence. Students only learn some mechanical information and concepts and cannot transform this knowledge into creative and innovative power.</li>
+<li><strong>Examples of Feynman</strong><ul>
+<li><strong>Feynman’s Father’s Explanation of the Bird</strong>: Feynman was a famous American physicist who participated in the Manhattan Project and won the Nobel Prize. His father once taught him the difference between “knowing” and “knowing the name.” For example, when seeing a bird, knowing that it is called “brown throated thrush,” “HEYSONFUGA” in German, and “Zong Jingdong” or “Brown Monkey Winter” in Chinese, these are just human names for the bird. The bird can sing, teach its chicks to fly, and fly across the country for several miles in summer, but people don’t know how it does all these things. So, just knowing the name of the bird does not mean truly understanding this kind of bird.</li>
+<li><strong>The Answer to “What Makes It Move?”</strong>: There was a book that showed pictures of a wind-up toy, a car, and a boy riding a bicycle and asked the question “What makes it move?” The conventional educational approach would explain from the perspective of mechanics how the internal spring of the wind-up toy works and what kind of spring it is, from the perspective of chemistry about the operation of internal combustion engines and engines and the names of their components, and from the perspective of biology about how muscles work. However, Feynman’s father answered that it was because the sun was shining. Feynman didn’t understand. His father guided him step by step, asking him how the spring was wound up and how he himself moved. Eventually, Feynman understood that the food he ate could grow because of the sun’s irradiation, thus conveying the idea of energy conversion. At the same time, Feynman’s father also pointed out that explaining with the word “energy” was no different from using random words like “waALAXIS” because just knowing these names did not contain meaningful knowledge or understanding. This is just like in normal classes. Teachers teach a bunch of names and mechanical connections for students to memorize but do not explain clearly the true principles and knowledge behind these names. Therefore, students tend to forget quickly after the exam.</li>
+</ul>
+</li>
+<li><strong>The Golden Circle Theory</strong>: Proposed by the famous scholar SIMONSENIC, this theory points out that to fully understand something, there are three levels. The outermost layer is “what,” referring to specific definitions, concepts, methods, and standards. The middle layer is “how,” that is, how these specific concepts and methods came into being. The core layer is “why,” such as why there is a dual space, why the concepts of inheritance and polymorphism are proposed in programming, why we study the characteristic function of random variables, and why the definition of the function limit is like this. Only by being able to answer these “why” questions well can one truly understand a subject and transform this knowledge into qualities that can be applied in the future. Unfortunately, current classrooms and tutoring institutions do not do well enough in this regard. Most of them only focus on “what,” rarely touch on “how,” and almost never address “why.” Man Shi hopes that his videos can answer these “why” questions, fill in the gaps, and clarify the spiritual ideas and connections behind the complex knowledge systems of various disciplines.</li>
+</ol></div></div></div>
+]]></content>
+      <tags>
+        <tag>评论笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -2746,219 +2797,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>曼士先生的教育理论</title>
-    <url>/2025/01/25/2025-1-25-%E6%9B%BC%E5%A3%AB%E6%B2%89%E6%80%9D%E5%BD%95/</url>
-    <content><![CDATA[<p><a class="link" href="https://www.bilibili.com/video/BV1Sa6oYUExh/?spm_id_from=333.1387.top_right_bar_window_history.content.click&vd_source=714c140af01ff536d815ed1b43db6ceb">【漫士】怎样才能学明白数学？<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
-<div class="tabs" id="tab-曼士的数学教育"><ul class="nav-tabs"><li class="tab active"><a class="#曼士的数学教育-1">Chinese</a></li><li class="tab"><a class="#曼士的数学教育-2">English</a></li></ul><div class="tab-content"><div class="tab-pane active" id="曼士的数学教育-1"><p>漫士是一名清华大学在读博士生，研究人工智能和理论机器学习，同时也是科普视频创作者。在其分享中，包含了自身考试经历、对教育的反思、费曼的相关例子以及黄金圈理论： </p>
-<ol>
-<li><strong>作者考试经历</strong>：漫士初三数学考试时，遇到一道求两个抛物线中间阴影区域面积的题目。由于出题人阴影填充方式的问题，这道题并非常规的长乘宽计算，而是要计算抛物弓形面积。其他同学因不会便默认按平时练习的长乘宽来算，但漫士觉得题目有趣。他依据听说的微积分思想，将横坐标0 - 1分成N份，每份宽度为N分之一，用小矩形面积代替该部分面积，宽是N分之一，长是横坐标的平方，把整个面积表示成N个小矩形求和的形式。在计算过程中，由平方求和联想到正方形，进而想到小立方体体积、金字塔，最终联系到四棱锥体积公式（四棱锥体积是1/3底面积乘高，此处底面积为1×1，高为1 ，体积是1/3），由此算出抛物弓形面积为1/3，进而得出整个阴影面积。然而，当他自信交卷后，老师只是打了个叉，未作任何解释。后来漫士学习了微积分，才意识到自己当时在考场上的做法，实际上走过了先贤探索黎曼积分的道路，可自己的探索就这样被扼杀了。 </li>
-<li><strong>教育反思</strong>：漫士认为应试教育存在很大问题。在学习过程中，学生们会产生很多有趣的想法，比如为什么尺规作图不能三等分角、二元一次方程组无解的条件与平行四边形面积公式有什么联系、无限大加一等于什么、自然数的和为何等于 -1/12等。这些本可以成为理解深邃数学知识和思想的窗口，但应试教育却以“考试不考”为由将其扼杀，让学生在重复计算中打转，导致很多人讨厌数学，而有兴趣深入学习的同学也找不到有价值的学习资料。同时，课堂教学方式也不佳，像“孔乙己排开几文大钱”一样，直接将大量定义、定理、证明、技术名词和方法一股脑地抛给学生。学生只能疲于记忆，机械地重复课本上的计算和基本方法，根本不理解这些知识为何存在，以及方法背后的核心精神和原理。这样的学习方式，就如同只知道鸟的各种名字，却对鸟的生活习性、行为本质一无所知，学生学到的只是一些机械的信息和概念，无法转化为有生命力和创造力的创新。 </li>
-<li><strong>费曼的例子</strong><ul>
-<li><strong>费曼父亲对鸟的讲解</strong>：费曼是美国著名物理学家，参与过曼哈顿计划并获得诺贝尔奖。他的父亲曾教导他knowing和knowing the name的区别。比如看到一只鸟，知道它叫brown throated thrush，在德国叫HEYSONFUGA，中文叫棕景东或棕猴冬，但这些只是人类对鸟的称呼。鸟会唱歌、教幼鸟飞翔、夏天能飞越全国好几英里，而人们并不知道它是如何做到这些的。所以，仅仅知道鸟的名字，并不代表真正了解这种鸟。</li>
-<li><strong>关于“什么让它动起来”的回答</strong>：有一本书展示了发条玩具、汽车、骑自行车的男孩的图片，并提出“什么让它动起来”的问题。常规教育方式会从机械学角度讲发条玩具内部弹簧如何工作、有什么弹簧，从化学角度讲内燃机、发动机的运作和部件名字，从生物学角度说肌肉如何工作。但费曼的父亲回答是因为太阳在照耀。费曼不理解，他父亲通过一步步引导，问他发条怎么上紧、他自己如何动起来，最终让费曼明白吃的东西能生长是因为太阳照耀，传达出能量转化的思想。同时，费曼父亲还指出，书里用“能量”解释和用“挖ALAXIS”等随意的词解释没区别，因为只知道这些名字，并不包含有意义的知识或理解。这就像平时上课，老师讲了一堆名字和机械联系让学生背诵，却没讲清楚名字背后真正的原理和知识，所以学生考完试就容易忘。</li>
-</ul>
-</li>
-<li><strong>黄金圈理论</strong>：由著名学者SIMONSENIC克提出，该理论指出想要完全理解一件事情，有三个层面。最表层是“what”，指具体的定义、概念、方法、标准；中间层是“how”，即这些具体的概念和方法是如何产生的；核心层是“why”，比如为什么会有对偶空间、编程中为何提出继承和多态的概念、为什么要研究随机变量的特征函数、函数极限的定义为何是这样等。只有能很好地回答这些“why”的问题，才算真正理解一个学科，并且能够将这种知识转化为未来可以运用的素养。可惜的是，现在的课堂和辅导机构在这方面做得远远不够，大多只注重“what”，很少涉及“how”，几乎没有“why”。漫士希望自己的视频能回答这些“why”的问题，填补空白，讲清各学科知识体系背后的精神思想和联系。</li>
-</ol></div><div class="tab-pane" id="曼士的数学教育-2"><p>Man Shi is a Ph.D. candidate at Tsinghua University, researching artificial intelligence and theoretical machine learning. He is also a science popularization video creator. In his sharing, he included his own exam experience, reflections on education, examples related to Feynman, and the Golden Circle Theory.</p>
-<ol>
-<li><strong>The Author’s Exam Experience</strong>: During Man Shi’s junior high school math exam in grade three, he encountered a question asking for the area of the shaded region between two parabolas. Due to the way the examiner filled in the shaded area, this question was not a regular length-times-width calculation but required calculating the area of a parabolic segment. Other classmates, not knowing how to solve it, defaulted to using the length-times-width method as they did in usual exercises. However, Man Shi found the question interesting. Based on the calculus ideas he had heard about, he divided the abscissa from 0 to 1 into N equal parts, with each part having a width of 1/N. He used the area of a small rectangle to approximate the area of that part, where the width of the rectangle was 1/N and the length was the square of the abscissa. In this way, he expressed the entire area as the sum of N small rectangles. During the calculation, from the sum of squares, he thought of a square, then the volume of small cubes, a pyramid, and finally related it to the volume formula of a square pyramid (the volume of a square pyramid is 1/3 of the base area times the height. Here, the base area is 1×1 and the height is 1, so the volume is 1/3). Thus, he calculated that the area of the parabolic segment was 1/3, and then obtained the area of the entire shaded region. However, when he confidently handed in the test paper, the teacher only marked it wrong with an “X” and did not give any explanation. Later, after learning calculus, Man Shi realized that what he did in the exam actually retraced the path of the predecessors’ exploration of Riemann integration, but his exploration was stifled like this.</li>
-<li><strong>Reflections on Education</strong>: Man Shi believes that there are significant problems with the exam-oriented education system. During the learning process, students come up with many interesting ideas, such as why it is impossible to trisect an angle using only a compass and straightedge, what the connection is between the condition for a system of binary linear equations to have no solution and the area formula of a parallelogram, what is the result of infinity plus one, and why the sum of natural numbers is equal to -1/12. These could have been windows to understanding profound mathematical knowledge and ideas. However, the exam-oriented education system stifles these explorations with the excuse of “not being tested in the exam,” making students get stuck in repetitive calculations. This causes many people to dislike mathematics, and students who are interested in in-depth study cannot find valuable learning materials. At the same time, the classroom teaching method is also unsatisfactory. It’s like “Kong Yiji laying out a few big coins,” directly bombarding students with a large number of definitions, theorems, proofs, technical terms, and methods. Students can only struggle to memorize and mechanically repeat the calculations and basic methods in the textbooks. They根本 do not understand why such knowledge exists or the core spirit and principles behind these methods. This learning method is like only knowing the various names of a bird but having no idea about its living habits and behavioral essence. Students only learn some mechanical information and concepts and cannot transform this knowledge into creative and innovative power.</li>
-<li><strong>Examples of Feynman</strong><ul>
-<li><strong>Feynman’s Father’s Explanation of the Bird</strong>: Feynman was a famous American physicist who participated in the Manhattan Project and won the Nobel Prize. His father once taught him the difference between “knowing” and “knowing the name.” For example, when seeing a bird, knowing that it is called “brown throated thrush,” “HEYSONFUGA” in German, and “Zong Jingdong” or “Brown Monkey Winter” in Chinese, these are just human names for the bird. The bird can sing, teach its chicks to fly, and fly across the country for several miles in summer, but people don’t know how it does all these things. So, just knowing the name of the bird does not mean truly understanding this kind of bird.</li>
-<li><strong>The Answer to “What Makes It Move?”</strong>: There was a book that showed pictures of a wind-up toy, a car, and a boy riding a bicycle and asked the question “What makes it move?” The conventional educational approach would explain from the perspective of mechanics how the internal spring of the wind-up toy works and what kind of spring it is, from the perspective of chemistry about the operation of internal combustion engines and engines and the names of their components, and from the perspective of biology about how muscles work. However, Feynman’s father answered that it was because the sun was shining. Feynman didn’t understand. His father guided him step by step, asking him how the spring was wound up and how he himself moved. Eventually, Feynman understood that the food he ate could grow because of the sun’s irradiation, thus conveying the idea of energy conversion. At the same time, Feynman’s father also pointed out that explaining with the word “energy” was no different from using random words like “waALAXIS” because just knowing these names did not contain meaningful knowledge or understanding. This is just like in normal classes. Teachers teach a bunch of names and mechanical connections for students to memorize but do not explain clearly the true principles and knowledge behind these names. Therefore, students tend to forget quickly after the exam.</li>
-</ul>
-</li>
-<li><strong>The Golden Circle Theory</strong>: Proposed by the famous scholar SIMONSENIC, this theory points out that to fully understand something, there are three levels. The outermost layer is “what,” referring to specific definitions, concepts, methods, and standards. The middle layer is “how,” that is, how these specific concepts and methods came into being. The core layer is “why,” such as why there is a dual space, why the concepts of inheritance and polymorphism are proposed in programming, why we study the characteristic function of random variables, and why the definition of the function limit is like this. Only by being able to answer these “why” questions well can one truly understand a subject and transform this knowledge into qualities that can be applied in the future. Unfortunately, current classrooms and tutoring institutions do not do well enough in this regard. Most of them only focus on “what,” rarely touch on “how,” and almost never address “why.” Man Shi hopes that his videos can answer these “why” questions, fill in the gaps, and clarify the spiritual ideas and connections behind the complex knowledge systems of various disciplines.</li>
-</ol></div></div></div>
-]]></content>
-      <tags>
-        <tag>评论笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Should we let students use ChatGPT?</title>
-    <url>/2025/01/06/2025-1-6-English-Learning/</url>
-    <content><![CDATA[<h2 id="Should-we-let-students-use-ChatGPT"><a href="#Should-we-let-students-use-ChatGPT" class="headerlink" title="Should we let students use ChatGPT?"></a><a class="link"   href="https://www.youtube.com/watch?v=ogcSQ-cFRVM" >Should we let students use ChatGPT?<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></h2><p>this past December I was sitting around a table having lunch with some English teachers </p>
-<p>when one of them started sharing how she had recently caught a student cheating on an essay using this new form of artificial intelligence called chat GPT </p>
-<p>she watched in astonishment and a bit of mild horror as this program constructed an entire essay for the student with a click of a button</p>
-<p>the initial reaction around the table was disbelief </p>
-<p>there’s no way that AI can write a quality essay</p>
-<p>naturally curious I whipped out my laptop to test it out</p>
-<p>all of us watched in shock as this AI program constructed a well-written analysis essay right before our eyes in a matter of seconds </p>
-<p>if you’ve ever wondered how to induce an immediate existential crisis amongst a group of English teachers yeah that’s how</p>
-<p>while there are dozens of text generative AI programs out there</p>
-<p>open ai’s chat GPT which was released to the public this past November is the</p>
-<p>most well known since its release chat GPT has been</p>
-<p>featured on almost every major news station and even made it to the cover of</p>
-<p>Time magazine in February this program caught the World by storm</p>
-<p>because it was 10 times smarter than the version that had come before it</p>
-<p>chat GPT is what is known as a large language model which is essentially a</p>
-<p>network of neural pathway connections that allows the program to learn and</p>
-<p>become more accurate in its responses over time</p>
-<p>when I asked chat GPT what it wanted the world to know about its capabilities</p>
-<p>it responded I can provide information on a wide</p>
-<p>range of topics and understand and respond to natural language I can also</p>
-<p>generate creative and personalized responses and learn from my interactions</p>
-<p>to improve my language processing capabilities over time</p>
-<p>oh is that all</p>
-<p>right after its public emergence companies and people around the world</p>
-<p>began harnessing the immense power of this technology doctors have used it to</p>
-<p>help diagnose patients businesses began using it to create advertisements and</p>
-<p>blog posts and Joe schmoe has been using it to help him write all those pesky</p>
-<p>thank you cards from his wedding 14 months ago</p>
-<p>and all of this is being done with the click of a button</p>
-<p>common applications like Snapchat instacart</p>
-<p>Duolingo and Quizlet have also begun to integrate this technology into their</p>
-<p>platforms and then openai released gpt4 in March</p>
-<p>which is the newest version of the system that powers chat GPT</p>
-<p>gpt4 unlike chat GPT can also analyze images and web links instead of being</p>
-<p>restricted to text input only Microsoft began using gbt4 to power</p>
-<p>their search engine Bing they also have plans to integrate gpt4 with the</p>
-<p>Microsoft Office Suite products soon you’ll be able to turn your boss’s</p>
-<p>20-page email into a comprehensive PowerPoint presentation with a single</p>
-<p>click a couple of weeks after Microsoft</p>
-<p>released their new search engine Google released their AI system bard</p>
-<p>and I’m sure it’s only a matter of time until we see artificial intelligence</p>
-<p>Incorporated with the Google Suite products as well</p>
-<p>the tech world has entered an AI arms race</p>
-<p>but with such an explosive advancement in technology seemingly overnight</p>
-<p>Educators across the globe have entered a state of panic of course there are the</p>
-<p>typical concerns about AI taking over the world courtesy of too many movies</p>
-<p>and TV shows like Terminator and Westworld</p>
-<p>but for educators the concern lies more with their students</p>
-<p>post-pandemic Educators have noticed severe declines in students ability to</p>
-<p>think critically and problem solve at the most basic levels but now with AI</p>
-<p>able to do the thinking for them educators are Awash in worry not merely</p>
-<p>for their jobs but for the development of their students</p>
-<p>but as author and writing instructor John Warner points out</p>
-<p>the reason the appearance of this Tech is so shocking is because it forces us</p>
-<p>to confront what we value rather than letting the status quo churn along</p>
-<p>unexamined</p>
-<p>there is no doubt that AI is going to transform the landscape of Education as</p>
-<p>we know it after all we’ve seen this type of transformation before and for</p>
-<p>most of us it happened within our lifetimes the widespread proliferation</p>
-<p>of the internet just a few decades ago completely transformed how schools and</p>
-<p>our global economy functioned isn’t it safe to assume that a new technological</p>
-<p>leap might do the same hard work of this leap is going to fall</p>
-<p>to educators generative AI systems will force</p>
-<p>Educators and educational institutions to re-evaluate what they teach and why</p>
-<p>and how they teach it do students really need to know how to</p>
-<p>write a five paragraph rigorously structured essay</p>
-<p>or do they need to understand how to approach a concept break it down and</p>
-<p>organize it into bite-sized pieces since the dawn of time teachers have</p>
-<p>been posed to question by students when will I use this in real life</p>
-<p>well now is the time to come up with a concrete answer to that question because</p>
-<p>the truth is many of the assignments given in the classroom really don’t</p>
-<p>prepare students for real life when are students going to need to know how to</p>
-<p>diagram a compound complex sentence unless you end up an English teacher</p>
-<p>Chances Are Never if students feel as though what they are</p>
-<p>learning in the classroom will benefit them in the long run they will become</p>
-<p>invested in the learning and won’t be looking for shortcuts to Simply get the</p>
-<p>work done but instead of embracing and learning</p>
-<p>from this new technology many schools across the country</p>
-<p>responded to the public release of chat GPT by immediately blocking it and other</p>
-<p>AI applications on all School sanctioned devices</p>
-<p>but is it beneficial to restrict student use of a technology that businesses</p>
-<p>around the world are using or should we instead teach our students how to</p>
-<p>interact with AI safely and productively anyone that has been around teenagers</p>
-<p>for any length of time understands All Too Well the implications of reverse</p>
-<p>psychology even adults fall prey to this trap if I tell you not to think of an</p>
-<p>elephant like whatever you do don’t think about an elephant</p>
-<p>yeah we’re all thinking about an elephant right now if you tell a teacher</p>
-<p>a teenager not to do something you can bet they’ll be itching to try it out as</p>
-<p>soon as your back is turned blocking chat GPT and similar AI applications</p>
-<p>won’t work it will only make the programs more intriguing for students</p>
-<p>who wouldn’t want to explore the secrets this technology holds that has caused</p>
-<p>such an adverse reaction amongst their teachers</p>
-<p>plus we can’t control what students do outside of their classrooms and school</p>
-<p>buildings it’s all too easy for students to pull up this program on their phone</p>
-<p>when they go to the bathroom or simply access it on a different device when</p>
-<p>they’re completing their schoolwork at home</p>
-<p>and once Microsoft and Google integrate this technology into their office suite</p>
-<p>products unless we want to regress to the pre-internet age of paper and pencil</p>
-<p>we won’t be able to avoid AI in the classroom we will never be able to truly</p>
-<p>and fully block it instead we have to find ways to work with and around it</p>
-<p>in order to implement effective use of AI in the classroom teachers may need to</p>
-<p>re-evaluate how they are teaching the material and assessing student learning</p>
-<p>What If instead of assigning worksheets and essays we encouraged more</p>
-<p>collaboration in the classroom project-based and student directive</p>
-<p>learning have always been my go-to’s as an educator</p>
-<p>as an English teacher my students were constantly creating posters and</p>
-<p>participating in debates in order to analyze various aspects of literary work</p>
-<p>they would work on group projects and presentations as their end of unit</p>
-<p>assessment and we would use gameplay to review material such as participating in</p>
-<p>an escape room or a competitive game of Jeopardy</p>
-<p>even if my students were able to access AI in my classroom it wouldn’t have</p>
-<p>provided them with much help beyond the ability to be a sounding board for their</p>
-<p>ideas and what would be so wrong with that</p>
-<p>I think most Educators would agree that the goal of education is to help our</p>
-<p>students learn how to think critically and problem solve AI technology can be</p>
-<p>incorporated into the classroom in ways that actually engage students in</p>
-<p>critical thinking math students could create their own math problems and then</p>
-<p>use AI to test the results social studies students could use chat</p>
-<p>GPT to write alternative realities to history and then discuss the results as</p>
-<p>a class science students could use the chat bot</p>
-<p>to adopt the voice of a famous scientist and then engage in a stimulating</p>
-<p>conversation about their discoveries students can also utilize AI to help</p>
-<p>edit their Writing Practice vocabulary terms provide individualized tutoring</p>
-<p>and edit their ideas and research and these are just a few of the</p>
-<p>unlimited applications from the student perspective</p>
-<p>but it also has abilities that can benefit teachers</p>
-<p>almost immediately after my school blocked AI on all of our student devices</p>
-<p>my co-workers began using it to help them do their jobs more effectively</p>
-<p>they use chat GPT to write lesson plans come up with discussion prompts and</p>
-<p>create tests and quizzes and I actually used it to help me write</p>
-<p>a final exam for my students a process that normally takes me hours</p>
-<p>took only 30 minutes with the assistance of AI</p>
-<p>not only does AI have the ability to Save hours of preparation time for</p>
-<p>teachers but it can also take a piece of writing and adapt it in any way the user</p>
-<p>asks which can help make learning and reading more accessible to students of</p>
-<p>all abilities for example we could ask chat GPT to</p>
-<p>take a complex text and transform it into something a fourth grader could</p>
-<p>read or we could have it transform</p>
-<p>Shakespeare’s Romeo and Juliet into a modern day Telenovela</p>
-<p>possibilities are only as limited as the user’s imagination</p>
-<p>we are living in a digitally Progressive world</p>
-<p>shouldn’t our schools reflect that as Matt Miller from ditch that textbook</p>
-<p>said this version of chat GPT is the weakest</p>
-<p>most rudimentary artificial intelligence of its kind our students will ever use</p>
-<p>if we are blocking technology in our schools that are being used in</p>
-<p>businesses across the country and around the world we aren’t adequately preparing</p>
-<p>our students to enter the 21st century Workforce</p>
-<p>our students need to be trained how to interact with the world around them via</p>
-<p>the technology at their disposal and how to do so safely</p>
-<p>and who will teach them these skills if teachers don’t</p>
-<p>but if we also need to give students the benefit of the doubt just like Educators</p>
-<p>do with other classroom technology teachers can establish times to utilize</p>
-<p>Ai and times to not when one educator gave the option for</p>
-<p>his students to use chat GPT on an assignment</p>
-<p>only four actually took him up on the offer</p>
-<p>many students are just as nervous as their adult counterparts are about this</p>
-<p>new technology they too worry about the impact that it will have on their</p>
-<p>ability to problem solve and become functioning adults who are able to make</p>
-<p>a positive contribution to the world in fact</p>
-<p>there are many students who don’t know about this new technology</p>
-<p>of course this will change in the coming months and years</p>
-<p>but for now we have time and we need to use this time to adapt</p>
-<p>accordingly just as the internet did before it AI is</p>
-<p>going to weave its way into every facet of Our Lives the process is already</p>
-<p>started we’re already carrying around little AI machines in our pockets and</p>
-<p>purses and while Chad GPT and gpt4 are far more advanced than Siri or Alexa</p>
-<p>they too will eventually become a staple in our everyday routines</p>
-<p>large language model generative AI is going to change the landscape of the</p>
-<p>world’s economy and launch us into a new era of Education</p>
-<p>schools need to start teaching their students how to use AI safely and</p>
-<p>effectively and teachers need to begin reevaluating and redesigning their</p>
-<p>curriculum so that next year we’re not sitting around a table in shock as our</p>
-<p>co-worker shares how they just caught a student cheating using whatever form of</p>
-<p>AI is coming next thank you</p>
-<p>[Applause]</p>
-]]></content>
-      <tags>
-        <tag>English-Learning</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>How to talk like a native speaker</title>
     <url>/2025/01/04/2025-1-4-English-Leaning/</url>
     <content><![CDATA[<h1 id="how-to-talk-like-a-native-speaker"><a href="#how-to-talk-like-a-native-speaker" class="headerlink" title="how to talk like a native speaker"></a><a class="link"   href="https://www.youtube.com/watch?v=Ti_gFEe1XNY" >how to talk like a native speaker<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></h1><p>Translator: Phuong Cao Reviewer: Leonardo Silva</p>
@@ -3299,6 +3137,189 @@ import {initHBE} from "/js/plugins/hbe.js";
 <p>Good luck to you all and…</p>
 <p>(Russian) Thank you.</p>
 <p>(Applause)</p>
+]]></content>
+      <tags>
+        <tag>English-Learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Should we let students use ChatGPT?</title>
+    <url>/2025/01/06/2025-1-6-English-Learning/</url>
+    <content><![CDATA[<h2 id="Should-we-let-students-use-ChatGPT"><a href="#Should-we-let-students-use-ChatGPT" class="headerlink" title="Should we let students use ChatGPT?"></a><a class="link"   href="https://www.youtube.com/watch?v=ogcSQ-cFRVM" >Should we let students use ChatGPT?<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></h2><p>this past December I was sitting around a table having lunch with some English teachers </p>
+<p>when one of them started sharing how she had recently caught a student cheating on an essay using this new form of artificial intelligence called chat GPT </p>
+<p>she watched in astonishment and a bit of mild horror as this program constructed an entire essay for the student with a click of a button</p>
+<p>the initial reaction around the table was disbelief </p>
+<p>there’s no way that AI can write a quality essay</p>
+<p>naturally curious I whipped out my laptop to test it out</p>
+<p>all of us watched in shock as this AI program constructed a well-written analysis essay right before our eyes in a matter of seconds </p>
+<p>if you’ve ever wondered how to induce an immediate existential crisis amongst a group of English teachers yeah that’s how</p>
+<p>while there are dozens of text generative AI programs out there</p>
+<p>open ai’s chat GPT which was released to the public this past November is the</p>
+<p>most well known since its release chat GPT has been</p>
+<p>featured on almost every major news station and even made it to the cover of</p>
+<p>Time magazine in February this program caught the World by storm</p>
+<p>because it was 10 times smarter than the version that had come before it</p>
+<p>chat GPT is what is known as a large language model which is essentially a</p>
+<p>network of neural pathway connections that allows the program to learn and</p>
+<p>become more accurate in its responses over time</p>
+<p>when I asked chat GPT what it wanted the world to know about its capabilities</p>
+<p>it responded I can provide information on a wide</p>
+<p>range of topics and understand and respond to natural language I can also</p>
+<p>generate creative and personalized responses and learn from my interactions</p>
+<p>to improve my language processing capabilities over time</p>
+<p>oh is that all</p>
+<p>right after its public emergence companies and people around the world</p>
+<p>began harnessing the immense power of this technology doctors have used it to</p>
+<p>help diagnose patients businesses began using it to create advertisements and</p>
+<p>blog posts and Joe schmoe has been using it to help him write all those pesky</p>
+<p>thank you cards from his wedding 14 months ago</p>
+<p>and all of this is being done with the click of a button</p>
+<p>common applications like Snapchat instacart</p>
+<p>Duolingo and Quizlet have also begun to integrate this technology into their</p>
+<p>platforms and then openai released gpt4 in March</p>
+<p>which is the newest version of the system that powers chat GPT</p>
+<p>gpt4 unlike chat GPT can also analyze images and web links instead of being</p>
+<p>restricted to text input only Microsoft began using gbt4 to power</p>
+<p>their search engine Bing they also have plans to integrate gpt4 with the</p>
+<p>Microsoft Office Suite products soon you’ll be able to turn your boss’s</p>
+<p>20-page email into a comprehensive PowerPoint presentation with a single</p>
+<p>click a couple of weeks after Microsoft</p>
+<p>released their new search engine Google released their AI system bard</p>
+<p>and I’m sure it’s only a matter of time until we see artificial intelligence</p>
+<p>Incorporated with the Google Suite products as well</p>
+<p>the tech world has entered an AI arms race</p>
+<p>but with such an explosive advancement in technology seemingly overnight</p>
+<p>Educators across the globe have entered a state of panic of course there are the</p>
+<p>typical concerns about AI taking over the world courtesy of too many movies</p>
+<p>and TV shows like Terminator and Westworld</p>
+<p>but for educators the concern lies more with their students</p>
+<p>post-pandemic Educators have noticed severe declines in students ability to</p>
+<p>think critically and problem solve at the most basic levels but now with AI</p>
+<p>able to do the thinking for them educators are Awash in worry not merely</p>
+<p>for their jobs but for the development of their students</p>
+<p>but as author and writing instructor John Warner points out</p>
+<p>the reason the appearance of this Tech is so shocking is because it forces us</p>
+<p>to confront what we value rather than letting the status quo churn along</p>
+<p>unexamined</p>
+<p>there is no doubt that AI is going to transform the landscape of Education as</p>
+<p>we know it after all we’ve seen this type of transformation before and for</p>
+<p>most of us it happened within our lifetimes the widespread proliferation</p>
+<p>of the internet just a few decades ago completely transformed how schools and</p>
+<p>our global economy functioned isn’t it safe to assume that a new technological</p>
+<p>leap might do the same hard work of this leap is going to fall</p>
+<p>to educators generative AI systems will force</p>
+<p>Educators and educational institutions to re-evaluate what they teach and why</p>
+<p>and how they teach it do students really need to know how to</p>
+<p>write a five paragraph rigorously structured essay</p>
+<p>or do they need to understand how to approach a concept break it down and</p>
+<p>organize it into bite-sized pieces since the dawn of time teachers have</p>
+<p>been posed to question by students when will I use this in real life</p>
+<p>well now is the time to come up with a concrete answer to that question because</p>
+<p>the truth is many of the assignments given in the classroom really don’t</p>
+<p>prepare students for real life when are students going to need to know how to</p>
+<p>diagram a compound complex sentence unless you end up an English teacher</p>
+<p>Chances Are Never if students feel as though what they are</p>
+<p>learning in the classroom will benefit them in the long run they will become</p>
+<p>invested in the learning and won’t be looking for shortcuts to Simply get the</p>
+<p>work done but instead of embracing and learning</p>
+<p>from this new technology many schools across the country</p>
+<p>responded to the public release of chat GPT by immediately blocking it and other</p>
+<p>AI applications on all School sanctioned devices</p>
+<p>but is it beneficial to restrict student use of a technology that businesses</p>
+<p>around the world are using or should we instead teach our students how to</p>
+<p>interact with AI safely and productively anyone that has been around teenagers</p>
+<p>for any length of time understands All Too Well the implications of reverse</p>
+<p>psychology even adults fall prey to this trap if I tell you not to think of an</p>
+<p>elephant like whatever you do don’t think about an elephant</p>
+<p>yeah we’re all thinking about an elephant right now if you tell a teacher</p>
+<p>a teenager not to do something you can bet they’ll be itching to try it out as</p>
+<p>soon as your back is turned blocking chat GPT and similar AI applications</p>
+<p>won’t work it will only make the programs more intriguing for students</p>
+<p>who wouldn’t want to explore the secrets this technology holds that has caused</p>
+<p>such an adverse reaction amongst their teachers</p>
+<p>plus we can’t control what students do outside of their classrooms and school</p>
+<p>buildings it’s all too easy for students to pull up this program on their phone</p>
+<p>when they go to the bathroom or simply access it on a different device when</p>
+<p>they’re completing their schoolwork at home</p>
+<p>and once Microsoft and Google integrate this technology into their office suite</p>
+<p>products unless we want to regress to the pre-internet age of paper and pencil</p>
+<p>we won’t be able to avoid AI in the classroom we will never be able to truly</p>
+<p>and fully block it instead we have to find ways to work with and around it</p>
+<p>in order to implement effective use of AI in the classroom teachers may need to</p>
+<p>re-evaluate how they are teaching the material and assessing student learning</p>
+<p>What If instead of assigning worksheets and essays we encouraged more</p>
+<p>collaboration in the classroom project-based and student directive</p>
+<p>learning have always been my go-to’s as an educator</p>
+<p>as an English teacher my students were constantly creating posters and</p>
+<p>participating in debates in order to analyze various aspects of literary work</p>
+<p>they would work on group projects and presentations as their end of unit</p>
+<p>assessment and we would use gameplay to review material such as participating in</p>
+<p>an escape room or a competitive game of Jeopardy</p>
+<p>even if my students were able to access AI in my classroom it wouldn’t have</p>
+<p>provided them with much help beyond the ability to be a sounding board for their</p>
+<p>ideas and what would be so wrong with that</p>
+<p>I think most Educators would agree that the goal of education is to help our</p>
+<p>students learn how to think critically and problem solve AI technology can be</p>
+<p>incorporated into the classroom in ways that actually engage students in</p>
+<p>critical thinking math students could create their own math problems and then</p>
+<p>use AI to test the results social studies students could use chat</p>
+<p>GPT to write alternative realities to history and then discuss the results as</p>
+<p>a class science students could use the chat bot</p>
+<p>to adopt the voice of a famous scientist and then engage in a stimulating</p>
+<p>conversation about their discoveries students can also utilize AI to help</p>
+<p>edit their Writing Practice vocabulary terms provide individualized tutoring</p>
+<p>and edit their ideas and research and these are just a few of the</p>
+<p>unlimited applications from the student perspective</p>
+<p>but it also has abilities that can benefit teachers</p>
+<p>almost immediately after my school blocked AI on all of our student devices</p>
+<p>my co-workers began using it to help them do their jobs more effectively</p>
+<p>they use chat GPT to write lesson plans come up with discussion prompts and</p>
+<p>create tests and quizzes and I actually used it to help me write</p>
+<p>a final exam for my students a process that normally takes me hours</p>
+<p>took only 30 minutes with the assistance of AI</p>
+<p>not only does AI have the ability to Save hours of preparation time for</p>
+<p>teachers but it can also take a piece of writing and adapt it in any way the user</p>
+<p>asks which can help make learning and reading more accessible to students of</p>
+<p>all abilities for example we could ask chat GPT to</p>
+<p>take a complex text and transform it into something a fourth grader could</p>
+<p>read or we could have it transform</p>
+<p>Shakespeare’s Romeo and Juliet into a modern day Telenovela</p>
+<p>possibilities are only as limited as the user’s imagination</p>
+<p>we are living in a digitally Progressive world</p>
+<p>shouldn’t our schools reflect that as Matt Miller from ditch that textbook</p>
+<p>said this version of chat GPT is the weakest</p>
+<p>most rudimentary artificial intelligence of its kind our students will ever use</p>
+<p>if we are blocking technology in our schools that are being used in</p>
+<p>businesses across the country and around the world we aren’t adequately preparing</p>
+<p>our students to enter the 21st century Workforce</p>
+<p>our students need to be trained how to interact with the world around them via</p>
+<p>the technology at their disposal and how to do so safely</p>
+<p>and who will teach them these skills if teachers don’t</p>
+<p>but if we also need to give students the benefit of the doubt just like Educators</p>
+<p>do with other classroom technology teachers can establish times to utilize</p>
+<p>Ai and times to not when one educator gave the option for</p>
+<p>his students to use chat GPT on an assignment</p>
+<p>only four actually took him up on the offer</p>
+<p>many students are just as nervous as their adult counterparts are about this</p>
+<p>new technology they too worry about the impact that it will have on their</p>
+<p>ability to problem solve and become functioning adults who are able to make</p>
+<p>a positive contribution to the world in fact</p>
+<p>there are many students who don’t know about this new technology</p>
+<p>of course this will change in the coming months and years</p>
+<p>but for now we have time and we need to use this time to adapt</p>
+<p>accordingly just as the internet did before it AI is</p>
+<p>going to weave its way into every facet of Our Lives the process is already</p>
+<p>started we’re already carrying around little AI machines in our pockets and</p>
+<p>purses and while Chad GPT and gpt4 are far more advanced than Siri or Alexa</p>
+<p>they too will eventually become a staple in our everyday routines</p>
+<p>large language model generative AI is going to change the landscape of the</p>
+<p>world’s economy and launch us into a new era of Education</p>
+<p>schools need to start teaching their students how to use AI safely and</p>
+<p>effectively and teachers need to begin reevaluating and redesigning their</p>
+<p>curriculum so that next year we’re not sitting around a table in shock as our</p>
+<p>co-worker shares how they just caught a student cheating using whatever form of</p>
+<p>AI is coming next thank you</p>
+<p>[Applause]</p>
 ]]></content>
       <tags>
         <tag>English-Learning</tag>
