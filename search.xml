@@ -2,32 +2,6 @@
 <search>
   <entry>
     <title>日记</title>
-    <url>/2021/01/17/2021-1-17-%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="1dda8547a75ab6bb6eebb650fb4c9958ad8f73093424f783968cfca468acc0ef">249107fcce4fdab00b19d327c31fd8f32761601dfcccceadaebfff53bf7104cef0f4a4b2e965ca62ba95aab9ab37c4900fb7a408b9892dcdbd37fb2636d181ea8842264ad7131ab3c1737ebeb084a844a1136e88cb341c9bf4d75eec281d353f02a14cc409245e5a746c69b7704ead5668c1c6715449e01af97a74af26fd9f83875ee145a8342bec23f0652dd18aef03b014f344ae05afac628a7360615699bf5567fdd5861557d72de5b2820b47b02c7e1bf88d23725fda2f0011350d183473cded5da7797c796706b95013c08924ed5985e45b7c4ceb2fbbd3e45429c7fc14ccce724b08e0179e5e04f4f899d0111bc4b89cf64cc8e73678babf05e68b028a3d744454084a6a5128e6ec143f3800ff9d9ffd17f254e737112d009fde052f621892c4d54dd469bc36fc5f9751aac06b9c8a20647c28e63c14cfbee97f029c8189eacad5cb530d4659f56d7e2bb5e132d637904534617f40fab8424f75058740cfe2524f4a5dbf08a406faa18749eeb24bb107a58a272d6f009f5d38de2c0a574ba39f39057903546422383e58529d478a114fc20573128a750b9358dc82789cf1b88caf4457c61c47de473b43bbf0f3c3554bad561e8b831f445694deebdd4fe4ee54872e9ee3f10700adfd2dd4b903e0168d3a69a025052b582f1c6b15a3443ebe136ef19e02c678bad2a054115ce40549c263b685a03cf1428d8ca5704b138d31c37444d1f791d2e8606682520730c9d277b30fd101c7306f51df57a89aa9f31721bec62ef3b6157b2769792b73e67298b252a0156696f3d3908209bc6f8873da0196f213efa70ac315366fa45a4e6a435397b985b4d5e36db61ae5dd21f097a58de316628e3af352248927df2edf3bd4910b8c55f195db96dc4ce3f6035c02e7ccd86235b2efcab5274893e789bc5d2d504ea2c6600925b5b27fa2289f7f6e1dea0d1212bc43c64e58335254938d32ddb0c21fabb3925e9ba7a16e458a7818a3d7d91224084dd163d05b4c67bdee9ad17b95a751e5e65686cb5d0b60cffcdae2547487de7297bbbc16eff86e3750ef70e422137b7af26d4920759c3a8215aabfcd41aaedd9014c4bc9f18b45845686ff128cfe847d218edbe6e417073341dec772d99ac6d4c2786a78a86f4d3f0fb88791c20d33f40b909ad37e46938c6a9da762a402b883928a0aa30072a89e207c84b95e8fa60d610ee61665fd695231e79a083af70b6e22010ad62a30d2febf12860039b326f8f3e00f47d61c86190e0a41cda9081bc449fd030ff9c6503075079869ba603c10bb87c67946f652e0d0a7414c065263ddb34340d78684977f4a6f09b7375be1911ffe06db0876df21e7</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日记</title>
     <url>/2021/02/01/2021-2-1-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -80,10 +54,10 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/2021/02/04/2021-2-4-%E6%97%A5%E8%AE%B0/</url>
+    <url>/2021/01/17/2021-1-17-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="1dda8547a75ab6bb6eebb650fb4c9958ad8f73093424f783968cfca468acc0ef">249107fcce4fdab00b19d327c31fd8f32761601dfcccceadaebfff53bf7104cef0f4a4b2e965ca62ba95aab9ab37c4900fb7a408b9892dcdbd37fb2636d181ea8842264ad7131ab3c1737ebeb084a844a1136e88cb341c9bf4d75eec281d353f02a14cc409245e5a746c69b7704ead5668c1c6715449e01af97a74af26fd9f83875ee145a8342bec23f0652dd18aef03b014f344ae05afac628a7360615699bf5567fdd5861557d72de5b2820b47b02c7e1bf88d23725fda2f0011350d183473cded5da7797c796706b95013c08924ed5985e45b7c4ceb2fbbd3e45429c7fc14ccce724b08e0179e5e04f4f899d0111bc4b89cf64cc8e73678babf05e68b028a3d744454084a6a5128e6ec143f3800ff9d9ffd17f254e737112d009fde052f621892c4d54dd469bc36fc5f9751aac06b9c8a20647c28e63c14cfbee97f029c8189eacad5cb530d4659f56d7e2bb5e132d637904534617f40fab8424f75058740cfe2524f4a5dbf08a406faa18749eeb24bb107a58a272d6f009f5d38de2c0a574ba39f39057903546422383e58529d478a114fc20573128a750b9358dc82789cf1b88caf4457c61c47de473b43bbf0f3c3554bad561e8b831f445694deebdd4fe4ee54872e9ee3f10700adfd2dd4b903e0168d3a69a025052b582f1c6b15a3443ebe136ef19e02c678bad2a054115ce40549c263b685a03cf1428d8ca5704b138d31c37444d1f791d2e8606682520730c9d277b30fd101c7306f51df57a89aa9f31721bec62ef3b6157b2769792b73e67298b252a0156696f3d3908209bc6f8873da0196f213efa70ac315366fa45a4e6a435397b985b4d5e36db61ae5dd21f097a58de316628e3af352248927df2edf3bd4910b8c55f195db96dc4ce3f6035c02e7ccd86235b2efcab5274893e789bc5d2d504ea2c6600925b5b27fa2289f7f6e1dea0d1212bc43c64e58335254938d32ddb0c21fabb3925e9ba7a16e458a7818a3d7d91224084dd163d05b4c67bdee9ad17b95a751e5e65686cb5d0b60cffcdae2547487de7297bbbc16eff86e3750ef70e422137b7af26d4920759c3a8215aabfcd41aaedd9014c4bc9f18b45845686ff128cfe847d218edbe6e417073341dec772d99ac6d4c2786a78a86f4d3f0fb88791c20d33f40b909ad37e46938c6a9da762a402b883928a0aa30072a89e207c84b95e8fa60d610ee61665fd695231e79a083af70b6e22010ad62a30d2febf12860039b326f8f3e00f47d61c86190e0a41cda9081bc449fd030ff9c6503075079869ba603c10bb87c67946f652e0d0a7414c065263ddb34340d78684977f4a6f09b7375be1911ffe06db0876df21e7</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -106,10 +80,10 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/2021/03/14/2021-3-14-%E6%97%A5%E8%AE%B0/</url>
+    <url>/2021/02/04/2021-2-4-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="abc3339a655f449b8b0e49bf85e351a332f6c31f85a95225f75d668afb94908a">249107fcce4fdab00b19d327c31fd8f33af60cc07c7fca5acec9f3d9dbfa6fd6e04d38ad181f8cede03dd9af51349f8d4fa3fd4380e1f3f378354b9b8cf3efeb07b5cd0c0e3a9f3ef9a6a531dc851d28fbbd58642fbb329bdbda96bcaaa5bd3d4b9656f9fbf2527ef07c20767129c8b8e2fdc0688d580ee71d32eafb308094da8893e9abd989e48c177e0d3f443760d5583705f01b844b1431473f39beef9a08</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -220,6 +194,32 @@ import {initHBE} from "/js/plugins/hbe.js";
       <tags>
         <tag>计算机网络</tag>
         <tag>计算机408</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日记</title>
+    <url>/2021/03/14/2021-3-14-%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="abc3339a655f449b8b0e49bf85e351a332f6c31f85a95225f75d668afb94908a">249107fcce4fdab00b19d327c31fd8f33af60cc07c7fca5acec9f3d9dbfa6fd6e04d38ad181f8cede03dd9af51349f8d4fa3fd4380e1f3f378354b9b8cf3efeb07b5cd0c0e3a9f3ef9a6a531dc851d28fbbd58642fbb329bdbda96bcaaa5bd3d4b9656f9fbf2527ef07c20767129c8b8e2fdc0688d580ee71d32eafb308094da8893e9abd989e48c177e0d3f443760d5583705f01b844b1431473f39beef9a08</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>日记</tag>
       </tags>
   </entry>
   <entry>
@@ -539,6 +539,135 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>I/O管理</title>
+    <url>/2024/12/17/2024-12-17-IO%E7%AE%A1%E7%90%86/</url>
+    <content><![CDATA[<h1 id="5-1-I-O管理基础"><a href="#5-1-I-O管理基础" class="headerlink" title="5.1 I/O管理基础"></a>5.1 I/O管理基础</h1><ul>
+<li>I/O控制方式:<ul>
+<li>查询</li>
+<li>中断</li>
+<li>DMA:有四个寄存器<br><ol>
+<li>命令/状态寄存器(CR)。接收从 CPU 发来的 I/O 命令、有关控制信息，或设备的状态。</li>
+<li>内存地址寄存器(MAR)。在输入时，它存放将数据从设备传送到内存的起始目标地址;在输出时，它存放由内存到设备的内存源地址。</li>
+<li>数据寄存器(DR)。暂存从设备到内存或从内存到设备的数据。</li>
+<li>数据计数器(DC)。存放本次要传送的字(节)数。<blockquote>
+<p>DMA传送数据过程:设备发送DMA请求,CPU向控制器发送指令,同时设置MAR和DC,然后把控制权交给控制器,控制器和内存直接交互,不需要CPU参与,数据传送完,控制器向CPU发送中断请求。只有传送的开始和结束需要CPU参与</p>
+</blockquote>
+</li>
+</ol>
+</li>
+<li>通道：通道与 DMA 方式的区别是:DMA 方式需要 CPU 来控制传输的数据块大小、传输的内存位置，而通道方式中这些信息是由通道控制的。另外，每个DMA 控制器对应一台设备与内存传递数据，而一个通道可以控制多台设备与内存的数据交换。</li>
+</ul>
+</li>
+<li><strong>I/O软件层次结构</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_16-53-38.png" alt="text"><br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_17-02-36.png" alt="text"></li>
+<li><strong>I/O设备接口分类</strong>：<ul>
+<li><strong>字符设备接口</strong>：鼠标这种，没有地址，采用中断驱动方式，建议了一个字符缓冲区，读写都是对缓冲区进行</li>
+<li><strong>块设备接口</strong>：硬盘这种，有地址，采用DMA方式，</li>
+<li><strong>网络设备接口</strong>：许多操作系统提供的网络10 接口为网络套接字接口，套接字接口的系统调用使应用程序创建的本地套接字连接到远程应用程序创建的套接字，通过此连接发送和接收数据。</li>
+</ul>
+</li>
+<li><strong>阻塞I/O与非阻塞I/O</strong>：<ul>
+<li>阻塞I/O是指当用户进程调用I/O操作时,如果I/O操作没有完成,则用户进程会被阻塞,直到I/O操作完成。</li>
+<li>非阻塞I/O是指当用户进程调用I/O操作时,如果I/O操作没有完成,则用户进程可以做其他的事情，在这个阶段进程不断的询问I/O操作是否完成。</li>
+</ul>
+</li>
+</ul>
+<h1 id="5-2设备独立性软件"><a href="#5-2设备独立性软件" class="headerlink" title="5.2设备独立性软件"></a>5.2设备独立性软件</h1><ul>
+<li>磁盘高速缓冲技术用来提高磁盘的读写速度。逻辑上属于磁盘,物理上属于内存。有两种形式:<ul>
+<li>在内存中开辟一个单独的空间作为缓冲区,大小固定。</li>
+<li>将未利用的内存空间作为一个缓冲池,供请求分页系统和磁盘 I/O 时共享。</li>
+</ul>
+</li>
+<li><strong>单缓冲</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-21_09-22-40.png" alt="text"><br>必须等缓冲区满后才能从缓冲区取数据。T和C是可以并行的,所以就有单缓冲区处理每块数据的平均时间是Max(T,C)+M。<br>缓冲区是共享资源,所以需要互斥访问。</li>
+<li><strong>双缓冲</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-21_09-27-35.png" alt="text"><br>缓冲区1满了向缓冲区2输入,缓冲区2满了向缓冲区1输入,这样就可以并行的处理每块数据C和M是可以与T并行的。处理时间为Max(T,C+M)。</li>
+<li><strong>循环缓冲</strong>:跟数据结构中循环队列差不多。</li>
+<li><strong>缓冲池</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-21_09-39-22.png" alt="text"><br>管理了多个缓冲区,plus版</li>
+</ul>
+<h2 id="设备分配与回收"><a href="#设备分配与回收" class="headerlink" title="设备分配与回收"></a>设备分配与回收</h2><ul>
+<li>在系统中，可能存在多个通道，每个通道可以连接多个控制器，每个控制器可以连接多个物理设备。设备分配的数据结构要能体现出这种从属关系<ul>
+<li><strong>设备控制表</strong>(DCT): 每个物理设备对应一个设备控制表，用于记录设备的状态信息。</li>
+<li><strong>控制器控制表</strong>(COCT): 每个控制器对应一个控制器控制表，用于记录控制器的状态信息。每个控制器由一个通道控制。</li>
+<li><strong>通道控制表</strong>(CHCT): 每个通道对应一个通道控制表，用于记录通道的状态信息。</li>
+<li><strong>系统设备表</strong>(SDT):整个系统只有一张SDT，用于记录系统中所有设备的状态信息。每个物理设备对应一个表目。</li>
+</ul>
+</li>
+<li><strong>独占设备</strong>:将它分配给某个进程后，便由该进程独占，直至进程完成或释放该设备</li>
+<li><strong>共享设备</strong>:可将它同时分配给多个进程，需要合理调度各个进程访问该设备的先后次序。</li>
+<li><strong>虚拟设备</strong>属于共享设备。</li>
+<li><strong>设备分配步骤</strong>:<ul>
+<li>检查设备表，找到空闲设备,若忙的话,就把该进程的PCB挂载到等待队列</li>
+<li>分配控制器,根据DCT找到COCT,找到空闲控制器,若忙的话,就把该进程的PCB挂载到等待队列</li>
+<li>分配通道,根据COCT找到CHCT,找到空闲通道,若忙的话,就把该进程的PCB挂载到等待队列</li>
+</ul>
+</li>
+<li>为了实现设备的独立性，进程中应使用逻辑设备名来请求某类设备。但是，系统只识别物理设备名，因此在系统中需要配置一张<strong>逻辑设备表LUT</strong>，用于将逻辑设备名映射为物理设备名。<ul>
+<li>单用户系统中只设置一张LUT</li>
+<li>多用户系统中为每个用户设置一张LUT,同时在系统中配置系统设备表,所以不同的用户可以使用相同的逻辑设备名。</li>
+</ul>
+</li>
+<li>SPOOLing技术(假脱机技术)：将用户程序的输入和输出信息暂时保存在磁盘上，而不是直接送入打印机或从键盘上接收。将独占设备改造成共享设备，解决CPU和设备之间速度不匹配的问题。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-54-44.png" alt="alt text"><ul>
+<li><strong>输入井和输出井</strong>：在磁盘中开辟两个缓冲区,一个收容输入设备的数据,一个收容用户程序输出的数据。</li>
+<li><strong>输入缓冲区和输出缓冲区</strong>：在内存中开辟两个缓冲区,一个收容输入井的数据,一个收容输出井的数据。<blockquote>
+<p>真奇怪，输出数据先输出到输出井（在磁盘上），然后再输出到输出缓冲区（在内存上），然后再输出到打印机。</p>
+<blockquote>
+<p>输出程序-&gt;输出井（磁盘）-&gt;输出缓冲区（内存）-&gt;打印机<br>我感觉输出到输出井的时候肯定经过了内存，但是那块内存不叫输出缓冲区</p>
+</blockquote>
+</blockquote>
+</li>
+</ul>
+</li>
+<li><strong>设备驱动程序</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-04-25.png" alt="alt text"><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-05-04.png" alt="alt text"></li>
+</ul>
+<h1 id="5-3磁盘和固态硬盘"><a href="#5-3磁盘和固态硬盘" class="headerlink" title="5.3磁盘和固态硬盘"></a>5.3磁盘和固态硬盘</h1><ul>
+<li>之前的磁盘内外磁道的扇区数是相同的，但是现在为了提高磁盘的存储容量，把盘面划分为了若干个环带，同一环带内的所有磁道具有相同的扇区数</li>
+<li>磁盘地址用“柱面号、盘面号、扇区号”来表示。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-11-14.png" alt="text"><blockquote>
+<p>柱面号也就是磁道号</p>
+</blockquote>
+</li>
+<li><strong>新磁盘安装操作系统的过程</strong>：<ol>
+<li><strong>磁盘初始化</strong>也就是低级格式化（物理格式化），把空白的磁盘分成扇区，能进行读写操作</li>
+<li><strong>分区</strong>：</li>
+</ol>
+<ul>
+<li><strong>将磁盘分区</strong>，也就是C盘D盘这样，每个分区的起始扇区和大小都记录在磁盘主引导记录的分区表中。</li>
+<li><strong>高级格式化</strong>（逻辑格式化）：将初始文件系统数据结构存储到磁盘上，这些数据结构包括空闲空间和已分配空间，以及一个初始为空的目录，建立根目录、对保存空闲磁盘块信息的数据结构进行初始化。<blockquote>
+<p>扇区的单位太小，所以操作系统将多个相邻的扇区组合在一起，形成一簇(在Linux 中称为块)。为了更高效地管理磁盘，一簇只能存放一个文件的内容，文件所占用的空间只能是簇的整数倍;如果文件大小小于一簇(甚至是0字节)，也要占用一簇的空间。</p>
+</blockquote>
+</li>
+<li><strong>引导块</strong>：BI/OS有一小部分自举装入程序，然后接力到MBR，MBR再接力到引导分区</li>
+<li><strong>坏块</strong>：其实就是用某种机制使系统不去使用坏块。</li>
+</ul>
+</li>
+<li><strong>磁盘的存取时间</strong>：寻道时间+旋转到特定扇区的时间+传输时间（也就是扫描这个扇区的时间）</li>
+<li><strong>磁盘调度算法</strong>：<ul>
+<li>先来先服务算法(FCFS)</li>
+<li>最短寻道时间优先（SSTF）：选择与当前磁头所在磁道距离最近的磁道；这个可能会让磁头一直在小范围内移动，会造成及饥饿现象。</li>
+<li>扫描算法（SCAN）：磁头从一个磁道向另一个磁道移动，直到到达最外磁道。</li>
+<li>循环扫描（C-CSAN）：磁头从一个磁道向另一个磁道移动，直到到达最外磁道，然后再向一个磁道移动，直到到达最内磁道。</li>
+</ul>
+</li>
+<li><strong>减少延迟时间的方法</strong>：磁盘是连续自转设备，磁头读入一个扇区后，需要经过短暂的处理时间，才能开始读入下一个扇区。若逻辑上相邻的块在物理上也相邻，则读入几个连续的逻辑块可能需要很长的延迟时间。为此，可对一个盘面的扇区进行交替编号，即让逻辑上相邻的块物理上保持一定的间隔，于是读入多个连续块时能够减少延迟时间。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-51-06.png" alt="text"></li>
+<li><strong>改善磁盘I/O性能的方法</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-52-29.png" alt="text"><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-53-07.png" alt="text"></li>
+<li>固态硬盘：<ul>
+<li>和U盘没有本质区别，只是容量大，存取性能更好。<br>随机写很慢，因为擦除块比较慢，通常比访问页高一个数量级。其次，如果写操作试图修改一个包含已有数据的页P，那么这个块中所有含有用数据的页都必须被复制到一个新(擦除过的)块中，然后才能进行对页P的写操作。</li>
+<li><strong>磨损均衡</strong>：<ul>
+<li><strong>动态磨损均衡</strong>：写入数据时，自动选择较新的闪存块。</li>
+<li><strong>静态磨损均衡</strong>：SSD也会监测并自动进行数据分配，让老的闪存块承担无须写数据的存储任务，同时让较新的闪存块腾出空间，平常的读/写操作在较新的闪存块中进行。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>计算机操作系统</category>
+        <category>I/O管理</category>
+      </categories>
+      <tags>
+        <tag>计算机408</tag>
+        <tag>计算机操作系统</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>进程与线程</title>
     <url>/2024/11/23/2024-11-23-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</url>
     <content><![CDATA[<h2 id="2-1进程与线程"><a href="#2-1进程与线程" class="headerlink" title="2.1进程与线程"></a>2.1进程与线程</h2><ul>
@@ -771,128 +900,76 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>I/O管理</title>
-    <url>/2024/12/17/2024-12-17-IO%E7%AE%A1%E7%90%86/</url>
-    <content><![CDATA[<h1 id="5-1-I-O管理基础"><a href="#5-1-I-O管理基础" class="headerlink" title="5.1 I/O管理基础"></a>5.1 I/O管理基础</h1><ul>
-<li>I/O控制方式:<ul>
-<li>查询</li>
-<li>中断</li>
-<li>DMA:有四个寄存器<br><ol>
-<li>命令/状态寄存器(CR)。接收从 CPU 发来的 I/O 命令、有关控制信息，或设备的状态。</li>
-<li>内存地址寄存器(MAR)。在输入时，它存放将数据从设备传送到内存的起始目标地址;在输出时，它存放由内存到设备的内存源地址。</li>
-<li>数据寄存器(DR)。暂存从设备到内存或从内存到设备的数据。</li>
-<li>数据计数器(DC)。存放本次要传送的字(节)数。<blockquote>
-<p>DMA传送数据过程:设备发送DMA请求,CPU向控制器发送指令,同时设置MAR和DC,然后把控制权交给控制器,控制器和内存直接交互,不需要CPU参与,数据传送完,控制器向CPU发送中断请求。只有传送的开始和结束需要CPU参与</p>
-</blockquote>
+    <title>文件管理</title>
+    <url>/2024/12/17/2024-12-17-%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/</url>
+    <content><![CDATA[<h1 id="4-1文件系统基础"><a href="#4-1文件系统基础" class="headerlink" title="4.1文件系统基础"></a>4.1文件系统基础</h1><ul>
+<li>文件控制块(File Control Block，FCB)是用来存放控制文件需要的各种信息的数据结构，<strong>以实现按名存取</strong>。文件与 FCB 一一对应。</li>
+<li>文件很多的时候,文件目录会占用很多的盘块,在查找目录的时候会把第一个盘块调入内存,然后用给定的文件名逐一比较,但是在这个过程中只用到了文件名,其他的信息都没有用,只有找到对应的文件才把对应的目录项调入内存,这样会浪费很多时间,所以需要把目录项调入内存,这样就可以直接比较文件名了,这就是索引文件。</li>
+<li><strong>文件打开的过程</strong>:用户对一个文件多次读写时,为了避免多次重复地检索目录,先利用系统调用open打开文件,系统维护一个打开文件表。打开的同时系统会给用户一个文件描述符(索引号),用户再次打开这个文件时,通过文件描述符来访问这个文件。文件不用时,系统调用close关闭文件,系统会回收这个文件描述符,从打开文件表中删除这个表目录。</li>
+<li><strong>文件关闭过程</strong>:在操作系统中，当文件不再使用时，会利用系统调用close来关闭文件。关闭文件时，会删除单个进程的打开文件表中的相应条目，系统表中的相应打开计数器（Open Count）也会递减。当打开计数器为0时，表示该文件不再被使用，并且可以从系统表中删除相应条目。</li>
+<li>只要完成了文件打开 open()系统调用，后面再使用 read()、write()、Lseek()、close()等文件操作的系统调用，就不再使用文件名，而使用文件描述符。</li>
+<li><strong>文件的逻辑结构</strong>:<ul>
+<li><strong>无结构文件(流式文件)</strong>:无结构文件是最简单的文件组织形式，由字符流构成，长度以字节为单位。访问流式文件通过读/写指针来定位字节。系统中的源程序、可执行文件、库函数等多采用无结构文件，但由于其无结构，记录访问只能通过穷举搜索，因此对很多应用不适用。</li>
+<li><strong>有结构文件(记录式文件)</strong>:<br><br> <strong>定长记录</strong>: 定长记录是指每个记录的长度相等，每个记录的结构是相同的。定长记录的优点是存取速度快，缺点是浪费存储空间。<br><br> <strong>不定长记录</strong>: 不定长记录是指每个记录的长度不等，每个记录的结构也不相同。不定长记录的优点是存储空间利用率高，缺点是存取速度慢。<ul>
+<li>顺序文件：顺序文件是指文件中的记录按照物理顺序存储，每个记录的物理地址与其逻辑地址相同。对于定长记录的顺序文件的优点是检索时可以用折半查找,查找速度快，缺点是插入和删除记录时需要移动大量记录。</li>
+<li>索引文件:配了一张索引表,每个文件都有一个索引项</li>
+</ul>
 </li>
+</ul>
+</li>
+<li><strong>文件的物理结构</strong>:<ul>
+<li><strong>连续分配</strong>: 连续分配是指将文件的所有记录存储在连续的物理块中。支持顺序访问和随机访问,但是会有外部碎片</li>
+<li><strong>链式分配</strong>:消除了外部碎片,修改插入也很方便<ul>
+<li>隐式链接: 隐式链接是指在文件的每个记录中增加一个指针域，指向下一个记录的盘块号。只能用于顺序访问。</li>
+<li>显式链接: 显式链接是指将用于链接文件各物理块的指针，显式地存放在内存的一张链接表中，该表在整个磁盘中仅设置一张，称为文件分配表(File Allocation Table，FAT)。可以顺序访问和随机访问。</li>
+</ul>
+</li>
+<li><strong>索引分配</strong>:在一个盘块内集合了多个记录,每个记录都有一个索引项,索引项中包含了记录的物理地址。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-30-41.png" alt="text">这种分配方法也不会产生外部碎片</li>
+<li><strong>混合索引分配</strong>:为了照顾大中小文件,把小文件的盘块地址直接放入FCB,中型文件采用需要先从 FCB 中找到该文件的索引表，从中获得该文件的盘块地址，即为一次间址。大文件采用两级或三级索引分配</li>
+</ul>
+</li>
+</ul>
+<h1 id="4-2目录"><a href="#4-2目录" class="headerlink" title="4.2目录"></a>4.2目录</h1><ul>
+<li>FCB 的有序集合称为文件目录，一个FCB就是一个文件目录项。</li>
+<li><strong>目录结构</strong>:<ul>
+<li><strong>单级目录结构</strong>:对多用户很不利,因为用户与用户之间也不允许文件重名<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-41-57.png" alt="text"><br></li>
+<li><strong>两级目录结构</strong>:虽然把用户分开了,但是缺乏灵活性,不能对文件进行分类<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-43-58.png" alt="text"><br></li>
+<li><strong>树形目录结构</strong>:也就是Windows的目录结构</li>
+<li><strong>无环图目录结构</strong>:在树的基础上进行改进,一个文件可以有多个父亲,虽然很灵活,但是管理复杂,有一个计数器,用来记录有多少个父亲,当计数器为0时,表示没有父亲,可以删除了<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-47-22.png" alt="text"></li>
+</ul>
+</li>
+<li>硬链接是基于索引节点的共享方式，文件的信息不放在目录中，而是放在索引节点中，多个目录项指向同一个索引节点。也是用一个count计数,当count为0时,才可以删除<br>软链接就是将到达共享文件的路径保存下来，当要访问文件时，根据路径寻找文件。硬链接的查找速度比软链接快。</li>
+<li>目录管理最基本的功能是按名存取<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-59-10.png" alt="text"></li>
+</ul>
+<h1 id="4-3文件系统"><a href="#4-3文件系统" class="headerlink" title="4.3文件系统"></a>4.3文件系统</h1><ul>
+<li><strong><a class="link" href="https://www.doubao.com/thread/ac4346e6e8dd6">文件系统结构<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_14-07-24.png" alt="text"></li>
+<li><strong>文件系统布局</strong>:<br><ul>
+<li><strong>主引导记录</strong>: 主引导记录是操作系统的引导程序，它位于磁盘的第一个扇区，用于引导操作系统。bios运行之后就到这个了</li>
+<li><strong>引导块</strong>: 引导块是操作系统的引导程序，它位于磁盘的第二个扇区，用于引导操作系统。每个分区都是统一从引导块开始</li>
+<li><strong>超级块</strong>: 超级块是文件系统的控制块，它位于磁盘的第三个扇区，用于存储文件系统的控制信息。</li>
+<li><strong><a class="link" href="https://www.doubao.com/thread/a576fe60b41ae">空闲块<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:空闲块是指那些当前没有被任何文件或目录占用的存储块。这些存储块可以用于存储新的文件数据、目录信息或者扩展现有文件的大小</li>
+</ul>
+</li>
+<li><strong>磁盘空闲空间的管理方法</strong>:<ul>
+<li><strong>空闲表法</strong>:每个空闲区对应一个空闲表项,其中包括表项序号、该空闲区的第一个空闲盘块号、空闲盘块数，然后再把所有空闲区按照起始盘块号递增的顺序排列<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-04-45.png" alt="text"><br>盘块回收的时候跟内存回收一样，相邻的空闲区合并成一个空闲区。然后更改表项</li>
+<li><strong>空闲链表法</strong>：<ol>
+<li><strong>空闲盘块链</strong>：将磁盘上的所有空闲空间以盘块为单位拉成一条链。但是这种方法会导致空闲盘块链很长</li>
+<li><strong>空闲盘区链</strong>：将磁盘上的所有空闲盘区拉成一条链，每个盘区包含若干相邻的盘块。这种方法虽然分配回收效率高，长度也比较短，但是分配回收的过程很复杂</li>
 </ol>
 </li>
-<li>通道：通道与 DMA 方式的区别是:DMA 方式需要 CPU 来控制传输的数据块大小、传输的内存位置，而通道方式中这些信息是由通道控制的。另外，每个DMA 控制器对应一台设备与内存传递数据，而一个通道可以控制多台设备与内存的数据交换。</li>
-</ul>
-</li>
-<li><strong>I/O软件层次结构</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_16-53-38.png" alt="text"><br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_17-02-36.png" alt="text"></li>
-<li><strong>I/O设备接口分类</strong>：<ul>
-<li><strong>字符设备接口</strong>：鼠标这种，没有地址，采用中断驱动方式，建议了一个字符缓冲区，读写都是对缓冲区进行</li>
-<li><strong>块设备接口</strong>：硬盘这种，有地址，采用DMA方式，</li>
-<li><strong>网络设备接口</strong>：许多操作系统提供的网络10 接口为网络套接字接口，套接字接口的系统调用使应用程序创建的本地套接字连接到远程应用程序创建的套接字，通过此连接发送和接收数据。</li>
-</ul>
-</li>
-<li><strong>阻塞I/O与非阻塞I/O</strong>：<ul>
-<li>阻塞I/O是指当用户进程调用I/O操作时,如果I/O操作没有完成,则用户进程会被阻塞,直到I/O操作完成。</li>
-<li>非阻塞I/O是指当用户进程调用I/O操作时,如果I/O操作没有完成,则用户进程可以做其他的事情，在这个阶段进程不断的询问I/O操作是否完成。</li>
-</ul>
-</li>
-</ul>
-<h1 id="5-2设备独立性软件"><a href="#5-2设备独立性软件" class="headerlink" title="5.2设备独立性软件"></a>5.2设备独立性软件</h1><ul>
-<li>磁盘高速缓冲技术用来提高磁盘的读写速度。逻辑上属于磁盘,物理上属于内存。有两种形式:<ul>
-<li>在内存中开辟一个单独的空间作为缓冲区,大小固定。</li>
-<li>将未利用的内存空间作为一个缓冲池,供请求分页系统和磁盘 I/O 时共享。</li>
-</ul>
-</li>
-<li><strong>单缓冲</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-21_09-22-40.png" alt="text"><br>必须等缓冲区满后才能从缓冲区取数据。T和C是可以并行的,所以就有单缓冲区处理每块数据的平均时间是Max(T,C)+M。<br>缓冲区是共享资源,所以需要互斥访问。</li>
-<li><strong>双缓冲</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-21_09-27-35.png" alt="text"><br>缓冲区1满了向缓冲区2输入,缓冲区2满了向缓冲区1输入,这样就可以并行的处理每块数据C和M是可以与T并行的。处理时间为Max(T,C+M)。</li>
-<li><strong>循环缓冲</strong>:跟数据结构中循环队列差不多。</li>
-<li><strong>缓冲池</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-21_09-39-22.png" alt="text"><br>管理了多个缓冲区,plus版</li>
-</ul>
-<h2 id="设备分配与回收"><a href="#设备分配与回收" class="headerlink" title="设备分配与回收"></a>设备分配与回收</h2><ul>
-<li>在系统中，可能存在多个通道，每个通道可以连接多个控制器，每个控制器可以连接多个物理设备。设备分配的数据结构要能体现出这种从属关系<ul>
-<li><strong>设备控制表</strong>(DCT): 每个物理设备对应一个设备控制表，用于记录设备的状态信息。</li>
-<li><strong>控制器控制表</strong>(COCT): 每个控制器对应一个控制器控制表，用于记录控制器的状态信息。每个控制器由一个通道控制。</li>
-<li><strong>通道控制表</strong>(CHCT): 每个通道对应一个通道控制表，用于记录通道的状态信息。</li>
-<li><strong>系统设备表</strong>(SDT):整个系统只有一张SDT，用于记录系统中所有设备的状态信息。每个物理设备对应一个表目。</li>
-</ul>
-</li>
-<li><strong>独占设备</strong>:将它分配给某个进程后，便由该进程独占，直至进程完成或释放该设备</li>
-<li><strong>共享设备</strong>:可将它同时分配给多个进程，需要合理调度各个进程访问该设备的先后次序。</li>
-<li><strong>虚拟设备</strong>属于共享设备。</li>
-<li><strong>设备分配步骤</strong>:<ul>
-<li>检查设备表，找到空闲设备,若忙的话,就把该进程的PCB挂载到等待队列</li>
-<li>分配控制器,根据DCT找到COCT,找到空闲控制器,若忙的话,就把该进程的PCB挂载到等待队列</li>
-<li>分配通道,根据COCT找到CHCT,找到空闲通道,若忙的话,就把该进程的PCB挂载到等待队列</li>
-</ul>
-</li>
-<li>为了实现设备的独立性，进程中应使用逻辑设备名来请求某类设备。但是，系统只识别物理设备名，因此在系统中需要配置一张<strong>逻辑设备表LUT</strong>，用于将逻辑设备名映射为物理设备名。<ul>
-<li>单用户系统中只设置一张LUT</li>
-<li>多用户系统中为每个用户设置一张LUT,同时在系统中配置系统设备表,所以不同的用户可以使用相同的逻辑设备名。</li>
-</ul>
-</li>
-<li>SPOOLing技术(假脱机技术)：将用户程序的输入和输出信息暂时保存在磁盘上，而不是直接送入打印机或从键盘上接收。将独占设备改造成共享设备，解决CPU和设备之间速度不匹配的问题。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-54-44.png" alt="alt text"><ul>
-<li><strong>输入井和输出井</strong>：在磁盘中开辟两个缓冲区,一个收容输入设备的数据,一个收容用户程序输出的数据。</li>
-<li><strong>输入缓冲区和输出缓冲区</strong>：在内存中开辟两个缓冲区,一个收容输入井的数据,一个收容输出井的数据。<blockquote>
-<p>真奇怪，输出数据先输出到输出井（在磁盘上），然后再输出到输出缓冲区（在内存上），然后再输出到打印机。</p>
-<blockquote>
-<p>输出程序-&gt;输出井（磁盘）-&gt;输出缓冲区（内存）-&gt;打印机<br>我感觉输出到输出井的时候肯定经过了内存，但是那块内存不叫输出缓冲区</p>
-</blockquote>
+<li><strong>位示图法</strong>：使用一个位示图来表示磁盘上的空闲空间。位示图是一个位向量，其中每个位表示一个盘块的状态。如果一个盘块是空闲的，那么对应的位就被置为1，否则就被置为0。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-13-55.png" alt="text"><blockquote>
+<p>这种方法有的从0开始编号，有的从1开始编号，很简单，就是把盘块号按写字的顺序一位一位对照起来</p>
 </blockquote>
 </li>
+<li><strong>成组链接法</strong>：前两种方法都不适应大型文件系统，所以UNIX使用的是成组链接法，我不明白这种方法是咋弄着嘞，看不懂，<a class="link" href="https://blog.csdn.net/qq_45744501/article/details/116953538">参考这个<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
 </ul>
 </li>
-<li><strong>设备驱动程序</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-04-25.png" alt="alt text"><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-05-04.png" alt="alt text"></li>
-</ul>
-<h1 id="5-3磁盘和固态硬盘"><a href="#5-3磁盘和固态硬盘" class="headerlink" title="5.3磁盘和固态硬盘"></a>5.3磁盘和固态硬盘</h1><ul>
-<li>之前的磁盘内外磁道的扇区数是相同的，但是现在为了提高磁盘的存储容量，把盘面划分为了若干个环带，同一环带内的所有磁道具有相同的扇区数</li>
-<li>磁盘地址用“柱面号、盘面号、扇区号”来表示。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-11-14.png" alt="text"><blockquote>
-<p>柱面号也就是磁道号</p>
-</blockquote>
-</li>
-<li><strong>新磁盘安装操作系统的过程</strong>：<ol>
-<li><strong>磁盘初始化</strong>也就是低级格式化（物理格式化），把空白的磁盘分成扇区，能进行读写操作</li>
-<li><strong>分区</strong>：</li>
-</ol>
-<ul>
-<li><strong>将磁盘分区</strong>，也就是C盘D盘这样，每个分区的起始扇区和大小都记录在磁盘主引导记录的分区表中。</li>
-<li><strong>高级格式化</strong>（逻辑格式化）：将初始文件系统数据结构存储到磁盘上，这些数据结构包括空闲空间和已分配空间，以及一个初始为空的目录，建立根目录、对保存空闲磁盘块信息的数据结构进行初始化。<blockquote>
-<p>扇区的单位太小，所以操作系统将多个相邻的扇区组合在一起，形成一簇(在Linux 中称为块)。为了更高效地管理磁盘，一簇只能存放一个文件的内容，文件所占用的空间只能是簇的整数倍;如果文件大小小于一簇(甚至是0字节)，也要占用一簇的空间。</p>
-</blockquote>
-</li>
-<li><strong>引导块</strong>：BI/OS有一小部分自举装入程序，然后接力到MBR，MBR再接力到引导分区</li>
-<li><strong>坏块</strong>：其实就是用某种机制使系统不去使用坏块。</li>
-</ul>
-</li>
-<li><strong>磁盘的存取时间</strong>：寻道时间+旋转到特定扇区的时间+传输时间（也就是扫描这个扇区的时间）</li>
-<li><strong>磁盘调度算法</strong>：<ul>
-<li>先来先服务算法(FCFS)</li>
-<li>最短寻道时间优先（SSTF）：选择与当前磁头所在磁道距离最近的磁道；这个可能会让磁头一直在小范围内移动，会造成及饥饿现象。</li>
-<li>扫描算法（SCAN）：磁头从一个磁道向另一个磁道移动，直到到达最外磁道。</li>
-<li>循环扫描（C-CSAN）：磁头从一个磁道向另一个磁道移动，直到到达最外磁道，然后再向一个磁道移动，直到到达最内磁道。</li>
-</ul>
-</li>
-<li><strong>减少延迟时间的方法</strong>：磁盘是连续自转设备，磁头读入一个扇区后，需要经过短暂的处理时间，才能开始读入下一个扇区。若逻辑上相邻的块在物理上也相邻，则读入几个连续的逻辑块可能需要很长的延迟时间。为此，可对一个盘面的扇区进行交替编号，即让逻辑上相邻的块物理上保持一定的间隔，于是读入多个连续块时能够减少延迟时间。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-51-06.png" alt="text"></li>
-<li><strong>改善磁盘I/O性能的方法</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-52-29.png" alt="text"><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_16-53-07.png" alt="text"></li>
-<li>固态硬盘：<ul>
-<li>和U盘没有本质区别，只是容量大，存取性能更好。<br>随机写很慢，因为擦除块比较慢，通常比访问页高一个数量级。其次，如果写操作试图修改一个包含已有数据的页P，那么这个块中所有含有用数据的页都必须被复制到一个新(擦除过的)块中，然后才能进行对页P的写操作。</li>
-<li><strong>磨损均衡</strong>：<ul>
-<li><strong>动态磨损均衡</strong>：写入数据时，自动选择较新的闪存块。</li>
-<li><strong>静态磨损均衡</strong>：SSD也会监测并自动进行数据分配，让老的闪存块承担无须写数据的存储任务，同时让较新的闪存块腾出空间，平常的读/写操作在较新的闪存块中进行。</li>
-</ul>
-</li>
-</ul>
-</li>
+<li></li>
 </ul>
 ]]></content>
       <categories>
         <category>计算机操作系统</category>
-        <category>I/O管理</category>
+        <category>文件管理</category>
       </categories>
       <tags>
         <tag>计算机408</tag>
@@ -1161,92 +1238,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>文件管理</title>
-    <url>/2024/12/17/2024-12-17-%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/</url>
-    <content><![CDATA[<h1 id="4-1文件系统基础"><a href="#4-1文件系统基础" class="headerlink" title="4.1文件系统基础"></a>4.1文件系统基础</h1><ul>
-<li>文件控制块(File Control Block，FCB)是用来存放控制文件需要的各种信息的数据结构，<strong>以实现按名存取</strong>。文件与 FCB 一一对应。</li>
-<li>文件很多的时候,文件目录会占用很多的盘块,在查找目录的时候会把第一个盘块调入内存,然后用给定的文件名逐一比较,但是在这个过程中只用到了文件名,其他的信息都没有用,只有找到对应的文件才把对应的目录项调入内存,这样会浪费很多时间,所以需要把目录项调入内存,这样就可以直接比较文件名了,这就是索引文件。</li>
-<li><strong>文件打开的过程</strong>:用户对一个文件多次读写时,为了避免多次重复地检索目录,先利用系统调用open打开文件,系统维护一个打开文件表。打开的同时系统会给用户一个文件描述符(索引号),用户再次打开这个文件时,通过文件描述符来访问这个文件。文件不用时,系统调用close关闭文件,系统会回收这个文件描述符,从打开文件表中删除这个表目录。</li>
-<li><strong>文件关闭过程</strong>:在操作系统中，当文件不再使用时，会利用系统调用close来关闭文件。关闭文件时，会删除单个进程的打开文件表中的相应条目，系统表中的相应打开计数器（Open Count）也会递减。当打开计数器为0时，表示该文件不再被使用，并且可以从系统表中删除相应条目。</li>
-<li>只要完成了文件打开 open()系统调用，后面再使用 read()、write()、Lseek()、close()等文件操作的系统调用，就不再使用文件名，而使用文件描述符。</li>
-<li><strong>文件的逻辑结构</strong>:<ul>
-<li><strong>无结构文件(流式文件)</strong>:无结构文件是最简单的文件组织形式，由字符流构成，长度以字节为单位。访问流式文件通过读/写指针来定位字节。系统中的源程序、可执行文件、库函数等多采用无结构文件，但由于其无结构，记录访问只能通过穷举搜索，因此对很多应用不适用。</li>
-<li><strong>有结构文件(记录式文件)</strong>:<br><br> <strong>定长记录</strong>: 定长记录是指每个记录的长度相等，每个记录的结构是相同的。定长记录的优点是存取速度快，缺点是浪费存储空间。<br><br> <strong>不定长记录</strong>: 不定长记录是指每个记录的长度不等，每个记录的结构也不相同。不定长记录的优点是存储空间利用率高，缺点是存取速度慢。<ul>
-<li>顺序文件：顺序文件是指文件中的记录按照物理顺序存储，每个记录的物理地址与其逻辑地址相同。对于定长记录的顺序文件的优点是检索时可以用折半查找,查找速度快，缺点是插入和删除记录时需要移动大量记录。</li>
-<li>索引文件:配了一张索引表,每个文件都有一个索引项</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>文件的物理结构</strong>:<ul>
-<li><strong>连续分配</strong>: 连续分配是指将文件的所有记录存储在连续的物理块中。支持顺序访问和随机访问,但是会有外部碎片</li>
-<li><strong>链式分配</strong>:消除了外部碎片,修改插入也很方便<ul>
-<li>隐式链接: 隐式链接是指在文件的每个记录中增加一个指针域，指向下一个记录的盘块号。只能用于顺序访问。</li>
-<li>显式链接: 显式链接是指将用于链接文件各物理块的指针，显式地存放在内存的一张链接表中，该表在整个磁盘中仅设置一张，称为文件分配表(File Allocation Table，FAT)。可以顺序访问和随机访问。</li>
-</ul>
-</li>
-<li><strong>索引分配</strong>:在一个盘块内集合了多个记录,每个记录都有一个索引项,索引项中包含了记录的物理地址。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-30-41.png" alt="text">这种分配方法也不会产生外部碎片</li>
-<li><strong>混合索引分配</strong>:为了照顾大中小文件,把小文件的盘块地址直接放入FCB,中型文件采用需要先从 FCB 中找到该文件的索引表，从中获得该文件的盘块地址，即为一次间址。大文件采用两级或三级索引分配</li>
-</ul>
-</li>
-</ul>
-<h1 id="4-2目录"><a href="#4-2目录" class="headerlink" title="4.2目录"></a>4.2目录</h1><ul>
-<li>FCB 的有序集合称为文件目录，一个FCB就是一个文件目录项。</li>
-<li><strong>目录结构</strong>:<ul>
-<li><strong>单级目录结构</strong>:对多用户很不利,因为用户与用户之间也不允许文件重名<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-41-57.png" alt="text"><br></li>
-<li><strong>两级目录结构</strong>:虽然把用户分开了,但是缺乏灵活性,不能对文件进行分类<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-43-58.png" alt="text"><br></li>
-<li><strong>树形目录结构</strong>:也就是Windows的目录结构</li>
-<li><strong>无环图目录结构</strong>:在树的基础上进行改进,一个文件可以有多个父亲,虽然很灵活,但是管理复杂,有一个计数器,用来记录有多少个父亲,当计数器为0时,表示没有父亲,可以删除了<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-47-22.png" alt="text"></li>
-</ul>
-</li>
-<li>硬链接是基于索引节点的共享方式，文件的信息不放在目录中，而是放在索引节点中，多个目录项指向同一个索引节点。也是用一个count计数,当count为0时,才可以删除<br>软链接就是将到达共享文件的路径保存下来，当要访问文件时，根据路径寻找文件。硬链接的查找速度比软链接快。</li>
-<li>目录管理最基本的功能是按名存取<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-59-10.png" alt="text"></li>
-</ul>
-<h1 id="4-3文件系统"><a href="#4-3文件系统" class="headerlink" title="4.3文件系统"></a>4.3文件系统</h1><ul>
-<li><strong><a class="link" href="https://www.doubao.com/thread/ac4346e6e8dd6">文件系统结构<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_14-07-24.png" alt="text"></li>
-<li><strong>文件系统布局</strong>:<br><ul>
-<li><strong>主引导记录</strong>: 主引导记录是操作系统的引导程序，它位于磁盘的第一个扇区，用于引导操作系统。bios运行之后就到这个了</li>
-<li><strong>引导块</strong>: 引导块是操作系统的引导程序，它位于磁盘的第二个扇区，用于引导操作系统。每个分区都是统一从引导块开始</li>
-<li><strong>超级块</strong>: 超级块是文件系统的控制块，它位于磁盘的第三个扇区，用于存储文件系统的控制信息。</li>
-<li><strong><a class="link" href="https://www.doubao.com/thread/a576fe60b41ae">空闲块<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:空闲块是指那些当前没有被任何文件或目录占用的存储块。这些存储块可以用于存储新的文件数据、目录信息或者扩展现有文件的大小</li>
-</ul>
-</li>
-<li><strong>磁盘空闲空间的管理方法</strong>:<ul>
-<li><strong>空闲表法</strong>:每个空闲区对应一个空闲表项,其中包括表项序号、该空闲区的第一个空闲盘块号、空闲盘块数，然后再把所有空闲区按照起始盘块号递增的顺序排列<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-04-45.png" alt="text"><br>盘块回收的时候跟内存回收一样，相邻的空闲区合并成一个空闲区。然后更改表项</li>
-<li><strong>空闲链表法</strong>：<ol>
-<li><strong>空闲盘块链</strong>：将磁盘上的所有空闲空间以盘块为单位拉成一条链。但是这种方法会导致空闲盘块链很长</li>
-<li><strong>空闲盘区链</strong>：将磁盘上的所有空闲盘区拉成一条链，每个盘区包含若干相邻的盘块。这种方法虽然分配回收效率高，长度也比较短，但是分配回收的过程很复杂</li>
-</ol>
-</li>
-<li><strong>位示图法</strong>：使用一个位示图来表示磁盘上的空闲空间。位示图是一个位向量，其中每个位表示一个盘块的状态。如果一个盘块是空闲的，那么对应的位就被置为1，否则就被置为0。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-13-55.png" alt="text"><blockquote>
-<p>这种方法有的从0开始编号，有的从1开始编号，很简单，就是把盘块号按写字的顺序一位一位对照起来</p>
-</blockquote>
-</li>
-<li><strong>成组链接法</strong>：前两种方法都不适应大型文件系统，所以UNIX使用的是成组链接法，我不明白这种方法是咋弄着嘞，看不懂，<a class="link" href="https://blog.csdn.net/qq_45744501/article/details/116953538">参考这个<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
-</ul>
-</li>
-<li></li>
-</ul>
-]]></content>
-      <categories>
-        <category>计算机操作系统</category>
-        <category>文件管理</category>
-      </categories>
-      <tags>
-        <tag>计算机408</tag>
-        <tag>计算机操作系统</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杂记</title>
-    <url>/2024/03/28/2024-3-28-%E5%BF%86%E5%85%AB%E5%8D%81%E4%BA%BA%E7%94%9F/</url>
-    <content><![CDATA[<p><strong>@峥峥名车汇</strong>：我已八十了，看见6岁的自己，在田野里跌倒，弄脏了衣服，弄丢了玩具，惊慌又失措。我想告诉他，没关系，成长的路慢慢来。<br><br><br>我已八十了，看在12岁的自己翻山徒步去教室上课，没有新书包、没有新鞋子，自卑又尴尬。我想告诉他，别怯懦，嘲笑的人与你的人生本就是平行线，日后不会相交。<br><br><br>我已八十了，看见18岁的自己，没考上一本，面对昏暗的大学，失落又无奈。我想告诉他，要坚持，一时失败不代表节节败退，日后的你也会快乐精彩。<br><br><br>我已八十了，看见24岁的自己，独自躺在手术台，害怕又担忧。我想告诉他，别担心会过去，生活会继续<br><br><br>我已八十了，看见34岁的自己，一事无成，未婚未育，迷茫又无助。我想告诉他，别内疚，成家立业不是每个人的必经之路，坚定内心选择也不会怎么样。<br><br><br>我已八十了，看见50岁的自己，看见父母离去，无助又迷茫，我想告诉他，人生就是一个人，离开自己看本我，无所谓聚散离合。<br><br><br>我已八十了，看见80岁的自己，生命如风中烛光摇摇曳曳，膝下无子，爱人离去，平静又慈祥。我想告诉我自己，这一生你已足够幸运，足够努力，无需任何人评价。人生就是看见自己的过程，我看见我自己的一生，惊慌的、怯懦的、失落的、内疚的、最后释然的离开。</p>
-]]></content>
-      <tags>
-        <tag>评论笔记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>三体笔记</title>
     <url>/2024/03/28/2024-3-28-%E4%B8%89%E4%BD%93%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<ul>
@@ -1256,6 +1247,41 @@ import {initHBE} from "/js/plugins/hbe.js";
 ]]></content>
       <tags>
         <tag>三体</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日记</title>
+    <url>/2024/03/28/2024-3-28-%E5%81%87%E5%A6%82%E6%88%91%E9%9D%9E%E6%88%91/</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="ebb562d6867eb06dec0363dc213d8ae21512c9856d46b7efca7c7a8ee9908ec7">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367e98022a39ab29962c777f5319f7acaf2f958a15522f42427c85885cebdd50bdb821b10c46703e458b587925a483e3e36782cc5eda6bb3f558ed23252f64cc7a51e9847b5afb61b533709ae3cc93c830a7a754ea90383b3269c6b7acbc2133241fedcc540ae05941361af842177345da7d9284db4d9f8f8f2ef563c68270fc64a140837e852358ce268f899e30d6c61b42c9fd3ff487f7977f857bb5c8e6429292bb35f2f7d1e20ecbfb1e5992a81af9c3a6b6049510c389fe6fcb3986bb93b2b3fce382e1a56fbd0baffea681ad901bcac9787a643dbdea42517b8df6198ecf516f876685e052eb14840e560d3afb8409bb09c56d192cd6fd4633fde748f4ab76196a97217312a629318c275ca206d02d76ce67b31876d63060140141583dc2b4fa31f24ca5c8ba0e841908a39ce5fd37daef14a728fd0105726941e43ad8d85e706d1190450d4fea95c6512d46fe7cd491ed30ac94528938232134f575562c43f40d50f06ddd34ed809be6454d6113c8e8f573d2e1d522de16b61cd135e0727b00753742e10114b793cc3f099f5a96c59d4805ae76a5f71b26698bc18659df87c5e85165ef4eca20be3a2dd1bc8fb256a64b6ed603ecf72262f89cead105d14b8f129a113662b27551955bc31475b4dc2e4810f953ec700d48bae44a84bef6b685ef9393cafde20b9a6d8e75822c012c85fe62f1fca4c62924b0e3d65c1c1233894823341edc138266117d6421d4e70343be1a8555c3965b5f8d5b779f033f1c166a9c9824ce636a5c8813e3a1ddbddbc65f6cacb1bcc3e0cbae3193176c9e3bd9d683ca7c9ff190148081d460620ad0a0e614783502d566421c744ef7b8387ed7bd23460a3c8e47adfa7f924143d4eceea06889dc21ea5f09e5c3e2274da846d178a97a771f204bae9ffccb73b3c40d1ad73656e1dc2f269256c3dc8deea543654afc82b9498f48ef27abdcb83693a7de5a7062e3f9cdf1ba61cb776382359562f50472f7d2a35dba969c320ba8b00f2a3b2238924c0b1d134c50bfc4924f16f2aa5b46ee3ac4639972e94e58a813fcb57426594c352541fd524460fbf89d196890e284e8fc78e26b27c7a032a337c0f19862f286b8f5b42eb4941409bf5817931281bce5b2a71e833e1b6d50ecae27946f9351f2fecca0f0aea9ad2f10f53f2969be434e9537b07e689096873196d41837eb53eb8366e7ae9e2390cacc0c6d8b907b5ce8779175cc25f06e4aa8eba246d98c0323d329c280f4cbc05ae087867a7830d0fd27c54d6ff690dfb111634ec470569a5811541a7e9df318d2028002033e554568ad83f7c75a021d207ddd3f1ee1d7f5ee22136aa2713ffeff9008ecc05821f410c11ce9d62b04719c74ef310c2a7b001c62eb911b536a68e2dda142de4a083ab8366ad731f69a0b38049c074a2d3cd37e6dbb834b89f3acc783c6856c68a14e4ec12f7d14638d9d044527ba78561ee7530c4e7ab1896bc5d360358dfc381d8c8a6f3e15c38cb70330361505b92bc292a6a38cd3b348f52481d48f0b87ddfbf1b2e3307cc739ed1f590a1417c0b40e5bdcaa6a204faa897a609b36d99fd21a56f322902ad709fc82a8f8160</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杂记</title>
+    <url>/2024/03/28/2024-3-28-%E5%BF%86%E5%85%AB%E5%8D%81%E4%BA%BA%E7%94%9F/</url>
+    <content><![CDATA[<p><strong>@峥峥名车汇</strong>：我已八十了，看见6岁的自己，在田野里跌倒，弄脏了衣服，弄丢了玩具，惊慌又失措。我想告诉他，没关系，成长的路慢慢来。<br><br><br>我已八十了，看在12岁的自己翻山徒步去教室上课，没有新书包、没有新鞋子，自卑又尴尬。我想告诉他，别怯懦，嘲笑的人与你的人生本就是平行线，日后不会相交。<br><br><br>我已八十了，看见18岁的自己，没考上一本，面对昏暗的大学，失落又无奈。我想告诉他，要坚持，一时失败不代表节节败退，日后的你也会快乐精彩。<br><br><br>我已八十了，看见24岁的自己，独自躺在手术台，害怕又担忧。我想告诉他，别担心会过去，生活会继续<br><br><br>我已八十了，看见34岁的自己，一事无成，未婚未育，迷茫又无助。我想告诉他，别内疚，成家立业不是每个人的必经之路，坚定内心选择也不会怎么样。<br><br><br>我已八十了，看见50岁的自己，看见父母离去，无助又迷茫，我想告诉他，人生就是一个人，离开自己看本我，无所谓聚散离合。<br><br><br>我已八十了，看见80岁的自己，生命如风中烛光摇摇曳曳，膝下无子，爱人离去，平静又慈祥。我想告诉我自己，这一生你已足够幸运，足够努力，无需任何人评价。人生就是看见自己的过程，我看见我自己的一生，惊慌的、怯懦的、失落的、内疚的、最后释然的离开。</p>
+]]></content>
+      <tags>
+        <tag>评论笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -1286,10 +1312,10 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/2024/03/28/2024-3-28-%E5%81%87%E5%A6%82%E6%88%91%E9%9D%9E%E6%88%91/</url>
+    <url>/2024/03/28/2024-3-28-%E8%87%B4%E8%80%81%E5%B8%88/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="ebb562d6867eb06dec0363dc213d8ae21512c9856d46b7efca7c7a8ee9908ec7">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367e98022a39ab29962c777f5319f7acaf2f958a15522f42427c85885cebdd50bdb821b10c46703e458b587925a483e3e36782cc5eda6bb3f558ed23252f64cc7a51e9847b5afb61b533709ae3cc93c830a7a754ea90383b3269c6b7acbc2133241fedcc540ae05941361af842177345da7d9284db4d9f8f8f2ef563c68270fc64a140837e852358ce268f899e30d6c61b42c9fd3ff487f7977f857bb5c8e6429292bb35f2f7d1e20ecbfb1e5992a81af9c3a6b6049510c389fe6fcb3986bb93b2b3fce382e1a56fbd0baffea681ad901bcac9787a643dbdea42517b8df6198ecf516f876685e052eb14840e560d3afb8409bb09c56d192cd6fd4633fde748f4ab76196a97217312a629318c275ca206d02d76ce67b31876d63060140141583dc2b4fa31f24ca5c8ba0e841908a39ce5fd37daef14a728fd0105726941e43ad8d85e706d1190450d4fea95c6512d46fe7cd491ed30ac94528938232134f575562c43f40d50f06ddd34ed809be6454d6113c8e8f573d2e1d522de16b61cd135e0727b00753742e10114b793cc3f099f5a96c59d4805ae76a5f71b26698bc18659df87c5e85165ef4eca20be3a2dd1bc8fb256a64b6ed603ecf72262f89cead105d14b8f129a113662b27551955bc31475b4dc2e4810f953ec700d48bae44a84bef6b685ef9393cafde20b9a6d8e75822c012c85fe62f1fca4c62924b0e3d65c1c1233894823341edc138266117d6421d4e70343be1a8555c3965b5f8d5b779f033f1c166a9c9824ce636a5c8813e3a1ddbddbc65f6cacb1bcc3e0cbae3193176c9e3bd9d683ca7c9ff190148081d460620ad0a0e614783502d566421c744ef7b8387ed7bd23460a3c8e47adfa7f924143d4eceea06889dc21ea5f09e5c3e2274da846d178a97a771f204bae9ffccb73b3c40d1ad73656e1dc2f269256c3dc8deea543654afc82b9498f48ef27abdcb83693a7de5a7062e3f9cdf1ba61cb776382359562f50472f7d2a35dba969c320ba8b00f2a3b2238924c0b1d134c50bfc4924f16f2aa5b46ee3ac4639972e94e58a813fcb57426594c352541fd524460fbf89d196890e284e8fc78e26b27c7a032a337c0f19862f286b8f5b42eb4941409bf5817931281bce5b2a71e833e1b6d50ecae27946f9351f2fecca0f0aea9ad2f10f53f2969be434e9537b07e689096873196d41837eb53eb8366e7ae9e2390cacc0c6d8b907b5ce8779175cc25f06e4aa8eba246d98c0323d329c280f4cbc05ae087867a7830d0fd27c54d6ff690dfb111634ec470569a5811541a7e9df318d2028002033e554568ad83f7c75a021d207ddd3f1ee1d7f5ee22136aa2713ffeff9008ecc05821f410c11ce9d62b04719c74ef310c2a7b001c62eb911b536a68e2dda142de4a083ab8366ad731f69a0b38049c074a2d3cd37e6dbb834b89f3acc783c6856c68a14e4ec12f7d14638d9d044527ba78561ee7530c4e7ab1896bc5d360358dfc381d8c8a6f3e15c38cb70330361505b92bc292a6a38cd3b348f52481d48f0b87ddfbf1b2e3307cc739ed1f590a1417c0b40e5bdcaa6a204faa897a609b36d99fd21a56f322902ad709fc82a8f8160</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="a4f46903de753f829db8478e40c4b21089e46273161dc9e03c35dc97503e723b">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367a137ea0f940c897349cdcb2a213d524e95ed5dbc19e41ff24630ea417a647ff20e8435eb0c132c442ae3e41660bf8fd80cf367d5a74f626b3b4bd36866dd7870527a70f07c6b037422483860feedeea1c01351abd66533ce4b5cf8dbb1ac756cab64c9f02c01c7caa8d50f69997b2b9ba2de59b20fd43a2a18c6423ee3ae4b79fed05c3a723d51bc7220a2ea60ee437d7c0f536c31f64497d8d2254aedc4f015a2fc5081dfc074c05b30c9b544ec8d047165f5a3f6dca74f33290d4bc05fea581c6f9b1e54533e748fd6a496a1422e796dced37ea44978a5734c52b50c0851978d833e742315e963e004cbebf932c7d98504befa2aa85bd7fe735a82b2c7e4a34b8927c93d67b8e8540059b6f180f931e90582ccd3149cc08718a69be33dee5d0d4ac7aaebf41c5e93bf22984cc25f728e45deaaf5cd251f57ebfa83cf5cc70829a18286e0eff7eee8f363c3807d40e7e185e49c9f971892f373abe7ad762906b0cb020ae134b4f88cd4dca6f3c726f007c7c0ebe6e9390962ab369fac9748b257e8a08e78f86a953a5581e4614e297677e6ef7596863e6ce445f749f6a19d4c4ab9e06c0449ea320482d2241240f068f43a75b7ada14d134c6c8a7747ccc5b704a16055745aed30775a9ad6d59e82efc314040f181fd9934d35eb46c09729498759cf23dafabe3503ffaba29a269791002c317f088b1d60a389270ebcb3f9933087bdcb607b7b4bcf020a4839494721916db2600349b581a3c271b94cfc0acc9172cdd0f502d27af9d1b4ff12cca2f0442c469ccf50a2c42f25acec34b2b25987815c524cd7fdc31798a008b1c77d1f28257e5a39083eec695b50850d7f34e3e8f5b77ba121549a48180cd90738051e2c74f6f3018b9d665577c78272822ea32baa1253b105536c39ee6c49223f4320e4d2aca32d6790037999a34368eef01f3aeba32ef411f6b37627cdf03c0cb3b2f0493109eae636b264429c52e41221f3d76b4963a1cd81f3ca1c2000b30e408c6132e4dc5015772949d8e236016d1293e4156a65e413c715031d400020de8362c9e9d5ca350b515848accf561bf05ae2271518964783cd0e0bcc92544c8705981fa5862b184e15834a9c1d2e8d2b72d0f3425b3a620f61928e543c06a66712b24b900c9c9479a78e1a21915ae8c8c764d2a2bc259808d7659ce61c107b991762e1f3dc99436d38652c0c9ed93eb0b36a929f01abb3c4bba020d988f61ed3c283ff4d00c953adf7808bc1e5fa585a22d51a3f27e28d78cf090110d180e805c49c9582e2d01f5f451f0a3863cc0a504b7c0e23e9db8acebc681b5f1084afb0ff0de633df1bf363aea8d21f52332b8989e99f3d93405508f373a5bfd78729066aba0ec8c008b962984671f5d0755bfb62aa922b841b71680cf82502ffb18ee8033fc1e8a774c779a09944a295118990aa7ef1c9d9b8f93dd0e79ba3643e0b6d538707edd71b1546f88eacf918d6ca28f45d807cb28743b5ac001c9ca8efa9bcb4e3e6c8cb1d0709f86d3726ba99ccff457aa670f26ccf7164c1bc880c31c551727739bdc79a66618d2b52fa922515a1bc4d91a8fa54e34ada99b9bc6c859e6e715c507b62442d266c3f1ea0c5ab53baedc65e768404933d1511dc60ca59019ac5d5fdeb7f12d8f2a249bd6f5be4e2c3aae3b77d77402fe13afb86006d664689064a831d120064f30676d5d75a4fcfb468e7b28aec4d64b557bfb426e0c51b6ce419bbab8e0ebf9e9cbf50b4a03e5b601cde6033860fd82869202d89fa04fddec6fab49cf33ca166de7cc48f1bcdfedff272be9bc28e913318a5c3b2a4258a42f2f0c7264be696e73b3114c92acde91e8360c4f52582eead3de157dd8f93c28e8564ef98aa70dfa853b81bb16f9be267df31eb654d6ee32aa2c8736eb89146d2d9f16900bb1240dfc365544486c2f3de01d73bc5c9ac776c846e8b5db0fedc40f6dd1471aa3c363d847584bd5c8636b02a3b1bc963a887fc8c7efcae85af3d25445a23fe41c3a3111ae02300378ff76eade9e736a9791f0050fb0b16d7eb0ed4b566f1b970538161383646f5278392da34119e85be4b0aec9c451140cb670df75621ebe2b48e2cccc107101cf71a14f9d6c2ad9a24738296ba54539dbe9c065980e2b19e383164748a015450dc6bf09a3274390198bbecf987300765e14b4d1830e43bc3f01ba2edf3203c2466a8943847163375da69f2d0cf07f4294577acb1b8e66005c7d6864c144f2c4cfba771e959b1128a4a0fdf2b5683d09d0fb61971071c3ed7187e274eea08de48adf927a9b6b580d24c5d9c8b32fcaa57badf0b7b6ff5c1e011e0efffb2827cb2871a8e9c2212eb3c108936e16773dc2fba9640ef4fb366449b697e05ddf10d5a66e02a989ffa87592e228c1854d8b06caf378130d6713a0a37887febb0b7c152c9f97a2a98c32dd545836f454a112e2e47c6992010430a42c75d46b5cb02a13bc69ce505eef411de3ca0ae86802f7b95fa210ec01bba2f7645a811c40bcf9678fde2ecdcab5592e5116ce1124be5d423b0c55ad2526c6ab3e7909aeb636d9dd2c575fcea6f4c8948d13d5f6ce9aea182927943169c563e6cbf57129dde334a05cfface3975933462e3220126199c043b033b00f34548c94b4e251e328e2015d55905d84be6ea35f844e0fd46d1dfdfc19c6f0c5b3e5834a8f222773b9ac33ada7a3cd49f6caec27ae349a71752a4cc7e37a3847931909e222c17f0e182a3cb596a8284b4d8f268a1aa9ec0f73e519c6d431fbb7f52e122be82894c68f875889db4a713e20c692465a5f9dea5b50273f66977c2e328fa36fb3964a70a901e261e13280e863cc6dffd1385b62e979114009aeb260411ebd4ff70ed9899d5eba4d172e8a85b2dbfd29ad5e698d4eceaa84b45ada5b38937db5d2dcbe07e131fb6b769d1565d12fb432cb787fccd89bad2b6bc79ba09dd4b80c33f195678cb7cb7b75cc3b65a60d2c145f9fe70e4168943d491fb1e3963811d5e74df567fde4ab5e8e263a69ae210eda73d1b697e273f6de3d6d15d570569fb48002ec07ce8c25cdb2729f2dda7e92a7409ffc3c14ec71464f01d4b887d8119fc974ae50b65c6072cac5d30dff255e5e97b86113071d1ea4746eb1e51c698fb1393b68baf749307bfda8e6c35451f42b6977e1c3e0693a4b58ee3e872062332c104a1919a63cbf8565a31b7e0ac7448cc99b38714191322547b5b7304c59914919b0a9e64b8de46defcbd6a97b787938dd974e6d3fcc31bc46488fb63af2bbc64171e147900933cce696cb6b90d2a0b779eb714eba29fce830cd2f75be99463a0da9528e24fcdf1a880c167a966d53b7173c72fffb1e86604db9fd4bc5e9dfe1160f2f6328d4cb070177643ff0518e311fa75d19193880c4cc6630ddc6cde7dd0218a3f200bc3d7b68325e83831f3f5f47cb5ad1f6f2531b80f4cef900fe01cc5d8d06dbae9e752e81478fda7f9d3acf5c020edd3a224df6a19c3fa49039531efd9dcd88012c0a63a5fa9135f3cb3d72cc1687eb0ac656dee7f67c4d5996b1ae9e765738ba35bc8fcfde54c055ea4830ed62a6d28f877dca6375aed8af37ae2c6945d5a926fc2b15a675d6fcbb9c4b26703ae695c64f1599f0460af61ec5025593f40fb3afbd90b18aa846c56dd18eaf7654a6382cdca5193388824162bdb36df2cbee665ce3f5b305f5b851b4abefb1cf5aad026b8d61d2dc79cd864e924dd8eaa748eac03cf26fd9992e5846dcfa9d42323e7c95b584a7fa8646f27d1ff42a00c77b4ccb959d5b73c09f1e90d581edcbda87ab0fe455b9bb002e3ce098fc4374e1be8a8fc40e4a98fa17ca0767875b0512b7d0829dc2c61469dd6b48f1d0f76a8664b201e91f3be9ff2fa7f732af278f9a43c3fc6997ca7ad24270d81bfc0a9e285c7ecd42293d942b3655d8135b1f94093b7cd55f25cac2602f4a3330452459f4e9c69a2132d2786387a47e0f5df8a803c5c67ce85527029600b95260bb8e6f09104a959c224f45cd936b211d73a3949d91cf68fba830a27d78e1dbb9e1a07db5be20d4fb64d5bd6500880b93f91ff72217f3d32993b22e697677ffadde74f2ec33b4756cca32c04f3da72d8b563b0ace35859aaae15687ed3bebe143228371cea41c02187922a3c2153fe5d37f7345c382a940acfeaa3241db3828cf2c90438670bae6e4e016a1b69641a892f186c7747832f02cf2185ada00752fdd1a27e7ac7f0ae80f6079901463b17a30fc42ce2d22d9eb646b455fed780157def944f92e417961754bcbda3b16c5c43e38b70a73f48dd786187ae6305a86e622390c3e4bc48d638b1f1322145b2c33400f6c48bbc2b26d5330edb1d1f7295b282f87f38ca211789eb02c53ba6f11eac1b6b245dc7b52026a0641c33643e8a867098360bd9b374ee32077e6ecc12c60c3de7c879b80d359e8d5d250132dbbad6fff95801b0bc61e42005f8cb61edffdc042187dd2137f7bab6b22a9f4353c28af263243dc4311fc2ffacce65291720f0241bd40fcfae21831f268227a312e4faec2eb2cfcc840bbf40fb0db7f7da66825eb84e61d8166f29bca36dfe1d819696ef36adc53ce21c8c50032e5c5117091379325e9dc869146254eb17b1ebb6fb9eb27f615c9ac2c04a9184ec76016dffc30014be42a4e08d17878b99393b37bd8a8ab6a373f3dc805f3d8d0cd99e2b752472000bec0da34e6bd813043b760321d31c81957515e86b472ed7d0f2c8d96fc92fabd5ce771cee1c1117766fdcadcf154704afe6599d1ba660760df71ce55bcede787a486734360aec20ce50d3ed760c53c555c2788acc48bf1f5147d6ccd8c2a5ef7bd0a1a3b81d282249a72c81d956c80137a592805b992f288a63e82df81c2d8fb59ddeaa866643fc11171ec3f39a2143b9dfba5841403157998baa52a18eead8f806a9ed8a5f10b11641562d2a08c390f3f51f421dfc282455aa32eee575360e5d3fbc3fa458723b314af543e17270b29da325435d8c3fa222245c5ff7602b15365d073a08a4c99084a046c2cffec3f3d9b846b563eb409a0e12c867dedf2ebe29910db474c81d19b466456dc0e7ee4d908732ce43ec343ddec1cf4fbf3930913a37fd00314b61af005f029c3a7ee4a152a9897d6efa36dd057334d1bd1eb858e2468acdd30f43c38f7c93577d7b60a9db6fa44c21ac263e5857ee690c838d048ae5edc22049c2a127f49d42ea0f085bac88248c3bd6cabc6be5bd41fefbd012bbe089c057724ce20458cf1724d6987c4ffc899dab8fe0945b401b5cac613a2a1312fba3a7b9b7925d4a95b7b6a5c85bbc8cd009e5768ac5408ee3c2da73400adc0c5f52fd1fca26807564693965708a186ff7b373b3a39763adcf50eb570b289ab3f27bcee424e6f8bc6550675ff4e914c25069768844da569f508109b9c21671f4a03b9d3c716c7da721bf39a4a2e98413391f16acc4484c5f766361b493383c2047d3d142b8a2c27fca44d53c67393962ff5c6e8fb2dbfade09be7df730cb4790da37dd826405ab634e471ec4c2022e7c015172f52d555f327fe17afe7e390f78cfa71d0dd12a7737b0ef212753e1c23708c44fc98d3b2f5d32aeb6bd3919078d8b504911c8f15a1807d396776712c5d4f20e268f37f903562059f02bbe0ef3aeb3f59aa1cb4befceb49d8af9d545123a6f76e3c104d44ed70add6e5799b4d853c770eb60491e390aabcd9209685e51333f342c1935f77c98659b14038730a3e43f2c168dacec5cbcaa6dd389c5dccfd67af9376b13bfd7eb41cb18dcdb947cb80f46de694183d27f6e87574bf22f578ce9fd20837bd83b825c15df72554078ce476aa99f91a3a70260c212ff276beb74673e84c2cda8e08ffc764909ef137845d43613777e978120193dbc2a39e0dee3cb2f0118bf87593d5fd464981d9c78f47814b0921bc71a85f6e112d8ccab5fd5045ccbf177b8b5f922e1d6174a0d05fd120a5bd49ea60bdd7c246bd62e83999549b09c14332028464fa74e3d8903c72c4ab2aeaedd325058a38f4a12f1eecb5444d72744bf672a24c4f45afa4c629fece7209e4d1306b431996ec50a9a25aa9b4aa37a431c3e785774958e082927c2edfd038b445ffc59c913506b7c2460b0549190d912567b04f0f32e1ab86e06fc9b0ba05116e92ac4ce30bc26d81f6d1dd6e7d5f49b0a2d2aa609eb464adf2304132ee74dffaaa7b90a27a631e3f8a9edf400a3a20d9ee9cef8652b82d5db67ee1beb83751e3acdef73c167db6c4440e136881571a1603d35f7c80f687e3aa9ec12d22fc04db278401b33df396479891386fcbf85bd9a502917d844c559786f75ae153073d67873f59fc80c9d634ef17c95f9456b2aef12b551c3ce63184dbb11b145d36e8590727b750d78549351d80b2a9684dab8f2c6e8956294a91018ac65ebf1271c351c1a13cc8e7db0f2ffd994ff236c9d350736581bb9a8273900134631af65b63cf48257f5a1e6167cf2a3e6488b4581930698e84eb8d6d98d095d6955fbe848432136b0d1c875cd50f8cb52ffe48e4f502356520dc7701d8876688fc9581bc357c637b78543f3a7ae2c6583e72af67984f98988907c504f6d507e4a05ae857ec4fc1a6937be47a373fd992469d9c08b76df25a801e9dcbbd71ba84cb2cd577dcb5dc451835109d46f88cf9cfb4b8502ee3758cf0e80460b30379e5507571f6bbac6c73fccf8780e29854d2f8848079d3ba0032e0fa313570788539e8c8d7c91b53d3e93eadd331bc8abc1c50bfbff2f73b10270a3a5dfdc23e6426047e1240f7d5fa4cba6ccfd8cc96d9c721eeb01218793cf5986af8af7644e2a0e1302b44239216adad47cf303b0ec51ad3d6d30c2e5e7bbd7fe4c441cc027b5819e64e5827b2ef4214d52776e8e8408a6e08ea5c0b5c84f7be7de08b429af3121b07827797545a077688551906b2de27b521cfa40b734b02ea5f162ae80cd8dcfc3ca5872bbfc869226facee97e2116bfab49817c8d30c46a2d1cf10ab61dcbcdb810a884c1d06f6ffa69c0129680e3d913a5f0850532763871ffb0cff9b94a60589629ef4ad2b250a7461611075edb08b7dc824350431878e301012b528735812ba8db4f88855767d9030d577056a8a9b675a5898e73b0932b64224e4812839103c4b8c96e11143073337aa0c7f53671e6f22fb60aec2f41b454984146c280d54a3cf64f69e28f37417c08fc96bf6fc7c713c89db542fca9b3b54395e52526259c80278ae43e5fda7f6c2e36e043c365817123ca8243a1a79d9ccd386790985836367df8f908c0883d063616e0fe0264917b765aac75c10814a325224499deea7063d634a7019e35bff2189676eefed32e7f37a58bee58594d177e9e1b8b2190426e3489de3946cc6d522cfa46831b39c6727ad11b27845c9083fbe28e4fbbd9001850c49b3e063cc215c0549c470f696f3129f3354860943ee63dffd0d1f27454fd854b7471b3af3bf7270eb9a1d11c30473ccddfabead8fa77885ba0599ce56234274752f13df6d4c83929ec49df9bd9b0157cfd12c53d5e0fc2db07335ec00967b9c0ad79fef55bfbbab731efcf5bc461b6e5f0842c1c15db6b34f10210dce4eb4a2f7ea28a10564b5b660fecb1000edbb552c2c33f7ea191f9cc29b22ae45037fdb8abe0c6ac06fe6c14036a3f1e626d09c114bc93bcc6727848ea99410bd755d0d97d3338e44907ea9c9163c494a66a292f616af3aed5902537d6be7fbe7c8e3ea90328feca3b8de95b5a5ad97deb2e31c483cc1b6d38ae20a44fb391ce83ca134d0fc8acdce716bb728d46102b1a31e14ab6c86ede95304d1e7e9fd171db793a9636bf725e89ab694c6a9be3ae552022babfcd005b454a19ddbecb1f4065b9020314abb12fea06420d5cbd81fb751ab50c8b1ebc4572bf8842de2e5821581dfeb9494114dc89d9bf91fbc8ebc7ee2943faa23dacd12b09c8d19b84b519eed4ea806ede012f4ca36af597c228f96cda3fe5e79a28b69926170c264f58ffe01082c65c29d2dea1fe95f1d432a274f577ffab6e9f6d71157ddaada82c4cdb7a6862aaf8e39f43bfb77ca2836bc20181b5d4a46b0786978ba7d3f735baae907b72da815aac76a94ff5d024d5478cb273d2cdeffab06a67f38c7ea667c02cc410f2ad3caeaa4f306ae16c9d44d584eb33daae119a807a2371fdd89d9d31818456061413b96bf8db7b7f9eb7864277ab6197d92f8ed6f95f542d76a2d413be7a512b2ea97b0c08b81d0c7782a39bde996c109d49b5aa2a84fc436e222d759d36b537addb519e9b8f6119255040a0472c8686bb36362c716c7155b835e51a5d276a7ea0cb210c9e2baf50f609eeaa826e93f3865bdaa661b2c4e8a096d060dff7dfc1902249f24d63cd3464110cfc2ee4cbdae0df5d6ad7464217dc19159f9c056d963d34850df56588a5bda478476e17dba198c788bca0bcd1a5f1b798ff0f6b9d58e48988da795c72313fe5a4062ad52acaebaa536f2ad1bbc35f8cf7d2523b5b71b3b1fe6274e5713b2dc02a48aab40470549bf66b4adef2aec65d7443658c3ef5a35a5db0f2b9994944f03abc333343941b1e313e5f2c17a19462617eb58e80e1c47b755edb234895620a6fb699872e0c9ee8c52c79571c84255628302fdd55730f5c6f6afe21686c8b9ba5f17930e0b55bc9b47061a64ac08bc908c62caa8ad0d6e95f2378d40eee5ecf9cbc0d68d18d9f0be0c06b783ab6ce12f2f2a79d842d17c57010a2bc5c373fd18f63b29bd00491d8f9465ba2b6547d7cae6469fbc44d2691a197e239b2603847d93e108541e84d426d5cc7e5529c1a6bf44adc92099f85154c874bc1677976b70b4cc10020f40b30326b399a5b5febacf00911d884f85b354623391624f64555936482bac3a1c9ba59e9a301b9e1c5ea747e8bb73cc94c3eb6ce044a5e6a38d921bde588bd88ef317aef8e06d2211e56941f675d88b177ad8ec909c3443b073e1585b42b9f0862bd34ab61c2df052fb01d8f9cb03f60e8e79f39924d96a52d3f6f3eec3c11f96af6535732c2d99177592613640be3cc5753474705e443a7863b40e3e7d1091e7a87b846e2e76f0199c1a5a7b486892dd17e1c3e5a38cb9c89da4a0a90b05861a2167b9da040df51c6f37eabe17d6cd5cea04930e8b41f9ad30712e26045dfa8c46323e118314d4d0f2bbd2385c495f62563485f151b470cbcd6bd0f6f41ddc20b50981edeaf27498c878a9b9063b04b4f991c453ebfe54d6bfda199db0d18f79e6cde171100d16d122934dde96eb6b2fd4c43c6003cd78973b67ecdc5304dd0680179485b89ecf74289ab9f462bb9eb466c5725df59735dc7d4b073e5137acfd3733b1ba01cda7276aa3d9a0e28488447980d5b4f27eeb2d36c1a59dd41719f75c4e2fb06c068dc34569d860ccdcb7b50387605e410658b63ad267fab7f524e6932cb9bed10da3f8cdf591c651b6b5cb8bbda1db0b26557ac2f410a233a27cc40f18bd298975fe0230b6a0cbf722ad244ff18a94cafa0f36715c73c6d54d29b7dd06c83929ce0964335bcd3138d054c7bafe32d6837ca797d29fa88646d0463633d5c2265b2e391589c44e62a7edb45f941ca0a190f1b67314578ecd757a805ee01a4158ff0f583b26e92882314737f3635fb7d7fea7fd62eb2ba9d9bfa38ab7d766fc81edc3f4509e748dcd0fe8f26baa86f3b5280f082cbaf29d9e6f70198c57d9a8ebe73b3f5704a12fa711a426e1de62389b3179f8865ef00a536b6114773a43123c98e0b306b8e99ee4f099e9e07f08645347f574d1e86f5d234a30b5aa7a772877881e5c35288deb9378e05a4cbc782a6251ab8fb19e276084b237c4e651d20def2ccd1b092b6b61ec07635eb1bc60601a60ad11d6824481ebe9cbe961feffb265a4c2e8c58f6d6f4</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -1326,32 +1352,6 @@ import {initHBE} from "/js/plugins/hbe.js";
 ]]></content>
       <tags>
         <tag>评论笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日记</title>
-    <url>/2024/03/28/2024-3-28-%E8%87%B4%E8%80%81%E5%B8%88/</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="a4f46903de753f829db8478e40c4b21089e46273161dc9e03c35dc97503e723b">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367a137ea0f940c897349cdcb2a213d524e95ed5dbc19e41ff24630ea417a647ff20e8435eb0c132c442ae3e41660bf8fd80cf367d5a74f626b3b4bd36866dd7870527a70f07c6b037422483860feedeea1c01351abd66533ce4b5cf8dbb1ac756cab64c9f02c01c7caa8d50f69997b2b9ba2de59b20fd43a2a18c6423ee3ae4b79fed05c3a723d51bc7220a2ea60ee437d7c0f536c31f64497d8d2254aedc4f015a2fc5081dfc074c05b30c9b544ec8d047165f5a3f6dca74f33290d4bc05fea581c6f9b1e54533e748fd6a496a1422e796dced37ea44978a5734c52b50c0851978d833e742315e963e004cbebf932c7d98504befa2aa85bd7fe735a82b2c7e4a34b8927c93d67b8e8540059b6f180f931e90582ccd3149cc08718a69be33dee5d0d4ac7aaebf41c5e93bf22984cc25f728e45deaaf5cd251f57ebfa83cf5cc70829a18286e0eff7eee8f363c3807d40e7e185e49c9f971892f373abe7ad762906b0cb020ae134b4f88cd4dca6f3c726f007c7c0ebe6e9390962ab369fac9748b257e8a08e78f86a953a5581e4614e297677e6ef7596863e6ce445f749f6a19d4c4ab9e06c0449ea320482d2241240f068f43a75b7ada14d134c6c8a7747ccc5b704a16055745aed30775a9ad6d59e82efc314040f181fd9934d35eb46c09729498759cf23dafabe3503ffaba29a269791002c317f088b1d60a389270ebcb3f9933087bdcb607b7b4bcf020a4839494721916db2600349b581a3c271b94cfc0acc9172cdd0f502d27af9d1b4ff12cca2f0442c469ccf50a2c42f25acec34b2b25987815c524cd7fdc31798a008b1c77d1f28257e5a39083eec695b50850d7f34e3e8f5b77ba121549a48180cd90738051e2c74f6f3018b9d665577c78272822ea32baa1253b105536c39ee6c49223f4320e4d2aca32d6790037999a34368eef01f3aeba32ef411f6b37627cdf03c0cb3b2f0493109eae636b264429c52e41221f3d76b4963a1cd81f3ca1c2000b30e408c6132e4dc5015772949d8e236016d1293e4156a65e413c715031d400020de8362c9e9d5ca350b515848accf561bf05ae2271518964783cd0e0bcc92544c8705981fa5862b184e15834a9c1d2e8d2b72d0f3425b3a620f61928e543c06a66712b24b900c9c9479a78e1a21915ae8c8c764d2a2bc259808d7659ce61c107b991762e1f3dc99436d38652c0c9ed93eb0b36a929f01abb3c4bba020d988f61ed3c283ff4d00c953adf7808bc1e5fa585a22d51a3f27e28d78cf090110d180e805c49c9582e2d01f5f451f0a3863cc0a504b7c0e23e9db8acebc681b5f1084afb0ff0de633df1bf363aea8d21f52332b8989e99f3d93405508f373a5bfd78729066aba0ec8c008b962984671f5d0755bfb62aa922b841b71680cf82502ffb18ee8033fc1e8a774c779a09944a295118990aa7ef1c9d9b8f93dd0e79ba3643e0b6d538707edd71b1546f88eacf918d6ca28f45d807cb28743b5ac001c9ca8efa9bcb4e3e6c8cb1d0709f86d3726ba99ccff457aa670f26ccf7164c1bc880c31c551727739bdc79a66618d2b52fa922515a1bc4d91a8fa54e34ada99b9bc6c859e6e715c507b62442d266c3f1ea0c5ab53baedc65e768404933d1511dc60ca59019ac5d5fdeb7f12d8f2a249bd6f5be4e2c3aae3b77d77402fe13afb86006d664689064a831d120064f30676d5d75a4fcfb468e7b28aec4d64b557bfb426e0c51b6ce419bbab8e0ebf9e9cbf50b4a03e5b601cde6033860fd82869202d89fa04fddec6fab49cf33ca166de7cc48f1bcdfedff272be9bc28e913318a5c3b2a4258a42f2f0c7264be696e73b3114c92acde91e8360c4f52582eead3de157dd8f93c28e8564ef98aa70dfa853b81bb16f9be267df31eb654d6ee32aa2c8736eb89146d2d9f16900bb1240dfc365544486c2f3de01d73bc5c9ac776c846e8b5db0fedc40f6dd1471aa3c363d847584bd5c8636b02a3b1bc963a887fc8c7efcae85af3d25445a23fe41c3a3111ae02300378ff76eade9e736a9791f0050fb0b16d7eb0ed4b566f1b970538161383646f5278392da34119e85be4b0aec9c451140cb670df75621ebe2b48e2cccc107101cf71a14f9d6c2ad9a24738296ba54539dbe9c065980e2b19e383164748a015450dc6bf09a3274390198bbecf987300765e14b4d1830e43bc3f01ba2edf3203c2466a8943847163375da69f2d0cf07f4294577acb1b8e66005c7d6864c144f2c4cfba771e959b1128a4a0fdf2b5683d09d0fb61971071c3ed7187e274eea08de48adf927a9b6b580d24c5d9c8b32fcaa57badf0b7b6ff5c1e011e0efffb2827cb2871a8e9c2212eb3c108936e16773dc2fba9640ef4fb366449b697e05ddf10d5a66e02a989ffa87592e228c1854d8b06caf378130d6713a0a37887febb0b7c152c9f97a2a98c32dd545836f454a112e2e47c6992010430a42c75d46b5cb02a13bc69ce505eef411de3ca0ae86802f7b95fa210ec01bba2f7645a811c40bcf9678fde2ecdcab5592e5116ce1124be5d423b0c55ad2526c6ab3e7909aeb636d9dd2c575fcea6f4c8948d13d5f6ce9aea182927943169c563e6cbf57129dde334a05cfface3975933462e3220126199c043b033b00f34548c94b4e251e328e2015d55905d84be6ea35f844e0fd46d1dfdfc19c6f0c5b3e5834a8f222773b9ac33ada7a3cd49f6caec27ae349a71752a4cc7e37a3847931909e222c17f0e182a3cb596a8284b4d8f268a1aa9ec0f73e519c6d431fbb7f52e122be82894c68f875889db4a713e20c692465a5f9dea5b50273f66977c2e328fa36fb3964a70a901e261e13280e863cc6dffd1385b62e979114009aeb260411ebd4ff70ed9899d5eba4d172e8a85b2dbfd29ad5e698d4eceaa84b45ada5b38937db5d2dcbe07e131fb6b769d1565d12fb432cb787fccd89bad2b6bc79ba09dd4b80c33f195678cb7cb7b75cc3b65a60d2c145f9fe70e4168943d491fb1e3963811d5e74df567fde4ab5e8e263a69ae210eda73d1b697e273f6de3d6d15d570569fb48002ec07ce8c25cdb2729f2dda7e92a7409ffc3c14ec71464f01d4b887d8119fc974ae50b65c6072cac5d30dff255e5e97b86113071d1ea4746eb1e51c698fb1393b68baf749307bfda8e6c35451f42b6977e1c3e0693a4b58ee3e872062332c104a1919a63cbf8565a31b7e0ac7448cc99b38714191322547b5b7304c59914919b0a9e64b8de46defcbd6a97b787938dd974e6d3fcc31bc46488fb63af2bbc64171e147900933cce696cb6b90d2a0b779eb714eba29fce830cd2f75be99463a0da9528e24fcdf1a880c167a966d53b7173c72fffb1e86604db9fd4bc5e9dfe1160f2f6328d4cb070177643ff0518e311fa75d19193880c4cc6630ddc6cde7dd0218a3f200bc3d7b68325e83831f3f5f47cb5ad1f6f2531b80f4cef900fe01cc5d8d06dbae9e752e81478fda7f9d3acf5c020edd3a224df6a19c3fa49039531efd9dcd88012c0a63a5fa9135f3cb3d72cc1687eb0ac656dee7f67c4d5996b1ae9e765738ba35bc8fcfde54c055ea4830ed62a6d28f877dca6375aed8af37ae2c6945d5a926fc2b15a675d6fcbb9c4b26703ae695c64f1599f0460af61ec5025593f40fb3afbd90b18aa846c56dd18eaf7654a6382cdca5193388824162bdb36df2cbee665ce3f5b305f5b851b4abefb1cf5aad026b8d61d2dc79cd864e924dd8eaa748eac03cf26fd9992e5846dcfa9d42323e7c95b584a7fa8646f27d1ff42a00c77b4ccb959d5b73c09f1e90d581edcbda87ab0fe455b9bb002e3ce098fc4374e1be8a8fc40e4a98fa17ca0767875b0512b7d0829dc2c61469dd6b48f1d0f76a8664b201e91f3be9ff2fa7f732af278f9a43c3fc6997ca7ad24270d81bfc0a9e285c7ecd42293d942b3655d8135b1f94093b7cd55f25cac2602f4a3330452459f4e9c69a2132d2786387a47e0f5df8a803c5c67ce85527029600b95260bb8e6f09104a959c224f45cd936b211d73a3949d91cf68fba830a27d78e1dbb9e1a07db5be20d4fb64d5bd6500880b93f91ff72217f3d32993b22e697677ffadde74f2ec33b4756cca32c04f3da72d8b563b0ace35859aaae15687ed3bebe143228371cea41c02187922a3c2153fe5d37f7345c382a940acfeaa3241db3828cf2c90438670bae6e4e016a1b69641a892f186c7747832f02cf2185ada00752fdd1a27e7ac7f0ae80f6079901463b17a30fc42ce2d22d9eb646b455fed780157def944f92e417961754bcbda3b16c5c43e38b70a73f48dd786187ae6305a86e622390c3e4bc48d638b1f1322145b2c33400f6c48bbc2b26d5330edb1d1f7295b282f87f38ca211789eb02c53ba6f11eac1b6b245dc7b52026a0641c33643e8a867098360bd9b374ee32077e6ecc12c60c3de7c879b80d359e8d5d250132dbbad6fff95801b0bc61e42005f8cb61edffdc042187dd2137f7bab6b22a9f4353c28af263243dc4311fc2ffacce65291720f0241bd40fcfae21831f268227a312e4faec2eb2cfcc840bbf40fb0db7f7da66825eb84e61d8166f29bca36dfe1d819696ef36adc53ce21c8c50032e5c5117091379325e9dc869146254eb17b1ebb6fb9eb27f615c9ac2c04a9184ec76016dffc30014be42a4e08d17878b99393b37bd8a8ab6a373f3dc805f3d8d0cd99e2b752472000bec0da34e6bd813043b760321d31c81957515e86b472ed7d0f2c8d96fc92fabd5ce771cee1c1117766fdcadcf154704afe6599d1ba660760df71ce55bcede787a486734360aec20ce50d3ed760c53c555c2788acc48bf1f5147d6ccd8c2a5ef7bd0a1a3b81d282249a72c81d956c80137a592805b992f288a63e82df81c2d8fb59ddeaa866643fc11171ec3f39a2143b9dfba5841403157998baa52a18eead8f806a9ed8a5f10b11641562d2a08c390f3f51f421dfc282455aa32eee575360e5d3fbc3fa458723b314af543e17270b29da325435d8c3fa222245c5ff7602b15365d073a08a4c99084a046c2cffec3f3d9b846b563eb409a0e12c867dedf2ebe29910db474c81d19b466456dc0e7ee4d908732ce43ec343ddec1cf4fbf3930913a37fd00314b61af005f029c3a7ee4a152a9897d6efa36dd057334d1bd1eb858e2468acdd30f43c38f7c93577d7b60a9db6fa44c21ac263e5857ee690c838d048ae5edc22049c2a127f49d42ea0f085bac88248c3bd6cabc6be5bd41fefbd012bbe089c057724ce20458cf1724d6987c4ffc899dab8fe0945b401b5cac613a2a1312fba3a7b9b7925d4a95b7b6a5c85bbc8cd009e5768ac5408ee3c2da73400adc0c5f52fd1fca26807564693965708a186ff7b373b3a39763adcf50eb570b289ab3f27bcee424e6f8bc6550675ff4e914c25069768844da569f508109b9c21671f4a03b9d3c716c7da721bf39a4a2e98413391f16acc4484c5f766361b493383c2047d3d142b8a2c27fca44d53c67393962ff5c6e8fb2dbfade09be7df730cb4790da37dd826405ab634e471ec4c2022e7c015172f52d555f327fe17afe7e390f78cfa71d0dd12a7737b0ef212753e1c23708c44fc98d3b2f5d32aeb6bd3919078d8b504911c8f15a1807d396776712c5d4f20e268f37f903562059f02bbe0ef3aeb3f59aa1cb4befceb49d8af9d545123a6f76e3c104d44ed70add6e5799b4d853c770eb60491e390aabcd9209685e51333f342c1935f77c98659b14038730a3e43f2c168dacec5cbcaa6dd389c5dccfd67af9376b13bfd7eb41cb18dcdb947cb80f46de694183d27f6e87574bf22f578ce9fd20837bd83b825c15df72554078ce476aa99f91a3a70260c212ff276beb74673e84c2cda8e08ffc764909ef137845d43613777e978120193dbc2a39e0dee3cb2f0118bf87593d5fd464981d9c78f47814b0921bc71a85f6e112d8ccab5fd5045ccbf177b8b5f922e1d6174a0d05fd120a5bd49ea60bdd7c246bd62e83999549b09c14332028464fa74e3d8903c72c4ab2aeaedd325058a38f4a12f1eecb5444d72744bf672a24c4f45afa4c629fece7209e4d1306b431996ec50a9a25aa9b4aa37a431c3e785774958e082927c2edfd038b445ffc59c913506b7c2460b0549190d912567b04f0f32e1ab86e06fc9b0ba05116e92ac4ce30bc26d81f6d1dd6e7d5f49b0a2d2aa609eb464adf2304132ee74dffaaa7b90a27a631e3f8a9edf400a3a20d9ee9cef8652b82d5db67ee1beb83751e3acdef73c167db6c4440e136881571a1603d35f7c80f687e3aa9ec12d22fc04db278401b33df396479891386fcbf85bd9a502917d844c559786f75ae153073d67873f59fc80c9d634ef17c95f9456b2aef12b551c3ce63184dbb11b145d36e8590727b750d78549351d80b2a9684dab8f2c6e8956294a91018ac65ebf1271c351c1a13cc8e7db0f2ffd994ff236c9d350736581bb9a8273900134631af65b63cf48257f5a1e6167cf2a3e6488b4581930698e84eb8d6d98d095d6955fbe848432136b0d1c875cd50f8cb52ffe48e4f502356520dc7701d8876688fc9581bc357c637b78543f3a7ae2c6583e72af67984f98988907c504f6d507e4a05ae857ec4fc1a6937be47a373fd992469d9c08b76df25a801e9dcbbd71ba84cb2cd577dcb5dc451835109d46f88cf9cfb4b8502ee3758cf0e80460b30379e5507571f6bbac6c73fccf8780e29854d2f8848079d3ba0032e0fa313570788539e8c8d7c91b53d3e93eadd331bc8abc1c50bfbff2f73b10270a3a5dfdc23e6426047e1240f7d5fa4cba6ccfd8cc96d9c721eeb01218793cf5986af8af7644e2a0e1302b44239216adad47cf303b0ec51ad3d6d30c2e5e7bbd7fe4c441cc027b5819e64e5827b2ef4214d52776e8e8408a6e08ea5c0b5c84f7be7de08b429af3121b07827797545a077688551906b2de27b521cfa40b734b02ea5f162ae80cd8dcfc3ca5872bbfc869226facee97e2116bfab49817c8d30c46a2d1cf10ab61dcbcdb810a884c1d06f6ffa69c0129680e3d913a5f0850532763871ffb0cff9b94a60589629ef4ad2b250a7461611075edb08b7dc824350431878e301012b528735812ba8db4f88855767d9030d577056a8a9b675a5898e73b0932b64224e4812839103c4b8c96e11143073337aa0c7f53671e6f22fb60aec2f41b454984146c280d54a3cf64f69e28f37417c08fc96bf6fc7c713c89db542fca9b3b54395e52526259c80278ae43e5fda7f6c2e36e043c365817123ca8243a1a79d9ccd386790985836367df8f908c0883d063616e0fe0264917b765aac75c10814a325224499deea7063d634a7019e35bff2189676eefed32e7f37a58bee58594d177e9e1b8b2190426e3489de3946cc6d522cfa46831b39c6727ad11b27845c9083fbe28e4fbbd9001850c49b3e063cc215c0549c470f696f3129f3354860943ee63dffd0d1f27454fd854b7471b3af3bf7270eb9a1d11c30473ccddfabead8fa77885ba0599ce56234274752f13df6d4c83929ec49df9bd9b0157cfd12c53d5e0fc2db07335ec00967b9c0ad79fef55bfbbab731efcf5bc461b6e5f0842c1c15db6b34f10210dce4eb4a2f7ea28a10564b5b660fecb1000edbb552c2c33f7ea191f9cc29b22ae45037fdb8abe0c6ac06fe6c14036a3f1e626d09c114bc93bcc6727848ea99410bd755d0d97d3338e44907ea9c9163c494a66a292f616af3aed5902537d6be7fbe7c8e3ea90328feca3b8de95b5a5ad97deb2e31c483cc1b6d38ae20a44fb391ce83ca134d0fc8acdce716bb728d46102b1a31e14ab6c86ede95304d1e7e9fd171db793a9636bf725e89ab694c6a9be3ae552022babfcd005b454a19ddbecb1f4065b9020314abb12fea06420d5cbd81fb751ab50c8b1ebc4572bf8842de2e5821581dfeb9494114dc89d9bf91fbc8ebc7ee2943faa23dacd12b09c8d19b84b519eed4ea806ede012f4ca36af597c228f96cda3fe5e79a28b69926170c264f58ffe01082c65c29d2dea1fe95f1d432a274f577ffab6e9f6d71157ddaada82c4cdb7a6862aaf8e39f43bfb77ca2836bc20181b5d4a46b0786978ba7d3f735baae907b72da815aac76a94ff5d024d5478cb273d2cdeffab06a67f38c7ea667c02cc410f2ad3caeaa4f306ae16c9d44d584eb33daae119a807a2371fdd89d9d31818456061413b96bf8db7b7f9eb7864277ab6197d92f8ed6f95f542d76a2d413be7a512b2ea97b0c08b81d0c7782a39bde996c109d49b5aa2a84fc436e222d759d36b537addb519e9b8f6119255040a0472c8686bb36362c716c7155b835e51a5d276a7ea0cb210c9e2baf50f609eeaa826e93f3865bdaa661b2c4e8a096d060dff7dfc1902249f24d63cd3464110cfc2ee4cbdae0df5d6ad7464217dc19159f9c056d963d34850df56588a5bda478476e17dba198c788bca0bcd1a5f1b798ff0f6b9d58e48988da795c72313fe5a4062ad52acaebaa536f2ad1bbc35f8cf7d2523b5b71b3b1fe6274e5713b2dc02a48aab40470549bf66b4adef2aec65d7443658c3ef5a35a5db0f2b9994944f03abc333343941b1e313e5f2c17a19462617eb58e80e1c47b755edb234895620a6fb699872e0c9ee8c52c79571c84255628302fdd55730f5c6f6afe21686c8b9ba5f17930e0b55bc9b47061a64ac08bc908c62caa8ad0d6e95f2378d40eee5ecf9cbc0d68d18d9f0be0c06b783ab6ce12f2f2a79d842d17c57010a2bc5c373fd18f63b29bd00491d8f9465ba2b6547d7cae6469fbc44d2691a197e239b2603847d93e108541e84d426d5cc7e5529c1a6bf44adc92099f85154c874bc1677976b70b4cc10020f40b30326b399a5b5febacf00911d884f85b354623391624f64555936482bac3a1c9ba59e9a301b9e1c5ea747e8bb73cc94c3eb6ce044a5e6a38d921bde588bd88ef317aef8e06d2211e56941f675d88b177ad8ec909c3443b073e1585b42b9f0862bd34ab61c2df052fb01d8f9cb03f60e8e79f39924d96a52d3f6f3eec3c11f96af6535732c2d99177592613640be3cc5753474705e443a7863b40e3e7d1091e7a87b846e2e76f0199c1a5a7b486892dd17e1c3e5a38cb9c89da4a0a90b05861a2167b9da040df51c6f37eabe17d6cd5cea04930e8b41f9ad30712e26045dfa8c46323e118314d4d0f2bbd2385c495f62563485f151b470cbcd6bd0f6f41ddc20b50981edeaf27498c878a9b9063b04b4f991c453ebfe54d6bfda199db0d18f79e6cde171100d16d122934dde96eb6b2fd4c43c6003cd78973b67ecdc5304dd0680179485b89ecf74289ab9f462bb9eb466c5725df59735dc7d4b073e5137acfd3733b1ba01cda7276aa3d9a0e28488447980d5b4f27eeb2d36c1a59dd41719f75c4e2fb06c068dc34569d860ccdcb7b50387605e410658b63ad267fab7f524e6932cb9bed10da3f8cdf591c651b6b5cb8bbda1db0b26557ac2f410a233a27cc40f18bd298975fe0230b6a0cbf722ad244ff18a94cafa0f36715c73c6d54d29b7dd06c83929ce0964335bcd3138d054c7bafe32d6837ca797d29fa88646d0463633d5c2265b2e391589c44e62a7edb45f941ca0a190f1b67314578ecd757a805ee01a4158ff0f583b26e92882314737f3635fb7d7fea7fd62eb2ba9d9bfa38ab7d766fc81edc3f4509e748dcd0fe8f26baa86f3b5280f082cbaf29d9e6f70198c57d9a8ebe73b3f5704a12fa711a426e1de62389b3179f8865ef00a536b6114773a43123c98e0b306b8e99ee4f099e9e07f08645347f574d1e86f5d234a30b5aa7a772877881e5c35288deb9378e05a4cbc782a6251ab8fb19e276084b237c4e651d20def2ccd1b092b6b61ec07635eb1bc60601a60ad11d6824481ebe9cbe961feffb265a4c2e8c58f6d6f4</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>日记</tag>
       </tags>
   </entry>
   <entry>
@@ -2179,7 +2179,284 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>2025-02-15-王安石变法的内容与失败的原因</title>
+    <title>黄袍加身的背景</title>
+    <url>/2025/02/15/2025-02-15-%E9%BB%84%E8%A2%8D%E5%8A%A0%E8%BA%AB%E7%9A%84%E8%83%8C%E6%99%AF/</url>
+    <content><![CDATA[<p><strong>“黄袍加身”的背景解析：以赵匡胤陈桥兵变为例</strong></p>
+<hr>
+<h3 id="一、历史背景：五代十国的乱局"><a href="#一、历史背景：五代十国的乱局" class="headerlink" title="一、历史背景：五代十国的乱局"></a><strong>一、历史背景：五代十国的乱局</strong></h3><ol>
+<li><p><strong>政权频繁更迭</strong><br>唐朝灭亡后（907年），中国进入<strong>五代十国</strong>时期（907-960年），中原地区先后出现后梁、后唐、后晋、后汉、后周五个短命王朝，南方则分裂为多个割据政权。  </p>
+<ul>
+<li><strong>特点</strong>：军阀混战、皇权衰弱，武将篡位成常态（如后唐李嗣源、后晋石敬瑭均以兵变夺权）。</li>
+</ul>
+</li>
+<li><p><strong>后周世宗的改革与早逝</strong>  </p>
+<ul>
+<li>后周世宗<strong>柴荣</strong>（954-959年在位）励精图治，推行军事、经济改革，意图统一天下。  </li>
+<li>柴荣于959年北伐契丹途中病逝，年仅7岁的<strong>柴宗训</strong>继位，主少国疑，政局不稳。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="二、赵匡胤的权力积累"><a href="#二、赵匡胤的权力积累" class="headerlink" title="二、赵匡胤的权力积累"></a><strong>二、赵匡胤的权力积累</strong></h3><ol>
+<li><p><strong>军权在握</strong>  </p>
+<ul>
+<li>赵匡胤早年追随郭威（后周开国皇帝），因战功升任<strong>殿前都点检</strong>（禁军最高统帅），掌控中央精锐部队。  </li>
+<li>柴荣临终前任命其为<strong>归德军节度使</strong>，驻守汴京（今开封），进一步巩固其势力。</li>
+</ul>
+</li>
+<li><p><strong>政治布局</strong>  </p>
+<ul>
+<li>赵匡胤在军中安插亲信（如石守信、高怀德），并与文臣<strong>赵普</strong>等人结盟，形成“文武合力”的集团。  </li>
+<li>后周朝廷内部空虚，宰相<strong>范质</strong>、<strong>王溥</strong>缺乏实权，难以制衡赵匡胤。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、陈桥兵变的具体过程"><a href="#三、陈桥兵变的具体过程" class="headerlink" title="三、陈桥兵变的具体过程"></a><strong>三、陈桥兵变的具体过程</strong></h3><ol>
+<li><p><strong>契丹南侵的“借口”</strong>  </p>
+<ul>
+<li>960年正月初一，边关急报契丹与北汉联军南下，朝廷命赵匡胤率军北上御敌。  </li>
+<li><strong>疑点</strong>：史学家多认为此情报为赵匡胤集团伪造，旨在制造出师之名。</li>
+</ul>
+</li>
+<li><p><strong>陈桥驿兵变</strong>  </p>
+<ul>
+<li>大军行至汴京东北的<strong>陈桥驿</strong>（今河南封丘）时，赵匡胤佯装醉酒，其弟<strong>赵光义</strong>与亲信<strong>赵普</strong>煽动将士，宣称“天子幼弱，我等愿拥立赵点检为帝！”  </li>
+<li>士兵将预先准备的<strong>黄袍</strong>披在赵匡胤身上，高呼万岁，逼其接受“天命”。</li>
+</ul>
+</li>
+<li><p><strong>兵不血刃夺权</strong>  </p>
+<ul>
+<li>赵匡胤率军返回汴京，守将<strong>石守信</strong>（其内应）打开城门，后周君臣束手就擒。  </li>
+<li>赵匡胤逼迫柴宗训禅位，建立<strong>宋朝</strong>，改元“建隆”，史称“北宋”。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="四、“黄袍”的象征意义"><a href="#四、“黄袍”的象征意义" class="headerlink" title="四、“黄袍”的象征意义"></a><strong>四、“黄袍”的象征意义</strong></h3><ol start="4">
+<li><p><strong>皇权专属颜色</strong>  </p>
+<ul>
+<li><strong>黄色</strong>自隋唐起逐渐成为皇帝专属色（如唐高宗规定“庶人不得服黄”），黄袍象征天命所归的合法君主身份。  </li>
+<li>赵匡胤披黄袍之举，既是对传统的继承，也是对“君权神授”的宣示。</li>
+</ul>
+</li>
+<li><p><strong>避免篡逆恶名</strong>  </p>
+<ul>
+<li>赵匡胤刻意营造“被迫称帝”的假象，强调“部下拥戴”“天命难违”，淡化篡位色彩，以维护政权合法性。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="五、历史影响"><a href="#五、历史影响" class="headerlink" title="五、历史影响"></a><strong>五、历史影响</strong></h3><ol start="6">
+<li><p><strong>结束五代乱局</strong>  </p>
+<ul>
+<li>宋朝的建立标志着五代十国分裂时代的终结，开启了中国历史上<strong>文治盛世</strong>的新阶段。  </li>
+<li>赵匡胤通过“杯酒释兵权”削弱武将权力，确立“重文轻武”的国策。</li>
+</ul>
+</li>
+<li><p><strong>强化中央集权</strong>  </p>
+<ul>
+<li>吸取五代教训，宋朝实行<strong>强干弱枝</strong>政策，收地方兵权、财权于中央，避免军阀割据重演。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="六、深层原因分析"><a href="#六、深层原因分析" class="headerlink" title="六、深层原因分析"></a><strong>六、深层原因分析</strong></h3><ol start="8">
+<li><p><strong>五代武人政治的必然结果</strong>  </p>
+<ul>
+<li>武将拥兵自重、皇权依赖军功集团，导致政权更迭频繁，赵匡胤只是这一模式的“成功者”。</li>
+</ul>
+</li>
+<li><p><strong>后周政权脆弱性</strong>  </p>
+<ul>
+<li>柴荣早逝、幼主继位，中枢缺乏强力人物制衡，为兵变提供可乘之机。</li>
+</ul>
+</li>
+<li><p><strong>赵匡胤的政治智慧</strong></p>
+</li>
+</ol>
+<ul>
+<li>巧妙利用舆论（天命、民意）、军事布局（控制禁军）、政治妥协（优待后周皇室），实现平稳过渡。</li>
+</ul>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>“黄袍加身”的本质是<strong>五代武人政治的延续与终结</strong>：  </p>
+<ul>
+<li><strong>延续</strong>：赵匡胤以兵变夺权，遵循了五代军阀篡位的传统路径；  </li>
+<li><strong>终结</strong>：他通过制度重构（如收兵权、重文治），彻底改变了乱世逻辑，奠定了宋朝三百余年的稳定基业。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>五行中金为什么生水</title>
+    <url>/2025/02/16/2025-02-16-%E4%BA%94%E8%A1%8C%E4%B8%AD%E9%87%91%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%9F%E6%B0%B4/</url>
+    <content><![CDATA[<p>五行学说中的“金生水”是古代中国哲学对自然界物质和能量转化关系的一种抽象表达。以下是“金生水”的具体解释：</p>
+<hr>
+<h3 id="一、五行的基本关系"><a href="#一、五行的基本关系" class="headerlink" title="一、五行的基本关系"></a><strong>一、五行的基本关系</strong></h3><p>五行（金、木、水、火、土）之间存在<strong>相生</strong>和<strong>相克</strong>的关系：  </p>
+<ul>
+<li><strong>相生</strong>：金→水→木→火→土→金（循环）。  </li>
+<li><strong>相克</strong>：金→木→土→水→火→金（循环）。</li>
+</ul>
+<p>“金生水”是相生关系中的一环，表示金对水的生成或促进作用。</p>
+<hr>
+<h3 id="二、“金生水”的具体含义"><a href="#二、“金生水”的具体含义" class="headerlink" title="二、“金生水”的具体含义"></a><strong>二、“金生水”的具体含义</strong></h3><ol>
+<li><p><strong>自然现象的解释</strong>  </p>
+<ul>
+<li><strong>金属凝结水汽</strong>：古代观察到金属表面在潮湿环境中容易凝结水珠（如清晨的露水），认为金属具有“生水”的特性。  </li>
+<li><strong>矿物与水的关系</strong>：金属矿石多存在于地下，而地下水常与矿脉相伴，古人认为金属能“孕育”水源。</li>
+</ul>
+</li>
+<li><p><strong>哲学与象征意义</strong>  </p>
+<ul>
+<li><strong>金象征收敛与凝聚</strong>：金的属性为“收敛”，水为“流动”，金通过凝聚作用使水汽凝结成液态水。  </li>
+<li><strong>能量转化</strong>：金代表固态、坚硬，水代表液态、流动，金生水象征从固态到液态的转化过程。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、古代文献中的“金生水”"><a href="#三、古代文献中的“金生水”" class="headerlink" title="三、古代文献中的“金生水”"></a><strong>三、古代文献中的“金生水”</strong></h3><ol>
+<li><p><strong>《尚书·洪范》</strong>  </p>
+<ul>
+<li>提到“五行”的基本概念，但未详细解释相生关系。</li>
+</ul>
+</li>
+<li><p><strong>《黄帝内经》</strong>  </p>
+<ul>
+<li>将五行与人体生理结合，认为“金生水”对应肺（金）与肾（水）的关系，肺气清肃下行可滋养肾水。</li>
+</ul>
+</li>
+<li><p><strong>《淮南子》</strong>  </p>
+<ul>
+<li>进一步阐释五行相生，提出“金生水”是自然界物质转化的规律之一。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="四、现代视角的解读"><a href="#四、现代视角的解读" class="headerlink" title="四、现代视角的解读"></a><strong>四、现代视角的解读</strong></h3><ol start="4">
+<li><p><strong>科学角度</strong>  </p>
+<ul>
+<li>金属表面凝结水珠是物理现象（如露水形成），古人通过观察总结出“金生水”的规律。  </li>
+<li>金属矿石与地下水的共生关系也符合现代地质学知识。</li>
+</ul>
+</li>
+<li><p><strong>文化象征</strong>  </p>
+<ul>
+<li>“金生水”体现了古人对自然界物质循环的朴素认知，具有深刻的哲学意义。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="五、总结"><a href="#五、总结" class="headerlink" title="五、总结"></a><strong>五、总结</strong></h3><p>“金生水”是五行学说中相生关系的体现，既源于古人对自然现象的观察（如金属凝结水汽），也蕴含了哲学上的能量转化思想。它不仅是古代中国哲学的重要组成部分，也反映了古人对自然规律的深刻理解。</p>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>大学与中庸</title>
+    <url>/2025/02/16/2025-02-16-%E5%A4%A7%E5%AD%A6%E4%B8%8E%E4%B8%AD%E5%BA%B8/</url>
+    <content><![CDATA[<p>《中庸》和《大学》是儒家经典“四书”中的两部重要著作，集中体现了儒家的哲学思想、伦理观念和政治理想。以下是它们的主要内容概述：</p>
+<hr>
+<h3 id="一、《大学》"><a href="#一、《大学》" class="headerlink" title="一、《大学》"></a><strong>一、《大学》</strong></h3><h4 id="1-核心思想"><a href="#1-核心思想" class="headerlink" title="1. 核心思想"></a><strong>1. 核心思想</strong></h4><ul>
+<li><p><strong>“三纲领”</strong>：明明德、亲民、止于至善。  </p>
+<ul>
+<li><strong>明明德</strong>：发扬光明的德行。  </li>
+<li><strong>亲民</strong>：亲近百姓，教化民众。  </li>
+<li><strong>止于至善</strong>：追求至善的境界。</li>
+</ul>
+</li>
+<li><p><strong>“八条目”</strong>：格物、致知、诚意、正心、修身、齐家、治国、平天下。  </p>
+<ul>
+<li>从个人修养到社会治理的完整路径，强调“修身”是根本。</li>
+</ul>
+</li>
+</ul>
+<h4 id="2-主要内容"><a href="#2-主要内容" class="headerlink" title="2. 主要内容"></a><strong>2. 主要内容</strong></h4><ul>
+<li><strong>修身为本</strong>：个人道德修养是治国平天下的基础。  </li>
+<li><strong>内外兼修</strong>：通过“格物致知”探究事物本质，通过“诚意正心”培养内在品德。  </li>
+<li><strong>政治理想</strong>：以德治国，强调君主的道德表率作用。</li>
+</ul>
+<h4 id="3-历史地位"><a href="#3-历史地位" class="headerlink" title="3. 历史地位"></a><strong>3. 历史地位</strong></h4><ul>
+<li>《大学》是儒家“内圣外王”思想的集中体现，对后世儒学发展影响深远。</li>
+</ul>
+<hr>
+<h3 id="二、《中庸》"><a href="#二、《中庸》" class="headerlink" title="二、《中庸》"></a><strong>二、《中庸》</strong></h3><h4 id="1-核心思想-1"><a href="#1-核心思想-1" class="headerlink" title="1. 核心思想"></a><strong>1. 核心思想</strong></h4><ul>
+<li><p><strong>“中庸之道”</strong>：不偏不倚，恰到好处，追求和谐与平衡。  </p>
+<ul>
+<li><strong>中</strong>：不偏不倚，合乎正道。  </li>
+<li><strong>庸</strong>：平常、不易，指普遍适用的原则。</li>
+</ul>
+</li>
+<li><p><strong>“天命之谓性，率性之谓道，修道之谓教”</strong>：  </p>
+<ul>
+<li>人性本于天命，遵循本性即为道，通过修养实现教化。</li>
+</ul>
+</li>
+</ul>
+<h4 id="2-主要内容-1"><a href="#2-主要内容-1" class="headerlink" title="2. 主要内容"></a><strong>2. 主要内容</strong></h4><ul>
+<li><strong>天人合一</strong>：强调人与自然的和谐统一。  </li>
+<li><strong>诚</strong>：至诚是达到中庸境界的关键，诚则明，明则达。  </li>
+<li><strong>修身与治国</strong>：个人修养与政治实践相结合，强调“君子之道”。</li>
+</ul>
+<h4 id="3-历史地位-1"><a href="#3-历史地位-1" class="headerlink" title="3. 历史地位"></a><strong>3. 历史地位</strong></h4><ul>
+<li>《中庸》是儒家哲学的高峰，对宋明理学（如朱熹的“理气论”）有深远影响。</li>
+</ul>
+<hr>
+<h3 id="三、两书的联系与区别"><a href="#三、两书的联系与区别" class="headerlink" title="三、两书的联系与区别"></a><strong>三、两书的联系与区别</strong></h3><table>
+<thead>
+<tr>
+<th><strong>项目</strong></th>
+<th><strong>《大学》</strong></th>
+<th><strong>《中庸》</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>核心</strong></td>
+<td>修身齐家治国平天下</td>
+<td>中庸之道，追求和谐与平衡</td>
+</tr>
+<tr>
+<td><strong>重点</strong></td>
+<td>个人修养与社会治理的路径</td>
+<td>天人合一，至诚与中庸的境界</td>
+</tr>
+<tr>
+<td><strong>方法</strong></td>
+<td>格物致知、诚意正心</td>
+<td>诚、明、中、和</td>
+</tr>
+<tr>
+<td><strong>目标</strong></td>
+<td>实现“内圣外王”的理想社会</td>
+<td>达到“天人合一”的最高境界</td>
+</tr>
+</tbody></table>
+<hr>
+<h3 id="四、总结"><a href="#四、总结" class="headerlink" title="四、总结"></a><strong>四、总结</strong></h3><ul>
+<li><strong>《大学》</strong>：提供了一条从个人修养到社会治理的完整路径，强调“修身”是根本。  </li>
+<li><strong>《中庸》</strong>：阐述了儒家追求和谐与平衡的哲学思想，强调“诚”与“中庸”的重要性。<br>两者共同构成了儒家思想的核心体系，对后世中国文化产生了深远影响。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>王安石变法的内容与失败的原因</title>
     <url>/2025/02/15/2025-02-15-%E7%8E%8B%E5%AE%89%E7%9F%B3%E5%8F%98%E6%B3%95%E7%9A%84%E5%86%85%E5%AE%B9%E4%B8%8E%E5%A4%B1%E8%B4%A5%E7%9A%84%E5%8E%9F%E5%9B%A0/</url>
     <content><![CDATA[<hr>
 <h3 id="一、王安石变法的核心内容"><a href="#一、王安石变法的核心内容" class="headerlink" title="一、王安石变法的核心内容"></a><strong>一、王安石变法的核心内容</strong></h3><p><strong>时间背景</strong>：北宋神宗时期（1069-1084年），北宋面临“三冗”（冗官、冗兵、冗费）危机，财政空虚，边疆压力（辽、西夏）加剧。王安石以“富国强兵”为目标，推行全面改革，史称<strong>熙宁变法</strong>。</p>
@@ -2306,283 +2583,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>黄袍加身的背景</title>
-    <url>/2025/02/15/2025-02-15-%E9%BB%84%E8%A2%8D%E5%8A%A0%E8%BA%AB%E7%9A%84%E8%83%8C%E6%99%AF/</url>
-    <content><![CDATA[<p><strong>“黄袍加身”的背景解析：以赵匡胤陈桥兵变为例</strong></p>
-<hr>
-<h3 id="一、历史背景：五代十国的乱局"><a href="#一、历史背景：五代十国的乱局" class="headerlink" title="一、历史背景：五代十国的乱局"></a><strong>一、历史背景：五代十国的乱局</strong></h3><ol>
-<li><p><strong>政权频繁更迭</strong><br>唐朝灭亡后（907年），中国进入<strong>五代十国</strong>时期（907-960年），中原地区先后出现后梁、后唐、后晋、后汉、后周五个短命王朝，南方则分裂为多个割据政权。  </p>
-<ul>
-<li><strong>特点</strong>：军阀混战、皇权衰弱，武将篡位成常态（如后唐李嗣源、后晋石敬瑭均以兵变夺权）。</li>
-</ul>
-</li>
-<li><p><strong>后周世宗的改革与早逝</strong>  </p>
-<ul>
-<li>后周世宗<strong>柴荣</strong>（954-959年在位）励精图治，推行军事、经济改革，意图统一天下。  </li>
-<li>柴荣于959年北伐契丹途中病逝，年仅7岁的<strong>柴宗训</strong>继位，主少国疑，政局不稳。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="二、赵匡胤的权力积累"><a href="#二、赵匡胤的权力积累" class="headerlink" title="二、赵匡胤的权力积累"></a><strong>二、赵匡胤的权力积累</strong></h3><ol>
-<li><p><strong>军权在握</strong>  </p>
-<ul>
-<li>赵匡胤早年追随郭威（后周开国皇帝），因战功升任<strong>殿前都点检</strong>（禁军最高统帅），掌控中央精锐部队。  </li>
-<li>柴荣临终前任命其为<strong>归德军节度使</strong>，驻守汴京（今开封），进一步巩固其势力。</li>
-</ul>
-</li>
-<li><p><strong>政治布局</strong>  </p>
-<ul>
-<li>赵匡胤在军中安插亲信（如石守信、高怀德），并与文臣<strong>赵普</strong>等人结盟，形成“文武合力”的集团。  </li>
-<li>后周朝廷内部空虚，宰相<strong>范质</strong>、<strong>王溥</strong>缺乏实权，难以制衡赵匡胤。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="三、陈桥兵变的具体过程"><a href="#三、陈桥兵变的具体过程" class="headerlink" title="三、陈桥兵变的具体过程"></a><strong>三、陈桥兵变的具体过程</strong></h3><ol>
-<li><p><strong>契丹南侵的“借口”</strong>  </p>
-<ul>
-<li>960年正月初一，边关急报契丹与北汉联军南下，朝廷命赵匡胤率军北上御敌。  </li>
-<li><strong>疑点</strong>：史学家多认为此情报为赵匡胤集团伪造，旨在制造出师之名。</li>
-</ul>
-</li>
-<li><p><strong>陈桥驿兵变</strong>  </p>
-<ul>
-<li>大军行至汴京东北的<strong>陈桥驿</strong>（今河南封丘）时，赵匡胤佯装醉酒，其弟<strong>赵光义</strong>与亲信<strong>赵普</strong>煽动将士，宣称“天子幼弱，我等愿拥立赵点检为帝！”  </li>
-<li>士兵将预先准备的<strong>黄袍</strong>披在赵匡胤身上，高呼万岁，逼其接受“天命”。</li>
-</ul>
-</li>
-<li><p><strong>兵不血刃夺权</strong>  </p>
-<ul>
-<li>赵匡胤率军返回汴京，守将<strong>石守信</strong>（其内应）打开城门，后周君臣束手就擒。  </li>
-<li>赵匡胤逼迫柴宗训禅位，建立<strong>宋朝</strong>，改元“建隆”，史称“北宋”。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="四、“黄袍”的象征意义"><a href="#四、“黄袍”的象征意义" class="headerlink" title="四、“黄袍”的象征意义"></a><strong>四、“黄袍”的象征意义</strong></h3><ol start="4">
-<li><p><strong>皇权专属颜色</strong>  </p>
-<ul>
-<li><strong>黄色</strong>自隋唐起逐渐成为皇帝专属色（如唐高宗规定“庶人不得服黄”），黄袍象征天命所归的合法君主身份。  </li>
-<li>赵匡胤披黄袍之举，既是对传统的继承，也是对“君权神授”的宣示。</li>
-</ul>
-</li>
-<li><p><strong>避免篡逆恶名</strong>  </p>
-<ul>
-<li>赵匡胤刻意营造“被迫称帝”的假象，强调“部下拥戴”“天命难违”，淡化篡位色彩，以维护政权合法性。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="五、历史影响"><a href="#五、历史影响" class="headerlink" title="五、历史影响"></a><strong>五、历史影响</strong></h3><ol start="6">
-<li><p><strong>结束五代乱局</strong>  </p>
-<ul>
-<li>宋朝的建立标志着五代十国分裂时代的终结，开启了中国历史上<strong>文治盛世</strong>的新阶段。  </li>
-<li>赵匡胤通过“杯酒释兵权”削弱武将权力，确立“重文轻武”的国策。</li>
-</ul>
-</li>
-<li><p><strong>强化中央集权</strong>  </p>
-<ul>
-<li>吸取五代教训，宋朝实行<strong>强干弱枝</strong>政策，收地方兵权、财权于中央，避免军阀割据重演。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="六、深层原因分析"><a href="#六、深层原因分析" class="headerlink" title="六、深层原因分析"></a><strong>六、深层原因分析</strong></h3><ol start="8">
-<li><p><strong>五代武人政治的必然结果</strong>  </p>
-<ul>
-<li>武将拥兵自重、皇权依赖军功集团，导致政权更迭频繁，赵匡胤只是这一模式的“成功者”。</li>
-</ul>
-</li>
-<li><p><strong>后周政权脆弱性</strong>  </p>
-<ul>
-<li>柴荣早逝、幼主继位，中枢缺乏强力人物制衡，为兵变提供可乘之机。</li>
-</ul>
-</li>
-<li><p><strong>赵匡胤的政治智慧</strong></p>
-</li>
-</ol>
-<ul>
-<li>巧妙利用舆论（天命、民意）、军事布局（控制禁军）、政治妥协（优待后周皇室），实现平稳过渡。</li>
-</ul>
-<hr>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>“黄袍加身”的本质是<strong>五代武人政治的延续与终结</strong>：  </p>
-<ul>
-<li><strong>延续</strong>：赵匡胤以兵变夺权，遵循了五代军阀篡位的传统路径；  </li>
-<li><strong>终结</strong>：他通过制度重构（如收兵权、重文治），彻底改变了乱世逻辑，奠定了宋朝三百余年的稳定基业。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>公务员考试</category>
-        <category>常识</category>
-      </categories>
-      <tags>
-        <tag>公务员考试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>大学与中庸</title>
-    <url>/2025/02/16/2025-02-16-%E5%A4%A7%E5%AD%A6%E4%B8%8E%E4%B8%AD%E5%BA%B8/</url>
-    <content><![CDATA[<p>《中庸》和《大学》是儒家经典“四书”中的两部重要著作，集中体现了儒家的哲学思想、伦理观念和政治理想。以下是它们的主要内容概述：</p>
-<hr>
-<h3 id="一、《大学》"><a href="#一、《大学》" class="headerlink" title="一、《大学》"></a><strong>一、《大学》</strong></h3><h4 id="1-核心思想"><a href="#1-核心思想" class="headerlink" title="1. 核心思想"></a><strong>1. 核心思想</strong></h4><ul>
-<li><p><strong>“三纲领”</strong>：明明德、亲民、止于至善。  </p>
-<ul>
-<li><strong>明明德</strong>：发扬光明的德行。  </li>
-<li><strong>亲民</strong>：亲近百姓，教化民众。  </li>
-<li><strong>止于至善</strong>：追求至善的境界。</li>
-</ul>
-</li>
-<li><p><strong>“八条目”</strong>：格物、致知、诚意、正心、修身、齐家、治国、平天下。  </p>
-<ul>
-<li>从个人修养到社会治理的完整路径，强调“修身”是根本。</li>
-</ul>
-</li>
-</ul>
-<h4 id="2-主要内容"><a href="#2-主要内容" class="headerlink" title="2. 主要内容"></a><strong>2. 主要内容</strong></h4><ul>
-<li><strong>修身为本</strong>：个人道德修养是治国平天下的基础。  </li>
-<li><strong>内外兼修</strong>：通过“格物致知”探究事物本质，通过“诚意正心”培养内在品德。  </li>
-<li><strong>政治理想</strong>：以德治国，强调君主的道德表率作用。</li>
-</ul>
-<h4 id="3-历史地位"><a href="#3-历史地位" class="headerlink" title="3. 历史地位"></a><strong>3. 历史地位</strong></h4><ul>
-<li>《大学》是儒家“内圣外王”思想的集中体现，对后世儒学发展影响深远。</li>
-</ul>
-<hr>
-<h3 id="二、《中庸》"><a href="#二、《中庸》" class="headerlink" title="二、《中庸》"></a><strong>二、《中庸》</strong></h3><h4 id="1-核心思想-1"><a href="#1-核心思想-1" class="headerlink" title="1. 核心思想"></a><strong>1. 核心思想</strong></h4><ul>
-<li><p><strong>“中庸之道”</strong>：不偏不倚，恰到好处，追求和谐与平衡。  </p>
-<ul>
-<li><strong>中</strong>：不偏不倚，合乎正道。  </li>
-<li><strong>庸</strong>：平常、不易，指普遍适用的原则。</li>
-</ul>
-</li>
-<li><p><strong>“天命之谓性，率性之谓道，修道之谓教”</strong>：  </p>
-<ul>
-<li>人性本于天命，遵循本性即为道，通过修养实现教化。</li>
-</ul>
-</li>
-</ul>
-<h4 id="2-主要内容-1"><a href="#2-主要内容-1" class="headerlink" title="2. 主要内容"></a><strong>2. 主要内容</strong></h4><ul>
-<li><strong>天人合一</strong>：强调人与自然的和谐统一。  </li>
-<li><strong>诚</strong>：至诚是达到中庸境界的关键，诚则明，明则达。  </li>
-<li><strong>修身与治国</strong>：个人修养与政治实践相结合，强调“君子之道”。</li>
-</ul>
-<h4 id="3-历史地位-1"><a href="#3-历史地位-1" class="headerlink" title="3. 历史地位"></a><strong>3. 历史地位</strong></h4><ul>
-<li>《中庸》是儒家哲学的高峰，对宋明理学（如朱熹的“理气论”）有深远影响。</li>
-</ul>
-<hr>
-<h3 id="三、两书的联系与区别"><a href="#三、两书的联系与区别" class="headerlink" title="三、两书的联系与区别"></a><strong>三、两书的联系与区别</strong></h3><table>
-<thead>
-<tr>
-<th><strong>项目</strong></th>
-<th><strong>《大学》</strong></th>
-<th><strong>《中庸》</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>核心</strong></td>
-<td>修身齐家治国平天下</td>
-<td>中庸之道，追求和谐与平衡</td>
-</tr>
-<tr>
-<td><strong>重点</strong></td>
-<td>个人修养与社会治理的路径</td>
-<td>天人合一，至诚与中庸的境界</td>
-</tr>
-<tr>
-<td><strong>方法</strong></td>
-<td>格物致知、诚意正心</td>
-<td>诚、明、中、和</td>
-</tr>
-<tr>
-<td><strong>目标</strong></td>
-<td>实现“内圣外王”的理想社会</td>
-<td>达到“天人合一”的最高境界</td>
-</tr>
-</tbody></table>
-<hr>
-<h3 id="四、总结"><a href="#四、总结" class="headerlink" title="四、总结"></a><strong>四、总结</strong></h3><ul>
-<li><strong>《大学》</strong>：提供了一条从个人修养到社会治理的完整路径，强调“修身”是根本。  </li>
-<li><strong>《中庸》</strong>：阐述了儒家追求和谐与平衡的哲学思想，强调“诚”与“中庸”的重要性。<br>两者共同构成了儒家思想的核心体系，对后世中国文化产生了深远影响。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>公务员考试</category>
-        <category>常识</category>
-      </categories>
-      <tags>
-        <tag>公务员考试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>五行中金为什么生水</title>
-    <url>/2025/02/16/2025-02-16-%E4%BA%94%E8%A1%8C%E4%B8%AD%E9%87%91%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%9F%E6%B0%B4/</url>
-    <content><![CDATA[<p>五行学说中的“金生水”是古代中国哲学对自然界物质和能量转化关系的一种抽象表达。以下是“金生水”的具体解释：</p>
-<hr>
-<h3 id="一、五行的基本关系"><a href="#一、五行的基本关系" class="headerlink" title="一、五行的基本关系"></a><strong>一、五行的基本关系</strong></h3><p>五行（金、木、水、火、土）之间存在<strong>相生</strong>和<strong>相克</strong>的关系：  </p>
-<ul>
-<li><strong>相生</strong>：金→水→木→火→土→金（循环）。  </li>
-<li><strong>相克</strong>：金→木→土→水→火→金（循环）。</li>
-</ul>
-<p>“金生水”是相生关系中的一环，表示金对水的生成或促进作用。</p>
-<hr>
-<h3 id="二、“金生水”的具体含义"><a href="#二、“金生水”的具体含义" class="headerlink" title="二、“金生水”的具体含义"></a><strong>二、“金生水”的具体含义</strong></h3><ol>
-<li><p><strong>自然现象的解释</strong>  </p>
-<ul>
-<li><strong>金属凝结水汽</strong>：古代观察到金属表面在潮湿环境中容易凝结水珠（如清晨的露水），认为金属具有“生水”的特性。  </li>
-<li><strong>矿物与水的关系</strong>：金属矿石多存在于地下，而地下水常与矿脉相伴，古人认为金属能“孕育”水源。</li>
-</ul>
-</li>
-<li><p><strong>哲学与象征意义</strong>  </p>
-<ul>
-<li><strong>金象征收敛与凝聚</strong>：金的属性为“收敛”，水为“流动”，金通过凝聚作用使水汽凝结成液态水。  </li>
-<li><strong>能量转化</strong>：金代表固态、坚硬，水代表液态、流动，金生水象征从固态到液态的转化过程。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="三、古代文献中的“金生水”"><a href="#三、古代文献中的“金生水”" class="headerlink" title="三、古代文献中的“金生水”"></a><strong>三、古代文献中的“金生水”</strong></h3><ol>
-<li><p><strong>《尚书·洪范》</strong>  </p>
-<ul>
-<li>提到“五行”的基本概念，但未详细解释相生关系。</li>
-</ul>
-</li>
-<li><p><strong>《黄帝内经》</strong>  </p>
-<ul>
-<li>将五行与人体生理结合，认为“金生水”对应肺（金）与肾（水）的关系，肺气清肃下行可滋养肾水。</li>
-</ul>
-</li>
-<li><p><strong>《淮南子》</strong>  </p>
-<ul>
-<li>进一步阐释五行相生，提出“金生水”是自然界物质转化的规律之一。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="四、现代视角的解读"><a href="#四、现代视角的解读" class="headerlink" title="四、现代视角的解读"></a><strong>四、现代视角的解读</strong></h3><ol start="4">
-<li><p><strong>科学角度</strong>  </p>
-<ul>
-<li>金属表面凝结水珠是物理现象（如露水形成），古人通过观察总结出“金生水”的规律。  </li>
-<li>金属矿石与地下水的共生关系也符合现代地质学知识。</li>
-</ul>
-</li>
-<li><p><strong>文化象征</strong>  </p>
-<ul>
-<li>“金生水”体现了古人对自然界物质循环的朴素认知，具有深刻的哲学意义。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="五、总结"><a href="#五、总结" class="headerlink" title="五、总结"></a><strong>五、总结</strong></h3><p>“金生水”是五行学说中相生关系的体现，既源于古人对自然现象的观察（如金属凝结水汽），也蕴含了哲学上的能量转化思想。它不仅是古代中国哲学的重要组成部分，也反映了古人对自然规律的深刻理解。</p>
-]]></content>
-      <categories>
-        <category>公务员考试</category>
-        <category>常识</category>
-      </categories>
-      <tags>
-        <tag>公务员考试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>尚书、礼记、春秋</title>
     <url>/2025/02/16/2025-02-16-%E5%B0%9A%E4%B9%A6%E3%80%81%E7%A4%BC%E8%AE%B0%E3%80%81%E6%98%A5%E7%A7%8B/</url>
     <content><![CDATA[<ul>
@@ -2609,6 +2609,431 @@ import {initHBE} from "/js/plugins/hbe.js";
 </ul>
 </li>
 </ul>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>维生素缺乏症状的原因及其来源</title>
+    <url>/2025/02/17/2025-02-17-%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%BC%BA%E4%B9%8F%E7%97%87%E7%8A%B6%E5%8F%8A%E5%85%B6%E6%9D%A5%E6%BA%90/</url>
+    <content><![CDATA[<hr>
+<table>
+<thead>
+<tr>
+<th>维生素</th>
+<th>可溶性</th>
+<th>缺乏症</th>
+<th>来源</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>维生素A</td>
+<td>脂溶性</td>
+<td>夜盲症、干眼病和皮肤粗糙、发干</td>
+<td>鱼肝油、动物肝脏、绿色蔬菜</td>
+</tr>
+<tr>
+<td>维生素B1</td>
+<td>水溶性</td>
+<td>脚气病、神经性皮炎</td>
+<td>酵母、谷物、肝脏、大豆、肉类</td>
+</tr>
+<tr>
+<td>维生素B2</td>
+<td>水溶性</td>
+<td>口腔溃疡</td>
+<td>酵母、肝脏、蔬菜、蛋类</td>
+</tr>
+<tr>
+<td>维生素B9（<strong>叶酸</strong>）</td>
+<td>水溶性</td>
+<td>贫血</td>
+<td>蔬菜叶、肝脏</td>
+</tr>
+<tr>
+<td>维生素C</td>
+<td>水溶性</td>
+<td>坏血病</td>
+<td>新鲜蔬菜、水果</td>
+</tr>
+<tr>
+<td>维生素D</td>
+<td>脂溶性</td>
+<td>软骨病（佝偻病）</td>
+<td>鱼肝油、蛋黄、乳制品、酵母，<strong>唯一一种人体可以合成的维生素</strong></td>
+</tr>
+<tr>
+<td>维生素E</td>
+<td>脂溶性</td>
+<td>不利于生育</td>
+<td>鸡蛋、肝脏、鱼类、植物油</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="维生素的命名逻辑"><a href="#维生素的命名逻辑" class="headerlink" title="维生素的命名逻辑"></a>维生素的命名逻辑</h2><p><strong>维生素A</strong>之所以被命名为”A”，是因为它是第一个被发现并命名的维生素。具体来说，维生素的命名遵循了一定的历史逻辑和顺序，尤其是最早发现的维生素。</p>
+<h3 id="1-维生素A的命名："><a href="#1-维生素A的命名：" class="headerlink" title="1. 维生素A的命名："></a>1. <strong>维生素A的命名：</strong></h3><p>维生素A（包括视黄醇及其相关衍生物）是第一个被发现并命名为“维生素”的营养素。早在<strong>20世纪初</strong>，科学家们发现缺乏这种物质会导致一系列健康问题（如夜盲症），并且在实验中证明它是必需的营养素，维持正常生理功能。由于它是第一个被研究并命名的维生素，因此被称为<strong>维生素A</strong>。</p>
+<h3 id="2-维生素的命名规则："><a href="#2-维生素的命名规则：" class="headerlink" title="2. 维生素的命名规则："></a>2. <strong>维生素的命名规则：</strong></h3><p>维生素的命名并没有严格的统一标准，但通常根据其发现的顺序和字母顺序来命名。例如：</p>
+<ul>
+<li><strong>维生素A</strong>：第一个被发现的维生素，主要与视觉、免疫系统、皮肤健康等相关。</li>
+<li><strong>维生素B</strong>：第二个被发现的维生素，实际上维生素B有多个亚型（如维生素B1、B2、B3等），这些不同的B族维生素最初是作为一种类群的维生素研究的，后来根据具体的化学性质和作用进行了细分。<ul>
+<li><strong>维生素B1</strong>（硫胺素）</li>
+<li><strong>维生素B2</strong>（核黄素）</li>
+<li><strong>维生素B3</strong>（烟酸，尼克酸）</li>
+<li>依此类推，维生素B群包含了许多不同的成员。</li>
+</ul>
+</li>
+<li><strong>维生素C</strong>：第三个被发现的维生素，最著名的功能是增强免疫力，预防坏血病等。</li>
+<li><strong>维生素D、E、K等</strong>：每一个新的维生素都会按照字母顺序命名。</li>
+</ul>
+<h3 id="3-命名的逻辑："><a href="#3-命名的逻辑：" class="headerlink" title="3. 命名的逻辑："></a>3. <strong>命名的逻辑：</strong></h3><p>维生素的命名并不是根据它们的功能或化学结构来命名的，而是<strong>根据它们被发现的顺序</strong>。这种方式主要是为了方便在早期的科学研究中对不同的维生素进行区分。例如：</p>
+<ul>
+<li>维生素A是第一个被发现的，所以它得到了”A”的命名。</li>
+<li>维生素B在被发现时被认为是一个大类群，因此它被命名为”B”，并且后来根据具体成分和作用继续细分为B1、B2等。</li>
+<li>后来的维生素，如维生素C、D、E、K等，也遵循了这一命名顺序。</li>
+</ul>
+<h3 id="4-维生素的命名与功能的关系："><a href="#4-维生素的命名与功能的关系：" class="headerlink" title="4. 维生素的命名与功能的关系："></a>4. <strong>维生素的命名与功能的关系：</strong></h3><p>虽然维生素的命名遵循字母顺序，但有时其名称和功能并不直接相关。例如：</p>
+<ul>
+<li><strong>维生素C</strong>，虽然名称为C，但它与视力无关，而是与免疫、抗氧化和胶原蛋白合成有关。</li>
+<li><strong>维生素D</strong>，其名称为D，但它主要涉及钙和磷的代谢，对骨骼健康至关重要。</li>
+</ul>
+<h3 id="总结："><a href="#总结：" class="headerlink" title="总结："></a>总结：</h3><p>维生素的命名基本上是按照其被发现的先后顺序来进行的，而不是根据其具体的生物学功能或化学结构。维生素A作为第一个被发现的维生素，得到了“A”的命名。随着研究的深入，科学家们发现了更多不同类型的维生素，并根据发现的顺序进行了命名。</p>
+<hr>
+<h2 id="缺乏维生素A为什么会导致这些症状"><a href="#缺乏维生素A为什么会导致这些症状" class="headerlink" title="缺乏维生素A为什么会导致这些症状"></a>缺乏维生素A为什么会导致这些症状</h2><p>缺乏<strong>维生素A</strong>会影响到多种身体功能，尤其是视力、免疫系统和皮肤健康。维生素A是一种脂溶性维生素，主要以视黄醇的形式存在，它在体内的主要作用包括促进视网膜对光的反应、维持皮肤和粘膜的健康等。缺乏维生素A会导致一系列的健康问题，具体来说：</p>
+<h3 id="1-夜盲症（Nyctalopia）"><a href="#1-夜盲症（Nyctalopia）" class="headerlink" title="1. 夜盲症（Nyctalopia）"></a>1. <strong>夜盲症（Nyctalopia）</strong></h3><ul>
+<li><strong>原因</strong>：夜盲症是缺乏维生素A引起的最常见眼部症状。维生素A是<strong>视紫红质</strong>（Rhodopsin）的关键成分，视紫红质是一种帮助眼睛在低光环境下（如夜间）感知光线的色素。<ul>
+<li>视紫红质在眼睛的视网膜中起着至关重要的作用，它能帮助眼睛将光线转换为神经信号传递到大脑。</li>
+<li>当缺乏维生素A时，视紫红质合成不足，导致眼睛无法在低光环境下有效工作，从而出现夜盲症，即在昏暗或夜晚的环境中难以看见。</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-干眼症（Xerophthalmia）"><a href="#2-干眼症（Xerophthalmia）" class="headerlink" title="2. 干眼症（Xerophthalmia）"></a>2. <strong>干眼症（Xerophthalmia）</strong></h3><ul>
+<li><strong>原因</strong>：维生素A对眼睛的正常泪液分泌和眼部表面健康至关重要。缺乏维生素A会导致眼部组织（尤其是角膜和结膜）的健康问题。具体机制如下：<ul>
+<li>维生素A缺乏时，角膜的上皮细胞不能正常分化，导致角膜变干、粗糙，甚至可能发生角膜溃疡。</li>
+<li>眼泪腺的分泌功能受损，导致眼睛干涩、发痒、易感染，严重时可能引发失明。</li>
+<li>干眼症是维生素A缺乏的典型表现之一，尤其是在发展中国家。</li>
+</ul>
+</li>
+</ul>
+<h3 id="3-皮肤粗糙发干"><a href="#3-皮肤粗糙发干" class="headerlink" title="3. 皮肤粗糙发干"></a>3. <strong>皮肤粗糙发干</strong></h3><ul>
+<li><strong>原因</strong>：维生素A在保持皮肤健康方面扮演着重要角色，特别是在皮肤细胞的分化和修复中。具体表现为：<ul>
+<li>维生素A缺乏时，皮肤的角质形成过程受到干扰，导致皮肤干燥、粗糙、脱屑。</li>
+<li>皮肤的保湿能力下降，角质层不再保持正常的屏障功能，容易出现干裂和瘙痒。</li>
+<li>皮肤可能会呈现鳞屑状、粗糙和干裂，尤其在四肢、面部等部位更为明显。</li>
+</ul>
+</li>
+</ul>
+<h3 id="维生素A的来源："><a href="#维生素A的来源：" class="headerlink" title="维生素A的来源："></a>维生素A的来源：</h3><p>维生素A主要来自两种途径：</p>
+<ol>
+<li><strong>动物性食物</strong>（如肝脏、鱼油、蛋黄等）中的视黄醇。</li>
+<li><strong>植物性食物</strong>中的β-胡萝卜素（如胡萝卜、菠菜、甘蓝等），在体内可转化为维生素A。</li>
+</ol>
+<h3 id="总结：-1"><a href="#总结：-1" class="headerlink" title="总结："></a>总结：</h3><p>缺乏维生素A会导致夜盲症、干眼症和皮肤粗糙发干等症状。通过保证摄入足够的维生素A，可以预防这些问题的发生，维持眼睛和皮肤的健康。如果摄入不足，特别是在长期偏食或营养不均衡的情况下，维生素A缺乏可能引发这些明显的健康问题。</p>
+<hr>
+<h2 id="其他维生素的病理机制"><a href="#其他维生素的病理机制" class="headerlink" title="其他维生素的病理机制"></a>其他维生素的病理机制</h2><h3 id="1-维生素B1（硫胺素）"><a href="#1-维生素B1（硫胺素）" class="headerlink" title="1. 维生素B1（硫胺素）"></a>1. <strong>维生素B1（硫胺素）</strong></h3><ul>
+<li><strong>缺乏症：脚气病、神经性皮炎</strong></li>
+<li><strong>病理机制</strong>：维生素B1在体内参与能量代谢，尤其是糖类代谢中的关键酶的活性。缺乏维生素B1会导致神经系统的功能障碍，表现为神经性皮炎和脚气病。脚气病常见的症状包括水肿、乏力和心脏衰竭，主要由于神经和心血管系统受到损害。</li>
+</ul>
+<h3 id="2-维生素B2（核黄素）"><a href="#2-维生素B2（核黄素）" class="headerlink" title="2. 维生素B2（核黄素）"></a>2. <strong>维生素B2（核黄素）</strong></h3><ul>
+<li><strong>缺乏症：口腔溃疡</strong></li>
+<li><strong>病理机制</strong>：维生素B2是许多酶的辅酶，参与脂肪、碳水化合物和蛋白质的代谢。缺乏维生素B2会导致口腔粘膜和皮肤的健康问题，主要表现为口腔溃疡、唇部干裂等，因其在皮肤和粘膜的修复中起着重要作用。</li>
+</ul>
+<h3 id="3-维生素B9（叶酸）"><a href="#3-维生素B9（叶酸）" class="headerlink" title="3. 维生素B9（叶酸）"></a>3. <strong>维生素B9（叶酸）</strong></h3><ul>
+<li><strong>缺乏症：贫血</strong></li>
+<li><strong>病理机制</strong>：维生素B9是红细胞生成的必需成分，缺乏时会导致红细胞生成减少，表现为巨幼红细胞性贫血，导致体内缺氧。贫血的症状包括疲劳、面色苍白和心跳加速。</li>
+</ul>
+<h3 id="4-维生素C（抗坏血酸）"><a href="#4-维生素C（抗坏血酸）" class="headerlink" title="4. 维生素C（抗坏血酸）"></a>4. <strong>维生素C（抗坏血酸）</strong></h3><ul>
+<li><strong>缺乏症：坏血病</strong></li>
+<li><strong>病理机制</strong>：维生素C对胶原蛋白的合成至关重要，缺乏它会导致胶原蛋白合成不足，影响血管壁的强度，导致血管脆弱。坏血病的症状包括牙龈出血、皮肤出现淤血斑块、虚弱等。</li>
+</ul>
+<h3 id="5-维生素D"><a href="#5-维生素D" class="headerlink" title="5. 维生素D"></a>5. <strong>维生素D</strong></h3><ul>
+<li><strong>缺乏症：软骨病（佝偻病）</strong></li>
+<li><strong>病理机制</strong>：维生素D有助于钙和磷的吸收，缺乏时，体内钙的吸收不足，导致骨骼软化。软骨病表现为儿童的骨骼发育不良，长骨变形、弯曲。</li>
+</ul>
+<h3 id="6-维生素E"><a href="#6-维生素E" class="headerlink" title="6. 维生素E"></a>6. <strong>维生素E</strong></h3><ul>
+<li><strong>缺乏症：不利于生育</strong></li>
+<li><strong>病理机制</strong>：维生素E是一种重要的抗氧化剂，可以保护细胞免受自由基的伤害。缺乏维生素E会导致生殖系统的损害，特别是男性的精子生成能力下降，从而影响生育能力。</li>
+</ul>
+<p>每种维生素在体内的作用都不同，缺乏它们会通过干扰不同的生理过程，导致特定的疾病发生。</p>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>盐水为什么可以清洗掉桃子表面的细毛</title>
+    <url>/2025/02/17/2025-02-17-%E7%9B%90%E6%B0%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AF%E4%BB%A5%E6%B8%85%E6%B4%97%E6%8E%89%E6%A1%83%E5%AD%90%E8%A1%A8%E9%9D%A2%E7%9A%84%E7%BB%86%E6%AF%9B/</url>
+    <content><![CDATA[<p>盐水可以清除桃子表面的细毛，主要是因为盐水的化学和物理作用。以下是具体原因：</p>
+<hr>
+<h3 id="一、盐水的化学作用"><a href="#一、盐水的化学作用" class="headerlink" title="一、盐水的化学作用"></a><strong>一、盐水的化学作用</strong></h3><ol>
+<li><p><strong>软化细毛</strong>  </p>
+<ul>
+<li>盐水中的<strong>氯化钠（NaCl）</strong>能够渗透到桃子表面的细毛中，破坏细毛的细胞结构，使其变软、脱落。  </li>
+<li>细毛的主要成分是<strong>纤维素</strong>，盐水可以使其吸水膨胀，变得更容易脱落。</li>
+</ul>
+</li>
+<li><p><strong>溶解作用</strong>  </p>
+<ul>
+<li>盐水具有一定的<strong>溶解能力</strong>，可以溶解细毛表面的部分物质（如果胶），使细毛与桃子表面的附着力减弱。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="二、盐水的物理作用"><a href="#二、盐水的物理作用" class="headerlink" title="二、盐水的物理作用"></a><strong>二、盐水的物理作用</strong></h3><ol>
+<li><p><strong>摩擦力增强</strong>  </p>
+<ul>
+<li>盐水增加了桃子表面的<strong>湿润度</strong>，使细毛更容易被摩擦掉。  </li>
+<li>用手或刷子在盐水中搓洗桃子时，细毛在摩擦力的作用下更容易脱落。</li>
+</ul>
+</li>
+<li><p><strong>浮力作用</strong>  </p>
+<ul>
+<li>盐水密度高于清水，细毛在盐水中受到的<strong>浮力</strong>更大，更容易从桃子表面脱离。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、操作步骤"><a href="#三、操作步骤" class="headerlink" title="三、操作步骤"></a><strong>三、操作步骤</strong></h3><ol>
+<li>准备一盆清水，加入适量食盐（约1-2汤匙），搅拌至溶解。  </li>
+<li>将桃子放入盐水中浸泡5-10分钟。  </li>
+<li>用手或软刷轻轻搓洗桃子表面，细毛会逐渐脱落。  </li>
+<li>用清水冲洗干净即可。</li>
+</ol>
+<hr>
+<h3 id="四、注意事项"><a href="#四、注意事项" class="headerlink" title="四、注意事项"></a><strong>四、注意事项</strong></h3><ol>
+<li><strong>盐水浓度</strong>：盐浓度不宜过高，否则可能影响桃子口感。  </li>
+<li><strong>浸泡时间</strong>：时间过长可能导致桃子吸水变软，影响口感。  </li>
+<li><strong>清洗工具</strong>：使用软刷或手搓洗，避免损伤桃子表皮。</li>
+</ol>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>盐水通过<strong>软化细毛、增强摩擦力</strong>等作用，能够有效清除桃子表面的细毛。这种方法简单、环保，且不会影响桃子的营养价值。</p>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>塔西佗与修昔底德</title>
+    <url>/2025/02/17/2025-02-17-%E5%A1%94%E8%A5%BF%E4%BD%97%E4%B8%8E%E4%BF%AE%E6%98%94%E5%BA%95%E5%BE%B7/</url>
+    <content><![CDATA[<h2 id="塔西佗陷阱"><a href="#塔西佗陷阱" class="headerlink" title="塔西佗陷阱"></a>塔西佗陷阱</h2><hr>
+<p><strong>塔西佗陷阱</strong>是一个政治学和社会学术语，源自古罗马历史学家<strong>塔西佗</strong>（Tacitus）的名言：“当一个政府失去公信力时，无论它说真话还是假话，做好事还是坏事，都会被认为是说假话、做坏事。”这一概念在现代被用来描述政府或权威机构因长期失信而陷入的困境。</p>
+<hr>
+<h3 id="一、核心含义"><a href="#一、核心含义" class="headerlink" title="一、核心含义"></a><strong>一、核心含义</strong></h3><ol>
+<li><p><strong>公信力丧失</strong>  </p>
+<ul>
+<li>当政府或机构因腐败、不作为或错误决策而失去公众信任时，其言行无论真假、好坏，都会被公众质疑或否定。</li>
+</ul>
+</li>
+<li><p><strong>恶性循环</strong>  </p>
+<ul>
+<li>公信力丧失导致政府难以有效推行政策，进一步加剧社会不满，形成“越做越错，越错越做”的恶性循环。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="二、历史背景"><a href="#二、历史背景" class="headerlink" title="二、历史背景"></a><strong>二、历史背景</strong></h3><ol>
+<li><p><strong>塔西佗的观察</strong>  </p>
+<ul>
+<li>塔西佗在《历史》中描述了罗马帝国统治者的失信行为及其后果，揭示了公信力对政权稳定的重要性。</li>
+</ul>
+</li>
+<li><p><strong>现代应用</strong>  </p>
+<ul>
+<li>20世纪后期，学者将这一概念引入政治学，用于分析政府信任危机及其对社会治理的影响。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、现实案例"><a href="#三、现实案例" class="headerlink" title="三、现实案例"></a><strong>三、现实案例</strong></h3><ol>
+<li><p><strong>政府失信</strong>  </p>
+<ul>
+<li>某些地方政府因隐瞒疫情、数据造假等行为，导致公众对官方信息产生普遍怀疑。</li>
+</ul>
+</li>
+<li><p><strong>企业危机</strong>  </p>
+<ul>
+<li>企业因产品质量问题或虚假宣传失去消费者信任，即使后续改进也难以挽回声誉。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="四、影响与后果"><a href="#四、影响与后果" class="headerlink" title="四、影响与后果"></a><strong>四、影响与后果</strong></h3><ol>
+<li><p><strong>社会不稳定</strong>  </p>
+<ul>
+<li>公信力丧失可能导致社会矛盾激化，甚至引发抗议或动荡。</li>
+</ul>
+</li>
+<li><p><strong>治理失效</strong>  </p>
+<ul>
+<li>政府政策难以推行，公众配合度下降，社会治理成本增加。</li>
+</ul>
+</li>
+<li><p><strong>经济受损</strong>  </p>
+<ul>
+<li>企业或行业陷入信任危机，可能引发市场恐慌或经济衰退。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="五、应对策略"><a href="#五、应对策略" class="headerlink" title="五、应对策略"></a><strong>五、应对策略</strong></h3><ol start="4">
+<li><p><strong>透明与问责</strong>  </p>
+<ul>
+<li>提高信息公开度，建立有效的问责机制，重塑公众信任。</li>
+</ul>
+</li>
+<li><p><strong>沟通与参与</strong>  </p>
+<ul>
+<li>加强与公众的沟通，倾听民意，提高政策制定的参与度。</li>
+</ul>
+</li>
+<li><p><strong>长期建设</strong>  </p>
+<ul>
+<li>通过持续改进治理能力和服务质量，逐步恢复公信力。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>塔西佗陷阱揭示了公信力对政府和社会治理的重要性。避免陷入这一陷阱的关键在于<strong>透明、诚信和有效沟通</strong>，以重建公众信任，维护社会稳定。</p>
+<hr>
+<h2 id="修昔底德陷阱"><a href="#修昔底德陷阱" class="headerlink" title="修昔底德陷阱"></a>修昔底德陷阱</h2><hr>
+<p><strong>修昔底德陷阱</strong>是一个国际关系理论，由美国政治学家<strong>格雷厄姆·艾利森</strong>（Graham Allison）提出，用于描述一个新崛起的大国与现有守成大国之间因竞争而可能爆发冲突的现象。这一概念源于古希腊历史学家<strong>修昔底德</strong>（Thucydides）对伯罗奔尼撒战争的描述。</p>
+<hr>
+<h3 id="一、核心含义-1"><a href="#一、核心含义-1" class="headerlink" title="一、核心含义"></a><strong>一、核心含义</strong></h3><ol>
+<li><p><strong>定义</strong>  </p>
+<ul>
+<li>当一个崛起大国威胁到现有守成大国的地位时，双方可能因恐惧、误判或利益冲突而陷入战争。</li>
+</ul>
+</li>
+<li><p><strong>经典表述</strong>  </p>
+<ul>
+<li>修昔底德在《伯罗奔尼撒战争史》中写道：“使战争不可避免的真正原因是雅典势力的增长及其引起的斯巴达的恐惧。”</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="二、起源背景"><a href="#二、起源背景" class="headerlink" title="二、起源背景"></a><strong>二、起源背景</strong></h3><ol>
+<li><p><strong>伯罗奔尼撒战争</strong>  </p>
+<ul>
+<li><strong>时间</strong>：公元前431年-前404年。  </li>
+<li><strong>双方</strong>：雅典（崛起的海上强国）与斯巴达（守成的陆地强国）。  </li>
+<li><strong>结果</strong>：战争导致希腊城邦体系的衰落，最终被马其顿征服。</li>
+</ul>
+</li>
+<li><p><strong>修昔底德的观察</strong>  </p>
+<ul>
+<li>修昔底德认为，雅典的崛起及其对斯巴达霸权的挑战是战争的根本原因，而非表面上的小规模冲突。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、现代应用"><a href="#三、现代应用" class="headerlink" title="三、现代应用"></a><strong>三、现代应用</strong></h3><ol>
+<li><p><strong>理论提出</strong>  </p>
+<ul>
+<li>格雷厄姆·艾利森在2012年首次提出“修昔底德陷阱”概念，用于分析中美关系的潜在风险。</li>
+</ul>
+</li>
+<li><p><strong>历史案例</strong>  </p>
+<ul>
+<li><strong>16世纪</strong>：西班牙与英国的竞争（如无敌舰队之战）。  </li>
+<li><strong>20世纪</strong>：德国崛起引发两次世界大战。  </li>
+<li><strong>冷战</strong>：美苏争霸（未直接开战，但多次接近冲突边缘）。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="四、现实意义"><a href="#四、现实意义" class="headerlink" title="四、现实意义"></a><strong>四、现实意义</strong></h3><ol>
+<li><p><strong>中美关系</strong>  </p>
+<ul>
+<li>中国的崛起被视为对美国的挑战，双方在贸易、科技、军事等领域的竞争加剧了“修昔底德陷阱”的讨论。</li>
+</ul>
+</li>
+<li><p><strong>全球影响</strong>  </p>
+<ul>
+<li>大国冲突可能导致全球经济衰退、政治动荡甚至战争，对国际秩序构成重大威胁。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="五、应对策略-1"><a href="#五、应对策略-1" class="headerlink" title="五、应对策略"></a><strong>五、应对策略</strong></h3><ol>
+<li><p><strong>外交与对话</strong>  </p>
+<ul>
+<li>通过多边机制（如联合国、G20）加强沟通，减少误判。</li>
+</ul>
+</li>
+<li><p><strong>经济合作</strong>  </p>
+<ul>
+<li>深化经济 interdependence（相互依赖），降低冲突风险。</li>
+</ul>
+</li>
+<li><p><strong>危机管理</strong>  </p>
+<ul>
+<li>建立有效的危机管控机制，防止局部冲突升级为全面战争。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="总结-1"><a href="#总结-1" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>修昔底德陷阱揭示了国际关系中大国竞争的潜在风险。通过<strong>外交、合作与危机管理</strong>，可以降低冲突的可能性，维护全球和平与稳定。</p>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>核磁共振的基本原理</title>
+    <url>/2025/02/18/2025-02-18-%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/</url>
+    <content><![CDATA[<p><strong>核磁共振（NMR，Nuclear Magnetic Resonance）</strong>是一种基于原子核磁性原理的分析技术，广泛应用于化学、物理学、生物学以及医学（如核磁共振成像MRI）。核磁共振的原理主要依赖于原子核在外加磁场中的行为和特定频率的射频脉冲。</p>
+<h3 id="核磁共振的基本原理："><a href="#核磁共振的基本原理：" class="headerlink" title="核磁共振的基本原理："></a>核磁共振的基本原理：</h3><ol>
+<li><p><strong>原子核的自旋和磁性</strong>：</p>
+<ul>
+<li>原子核（如氢核H、碳核C、氮核N等）具有自旋（内部角动量），并且这些自旋表现出磁性。不同的原子核在外部磁场中会根据其磁性（即“磁矩”）与外磁场相互作用，产生不同的能量状态。</li>
+</ul>
+</li>
+<li><p><strong>外加磁场的作用</strong>：</p>
+<ul>
+<li>当样品置于强磁场中时，带有自旋的原子核的磁矩会与外磁场相互作用。由于每种核的磁性不同，它们在外磁场中的能量状态和磁共振频率也不同。</li>
+<li>在外磁场中，原子核的自旋可以“取向”两种方式之一：与外磁场方向一致（低能态），或与外磁场方向相反（高能态）。</li>
+</ul>
+</li>
+<li><p><strong>射频脉冲的激发</strong>：</p>
+<ul>
+<li>当向样品施加一个特定频率的射频脉冲时，如果该频率与原子核的能量差匹配，原子核将从低能态跃迁到高能态。</li>
+<li>射频脉冲的频率通常与外磁场的强度以及原子核的种类有关，因此不同类型的原子核（如氢、碳、氮等）会有不同的共振频率。</li>
+</ul>
+</li>
+<li><p><strong>信号的接收和解读</strong>：</p>
+<ul>
+<li>当射频脉冲停止后，原子核会从高能态回到低能态，并释放出能量。这些释放的能量以射频信号的形式被探测器接收。</li>
+<li>这些信号的强度、频率和相位信息可以用来推断样品中各原子核的环境及其相对位置等信息。</li>
+</ul>
+</li>
+<li><p><strong>化学位移</strong>：</p>
+<ul>
+<li>不同化学环境下的原子核（例如氢原子在不同化学基团中的位置）会对外磁场产生不同的效应，导致它们的共振频率发生微小的变化。这种现象被称为<strong>化学位移</strong>，它是核磁共振技术中的一个关键特征，使得我们可以识别分子中的不同化学环境。</li>
+</ul>
+</li>
+</ol>
+<h3 id="核磁共振的应用："><a href="#核磁共振的应用：" class="headerlink" title="核磁共振的应用："></a>核磁共振的应用：</h3><ul>
+<li><strong>化学分析</strong>：通过NMR谱图分析化学分子的结构，确定原子之间的连接关系、官能团的环境等。</li>
+<li><strong>生物学研究</strong>：研究蛋白质、DNA、RNA等生物大分子的结构和相互作用。</li>
+<li><strong>医学成像（MRI）</strong>：利用核磁共振成像技术（MRI），通过检测体内水分子的磁共振信号，生成高分辨率的身体内部图像，用于诊断疾病，尤其是大脑、肌肉和软组织的成像。</li>
+</ul>
+<h3 id="总结："><a href="#总结：" class="headerlink" title="总结："></a>总结：</h3><p>核磁共振的原理基于原子核在外加磁场中自旋和磁性的行为，通过施加射频脉冲激发核的跃迁，并通过接收其释放的能量信号来分析物质的结构、成分或分布。在化学和生物学中，NMR是研究分子结构的强有力工具，而在医学领域，MRI则广泛用于非侵入性地成像人体内部结构。</p>
 ]]></content>
       <categories>
         <category>公务员考试</category>
@@ -2949,12 +3374,118 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>电脑空白图标解决方案</title>
-    <url>/2025/01/21/2025-1-21%20%E7%A9%BA%E7%99%BD%E5%9B%BE%E6%A0%87/</url>
-    <content><![CDATA[<p>新建txt文件，粘贴以下内容，更改后缀名为bat，双击运行</p>
-<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line"></span><br><span class="line">taskkill /f /im explorer.exe</span><br><span class="line"></span><br><span class="line">CD /d %userprofile%\AppData\Local</span><br><span class="line"></span><br><span class="line">DEL IconCache.db /a</span><br><span class="line"></span><br><span class="line">start explorer.exe</span><br><span class="line"></span><br><span class="line">cho 操作完成</span><br></pre></td></tr></table></figure></div>]]></content>
+    <title>黄光与红光</title>
+    <url>/2025/02/17/2025-02-17-%E9%BB%84%E5%85%89%E4%B8%8E%E7%BA%A2%E5%85%89/</url>
+    <content><![CDATA[<h2 id="穿透力"><a href="#穿透力" class="headerlink" title="穿透力"></a>穿透力</h2><p>红光和黄光的穿透力强弱主要取决于光的波长和介质特性。以下是详细分析：</p>
+<hr>
+<h3 id="一、光的波长与穿透力"><a href="#一、光的波长与穿透力" class="headerlink" title="一、光的波长与穿透力"></a><strong>一、光的波长与穿透力</strong></h3><ol>
+<li><p><strong>波长关系</strong>  </p>
+<ul>
+<li>红光波长：约620-750纳米（较长）。  </li>
+<li>黄光波长：约570-590纳米（较短）。  </li>
+<li><strong>规律</strong>：波长越长，穿透力越强。</li>
+</ul>
+</li>
+<li><p><strong>原因</strong>  </p>
+<ul>
+<li>长波长光线（如红光）能量较低，不易被介质散射或吸收，因此穿透力更强。  </li>
+<li>短波长光线（如黄光）能量较高，容易被介质中的微粒散射（如瑞利散射），穿透力较弱。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="二、不同介质中的表现"><a href="#二、不同介质中的表现" class="headerlink" title="二、不同介质中的表现"></a><strong>二、不同介质中的表现</strong></h3><ol>
+<li><p><strong>大气中</strong>  </p>
+<ul>
+<li>红光穿透力强于黄光，因此在雾霾或灰尘较多的环境中，红光更易传播（如交通信号灯使用红灯作为停止信号）。</li>
+</ul>
+</li>
+<li><p><strong>水中</strong>  </p>
+<ul>
+<li>红光在水中衰减较快（被吸收），而蓝光穿透力最强。但在浅水或浑浊水中，红光仍优于黄光。</li>
+</ul>
+</li>
+<li><p><strong>玻璃或透明介质</strong>  </p>
+<ul>
+<li>红光和黄光穿透力差异较小，但红光仍略胜一筹。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、实际应用"><a href="#三、实际应用" class="headerlink" title="三、实际应用"></a><strong>三、实际应用</strong></h3><ol start="4">
+<li><p><strong>交通信号灯</strong>  </p>
+<ul>
+<li>红灯穿透力强，适合远距离警示。  </li>
+<li>黄灯穿透力较弱，主要用于过渡信号。</li>
+</ul>
+</li>
+<li><p><strong>光学仪器</strong>  </p>
+<ul>
+<li>红光常用于激光测距、夜视设备等需要强穿透力的场景。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><ul>
+<li><strong>红光</strong>的波长较长，穿透力强于黄光，尤其在雾霾、灰尘等环境中表现更佳。  </li>
+<li><strong>黄光</strong>穿透力较弱，但在某些特定场景（如照明）中仍有广泛应用。</li>
+</ul>
+<hr>
+<h2 id="汽车雾灯为什么采用黄光"><a href="#汽车雾灯为什么采用黄光" class="headerlink" title="汽车雾灯为什么采用黄光"></a>汽车雾灯为什么采用黄光</h2><p>汽车雾灯选择黄色灯（或琥珀色灯）而不是红光，主要是基于<strong>人眼感知、安全性和实际效果</strong>的综合考虑。以下是具体原因：</p>
+<hr>
+<h3 id="一、人眼感知特性"><a href="#一、人眼感知特性" class="headerlink" title="一、人眼感知特性"></a><strong>一、人眼感知特性</strong></h3><ol>
+<li><p><strong>黄光的可见性</strong>  </p>
+<ul>
+<li>黄光波长（约570-590纳米）接近人眼最敏感的波长范围（555纳米，绿光），因此在雾天或低能见度条件下，黄光更容易被驾驶员察觉。</li>
+</ul>
+</li>
+<li><p><strong>红光的问题</strong>  </p>
+<ul>
+<li>红光波长较长（约620-750纳米），虽然穿透力强，但人眼对红光的敏感度较低，尤其在雾天，红光容易被散射，反而降低可见性。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="二、安全性与警示作用"><a href="#二、安全性与警示作用" class="headerlink" title="二、安全性与警示作用"></a><strong>二、安全性与警示作用</strong></h3><ol>
+<li><p><strong>黄光的警示效果</strong>  </p>
+<ul>
+<li>黄光在雾天能有效穿透水雾，同时保持较高的可见性，适合作为警示信号。  </li>
+<li>黄光与红光（刹车灯）区分明显，避免混淆。</li>
+</ul>
+</li>
+<li><p><strong>红光的问题</strong>  </p>
+<ul>
+<li>红光常用于刹车灯和尾灯，如果雾灯也用红光，容易与其他信号灯混淆，增加安全隐患。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、实际效果与科学依据"><a href="#三、实际效果与科学依据" class="headerlink" title="三、实际效果与科学依据"></a><strong>三、实际效果与科学依据</strong></h3><ol>
+<li><p><strong>散射与穿透的平衡</strong>  </p>
+<ul>
+<li>黄光在雾天既能有效穿透，又不会被过度散射，提供更好的照明效果。  </li>
+<li>红光虽然穿透力强，但在浓雾中容易被散射，反而降低能见度。</li>
+</ul>
+</li>
+<li><p><strong>历史与经验</strong>  </p>
+<ul>
+<li>早期实验表明，黄光在雾天的实际效果优于红光，因此被广泛采用。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="四、总结"><a href="#四、总结" class="headerlink" title="四、总结"></a><strong>四、总结</strong></h3><ul>
+<li><strong>黄光</strong>在雾天具有更好的可见性和警示效果，同时避免与红光信号灯混淆，因此被选为汽车雾灯的标准颜色。  </li>
+<li>虽然<strong>红光</strong>穿透力强，但其在人眼感知和安全性上的局限性使其不适合作为雾灯。</li>
+</ul>
+<p>这种设计体现了科学与实际需求的结合，旨在最大限度地提高行车安全。</p>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
       <tags>
-        <tag>code</tag>
+        <tag>公务员考试</tag>
       </tags>
   </entry>
   <entry>
@@ -2964,6 +3495,15 @@ import {initHBE} from "/js/plugins/hbe.js";
 <h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:start</span><br><span class="line">echo 请输入操作编号：</span><br><span class="line">echo 0. 退出</span><br><span class="line">echo 1. 执行 hexo clean</span><br><span class="line">echo 2. 执行 hexo generate</span><br><span class="line">echo 3. 执行 hexo server</span><br><span class="line">echo 4. 执行 hexo deploy</span><br><span class="line">echo 5. 执行 npm run server</span><br><span class="line">echo 6. 执行 npm run deploy</span><br><span class="line">set /p choice=输入:</span><br><span class="line"></span><br><span class="line">if "%choice%"=="0" (</span><br><span class="line">    exit /b</span><br><span class="line">) else if "%choice%"=="1" (</span><br><span class="line">    start "" cmd /c  hexo clean</span><br><span class="line">) else if "%choice%"=="2" (</span><br><span class="line">    start "" cmd /c hexo generate</span><br><span class="line">) else if "%choice%"=="3" (</span><br><span class="line">    start "" cmd /c hexo server</span><br><span class="line">) else if "%choice%"=="4" (</span><br><span class="line">    start "" cmd /c hexo deploy</span><br><span class="line">) else if "%choice%"=="5" (</span><br><span class="line">    start "" cmd /c npm run server</span><br><span class="line">) else if "%choice%"=="6" (</span><br><span class="line">    start "" cmd /c npm run deploy</span><br><span class="line">) else (</span><br><span class="line">    echo 输入错误，请输入 0、1、2 、3、4、5或 6。</span><br><span class="line">    goto start</span><br><span class="line">)</span><br><span class="line">echo 操作已完成，按任意键继续...</span><br><span class="line">pause &gt; nul</span><br><span class="line">goto start</span><br></pre></td></tr></table></figure></div>
 <h3 id="server-vbs"><a href="#server-vbs" class="headerlink" title="server.vbs"></a>server.vbs</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Set UAC = CreateObject("Shell.Application")</span><br><span class="line">UAC.ShellExecute "server.bat", "", "", "runas", 1</span><br></pre></td></tr></table></figure></div>
 ]]></content>
+      <tags>
+        <tag>code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>电脑空白图标解决方案</title>
+    <url>/2025/01/21/2025-1-21%20%E7%A9%BA%E7%99%BD%E5%9B%BE%E6%A0%87/</url>
+    <content><![CDATA[<p>新建txt文件，粘贴以下内容，更改后缀名为bat，双击运行</p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line"></span><br><span class="line">taskkill /f /im explorer.exe</span><br><span class="line"></span><br><span class="line">CD /d %userprofile%\AppData\Local</span><br><span class="line"></span><br><span class="line">DEL IconCache.db /a</span><br><span class="line"></span><br><span class="line">start explorer.exe</span><br><span class="line"></span><br><span class="line">cho 操作完成</span><br></pre></td></tr></table></figure></div>]]></content>
       <tags>
         <tag>code</tag>
       </tags>
