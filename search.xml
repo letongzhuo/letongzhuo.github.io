@@ -28,6 +28,32 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
+    <url>/2021/02/01/2021-2-1-%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="ac2c294148fe5f08ef71e1129aa8cffd4aecf76517c1d3164e1b5677cca82cfe">249107fcce4fdab00b19d327c31fd8f3391582e1934f620d485f8d387d53437fe866eca361f7e448cbd323c1ab078057e1d4619d48760fce188797ef5e29c71df3f2d0a383734f0b54ca103243d58e42e2b9f56845e5553b8efb88a26c176fda62ad7bcc2faf1f56cf7ba98d1b0237529d826f34a0d6adb67ef6caf71da7a2b560d5758f5332cab2dad14e1884024b6ae877c96777713fe06b85d0b16c5369b8c524cb9dbcf50ba0370024bc9f9dd14072c19c84f65d83eff795109d9084b440704b2ad559592b377ec42fbf82f7e2c762e5005d1cdb850c79be34451ad2f77a26f4fa53cdef064331b88d4d3105a2e2815d122a4060d3bdde391c450dce68bd25f9a29a4a9c94923cfa7e6f75072df03710d2e3a706b680de08f03e100303147b8244f82bb7755259004225b21d19f056357ab810af69cf5b6f1a29ed886150d1dd3f593f76b2539c682f2c0ec906f3c4eeb1c3d31702f2b92540db3f75574bca3839ed9168bd006da9c285d7bd723a9a7189aa67dd75faed4f28e7a6d9916e190d620c225263dc1a2be096306564be6c1015f520892cb05f4ba81eaab13e13fe89d3b5a064e94569d58204ed11c56a8ae5034da4e35ca297f3431b5ce4376631b10bb7cdfef1de2f2a249e2135ede68d3aa363c2798a40346eecf9dff120f8a86b08ac35a92ffdd354ddcfe73b613bb28448377b3df01440b083b030e9ce34af7302a9c2f88e6d9b732cc1ca038d058961a73a1c6c95477b871c38e7a4be53d225fe6c014305875203516f91845fcfabd2863fa8345f3ffaaa96114c2c596e75b69255165f35b5675fdf2458ee2d10d234e37931b6bbb09e2285430b3b2f7b206c3ed97af718fb78fc05a5f23db1beb480bfc24ad68b5c914c68ae01f187d1c11443a5dceeac5891424418193313b99c149eaa4064a5f5cb94c1680c8d65cc2f9823f493bcabf0525cb69bb9494060031fac4c2736521960259fd578642711e193c08217fa967a6e43ebcf2f39e98156e1cf0cbd5cb0b8cc62c5f9d3595c6c18e9b9bc04b607dfc3c617e9dfd0deb025a6184086796dfc416154ef04220794333437cd60a4c24203749676da211dd3e78e1580b269e20d6babf610836f507197c2cdc9f651dd6bf846df9656828e12bb5f512be4503d9a78679d37cacb91db708e9df541d636e40c652c5fe946422dda78da9592b92a806874142cbdc30af8ae101c84bf82a5553df1412b31b1a7e1a9ea70f7d8225598250f8ca1e0bcbdb14dbf5560e067f32d9dfddf8c3ce26548b0cb4cc1e8b6565b2996ae1ca3abd946c2b6309f21a6e0d7262f6f516b424e65e119aa600c725eae72de08d1b3a7f9c00c3fd2e70da8519715a11b2c642699cc28c30184b1b0774220cbe19d02f732421a01615f4371e8b09748a5e0a98aaa9c23d68b2b2d3efacc7f6c09bb74a8753bfd61b3f70bbf1dd7cadae4797680b4f9c7515f4823781a379d8a8b07fab22b319939f4bfa032b61ef21ddad3da9956a3a8180f4023a21377469b75df97c338e7f33e554ee90fae689d57605c0daa4785d9d7190942533ad23c8293ce27f889b9b97d2b5b9ac1610ae08c1a63b87b86e5d87d7ad14d5fad3df5ca475d49bc8dfe6ecf33c2e23be36235132ea194de0ee26a0ae838a8619f0f633b154121cdd7b784f754970a2541c7a4edcfb85ea05895513a11d03e0ac1491f09a0d92f7a442741a8d2c8e146b2f9bc2cd154341fbcb83a60f2b56f0b15275a66e65654818480e42fb58f77497f569295fadea3cbc5253871b5d14024585b941f9ea80cfa566467679447741af09dd8a1c979f48ee3992e006b8cfe7f61e0db23b56d6d00f865</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日记</title>
     <url>/2021/02/02/2021-2-2-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -54,10 +80,10 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/2021/02/01/2021-2-1-%E6%97%A5%E8%AE%B0/</url>
+    <url>/2021/03/14/2021-3-14-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="ac2c294148fe5f08ef71e1129aa8cffd4aecf76517c1d3164e1b5677cca82cfe">249107fcce4fdab00b19d327c31fd8f3391582e1934f620d485f8d387d53437fe866eca361f7e448cbd323c1ab078057e1d4619d48760fce188797ef5e29c71df3f2d0a383734f0b54ca103243d58e42e2b9f56845e5553b8efb88a26c176fda62ad7bcc2faf1f56cf7ba98d1b0237529d826f34a0d6adb67ef6caf71da7a2b560d5758f5332cab2dad14e1884024b6ae877c96777713fe06b85d0b16c5369b8c524cb9dbcf50ba0370024bc9f9dd14072c19c84f65d83eff795109d9084b440704b2ad559592b377ec42fbf82f7e2c762e5005d1cdb850c79be34451ad2f77a26f4fa53cdef064331b88d4d3105a2e2815d122a4060d3bdde391c450dce68bd25f9a29a4a9c94923cfa7e6f75072df03710d2e3a706b680de08f03e100303147b8244f82bb7755259004225b21d19f056357ab810af69cf5b6f1a29ed886150d1dd3f593f76b2539c682f2c0ec906f3c4eeb1c3d31702f2b92540db3f75574bca3839ed9168bd006da9c285d7bd723a9a7189aa67dd75faed4f28e7a6d9916e190d620c225263dc1a2be096306564be6c1015f520892cb05f4ba81eaab13e13fe89d3b5a064e94569d58204ed11c56a8ae5034da4e35ca297f3431b5ce4376631b10bb7cdfef1de2f2a249e2135ede68d3aa363c2798a40346eecf9dff120f8a86b08ac35a92ffdd354ddcfe73b613bb28448377b3df01440b083b030e9ce34af7302a9c2f88e6d9b732cc1ca038d058961a73a1c6c95477b871c38e7a4be53d225fe6c014305875203516f91845fcfabd2863fa8345f3ffaaa96114c2c596e75b69255165f35b5675fdf2458ee2d10d234e37931b6bbb09e2285430b3b2f7b206c3ed97af718fb78fc05a5f23db1beb480bfc24ad68b5c914c68ae01f187d1c11443a5dceeac5891424418193313b99c149eaa4064a5f5cb94c1680c8d65cc2f9823f493bcabf0525cb69bb9494060031fac4c2736521960259fd578642711e193c08217fa967a6e43ebcf2f39e98156e1cf0cbd5cb0b8cc62c5f9d3595c6c18e9b9bc04b607dfc3c617e9dfd0deb025a6184086796dfc416154ef04220794333437cd60a4c24203749676da211dd3e78e1580b269e20d6babf610836f507197c2cdc9f651dd6bf846df9656828e12bb5f512be4503d9a78679d37cacb91db708e9df541d636e40c652c5fe946422dda78da9592b92a806874142cbdc30af8ae101c84bf82a5553df1412b31b1a7e1a9ea70f7d8225598250f8ca1e0bcbdb14dbf5560e067f32d9dfddf8c3ce26548b0cb4cc1e8b6565b2996ae1ca3abd946c2b6309f21a6e0d7262f6f516b424e65e119aa600c725eae72de08d1b3a7f9c00c3fd2e70da8519715a11b2c642699cc28c30184b1b0774220cbe19d02f732421a01615f4371e8b09748a5e0a98aaa9c23d68b2b2d3efacc7f6c09bb74a8753bfd61b3f70bbf1dd7cadae4797680b4f9c7515f4823781a379d8a8b07fab22b319939f4bfa032b61ef21ddad3da9956a3a8180f4023a21377469b75df97c338e7f33e554ee90fae689d57605c0daa4785d9d7190942533ad23c8293ce27f889b9b97d2b5b9ac1610ae08c1a63b87b86e5d87d7ad14d5fad3df5ca475d49bc8dfe6ecf33c2e23be36235132ea194de0ee26a0ae838a8619f0f633b154121cdd7b784f754970a2541c7a4edcfb85ea05895513a11d03e0ac1491f09a0d92f7a442741a8d2c8e146b2f9bc2cd154341fbcb83a60f2b56f0b15275a66e65654818480e42fb58f77497f569295fadea3cbc5253871b5d14024585b941f9ea80cfa566467679447741af09dd8a1c979f48ee3992e006b8cfe7f61e0db23b56d6d00f865</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="abc3339a655f449b8b0e49bf85e351a332f6c31f85a95225f75d668afb94908a">249107fcce4fdab00b19d327c31fd8f33af60cc07c7fca5acec9f3d9dbfa6fd6e04d38ad181f8cede03dd9af51349f8d4fa3fd4380e1f3f378354b9b8cf3efeb07b5cd0c0e3a9f3ef9a6a531dc851d28fbbd58642fbb329bdbda96bcaaa5bd3d4b9656f9fbf2527ef07c20767129c8b8e2fdc0688d580ee71d32eafb308094da8893e9abd989e48c177e0d3f443760d5583705f01b844b1431473f39beef9a08</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -513,32 +539,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>日记</title>
-    <url>/2021/03/14/2021-3-14-%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="abc3339a655f449b8b0e49bf85e351a332f6c31f85a95225f75d668afb94908a">249107fcce4fdab00b19d327c31fd8f33af60cc07c7fca5acec9f3d9dbfa6fd6e04d38ad181f8cede03dd9af51349f8d4fa3fd4380e1f3f378354b9b8cf3efeb07b5cd0c0e3a9f3ef9a6a531dc851d28fbbd58642fbb329bdbda96bcaaa5bd3d4b9656f9fbf2527ef07c20767129c8b8e2fdc0688d580ee71d32eafb308094da8893e9abd989e48c177e0d3f443760d5583705f01b844b1431473f39beef9a08</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>进程与线程</title>
     <url>/2024/11/23/2024-11-23-%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B/</url>
     <content><![CDATA[<h2 id="2-1进程与线程"><a href="#2-1进程与线程" class="headerlink" title="2.1进程与线程"></a>2.1进程与线程</h2><ul>
@@ -977,44 +977,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>日记</title>
-    <url>/2024/03/28/2024-3-28-%E5%81%87%E5%A6%82%E6%88%91%E9%9D%9E%E6%88%91/</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="ebb562d6867eb06dec0363dc213d8ae21512c9856d46b7efca7c7a8ee9908ec7">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367e98022a39ab29962c777f5319f7acaf2f958a15522f42427c85885cebdd50bdb821b10c46703e458b587925a483e3e36782cc5eda6bb3f558ed23252f64cc7a51e9847b5afb61b533709ae3cc93c830a7a754ea90383b3269c6b7acbc2133241fedcc540ae05941361af842177345da7d9284db4d9f8f8f2ef563c68270fc64a140837e852358ce268f899e30d6c61b42c9fd3ff487f7977f857bb5c8e6429292bb35f2f7d1e20ecbfb1e5992a81af9c3a6b6049510c389fe6fcb3986bb93b2b3fce382e1a56fbd0baffea681ad901bcac9787a643dbdea42517b8df6198ecf516f876685e052eb14840e560d3afb8409bb09c56d192cd6fd4633fde748f4ab76196a97217312a629318c275ca206d02d76ce67b31876d63060140141583dc2b4fa31f24ca5c8ba0e841908a39ce5fd37daef14a728fd0105726941e43ad8d85e706d1190450d4fea95c6512d46fe7cd491ed30ac94528938232134f575562c43f40d50f06ddd34ed809be6454d6113c8e8f573d2e1d522de16b61cd135e0727b00753742e10114b793cc3f099f5a96c59d4805ae76a5f71b26698bc18659df87c5e85165ef4eca20be3a2dd1bc8fb256a64b6ed603ecf72262f89cead105d14b8f129a113662b27551955bc31475b4dc2e4810f953ec700d48bae44a84bef6b685ef9393cafde20b9a6d8e75822c012c85fe62f1fca4c62924b0e3d65c1c1233894823341edc138266117d6421d4e70343be1a8555c3965b5f8d5b779f033f1c166a9c9824ce636a5c8813e3a1ddbddbc65f6cacb1bcc3e0cbae3193176c9e3bd9d683ca7c9ff190148081d460620ad0a0e614783502d566421c744ef7b8387ed7bd23460a3c8e47adfa7f924143d4eceea06889dc21ea5f09e5c3e2274da846d178a97a771f204bae9ffccb73b3c40d1ad73656e1dc2f269256c3dc8deea543654afc82b9498f48ef27abdcb83693a7de5a7062e3f9cdf1ba61cb776382359562f50472f7d2a35dba969c320ba8b00f2a3b2238924c0b1d134c50bfc4924f16f2aa5b46ee3ac4639972e94e58a813fcb57426594c352541fd524460fbf89d196890e284e8fc78e26b27c7a032a337c0f19862f286b8f5b42eb4941409bf5817931281bce5b2a71e833e1b6d50ecae27946f9351f2fecca0f0aea9ad2f10f53f2969be434e9537b07e689096873196d41837eb53eb8366e7ae9e2390cacc0c6d8b907b5ce8779175cc25f06e4aa8eba246d98c0323d329c280f4cbc05ae087867a7830d0fd27c54d6ff690dfb111634ec470569a5811541a7e9df318d2028002033e554568ad83f7c75a021d207ddd3f1ee1d7f5ee22136aa2713ffeff9008ecc05821f410c11ce9d62b04719c74ef310c2a7b001c62eb911b536a68e2dda142de4a083ab8366ad731f69a0b38049c074a2d3cd37e6dbb834b89f3acc783c6856c68a14e4ec12f7d14638d9d044527ba78561ee7530c4e7ab1896bc5d360358dfc381d8c8a6f3e15c38cb70330361505b92bc292a6a38cd3b348f52481d48f0b87ddfbf1b2e3307cc739ed1f590a1417c0b40e5bdcaa6a204faa897a609b36d99fd21a56f322902ad709fc82a8f8160</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>三体笔记</title>
-    <url>/2024/03/28/2024-3-28-%E4%B8%89%E4%BD%93%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<ul>
-<li>罗辑离开墓碑，站到他为自己挖掘的墓穴旁，将手枪顶到自己的心脏位置，说：”现在，我将让自己的心脏停止跳动，与此同时我也将成为两个世界有史以来最大的罪犯。对于所犯下的罪行，我对两个文明表示深深的歉意，但不会忏悔，因为这是唯一的选择。我知道智子就在身边，但你们对人类的呼唤从不理睬，无言是最大的轻蔑，我们忍受这种轻蔑已经两个世纪了，现在，如果你们愿意，可以继续保持沉默，我只给你们三十秒钟时间。</li>
-<li>晚霞之后可以看星星,朝霞之后只剩下光天化日的现实了</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>三体</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>内存管理</title>
     <url>/2024/12/07/2024-12-7-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</url>
     <content><![CDATA[<h2 id="内存管理概念"><a href="#内存管理概念" class="headerlink" title="内存管理概念"></a>内存管理概念</h2><ul>
@@ -1276,12 +1238,15 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>杂记</title>
-    <url>/2024/03/28/2024-3-28-%E5%BF%86%E5%85%AB%E5%8D%81%E4%BA%BA%E7%94%9F/</url>
-    <content><![CDATA[<p><strong>@峥峥名车汇</strong>：我已八十了，看见6岁的自己，在田野里跌倒，弄脏了衣服，弄丢了玩具，惊慌又失措。我想告诉他，没关系，成长的路慢慢来。<br><br><br>我已八十了，看在12岁的自己翻山徒步去教室上课，没有新书包、没有新鞋子，自卑又尴尬。我想告诉他，别怯懦，嘲笑的人与你的人生本就是平行线，日后不会相交。<br><br><br>我已八十了，看见18岁的自己，没考上一本，面对昏暗的大学，失落又无奈。我想告诉他，要坚持，一时失败不代表节节败退，日后的你也会快乐精彩。<br><br><br>我已八十了，看见24岁的自己，独自躺在手术台，害怕又担忧。我想告诉他，别担心会过去，生活会继续<br><br><br>我已八十了，看见34岁的自己，一事无成，未婚未育，迷茫又无助。我想告诉他，别内疚，成家立业不是每个人的必经之路，坚定内心选择也不会怎么样。<br><br><br>我已八十了，看见50岁的自己，看见父母离去，无助又迷茫，我想告诉他，人生就是一个人，离开自己看本我，无所谓聚散离合。<br><br><br>我已八十了，看见80岁的自己，生命如风中烛光摇摇曳曳，膝下无子，爱人离去，平静又慈祥。我想告诉我自己，这一生你已足够幸运，足够努力，无需任何人评价。人生就是看见自己的过程，我看见我自己的一生，惊慌的、怯懦的、失落的、内疚的、最后释然的离开。</p>
+    <title>三体笔记</title>
+    <url>/2024/03/28/2024-3-28-%E4%B8%89%E4%BD%93%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<ul>
+<li>罗辑离开墓碑，站到他为自己挖掘的墓穴旁，将手枪顶到自己的心脏位置，说：”现在，我将让自己的心脏停止跳动，与此同时我也将成为两个世界有史以来最大的罪犯。对于所犯下的罪行，我对两个文明表示深深的歉意，但不会忏悔，因为这是唯一的选择。我知道智子就在身边，但你们对人类的呼唤从不理睬，无言是最大的轻蔑，我们忍受这种轻蔑已经两个世纪了，现在，如果你们愿意，可以继续保持沉默，我只给你们三十秒钟时间。</li>
+<li>晚霞之后可以看星星,朝霞之后只剩下光天化日的现实了</li>
+</ul>
 ]]></content>
       <tags>
-        <tag>评论笔记</tag>
+        <tag>三体</tag>
       </tags>
   </entry>
   <entry>
@@ -1311,9 +1276,35 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>日记</title>
+    <url>/2024/03/28/2024-3-28-%E5%81%87%E5%A6%82%E6%88%91%E9%9D%9E%E6%88%91/</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="ebb562d6867eb06dec0363dc213d8ae21512c9856d46b7efca7c7a8ee9908ec7">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367e98022a39ab29962c777f5319f7acaf2f958a15522f42427c85885cebdd50bdb821b10c46703e458b587925a483e3e36782cc5eda6bb3f558ed23252f64cc7a51e9847b5afb61b533709ae3cc93c830a7a754ea90383b3269c6b7acbc2133241fedcc540ae05941361af842177345da7d9284db4d9f8f8f2ef563c68270fc64a140837e852358ce268f899e30d6c61b42c9fd3ff487f7977f857bb5c8e6429292bb35f2f7d1e20ecbfb1e5992a81af9c3a6b6049510c389fe6fcb3986bb93b2b3fce382e1a56fbd0baffea681ad901bcac9787a643dbdea42517b8df6198ecf516f876685e052eb14840e560d3afb8409bb09c56d192cd6fd4633fde748f4ab76196a97217312a629318c275ca206d02d76ce67b31876d63060140141583dc2b4fa31f24ca5c8ba0e841908a39ce5fd37daef14a728fd0105726941e43ad8d85e706d1190450d4fea95c6512d46fe7cd491ed30ac94528938232134f575562c43f40d50f06ddd34ed809be6454d6113c8e8f573d2e1d522de16b61cd135e0727b00753742e10114b793cc3f099f5a96c59d4805ae76a5f71b26698bc18659df87c5e85165ef4eca20be3a2dd1bc8fb256a64b6ed603ecf72262f89cead105d14b8f129a113662b27551955bc31475b4dc2e4810f953ec700d48bae44a84bef6b685ef9393cafde20b9a6d8e75822c012c85fe62f1fca4c62924b0e3d65c1c1233894823341edc138266117d6421d4e70343be1a8555c3965b5f8d5b779f033f1c166a9c9824ce636a5c8813e3a1ddbddbc65f6cacb1bcc3e0cbae3193176c9e3bd9d683ca7c9ff190148081d460620ad0a0e614783502d566421c744ef7b8387ed7bd23460a3c8e47adfa7f924143d4eceea06889dc21ea5f09e5c3e2274da846d178a97a771f204bae9ffccb73b3c40d1ad73656e1dc2f269256c3dc8deea543654afc82b9498f48ef27abdcb83693a7de5a7062e3f9cdf1ba61cb776382359562f50472f7d2a35dba969c320ba8b00f2a3b2238924c0b1d134c50bfc4924f16f2aa5b46ee3ac4639972e94e58a813fcb57426594c352541fd524460fbf89d196890e284e8fc78e26b27c7a032a337c0f19862f286b8f5b42eb4941409bf5817931281bce5b2a71e833e1b6d50ecae27946f9351f2fecca0f0aea9ad2f10f53f2969be434e9537b07e689096873196d41837eb53eb8366e7ae9e2390cacc0c6d8b907b5ce8779175cc25f06e4aa8eba246d98c0323d329c280f4cbc05ae087867a7830d0fd27c54d6ff690dfb111634ec470569a5811541a7e9df318d2028002033e554568ad83f7c75a021d207ddd3f1ee1d7f5ee22136aa2713ffeff9008ecc05821f410c11ce9d62b04719c74ef310c2a7b001c62eb911b536a68e2dda142de4a083ab8366ad731f69a0b38049c074a2d3cd37e6dbb834b89f3acc783c6856c68a14e4ec12f7d14638d9d044527ba78561ee7530c4e7ab1896bc5d360358dfc381d8c8a6f3e15c38cb70330361505b92bc292a6a38cd3b348f52481d48f0b87ddfbf1b2e3307cc739ed1f590a1417c0b40e5bdcaa6a204faa897a609b36d99fd21a56f322902ad709fc82a8f8160</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>杂记</title>
-    <url>/2024/03/28/2024-3-28-%E8%AF%84%E8%AE%BA%E7%AC%94%E8%AE%B0(%E4%B8%80)/</url>
-    <content><![CDATA[<p><strong>@没得感情滴人</strong>：罗翔老师这段话让我茅塞顿开: “其实没什么好后悔的，很多事情就算时间能重来一遍，以当时的心智和阅历还是会做同样的选择，避免不了同样的结果。人本来就是在失败中学乖的，与其抱着过去后悔，不如擦擦眼泪向前走吧。我们可能经常会想:“如果当初我怎样怎样就好了；如果当初我换了一个专业就好了；如果当时没来这个城市就好了；如果当初再见他一面就好了。” 似乎未选择的那条路总是更好的，但事实真的如此吗?可能你选择另一条路，大概率也是换一个新的烦恼，那些似乎必然通向好的结局也只是你的遐想。 但人生最有趣的一点就是，无论你做出什么选择，你都是在向前走。所以不要纠结和后悔，脚下的这条路就是最好的路，不要总是去美化未选择的路，不要站在现在的角度去批判当时的自己，要相信一切都是上天最好的安排，你所错过的很可能都是上天在保护你。<br><br><br><strong>@皮皮小肉包</strong>：“不要欺负以前的自己，她当时一个人站在大雾里也很迷茫” <br><br><br><strong>@阅己越己悦己</strong>：这就是一个责任主体的争论，孩子没完成作业，妈妈比孩子更着急，是为了完成任务，责任主体变成了妈妈，爸爸是让孩子明白，没有完成作业，责任主体是孩子。妈妈着眼于当下，爸爸着眼于未来，我们要明白，孩子是独立的个体，始终要独自面对世界，培养独立的人格，学会独立思考，独立判断，这才是作为父母留给孩子长期影响，受益终身的事情。</p>
+    <url>/2024/03/28/2024-3-28-%E5%BF%86%E5%85%AB%E5%8D%81%E4%BA%BA%E7%94%9F/</url>
+    <content><![CDATA[<p><strong>@峥峥名车汇</strong>：我已八十了，看见6岁的自己，在田野里跌倒，弄脏了衣服，弄丢了玩具，惊慌又失措。我想告诉他，没关系，成长的路慢慢来。<br><br><br>我已八十了，看在12岁的自己翻山徒步去教室上课，没有新书包、没有新鞋子，自卑又尴尬。我想告诉他，别怯懦，嘲笑的人与你的人生本就是平行线，日后不会相交。<br><br><br>我已八十了，看见18岁的自己，没考上一本，面对昏暗的大学，失落又无奈。我想告诉他，要坚持，一时失败不代表节节败退，日后的你也会快乐精彩。<br><br><br>我已八十了，看见24岁的自己，独自躺在手术台，害怕又担忧。我想告诉他，别担心会过去，生活会继续<br><br><br>我已八十了，看见34岁的自己，一事无成，未婚未育，迷茫又无助。我想告诉他，别内疚，成家立业不是每个人的必经之路，坚定内心选择也不会怎么样。<br><br><br>我已八十了，看见50岁的自己，看见父母离去，无助又迷茫，我想告诉他，人生就是一个人，离开自己看本我，无所谓聚散离合。<br><br><br>我已八十了，看见80岁的自己，生命如风中烛光摇摇曳曳，膝下无子，爱人离去，平静又慈祥。我想告诉我自己，这一生你已足够幸运，足够努力，无需任何人评价。人生就是看见自己的过程，我看见我自己的一生，惊慌的、怯懦的、失落的、内疚的、最后释然的离开。</p>
 ]]></content>
       <tags>
         <tag>评论笔记</tag>
@@ -1349,6 +1340,15 @@ import {initHBE} from "/js/plugins/hbe.js";
     <title>杂记</title>
     <url>/2024/03/28/2024-3-28-%E8%AF%84%E8%AE%BA%E7%AC%94%E8%AE%B0(%E4%BA%8C)/</url>
     <content><![CDATA[<p><strong>@染墨时</strong>：王朗：汉帝正逊，山阳犹在，曹魏承汉之正朔。尔等却随编履之徒，从流寇之首，占同姓之州，夺宗亲之地，贪从龙之功，图华夏之土；不拥正统，伪立贼寇，是为不忠；袭占益州，驱其旧主，是为不信；遣疲弊之民，攻熊罴之师，是为不仁，公陶袁曹刘，竟五易其主，是为不义，兴一州之兵，伐正朔之国，是为不智。秦失其鹿，天下共逐，陈吴起事，王侯归土，桓灵昏聩，汉失其德，张角振臂，坠其天命；二十载夙兴夜寐，曹氏归天下于一统，然惜败于赤壁，若非此，吾等可于朝堂坐论天下，岂于阵前，立上而视下，局高而驳谬，以司空之职，斥匹夫伪相之名？<br><br><br>在宋时，百姓听书，每听到刘备败退皆是扼腕叹息，每听到曹操败退皆是鼓掌欢庆。那时人虽然受教育程度不高，但大多都相信世间有仁义之事，有行仁义之人。故多尊刘而贬曹。而今人多利己，不相信世上有不为己的人。这样对比之下，曹操更符合今人的认知。故多尊曹而贬刘。于是枭雄变成了英雄，真仁义变成了伪君子。他们自己做不到仁义，便认为别人也做不到，即使做到了，那也要扣上各种帽子。这样他们才会觉得自己才是世界上认识最清醒的人，这才是符合他们的世界观。躲在角落里，看什么都是黑的。<br><br></p>
+]]></content>
+      <tags>
+        <tag>评论笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杂记</title>
+    <url>/2024/03/28/2024-3-28-%E8%AF%84%E8%AE%BA%E7%AC%94%E8%AE%B0(%E4%B8%80)/</url>
+    <content><![CDATA[<p><strong>@没得感情滴人</strong>：罗翔老师这段话让我茅塞顿开: “其实没什么好后悔的，很多事情就算时间能重来一遍，以当时的心智和阅历还是会做同样的选择，避免不了同样的结果。人本来就是在失败中学乖的，与其抱着过去后悔，不如擦擦眼泪向前走吧。我们可能经常会想:“如果当初我怎样怎样就好了；如果当初我换了一个专业就好了；如果当时没来这个城市就好了；如果当初再见他一面就好了。” 似乎未选择的那条路总是更好的，但事实真的如此吗?可能你选择另一条路，大概率也是换一个新的烦恼，那些似乎必然通向好的结局也只是你的遐想。 但人生最有趣的一点就是，无论你做出什么选择，你都是在向前走。所以不要纠结和后悔，脚下的这条路就是最好的路，不要总是去美化未选择的路，不要站在现在的角度去批判当时的自己，要相信一切都是上天最好的安排，你所错过的很可能都是上天在保护你。<br><br><br><strong>@皮皮小肉包</strong>：“不要欺负以前的自己，她当时一个人站在大雾里也很迷茫” <br><br><br><strong>@阅己越己悦己</strong>：这就是一个责任主体的争论，孩子没完成作业，妈妈比孩子更着急，是为了完成任务，责任主体变成了妈妈，爸爸是让孩子明白，没有完成作业，责任主体是孩子。妈妈着眼于当下，爸爸着眼于未来，我们要明白，孩子是独立的个体，始终要独自面对世界，培养独立的人格，学会独立思考，独立判断，这才是作为父母留给孩子长期影响，受益终身的事情。</p>
 ]]></content>
       <tags>
         <tag>评论笔记</tag>
@@ -1681,16 +1681,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>Windows添加小鹤双拼</title>
-    <url>/2025/02/02/2025-02-02-Windows%E6%B7%BB%E5%8A%A0%E5%B0%8F%E9%B9%A4%E5%8F%8C%E6%8B%BC/</url>
-    <content><![CDATA[<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">Windows Registry Editor Version 5.00</span><br><span class="line"></span><br><span class="line">[HKEY_CURRENT_USER\Software\Microsoft\InputMethod\Settings\CHS]</span><br><span class="line">"Enable Cloud Candidate"=dword:00000000</span><br><span class="line">"Enable Dynamic Candidate Ranking"=dword:00000001</span><br><span class="line">"EnableExtraDomainType"=dword:00000001</span><br><span class="line">"Enable self-learning"=dword:00000001</span><br><span class="line">"EnableSmartSelfLearning"=dword:00000001</span><br><span class="line">"EnableLiveSticker"=dword:00000000</span><br><span class="line">"Enable EUDP"=dword:00000001</span><br><span class="line">"Enable Double Pinyin"=dword:00000001</span><br><span class="line">"UserDefinedDoublePinyinScheme0"="小鹤双拼*2*^*iuvdjhcwfg^xmlnpbksqszxkrltvyovt"</span><br><span class="line">"DoublePinyinScheme"=dword:0000000a</span><br></pre></td></tr></table></figure></div>
-<p>新建txt，复制粘贴，保存为<strong>UTF - 16 LE</strong>编码，更改后缀为reg，双击执行<br><a class="link" href="https://shuangpin.simplenaive.cn/#/p-mode">纸砚 - 最好用的双拼练习工具<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a><br><strong>参考链接</strong>：<a class="link" href="https://www.jianshu.com/p/181c6d08fb1a">Windows 10/11 为微软拼音导入小鹤双拼方案 - 简书<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
-]]></content>
-      <tags>
-        <tag>code</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>传输层</title>
     <url>/2025/02/01/2025-02-01-%E4%BC%A0%E8%BE%93%E5%B1%82/</url>
     <content><![CDATA[<h2 id="传输层提供的服务"><a href="#传输层提供的服务" class="headerlink" title="传输层提供的服务"></a>传输层提供的服务</h2><ul>
@@ -1724,21 +1714,10 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>PDF设置书签</title>
-    <url>/2025/02/06/2025-02-06-PDF%E8%AE%BE%E7%BD%AE%E4%B9%A6%E7%AD%BE/</url>
-    <content><![CDATA[<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">import xml.etree.ElementTree as ET  </span><br><span class="line"><span class="meta prompt_">  </span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">解析XML文件</span>  </span><br><span class="line">tree = ET.parse('d:/Users/tongz/Desktop/test.xml')  </span><br><span class="line">root = tree.getroot()  </span><br><span class="line"><span class="meta prompt_">  </span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">遍历所有的ITEM元素</span>  </span><br><span class="line">for item in root.findall('.//ITEM'):  </span><br><span class="line">    page = item.get('PAGE')  </span><br><span class="line">    if page is not None:  </span><br><span class="line">        # 将PAGE属性的值减一  </span><br><span class="line">        new_page = str(int(page) - 1)  </span><br><span class="line">        item.set('PAGE', new_page)  </span><br><span class="line"><span class="meta prompt_">  </span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">将修改后的内容写回文件</span>  </span><br><span class="line">tree.write('d:/Users/tongz/Desktop/test.xml')</span><br></pre></td></tr></table></figure></div>
-<ol>
-<li>导出txt空白目录文件</li>
-<li>OCR识别目录、填写页码</li>
-<li>导入txt，在导出xml</li>
-<li>更改<code>tree = ET.parse('d:/Users/tongz/Desktop/test.xml') </code> 路径</li>
-<li>更改<code>new_page = str(int(page) - 1) </code> 偏移量</li>
-<li>导入xml目录文件<br><br>
-  <div class="note p-4 mb-4 rounded-small red">
-    <p>done，麻烦！！！</p>
-
-  </div></li>
-</ol>
+    <title>Windows添加小鹤双拼</title>
+    <url>/2025/02/02/2025-02-02-Windows%E6%B7%BB%E5%8A%A0%E5%B0%8F%E9%B9%A4%E5%8F%8C%E6%8B%BC/</url>
+    <content><![CDATA[<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">Windows Registry Editor Version 5.00</span><br><span class="line"></span><br><span class="line">[HKEY_CURRENT_USER\Software\Microsoft\InputMethod\Settings\CHS]</span><br><span class="line">"Enable Cloud Candidate"=dword:00000000</span><br><span class="line">"Enable Dynamic Candidate Ranking"=dword:00000001</span><br><span class="line">"EnableExtraDomainType"=dword:00000001</span><br><span class="line">"Enable self-learning"=dword:00000001</span><br><span class="line">"EnableSmartSelfLearning"=dword:00000001</span><br><span class="line">"EnableLiveSticker"=dword:00000000</span><br><span class="line">"Enable EUDP"=dword:00000001</span><br><span class="line">"Enable Double Pinyin"=dword:00000001</span><br><span class="line">"UserDefinedDoublePinyinScheme0"="小鹤双拼*2*^*iuvdjhcwfg^xmlnpbksqszxkrltvyovt"</span><br><span class="line">"DoublePinyinScheme"=dword:0000000a</span><br></pre></td></tr></table></figure></div>
+<p>新建txt，复制粘贴，保存为<strong>UTF - 16 LE</strong>编码，更改后缀为reg，双击执行<br><a class="link" href="https://shuangpin.simplenaive.cn/#/p-mode">纸砚 - 最好用的双拼练习工具<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a><br><strong>参考链接</strong>：<a class="link" href="https://www.jianshu.com/p/181c6d08fb1a">Windows 10/11 为微软拼音导入小鹤双拼方案 - 简书<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
 ]]></content>
       <tags>
         <tag>code</tag>
@@ -1907,6 +1886,27 @@ import {initHBE} from "/js/plugins/hbe.js";
       </categories>
       <tags>
         <tag>教资</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PDF设置书签</title>
+    <url>/2025/02/06/2025-02-06-PDF%E8%AE%BE%E7%BD%AE%E4%B9%A6%E7%AD%BE/</url>
+    <content><![CDATA[<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">import xml.etree.ElementTree as ET  </span><br><span class="line"><span class="meta prompt_">  </span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">解析XML文件</span>  </span><br><span class="line">tree = ET.parse('d:/Users/tongz/Desktop/test.xml')  </span><br><span class="line">root = tree.getroot()  </span><br><span class="line"><span class="meta prompt_">  </span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">遍历所有的ITEM元素</span>  </span><br><span class="line">for item in root.findall('.//ITEM'):  </span><br><span class="line">    page = item.get('PAGE')  </span><br><span class="line">    if page is not None:  </span><br><span class="line">        # 将PAGE属性的值减一  </span><br><span class="line">        new_page = str(int(page) - 1)  </span><br><span class="line">        item.set('PAGE', new_page)  </span><br><span class="line"><span class="meta prompt_">  </span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">将修改后的内容写回文件</span>  </span><br><span class="line">tree.write('d:/Users/tongz/Desktop/test.xml')</span><br></pre></td></tr></table></figure></div>
+<ol>
+<li>导出txt空白目录文件</li>
+<li>OCR识别目录、填写页码</li>
+<li>导入txt，在导出xml</li>
+<li>更改<code>tree = ET.parse('d:/Users/tongz/Desktop/test.xml') </code> 路径</li>
+<li>更改<code>new_page = str(int(page) - 1) </code> 偏移量</li>
+<li>导入xml目录文件<br><br>
+  <div class="note p-4 mb-4 rounded-small red">
+    <p>done，麻烦！！！</p>
+
+  </div></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>code</tag>
       </tags>
   </entry>
   <entry>
@@ -2223,6 +2223,89 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>王莽篡汉的原因</title>
+    <url>/2025/02/15/2025-02-15-%E7%8E%8B%E8%8E%BD%E7%AF%A1%E6%B1%89%E7%9A%84%E5%8E%9F%E5%9B%A0/</url>
+    <content><![CDATA[<p>王莽篡汉的原因可以从以下几个关键方面进行分析：</p>
+<hr>
+<h3 id="一、西汉末年的社会与政治危机"><a href="#一、西汉末年的社会与政治危机" class="headerlink" title="一、西汉末年的社会与政治危机"></a><strong>一、西汉末年的社会与政治危机</strong></h3><ol>
+<li><p><strong>政治腐败与外戚专权</strong>  </p>
+<ul>
+<li>西汉后期，外戚（如王氏家族）与宦官交替掌权，导致朝政混乱，皇权衰微。  </li>
+<li>土地兼并严重，豪强地主垄断资源，大量农民破产沦为流民或奴隶，社会矛盾激化。</li>
+</ul>
+</li>
+<li><p><strong>儒家理想与改革呼声</strong>  </p>
+<ul>
+<li>儒家学者对现实不满，呼吁恢复“周礼”，主张通过复古改革解决社会问题。  </li>
+<li>王莽以“周公再世”自居，标榜推行儒家理想，赢得士大夫与平民支持。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="二、王莽的个人崛起与权力积累"><a href="#二、王莽的个人崛起与权力积累" class="headerlink" title="二、王莽的个人崛起与权力积累"></a><strong>二、王莽的个人崛起与权力积累</strong></h3><ol>
+<li><p><strong>家族背景与政治资本</strong>  </p>
+<ul>
+<li>王莽出身外戚王氏家族（姑母王政君为汉元帝皇后），但早年以谦恭俭朴、礼贤下士闻名，塑造“道德完人”形象。  </li>
+<li>通过清除政敌（如淳于长）、笼络儒生，逐步掌控朝政，最终被封为“安汉公”，权倾朝野。</li>
+</ul>
+</li>
+<li><p><strong>利用谶纬与舆论造势</strong>  </p>
+<ul>
+<li>制造“赤帝传位”“金匮之书”等谶纬预言，宣扬“汉运已终，新圣当立”，为其篡位提供“天命”依据。  </li>
+<li>儒家经典（如《周礼》）成为其改制合法性的理论来源。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、篡汉的直接动因"><a href="#三、篡汉的直接动因" class="headerlink" title="三、篡汉的直接动因"></a><strong>三、篡汉的直接动因</strong></h3><ol>
+<li><p><strong>解决社会危机的尝试</strong>  </p>
+<ul>
+<li>王莽认为汉朝已无法挽救社会危机，需通过彻底改制重建秩序。其新政包括：  <ul>
+<li><strong>土地国有化（王田制）</strong>：禁止土地买卖，按人口分配土地。  </li>
+<li><strong>废除奴隶制</strong>：禁止私人买卖奴婢，试图缓解阶级矛盾。  </li>
+<li><strong>货币与经济改革</strong>：频繁变更币制，导致经济混乱。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>权力欲望与历史机遇</strong>  </p>
+<ul>
+<li>汉平帝早逝，孺子婴年幼，王莽以“摄皇帝”身份代行皇权，最终借“禅让”之名登基，建立新朝。  </li>
+<li>西汉皇室衰微，缺乏有力反抗，为王莽篡位提供现实条件。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="四、失败与评价争议"><a href="#四、失败与评价争议" class="headerlink" title="四、失败与评价争议"></a><strong>四、失败与评价争议</strong></h3><ol>
+<li><p><strong>新政的激进与脱离实际</strong>  </p>
+<ul>
+<li>王莽的改革过于理想化，脱离社会经济基础，引发豪强地主与平民的普遍不满，最终导致绿林、赤眉起义。</li>
+</ul>
+</li>
+<li><p><strong>历史评价的两面性</strong>  </p>
+<ul>
+<li><strong>传统史观</strong>：视其为“篡逆者”，批评其虚伪与改革失败。  </li>
+<li><strong>现代视角</strong>：部分学者肯定其试图解决社会矛盾的初衷，认为新政具有超前性与进步性。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="结论"><a href="#结论" class="headerlink" title="结论"></a><strong>结论</strong></h3><p>王莽篡汉是多重因素作用的结果：  </p>
+<ul>
+<li><strong>社会危机</strong>：西汉末年的政治腐败与经济崩溃提供了变革土壤；  </li>
+<li><strong>个人野心</strong>：王莽借儒家理想包装权力欲望，利用外戚身份与舆论造势上位；  </li>
+<li><strong>历史机遇</strong>：汉室衰微与谶纬文化盛行，为其篡位创造合法性。<br>尽管其改革意图包含对社会问题的关切，但脱离实际的激进政策最终加速了新朝的灭亡。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>黄袍加身的背景</title>
     <url>/2025/02/15/2025-02-15-%E9%BB%84%E8%A2%8D%E5%8A%A0%E8%BA%AB%E7%9A%84%E8%83%8C%E6%99%AF/</url>
     <content><![CDATA[<p><strong>“黄袍加身”的背景解析：以赵匡胤陈桥兵变为例</strong></p>
@@ -2327,89 +2410,6 @@ import {initHBE} from "/js/plugins/hbe.js";
 <ul>
 <li><strong>延续</strong>：赵匡胤以兵变夺权，遵循了五代军阀篡位的传统路径；  </li>
 <li><strong>终结</strong>：他通过制度重构（如收兵权、重文治），彻底改变了乱世逻辑，奠定了宋朝三百余年的稳定基业。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>公务员考试</category>
-        <category>常识</category>
-      </categories>
-      <tags>
-        <tag>公务员考试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>王莽篡汉的原因</title>
-    <url>/2025/02/15/2025-02-15-%E7%8E%8B%E8%8E%BD%E7%AF%A1%E6%B1%89%E7%9A%84%E5%8E%9F%E5%9B%A0/</url>
-    <content><![CDATA[<p>王莽篡汉的原因可以从以下几个关键方面进行分析：</p>
-<hr>
-<h3 id="一、西汉末年的社会与政治危机"><a href="#一、西汉末年的社会与政治危机" class="headerlink" title="一、西汉末年的社会与政治危机"></a><strong>一、西汉末年的社会与政治危机</strong></h3><ol>
-<li><p><strong>政治腐败与外戚专权</strong>  </p>
-<ul>
-<li>西汉后期，外戚（如王氏家族）与宦官交替掌权，导致朝政混乱，皇权衰微。  </li>
-<li>土地兼并严重，豪强地主垄断资源，大量农民破产沦为流民或奴隶，社会矛盾激化。</li>
-</ul>
-</li>
-<li><p><strong>儒家理想与改革呼声</strong>  </p>
-<ul>
-<li>儒家学者对现实不满，呼吁恢复“周礼”，主张通过复古改革解决社会问题。  </li>
-<li>王莽以“周公再世”自居，标榜推行儒家理想，赢得士大夫与平民支持。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="二、王莽的个人崛起与权力积累"><a href="#二、王莽的个人崛起与权力积累" class="headerlink" title="二、王莽的个人崛起与权力积累"></a><strong>二、王莽的个人崛起与权力积累</strong></h3><ol>
-<li><p><strong>家族背景与政治资本</strong>  </p>
-<ul>
-<li>王莽出身外戚王氏家族（姑母王政君为汉元帝皇后），但早年以谦恭俭朴、礼贤下士闻名，塑造“道德完人”形象。  </li>
-<li>通过清除政敌（如淳于长）、笼络儒生，逐步掌控朝政，最终被封为“安汉公”，权倾朝野。</li>
-</ul>
-</li>
-<li><p><strong>利用谶纬与舆论造势</strong>  </p>
-<ul>
-<li>制造“赤帝传位”“金匮之书”等谶纬预言，宣扬“汉运已终，新圣当立”，为其篡位提供“天命”依据。  </li>
-<li>儒家经典（如《周礼》）成为其改制合法性的理论来源。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="三、篡汉的直接动因"><a href="#三、篡汉的直接动因" class="headerlink" title="三、篡汉的直接动因"></a><strong>三、篡汉的直接动因</strong></h3><ol>
-<li><p><strong>解决社会危机的尝试</strong>  </p>
-<ul>
-<li>王莽认为汉朝已无法挽救社会危机，需通过彻底改制重建秩序。其新政包括：  <ul>
-<li><strong>土地国有化（王田制）</strong>：禁止土地买卖，按人口分配土地。  </li>
-<li><strong>废除奴隶制</strong>：禁止私人买卖奴婢，试图缓解阶级矛盾。  </li>
-<li><strong>货币与经济改革</strong>：频繁变更币制，导致经济混乱。</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p><strong>权力欲望与历史机遇</strong>  </p>
-<ul>
-<li>汉平帝早逝，孺子婴年幼，王莽以“摄皇帝”身份代行皇权，最终借“禅让”之名登基，建立新朝。  </li>
-<li>西汉皇室衰微，缺乏有力反抗，为王莽篡位提供现实条件。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="四、失败与评价争议"><a href="#四、失败与评价争议" class="headerlink" title="四、失败与评价争议"></a><strong>四、失败与评价争议</strong></h3><ol>
-<li><p><strong>新政的激进与脱离实际</strong>  </p>
-<ul>
-<li>王莽的改革过于理想化，脱离社会经济基础，引发豪强地主与平民的普遍不满，最终导致绿林、赤眉起义。</li>
-</ul>
-</li>
-<li><p><strong>历史评价的两面性</strong>  </p>
-<ul>
-<li><strong>传统史观</strong>：视其为“篡逆者”，批评其虚伪与改革失败。  </li>
-<li><strong>现代视角</strong>：部分学者肯定其试图解决社会矛盾的初衷，认为新政具有超前性与进步性。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="结论"><a href="#结论" class="headerlink" title="结论"></a><strong>结论</strong></h3><p>王莽篡汉是多重因素作用的结果：  </p>
-<ul>
-<li><strong>社会危机</strong>：西汉末年的政治腐败与经济崩溃提供了变革土壤；  </li>
-<li><strong>个人野心</strong>：王莽借儒家理想包装权力欲望，利用外戚身份与舆论造势上位；  </li>
-<li><strong>历史机遇</strong>：汉室衰微与谶纬文化盛行，为其篡位创造合法性。<br>尽管其改革意图包含对社会问题的关切，但脱离实际的激进政策最终加速了新朝的灭亡。</li>
 </ul>
 ]]></content>
       <categories>
@@ -2789,6 +2789,62 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>盐水为什么可以清洗掉桃子表面的细毛</title>
+    <url>/2025/02/17/2025-02-17-%E7%9B%90%E6%B0%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AF%E4%BB%A5%E6%B8%85%E6%B4%97%E6%8E%89%E6%A1%83%E5%AD%90%E8%A1%A8%E9%9D%A2%E7%9A%84%E7%BB%86%E6%AF%9B/</url>
+    <content><![CDATA[<p>盐水可以清除桃子表面的细毛，主要是因为盐水的化学和物理作用。以下是具体原因：</p>
+<hr>
+<h3 id="一、盐水的化学作用"><a href="#一、盐水的化学作用" class="headerlink" title="一、盐水的化学作用"></a><strong>一、盐水的化学作用</strong></h3><ol>
+<li><p><strong>软化细毛</strong>  </p>
+<ul>
+<li>盐水中的<strong>氯化钠（NaCl）</strong>能够渗透到桃子表面的细毛中，破坏细毛的细胞结构，使其变软、脱落。  </li>
+<li>细毛的主要成分是<strong>纤维素</strong>，盐水可以使其吸水膨胀，变得更容易脱落。</li>
+</ul>
+</li>
+<li><p><strong>溶解作用</strong>  </p>
+<ul>
+<li>盐水具有一定的<strong>溶解能力</strong>，可以溶解细毛表面的部分物质（如果胶），使细毛与桃子表面的附着力减弱。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="二、盐水的物理作用"><a href="#二、盐水的物理作用" class="headerlink" title="二、盐水的物理作用"></a><strong>二、盐水的物理作用</strong></h3><ol>
+<li><p><strong>摩擦力增强</strong>  </p>
+<ul>
+<li>盐水增加了桃子表面的<strong>湿润度</strong>，使细毛更容易被摩擦掉。  </li>
+<li>用手或刷子在盐水中搓洗桃子时，细毛在摩擦力的作用下更容易脱落。</li>
+</ul>
+</li>
+<li><p><strong>浮力作用</strong>  </p>
+<ul>
+<li>盐水密度高于清水，细毛在盐水中受到的<strong>浮力</strong>更大，更容易从桃子表面脱离。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、操作步骤"><a href="#三、操作步骤" class="headerlink" title="三、操作步骤"></a><strong>三、操作步骤</strong></h3><ol>
+<li>准备一盆清水，加入适量食盐（约1-2汤匙），搅拌至溶解。  </li>
+<li>将桃子放入盐水中浸泡5-10分钟。  </li>
+<li>用手或软刷轻轻搓洗桃子表面，细毛会逐渐脱落。  </li>
+<li>用清水冲洗干净即可。</li>
+</ol>
+<hr>
+<h3 id="四、注意事项"><a href="#四、注意事项" class="headerlink" title="四、注意事项"></a><strong>四、注意事项</strong></h3><ol>
+<li><strong>盐水浓度</strong>：盐浓度不宜过高，否则可能影响桃子口感。  </li>
+<li><strong>浸泡时间</strong>：时间过长可能导致桃子吸水变软，影响口感。  </li>
+<li><strong>清洗工具</strong>：使用软刷或手搓洗，避免损伤桃子表皮。</li>
+</ol>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>盐水通过<strong>软化细毛、增强摩擦力</strong>等作用，能够有效清除桃子表面的细毛。这种方法简单、环保，且不会影响桃子的营养价值。</p>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>维生素缺乏症状的原因及其来源</title>
     <url>/2025/02/17/2025-02-17-%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%BC%BA%E4%B9%8F%E7%97%87%E7%8A%B6%E5%8F%8A%E5%85%B6%E6%9D%A5%E6%BA%90/</url>
     <content><![CDATA[<hr>
@@ -2929,62 +2985,6 @@ import {initHBE} from "/js/plugins/hbe.js";
 <li><strong>病理机制</strong>：维生素E是一种重要的抗氧化剂，可以保护细胞免受自由基的伤害。缺乏维生素E会导致生殖系统的损害，特别是男性的精子生成能力下降，从而影响生育能力。</li>
 </ul>
 <p>每种维生素在体内的作用都不同，缺乏它们会通过干扰不同的生理过程，导致特定的疾病发生。</p>
-]]></content>
-      <categories>
-        <category>公务员考试</category>
-        <category>常识</category>
-      </categories>
-      <tags>
-        <tag>公务员考试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>盐水为什么可以清洗掉桃子表面的细毛</title>
-    <url>/2025/02/17/2025-02-17-%E7%9B%90%E6%B0%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AF%E4%BB%A5%E6%B8%85%E6%B4%97%E6%8E%89%E6%A1%83%E5%AD%90%E8%A1%A8%E9%9D%A2%E7%9A%84%E7%BB%86%E6%AF%9B/</url>
-    <content><![CDATA[<p>盐水可以清除桃子表面的细毛，主要是因为盐水的化学和物理作用。以下是具体原因：</p>
-<hr>
-<h3 id="一、盐水的化学作用"><a href="#一、盐水的化学作用" class="headerlink" title="一、盐水的化学作用"></a><strong>一、盐水的化学作用</strong></h3><ol>
-<li><p><strong>软化细毛</strong>  </p>
-<ul>
-<li>盐水中的<strong>氯化钠（NaCl）</strong>能够渗透到桃子表面的细毛中，破坏细毛的细胞结构，使其变软、脱落。  </li>
-<li>细毛的主要成分是<strong>纤维素</strong>，盐水可以使其吸水膨胀，变得更容易脱落。</li>
-</ul>
-</li>
-<li><p><strong>溶解作用</strong>  </p>
-<ul>
-<li>盐水具有一定的<strong>溶解能力</strong>，可以溶解细毛表面的部分物质（如果胶），使细毛与桃子表面的附着力减弱。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="二、盐水的物理作用"><a href="#二、盐水的物理作用" class="headerlink" title="二、盐水的物理作用"></a><strong>二、盐水的物理作用</strong></h3><ol>
-<li><p><strong>摩擦力增强</strong>  </p>
-<ul>
-<li>盐水增加了桃子表面的<strong>湿润度</strong>，使细毛更容易被摩擦掉。  </li>
-<li>用手或刷子在盐水中搓洗桃子时，细毛在摩擦力的作用下更容易脱落。</li>
-</ul>
-</li>
-<li><p><strong>浮力作用</strong>  </p>
-<ul>
-<li>盐水密度高于清水，细毛在盐水中受到的<strong>浮力</strong>更大，更容易从桃子表面脱离。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="三、操作步骤"><a href="#三、操作步骤" class="headerlink" title="三、操作步骤"></a><strong>三、操作步骤</strong></h3><ol>
-<li>准备一盆清水，加入适量食盐（约1-2汤匙），搅拌至溶解。  </li>
-<li>将桃子放入盐水中浸泡5-10分钟。  </li>
-<li>用手或软刷轻轻搓洗桃子表面，细毛会逐渐脱落。  </li>
-<li>用清水冲洗干净即可。</li>
-</ol>
-<hr>
-<h3 id="四、注意事项"><a href="#四、注意事项" class="headerlink" title="四、注意事项"></a><strong>四、注意事项</strong></h3><ol>
-<li><strong>盐水浓度</strong>：盐浓度不宜过高，否则可能影响桃子口感。  </li>
-<li><strong>浸泡时间</strong>：时间过长可能导致桃子吸水变软，影响口感。  </li>
-<li><strong>清洗工具</strong>：使用软刷或手搓洗，避免损伤桃子表皮。</li>
-</ol>
-<hr>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>盐水通过<strong>软化细毛、增强摩擦力</strong>等作用，能够有效清除桃子表面的细毛。这种方法简单、环保，且不会影响桃子的营养价值。</p>
 ]]></content>
       <categories>
         <category>公务员考试</category>
@@ -3166,6 +3166,10 @@ import {initHBE} from "/js/plugins/hbe.js";
     2018年：GPT 模型发布                     :done, 2018-01-01, 1d
     2020年：AlphaFold 解决蛋白质折叠问题    :done, 2020-01-01, 1d</pre>
 ]]></content>
+      <categories>
+        <category>人工智能</category>
+        <category>思维导图</category>
+      </categories>
       <tags>
         <tag>人工智能</tag>
       </tags>
@@ -3220,49 +3224,73 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>电脑空白图标解决方案</title>
-    <url>/2025/01/21/2025-1-21%20%E7%A9%BA%E7%99%BD%E5%9B%BE%E6%A0%87/</url>
-    <content><![CDATA[<p>新建txt文件，粘贴以下内容，更改后缀名为bat，双击运行</p>
-<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line"></span><br><span class="line">taskkill /f /im explorer.exe</span><br><span class="line"></span><br><span class="line">CD /d %userprofile%\AppData\Local</span><br><span class="line"></span><br><span class="line">DEL IconCache.db /a</span><br><span class="line"></span><br><span class="line">start explorer.exe</span><br><span class="line"></span><br><span class="line">cho 操作完成</span><br></pre></td></tr></table></figure></div>]]></content>
-      <tags>
-        <tag>code</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一键推送脚本</title>
-    <url>/2025/01/21/2025-1-21-deploy%E8%84%9A%E6%9C%AC/</url>
-    <content><![CDATA[<p>server.vbs是以管理员身份执行server.bat</p>
-<h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:start</span><br><span class="line">echo 请输入操作编号：</span><br><span class="line">echo 0. 退出</span><br><span class="line">echo 1. 执行 hexo clean</span><br><span class="line">echo 2. 执行 hexo generate</span><br><span class="line">echo 3. 执行 hexo server</span><br><span class="line">echo 4. 执行 hexo deploy</span><br><span class="line">echo 5. 执行 npm run server</span><br><span class="line">echo 6. 执行 npm run deploy</span><br><span class="line">set /p choice=输入:</span><br><span class="line"></span><br><span class="line">if "%choice%"=="0" (</span><br><span class="line">    exit /b</span><br><span class="line">) else if "%choice%"=="1" (</span><br><span class="line">    start "" cmd /c  hexo clean</span><br><span class="line">) else if "%choice%"=="2" (</span><br><span class="line">    start "" cmd /c hexo generate</span><br><span class="line">) else if "%choice%"=="3" (</span><br><span class="line">    start "" cmd /c hexo server</span><br><span class="line">) else if "%choice%"=="4" (</span><br><span class="line">    start "" cmd /c hexo deploy</span><br><span class="line">) else if "%choice%"=="5" (</span><br><span class="line">    start "" cmd /c npm run server</span><br><span class="line">) else if "%choice%"=="6" (</span><br><span class="line">    start "" cmd /c npm run deploy</span><br><span class="line">) else (</span><br><span class="line">    echo 输入错误，请输入 0、1、2 、3、4、5或 6。</span><br><span class="line">    goto start</span><br><span class="line">)</span><br><span class="line">echo 操作已完成，按任意键继续...</span><br><span class="line">pause &gt; nul</span><br><span class="line">goto start</span><br></pre></td></tr></table></figure></div>
-<h3 id="server-vbs"><a href="#server-vbs" class="headerlink" title="server.vbs"></a>server.vbs</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Set UAC = CreateObject("Shell.Application")</span><br><span class="line">UAC.ShellExecute "server.bat", "", "", "runas", 1</span><br></pre></td></tr></table></figure></div>
+    <title>遗传算法解题步骤</title>
+    <url>/2025/02/19/2025-02-19-%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E8%A7%A3%E9%A2%98%E6%AD%A5%E9%AA%A4/</url>
+    <content><![CDATA[<p>假设我们要解决的问题是：<strong>在 0 到 31 的整数中，找到使函数 ( f(x) = x^2 ) 最大的值</strong>（显然答案是 31，但我们可以用这个例子演示步骤）。</p>
+<hr>
+<h3 id="步骤-1：初始化种群"><a href="#步骤-1：初始化种群" class="headerlink" title="步骤 1：初始化种群"></a><strong>步骤 1：初始化种群</strong></h3><ul>
+<li><strong>目标</strong>：随机生成一组可能的解（称为“个体”），组成初始种群。</li>
+<li><strong>编码方式</strong>：用 5 位二进制数表示 ( x )（因为 ( 2^5 = 32 )，覆盖 0~31）。</li>
+<li><strong>举例</strong>：随机生成 4 个个体作为初始种群：<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">个体1: 01101 (x=13)</span><br><span class="line">个体2: 11000 (x=24)</span><br><span class="line">个体3: 01000 (x=8)</span><br><span class="line">个体4: 10011 (x=19)</span><br></pre></td></tr></table></figure></div></li>
+</ul>
+<hr>
+<h3 id="步骤-2：计算适应度"><a href="#步骤-2：计算适应度" class="headerlink" title="步骤 2：计算适应度"></a><strong>步骤 2：计算适应度</strong></h3><ul>
+<li><strong>目标</strong>：评估每个个体的优劣（适应度越高，越可能被保留）。</li>
+<li><strong>适应度函数</strong>：直接取 ( f(x) = x^2 )。</li>
+<li><strong>计算</strong>：<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">个体1: 13² = 169</span><br><span class="line">个体2: 24² = 576</span><br><span class="line">个体3: 8² = 64</span><br><span class="line">个体4: 19² = 361</span><br></pre></td></tr></table></figure></div></li>
+</ul>
+<hr>
+<h3 id="步骤-3：选择（Selection）"><a href="#步骤-3：选择（Selection）" class="headerlink" title="步骤 3：选择（Selection）"></a><strong>步骤 3：选择（Selection）</strong></h3><ul>
+<li><strong>目标</strong>：根据适应度选择较优的个体作为父代，用于繁殖下一代。</li>
+<li><strong>方法</strong>：轮盘赌选择法（适应度越高，被选中的概率越大）。<ol>
+<li>计算总适应度：( 169 + 576 + 64 + 361 = 1170 )</li>
+<li>计算每个个体的选择概率：<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">个体1: 169 / 1170 ≈ 14.4%</span><br><span class="line">个体2: 576 / 1170 ≈ 49.2%</span><br><span class="line">个体3: 64 / 1170 ≈ 5.5%</span><br><span class="line">个体4: 361 / 1170 ≈ 30.9%</span><br></pre></td></tr></table></figure></div></li>
+<li>根据概率随机选择 2 对父代（允许重复）：<ul>
+<li>假设选中 <strong>个体2 (x=24)</strong> 和 **个体4 (x=19)**。</li>
+</ul>
+</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h3 id="步骤-4：交叉（Crossover）"><a href="#步骤-4：交叉（Crossover）" class="headerlink" title="步骤 4：交叉（Crossover）"></a><strong>步骤 4：交叉（Crossover）</strong></h3><ul>
+<li><strong>目标</strong>：通过交换父代的基因片段，生成新个体。</li>
+<li><strong>方法</strong>：单点交叉（随机选择一个交叉点，交换后面的基因）。<ul>
+<li>父代1: <code>11000</code> (x=24)<br>父代2: <code>10011</code> (x=19)</li>
+<li>随机选择交叉点在第 3 位：<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">父代1: 11|000 → 子代1: 11011 (x=27)</span><br><span class="line">父代2: 10|011 → 子代2: 10000 (x=16)</span><br></pre></td></tr></table></figure></div></li>
+<li>新子代：<code>11011</code> (x=27) 和 <code>10000</code> (x=16)。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="步骤-5：变异（Mutation）"><a href="#步骤-5：变异（Mutation）" class="headerlink" title="步骤 5：变异（Mutation）"></a><strong>步骤 5：变异（Mutation）</strong></h3><ul>
+<li><strong>目标</strong>：以极低概率随机改变基因，增加多样性。</li>
+<li><strong>方法</strong>：随机选择一个基因位翻转（0→1 或 1→0）。<ul>
+<li>假设子代 <code>10000</code> 的第 4 位发生变异：<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">变异前: 10000 (x=16)</span><br><span class="line">变异后: 10010 (x=18)</span><br></pre></td></tr></table></figure></div></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="步骤-6：生成新一代种群"><a href="#步骤-6：生成新一代种群" class="headerlink" title="步骤 6：生成新一代种群"></a><strong>步骤 6：生成新一代种群</strong></h3><ul>
+<li>用新子代替换旧种群中的部分个体（例如替换适应度最低的个体3和个体1）：<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">新一代种群：</span><br><span class="line">个体1: 11011 (x=27, 适应度=729)</span><br><span class="line">个体2: 11000 (x=24, 适应度=576)</span><br><span class="line">个体3: 10010 (x=18, 适应度=324)</span><br><span class="line">个体4: 10011 (x=19, 适应度=361)</span><br></pre></td></tr></table></figure></div></li>
+<li>此时最大适应度从 576 提升到了 <strong>729</strong>（x=27）。</li>
+</ul>
+<hr>
+<h3 id="重复迭代"><a href="#重复迭代" class="headerlink" title="重复迭代"></a><strong>重复迭代</strong></h3><p>重复步骤 2~6，直到满足终止条件（如达到最大迭代次数或找到最优解 x=31）。</p>
+<hr>
+<h3 id="关键思想总结"><a href="#关键思想总结" class="headerlink" title="关键思想总结"></a><strong>关键思想总结</strong></h3><ol>
+<li><strong>编码</strong>：将问题转化为基因（如二进制）。</li>
+<li><strong>适应度驱动</strong>：优胜劣汰，保留优质基因。</li>
+<li><strong>随机性</strong>：通过交叉和变异探索新解，避免陷入局部最优。</li>
+</ol>
+<p>通过这种模拟生物进化的方式，遗传算法可以逐步逼近最优解！</p>
 ]]></content>
+      <categories>
+        <category>人工智能</category>
+        <category>遗传算法</category>
+      </categories>
       <tags>
-        <tag>code</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>smoothscroll时间戳转换</title>
-    <url>/2025/01/21/2025-1-21-smoothscroll%E6%97%B6%E9%97%B4%E6%88%B3%E8%BD%AC%E6%8D%A2/</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="f432d5fb98a9e16d48a67ed7be3e9e26022e0f55a3c94bc24c4f47daeba96fbf">2bcd9132b535ab0c63807d4882ee65a891eecbc71abec43ee9e28e147df9015492a43fdf8053ac9fce6eb65c142de9853bcc7b3e5e7b48ca592e5344fc8ebbada2f2daafca108dda1f73867de3c27a7dbe5b9e1776b9af85518822942b48ea8aa12f37a576a561815d69e42133a8e21bc20058d1253442a7bdd0d28973f702a0fca5dfade6b9e03e68a9fa3325d1e1fa12e781f73a24d419404f51529a3a754d490463771b8e07a1c2f63a5e895ac6a6c280b9fa8231cb5a73243c4da8a280e0348841ea5f914220adcbf64d6c92d1886b5542de5befaea49c3a444bbd415cf361d2abec2245df6c7a10f27a5cfabb17c25c0e55b8f196584992dd556dd1848021faa9db9fb70d9447c3b9f525636e1db3305079d53011f9c048551d8b9d825270a46464e840a6dbf502ebd76f183001aa8ec588f5c9094e160215ee3528716cd19243ba093cbc47acb511c0e2a8914fcc1457d42652148d184c4102a07ca7ae0b12d6a2907d1f6e9155a0c501011fcbce6440906dd8e54eeef576190603a0d150763f80eace91e6555fd1a27432f0e69deb9f95978237883beaa44ec26bac88986c1ada739f9e5c22b06330248c1fd4849329a5ef56d421d56c53fb097d8ee3e359471417e4ddf26a1a0554c4593c97dd71e2045bd544bb66d75aa82399d53d3820d28d02b9803cdb6d1b00c182feae78af404c1fe4adbbda0caf844d626f20e1ae7cca14db4a3d3074d79b049d2c13f61699e9fc0cb28a06fe241ff3d5b74ce149081d087cda945ff87a1364f18e27441ed4ea0d767cb878e4dad1ef07931ee7fa79d7238b1c4f7f96884fd31da35af5b98420939a972cf2ac64933c3e9b1b05ec367d5b33e30083372f2786ca14d55c34613f781e54eb304f0a5c39abd0a575fee38ce055f2649a848cca2750c7a96bbccc0ffd915856deee461970b78cbc89ae7b7a575d05fc16c01603e48cafd2a943e794793e10bcf8c1534442e7af05855fd28ffdac9bb1050815d79cb27a068613cc34390d7d89152ff7e3aa124ca784f8fc305e724cb2ddcd60195e90adbea1dba4918165389ba2e8dae0e0b0571b94977ed48b7f48dcfab9f0f654602a5ab86d50118d0fe98b585a79a6aba1897b2d617d9c5b3a91cce73364bc2322c1d5f1da5b9e9144dedba4e9f55c89325f4921f9b3a30eebe8e1b13cf74593a2bd45206559920fe4061a882a39efa9629157cea86d9058581661f01e43d340ec6d24045861b6aae91eba06df27d9e3c0f4fb770aba615b407515046bab57a270c48204cd45e83bdba5ab08914b7d79a2d28a07c99d9e206652d57bb984a3fcce55c08c47dbefb81f262a86e92612a7af976889e617388c09bdae8aa6e04a94545ced9559dc38c6a9b137a5b40c8db91cc7bafc49152fb8e799ca1d412989efe8046fd8cc5b7c3a1db5c3513a6a090e334a8ead665f2f762d6d0aef3b91641021c01be6fe7237d633b8af3beaf361e6cf6b67d5b3e215d3ba0cb6f7a54c7935672746866ad2ecbfa84aa48bc90cd8dc3b0e25b7f99f945b5fbdd6e79589ea4d20457edc9babd9f57a423bbdea5028476d7bbc5f99bf2d30aa34de3f2654411e482de5</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>code</tag>
+        <tag>人工智能</tag>
       </tags>
   </entry>
   <entry>
@@ -3593,6 +3621,52 @@ import {initHBE} from "/js/plugins/hbe.js";
 ]]></content>
       <tags>
         <tag>English-Learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>电脑空白图标解决方案</title>
+    <url>/2025/01/21/2025-1-21%20%E7%A9%BA%E7%99%BD%E5%9B%BE%E6%A0%87/</url>
+    <content><![CDATA[<p>新建txt文件，粘贴以下内容，更改后缀名为bat，双击运行</p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line"></span><br><span class="line">taskkill /f /im explorer.exe</span><br><span class="line"></span><br><span class="line">CD /d %userprofile%\AppData\Local</span><br><span class="line"></span><br><span class="line">DEL IconCache.db /a</span><br><span class="line"></span><br><span class="line">start explorer.exe</span><br><span class="line"></span><br><span class="line">cho 操作完成</span><br></pre></td></tr></table></figure></div>]]></content>
+      <tags>
+        <tag>code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>smoothscroll时间戳转换</title>
+    <url>/2025/01/21/2025-1-21-smoothscroll%E6%97%B6%E9%97%B4%E6%88%B3%E8%BD%AC%E6%8D%A2/</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="f432d5fb98a9e16d48a67ed7be3e9e26022e0f55a3c94bc24c4f47daeba96fbf">2bcd9132b535ab0c63807d4882ee65a891eecbc71abec43ee9e28e147df9015492a43fdf8053ac9fce6eb65c142de9853bcc7b3e5e7b48ca592e5344fc8ebbada2f2daafca108dda1f73867de3c27a7dbe5b9e1776b9af85518822942b48ea8aa12f37a576a561815d69e42133a8e21bc20058d1253442a7bdd0d28973f702a0fca5dfade6b9e03e68a9fa3325d1e1fa12e781f73a24d419404f51529a3a754d490463771b8e07a1c2f63a5e895ac6a6c280b9fa8231cb5a73243c4da8a280e0348841ea5f914220adcbf64d6c92d1886b5542de5befaea49c3a444bbd415cf361d2abec2245df6c7a10f27a5cfabb17c25c0e55b8f196584992dd556dd1848021faa9db9fb70d9447c3b9f525636e1db3305079d53011f9c048551d8b9d825270a46464e840a6dbf502ebd76f183001aa8ec588f5c9094e160215ee3528716cd19243ba093cbc47acb511c0e2a8914fcc1457d42652148d184c4102a07ca7ae0b12d6a2907d1f6e9155a0c501011fcbce6440906dd8e54eeef576190603a0d150763f80eace91e6555fd1a27432f0e69deb9f95978237883beaa44ec26bac88986c1ada739f9e5c22b06330248c1fd4849329a5ef56d421d56c53fb097d8ee3e359471417e4ddf26a1a0554c4593c97dd71e2045bd544bb66d75aa82399d53d3820d28d02b9803cdb6d1b00c182feae78af404c1fe4adbbda0caf844d626f20e1ae7cca14db4a3d3074d79b049d2c13f61699e9fc0cb28a06fe241ff3d5b74ce149081d087cda945ff87a1364f18e27441ed4ea0d767cb878e4dad1ef07931ee7fa79d7238b1c4f7f96884fd31da35af5b98420939a972cf2ac64933c3e9b1b05ec367d5b33e30083372f2786ca14d55c34613f781e54eb304f0a5c39abd0a575fee38ce055f2649a848cca2750c7a96bbccc0ffd915856deee461970b78cbc89ae7b7a575d05fc16c01603e48cafd2a943e794793e10bcf8c1534442e7af05855fd28ffdac9bb1050815d79cb27a068613cc34390d7d89152ff7e3aa124ca784f8fc305e724cb2ddcd60195e90adbea1dba4918165389ba2e8dae0e0b0571b94977ed48b7f48dcfab9f0f654602a5ab86d50118d0fe98b585a79a6aba1897b2d617d9c5b3a91cce73364bc2322c1d5f1da5b9e9144dedba4e9f55c89325f4921f9b3a30eebe8e1b13cf74593a2bd45206559920fe4061a882a39efa9629157cea86d9058581661f01e43d340ec6d24045861b6aae91eba06df27d9e3c0f4fb770aba615b407515046bab57a270c48204cd45e83bdba5ab08914b7d79a2d28a07c99d9e206652d57bb984a3fcce55c08c47dbefb81f262a86e92612a7af976889e617388c09bdae8aa6e04a94545ced9559dc38c6a9b137a5b40c8db91cc7bafc49152fb8e799ca1d412989efe8046fd8cc5b7c3a1db5c3513a6a090e334a8ead665f2f762d6d0aef3b91641021c01be6fe7237d633b8af3beaf361e6cf6b67d5b3e215d3ba0cb6f7a54c7935672746866ad2ecbfa84aa48bc90cd8dc3b0e25b7f99f945b5fbdd6e79589ea4d20457edc9babd9f57a423bbdea5028476d7bbc5f99bf2d30aa34de3f2654411e482de5</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一键推送脚本</title>
+    <url>/2025/01/21/2025-1-21-deploy%E8%84%9A%E6%9C%AC/</url>
+    <content><![CDATA[<p>server.vbs是以管理员身份执行server.bat</p>
+<h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:start</span><br><span class="line">echo 请输入操作编号：</span><br><span class="line">echo 0. 退出</span><br><span class="line">echo 1. 执行 hexo clean</span><br><span class="line">echo 2. 执行 hexo generate</span><br><span class="line">echo 3. 执行 hexo server</span><br><span class="line">echo 4. 执行 hexo deploy</span><br><span class="line">echo 5. 执行 npm run server</span><br><span class="line">echo 6. 执行 npm run deploy</span><br><span class="line">set /p choice=输入:</span><br><span class="line"></span><br><span class="line">if "%choice%"=="0" (</span><br><span class="line">    exit /b</span><br><span class="line">) else if "%choice%"=="1" (</span><br><span class="line">    start "" cmd /c  hexo clean</span><br><span class="line">) else if "%choice%"=="2" (</span><br><span class="line">    start "" cmd /c hexo generate</span><br><span class="line">) else if "%choice%"=="3" (</span><br><span class="line">    start "" cmd /c hexo server</span><br><span class="line">) else if "%choice%"=="4" (</span><br><span class="line">    start "" cmd /c hexo deploy</span><br><span class="line">) else if "%choice%"=="5" (</span><br><span class="line">    start "" cmd /c npm run server</span><br><span class="line">) else if "%choice%"=="6" (</span><br><span class="line">    start "" cmd /c npm run deploy</span><br><span class="line">) else (</span><br><span class="line">    echo 输入错误，请输入 0、1、2 、3、4、5或 6。</span><br><span class="line">    goto start</span><br><span class="line">)</span><br><span class="line">echo 操作已完成，按任意键继续...</span><br><span class="line">pause &gt; nul</span><br><span class="line">goto start</span><br></pre></td></tr></table></figure></div>
+<h3 id="server-vbs"><a href="#server-vbs" class="headerlink" title="server.vbs"></a>server.vbs</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Set UAC = CreateObject("Shell.Application")</span><br><span class="line">UAC.ShellExecute "server.bat", "", "", "runas", 1</span><br></pre></td></tr></table></figure></div>
+]]></content>
+      <tags>
+        <tag>code</tag>
       </tags>
   </entry>
   <entry>
@@ -4107,189 +4181,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>Should we let students use ChatGPT?</title>
-    <url>/2025/01/06/2025-1-6-English-Learning/</url>
-    <content><![CDATA[<h2 id="Should-we-let-students-use-ChatGPT"><a href="#Should-we-let-students-use-ChatGPT" class="headerlink" title="Should we let students use ChatGPT?"></a><a class="link"   href="https://www.youtube.com/watch?v=ogcSQ-cFRVM" >Should we let students use ChatGPT?<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></h2><p>this past December I was sitting around a table having lunch with some English teachers </p>
-<p>when one of them started sharing how she had recently caught a student cheating on an essay using this new form of artificial intelligence called chat GPT </p>
-<p>she watched in astonishment and a bit of mild horror as this program constructed an entire essay for the student with a click of a button</p>
-<p>the initial reaction around the table was disbelief </p>
-<p>there’s no way that AI can write a quality essay</p>
-<p>naturally curious I whipped out my laptop to test it out</p>
-<p>all of us watched in shock as this AI program constructed a well-written analysis essay right before our eyes in a matter of seconds </p>
-<p>if you’ve ever wondered how to induce an immediate existential crisis amongst a group of English teachers yeah that’s how</p>
-<p>while there are dozens of text generative AI programs out there</p>
-<p>open ai’s chat GPT which was released to the public this past November is the</p>
-<p>most well known since its release chat GPT has been</p>
-<p>featured on almost every major news station and even made it to the cover of</p>
-<p>Time magazine in February this program caught the World by storm</p>
-<p>because it was 10 times smarter than the version that had come before it</p>
-<p>chat GPT is what is known as a large language model which is essentially a</p>
-<p>network of neural pathway connections that allows the program to learn and</p>
-<p>become more accurate in its responses over time</p>
-<p>when I asked chat GPT what it wanted the world to know about its capabilities</p>
-<p>it responded I can provide information on a wide</p>
-<p>range of topics and understand and respond to natural language I can also</p>
-<p>generate creative and personalized responses and learn from my interactions</p>
-<p>to improve my language processing capabilities over time</p>
-<p>oh is that all</p>
-<p>right after its public emergence companies and people around the world</p>
-<p>began harnessing the immense power of this technology doctors have used it to</p>
-<p>help diagnose patients businesses began using it to create advertisements and</p>
-<p>blog posts and Joe schmoe has been using it to help him write all those pesky</p>
-<p>thank you cards from his wedding 14 months ago</p>
-<p>and all of this is being done with the click of a button</p>
-<p>common applications like Snapchat instacart</p>
-<p>Duolingo and Quizlet have also begun to integrate this technology into their</p>
-<p>platforms and then openai released gpt4 in March</p>
-<p>which is the newest version of the system that powers chat GPT</p>
-<p>gpt4 unlike chat GPT can also analyze images and web links instead of being</p>
-<p>restricted to text input only Microsoft began using gbt4 to power</p>
-<p>their search engine Bing they also have plans to integrate gpt4 with the</p>
-<p>Microsoft Office Suite products soon you’ll be able to turn your boss’s</p>
-<p>20-page email into a comprehensive PowerPoint presentation with a single</p>
-<p>click a couple of weeks after Microsoft</p>
-<p>released their new search engine Google released their AI system bard</p>
-<p>and I’m sure it’s only a matter of time until we see artificial intelligence</p>
-<p>Incorporated with the Google Suite products as well</p>
-<p>the tech world has entered an AI arms race</p>
-<p>but with such an explosive advancement in technology seemingly overnight</p>
-<p>Educators across the globe have entered a state of panic of course there are the</p>
-<p>typical concerns about AI taking over the world courtesy of too many movies</p>
-<p>and TV shows like Terminator and Westworld</p>
-<p>but for educators the concern lies more with their students</p>
-<p>post-pandemic Educators have noticed severe declines in students ability to</p>
-<p>think critically and problem solve at the most basic levels but now with AI</p>
-<p>able to do the thinking for them educators are Awash in worry not merely</p>
-<p>for their jobs but for the development of their students</p>
-<p>but as author and writing instructor John Warner points out</p>
-<p>the reason the appearance of this Tech is so shocking is because it forces us</p>
-<p>to confront what we value rather than letting the status quo churn along</p>
-<p>unexamined</p>
-<p>there is no doubt that AI is going to transform the landscape of Education as</p>
-<p>we know it after all we’ve seen this type of transformation before and for</p>
-<p>most of us it happened within our lifetimes the widespread proliferation</p>
-<p>of the internet just a few decades ago completely transformed how schools and</p>
-<p>our global economy functioned isn’t it safe to assume that a new technological</p>
-<p>leap might do the same hard work of this leap is going to fall</p>
-<p>to educators generative AI systems will force</p>
-<p>Educators and educational institutions to re-evaluate what they teach and why</p>
-<p>and how they teach it do students really need to know how to</p>
-<p>write a five paragraph rigorously structured essay</p>
-<p>or do they need to understand how to approach a concept break it down and</p>
-<p>organize it into bite-sized pieces since the dawn of time teachers have</p>
-<p>been posed to question by students when will I use this in real life</p>
-<p>well now is the time to come up with a concrete answer to that question because</p>
-<p>the truth is many of the assignments given in the classroom really don’t</p>
-<p>prepare students for real life when are students going to need to know how to</p>
-<p>diagram a compound complex sentence unless you end up an English teacher</p>
-<p>Chances Are Never if students feel as though what they are</p>
-<p>learning in the classroom will benefit them in the long run they will become</p>
-<p>invested in the learning and won’t be looking for shortcuts to Simply get the</p>
-<p>work done but instead of embracing and learning</p>
-<p>from this new technology many schools across the country</p>
-<p>responded to the public release of chat GPT by immediately blocking it and other</p>
-<p>AI applications on all School sanctioned devices</p>
-<p>but is it beneficial to restrict student use of a technology that businesses</p>
-<p>around the world are using or should we instead teach our students how to</p>
-<p>interact with AI safely and productively anyone that has been around teenagers</p>
-<p>for any length of time understands All Too Well the implications of reverse</p>
-<p>psychology even adults fall prey to this trap if I tell you not to think of an</p>
-<p>elephant like whatever you do don’t think about an elephant</p>
-<p>yeah we’re all thinking about an elephant right now if you tell a teacher</p>
-<p>a teenager not to do something you can bet they’ll be itching to try it out as</p>
-<p>soon as your back is turned blocking chat GPT and similar AI applications</p>
-<p>won’t work it will only make the programs more intriguing for students</p>
-<p>who wouldn’t want to explore the secrets this technology holds that has caused</p>
-<p>such an adverse reaction amongst their teachers</p>
-<p>plus we can’t control what students do outside of their classrooms and school</p>
-<p>buildings it’s all too easy for students to pull up this program on their phone</p>
-<p>when they go to the bathroom or simply access it on a different device when</p>
-<p>they’re completing their schoolwork at home</p>
-<p>and once Microsoft and Google integrate this technology into their office suite</p>
-<p>products unless we want to regress to the pre-internet age of paper and pencil</p>
-<p>we won’t be able to avoid AI in the classroom we will never be able to truly</p>
-<p>and fully block it instead we have to find ways to work with and around it</p>
-<p>in order to implement effective use of AI in the classroom teachers may need to</p>
-<p>re-evaluate how they are teaching the material and assessing student learning</p>
-<p>What If instead of assigning worksheets and essays we encouraged more</p>
-<p>collaboration in the classroom project-based and student directive</p>
-<p>learning have always been my go-to’s as an educator</p>
-<p>as an English teacher my students were constantly creating posters and</p>
-<p>participating in debates in order to analyze various aspects of literary work</p>
-<p>they would work on group projects and presentations as their end of unit</p>
-<p>assessment and we would use gameplay to review material such as participating in</p>
-<p>an escape room or a competitive game of Jeopardy</p>
-<p>even if my students were able to access AI in my classroom it wouldn’t have</p>
-<p>provided them with much help beyond the ability to be a sounding board for their</p>
-<p>ideas and what would be so wrong with that</p>
-<p>I think most Educators would agree that the goal of education is to help our</p>
-<p>students learn how to think critically and problem solve AI technology can be</p>
-<p>incorporated into the classroom in ways that actually engage students in</p>
-<p>critical thinking math students could create their own math problems and then</p>
-<p>use AI to test the results social studies students could use chat</p>
-<p>GPT to write alternative realities to history and then discuss the results as</p>
-<p>a class science students could use the chat bot</p>
-<p>to adopt the voice of a famous scientist and then engage in a stimulating</p>
-<p>conversation about their discoveries students can also utilize AI to help</p>
-<p>edit their Writing Practice vocabulary terms provide individualized tutoring</p>
-<p>and edit their ideas and research and these are just a few of the</p>
-<p>unlimited applications from the student perspective</p>
-<p>but it also has abilities that can benefit teachers</p>
-<p>almost immediately after my school blocked AI on all of our student devices</p>
-<p>my co-workers began using it to help them do their jobs more effectively</p>
-<p>they use chat GPT to write lesson plans come up with discussion prompts and</p>
-<p>create tests and quizzes and I actually used it to help me write</p>
-<p>a final exam for my students a process that normally takes me hours</p>
-<p>took only 30 minutes with the assistance of AI</p>
-<p>not only does AI have the ability to Save hours of preparation time for</p>
-<p>teachers but it can also take a piece of writing and adapt it in any way the user</p>
-<p>asks which can help make learning and reading more accessible to students of</p>
-<p>all abilities for example we could ask chat GPT to</p>
-<p>take a complex text and transform it into something a fourth grader could</p>
-<p>read or we could have it transform</p>
-<p>Shakespeare’s Romeo and Juliet into a modern day Telenovela</p>
-<p>possibilities are only as limited as the user’s imagination</p>
-<p>we are living in a digitally Progressive world</p>
-<p>shouldn’t our schools reflect that as Matt Miller from ditch that textbook</p>
-<p>said this version of chat GPT is the weakest</p>
-<p>most rudimentary artificial intelligence of its kind our students will ever use</p>
-<p>if we are blocking technology in our schools that are being used in</p>
-<p>businesses across the country and around the world we aren’t adequately preparing</p>
-<p>our students to enter the 21st century Workforce</p>
-<p>our students need to be trained how to interact with the world around them via</p>
-<p>the technology at their disposal and how to do so safely</p>
-<p>and who will teach them these skills if teachers don’t</p>
-<p>but if we also need to give students the benefit of the doubt just like Educators</p>
-<p>do with other classroom technology teachers can establish times to utilize</p>
-<p>Ai and times to not when one educator gave the option for</p>
-<p>his students to use chat GPT on an assignment</p>
-<p>only four actually took him up on the offer</p>
-<p>many students are just as nervous as their adult counterparts are about this</p>
-<p>new technology they too worry about the impact that it will have on their</p>
-<p>ability to problem solve and become functioning adults who are able to make</p>
-<p>a positive contribution to the world in fact</p>
-<p>there are many students who don’t know about this new technology</p>
-<p>of course this will change in the coming months and years</p>
-<p>but for now we have time and we need to use this time to adapt</p>
-<p>accordingly just as the internet did before it AI is</p>
-<p>going to weave its way into every facet of Our Lives the process is already</p>
-<p>started we’re already carrying around little AI machines in our pockets and</p>
-<p>purses and while Chad GPT and gpt4 are far more advanced than Siri or Alexa</p>
-<p>they too will eventually become a staple in our everyday routines</p>
-<p>large language model generative AI is going to change the landscape of the</p>
-<p>world’s economy and launch us into a new era of Education</p>
-<p>schools need to start teaching their students how to use AI safely and</p>
-<p>effectively and teachers need to begin reevaluating and redesigning their</p>
-<p>curriculum so that next year we’re not sitting around a table in shock as our</p>
-<p>co-worker shares how they just caught a student cheating using whatever form of</p>
-<p>AI is coming next thank you</p>
-<p>[Applause]</p>
-]]></content>
-      <tags>
-        <tag>English-Learning</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>How to talk like a native speaker</title>
     <url>/2025/01/04/2025-1-4-English-Leaning/</url>
     <content><![CDATA[<h1 id="how-to-talk-like-a-native-speaker"><a href="#how-to-talk-like-a-native-speaker" class="headerlink" title="how to talk like a native speaker"></a><a class="link"   href="https://www.youtube.com/watch?v=Ti_gFEe1XNY" >how to talk like a native speaker<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></h1><p>Translator: Phuong Cao Reviewer: Leonardo Silva</p>
@@ -4630,6 +4521,189 @@ import {initHBE} from "/js/plugins/hbe.js";
 <p>Good luck to you all and…</p>
 <p>(Russian) Thank you.</p>
 <p>(Applause)</p>
+]]></content>
+      <tags>
+        <tag>English-Learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Should we let students use ChatGPT?</title>
+    <url>/2025/01/06/2025-1-6-English-Learning/</url>
+    <content><![CDATA[<h2 id="Should-we-let-students-use-ChatGPT"><a href="#Should-we-let-students-use-ChatGPT" class="headerlink" title="Should we let students use ChatGPT?"></a><a class="link"   href="https://www.youtube.com/watch?v=ogcSQ-cFRVM" >Should we let students use ChatGPT?<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></h2><p>this past December I was sitting around a table having lunch with some English teachers </p>
+<p>when one of them started sharing how she had recently caught a student cheating on an essay using this new form of artificial intelligence called chat GPT </p>
+<p>she watched in astonishment and a bit of mild horror as this program constructed an entire essay for the student with a click of a button</p>
+<p>the initial reaction around the table was disbelief </p>
+<p>there’s no way that AI can write a quality essay</p>
+<p>naturally curious I whipped out my laptop to test it out</p>
+<p>all of us watched in shock as this AI program constructed a well-written analysis essay right before our eyes in a matter of seconds </p>
+<p>if you’ve ever wondered how to induce an immediate existential crisis amongst a group of English teachers yeah that’s how</p>
+<p>while there are dozens of text generative AI programs out there</p>
+<p>open ai’s chat GPT which was released to the public this past November is the</p>
+<p>most well known since its release chat GPT has been</p>
+<p>featured on almost every major news station and even made it to the cover of</p>
+<p>Time magazine in February this program caught the World by storm</p>
+<p>because it was 10 times smarter than the version that had come before it</p>
+<p>chat GPT is what is known as a large language model which is essentially a</p>
+<p>network of neural pathway connections that allows the program to learn and</p>
+<p>become more accurate in its responses over time</p>
+<p>when I asked chat GPT what it wanted the world to know about its capabilities</p>
+<p>it responded I can provide information on a wide</p>
+<p>range of topics and understand and respond to natural language I can also</p>
+<p>generate creative and personalized responses and learn from my interactions</p>
+<p>to improve my language processing capabilities over time</p>
+<p>oh is that all</p>
+<p>right after its public emergence companies and people around the world</p>
+<p>began harnessing the immense power of this technology doctors have used it to</p>
+<p>help diagnose patients businesses began using it to create advertisements and</p>
+<p>blog posts and Joe schmoe has been using it to help him write all those pesky</p>
+<p>thank you cards from his wedding 14 months ago</p>
+<p>and all of this is being done with the click of a button</p>
+<p>common applications like Snapchat instacart</p>
+<p>Duolingo and Quizlet have also begun to integrate this technology into their</p>
+<p>platforms and then openai released gpt4 in March</p>
+<p>which is the newest version of the system that powers chat GPT</p>
+<p>gpt4 unlike chat GPT can also analyze images and web links instead of being</p>
+<p>restricted to text input only Microsoft began using gbt4 to power</p>
+<p>their search engine Bing they also have plans to integrate gpt4 with the</p>
+<p>Microsoft Office Suite products soon you’ll be able to turn your boss’s</p>
+<p>20-page email into a comprehensive PowerPoint presentation with a single</p>
+<p>click a couple of weeks after Microsoft</p>
+<p>released their new search engine Google released their AI system bard</p>
+<p>and I’m sure it’s only a matter of time until we see artificial intelligence</p>
+<p>Incorporated with the Google Suite products as well</p>
+<p>the tech world has entered an AI arms race</p>
+<p>but with such an explosive advancement in technology seemingly overnight</p>
+<p>Educators across the globe have entered a state of panic of course there are the</p>
+<p>typical concerns about AI taking over the world courtesy of too many movies</p>
+<p>and TV shows like Terminator and Westworld</p>
+<p>but for educators the concern lies more with their students</p>
+<p>post-pandemic Educators have noticed severe declines in students ability to</p>
+<p>think critically and problem solve at the most basic levels but now with AI</p>
+<p>able to do the thinking for them educators are Awash in worry not merely</p>
+<p>for their jobs but for the development of their students</p>
+<p>but as author and writing instructor John Warner points out</p>
+<p>the reason the appearance of this Tech is so shocking is because it forces us</p>
+<p>to confront what we value rather than letting the status quo churn along</p>
+<p>unexamined</p>
+<p>there is no doubt that AI is going to transform the landscape of Education as</p>
+<p>we know it after all we’ve seen this type of transformation before and for</p>
+<p>most of us it happened within our lifetimes the widespread proliferation</p>
+<p>of the internet just a few decades ago completely transformed how schools and</p>
+<p>our global economy functioned isn’t it safe to assume that a new technological</p>
+<p>leap might do the same hard work of this leap is going to fall</p>
+<p>to educators generative AI systems will force</p>
+<p>Educators and educational institutions to re-evaluate what they teach and why</p>
+<p>and how they teach it do students really need to know how to</p>
+<p>write a five paragraph rigorously structured essay</p>
+<p>or do they need to understand how to approach a concept break it down and</p>
+<p>organize it into bite-sized pieces since the dawn of time teachers have</p>
+<p>been posed to question by students when will I use this in real life</p>
+<p>well now is the time to come up with a concrete answer to that question because</p>
+<p>the truth is many of the assignments given in the classroom really don’t</p>
+<p>prepare students for real life when are students going to need to know how to</p>
+<p>diagram a compound complex sentence unless you end up an English teacher</p>
+<p>Chances Are Never if students feel as though what they are</p>
+<p>learning in the classroom will benefit them in the long run they will become</p>
+<p>invested in the learning and won’t be looking for shortcuts to Simply get the</p>
+<p>work done but instead of embracing and learning</p>
+<p>from this new technology many schools across the country</p>
+<p>responded to the public release of chat GPT by immediately blocking it and other</p>
+<p>AI applications on all School sanctioned devices</p>
+<p>but is it beneficial to restrict student use of a technology that businesses</p>
+<p>around the world are using or should we instead teach our students how to</p>
+<p>interact with AI safely and productively anyone that has been around teenagers</p>
+<p>for any length of time understands All Too Well the implications of reverse</p>
+<p>psychology even adults fall prey to this trap if I tell you not to think of an</p>
+<p>elephant like whatever you do don’t think about an elephant</p>
+<p>yeah we’re all thinking about an elephant right now if you tell a teacher</p>
+<p>a teenager not to do something you can bet they’ll be itching to try it out as</p>
+<p>soon as your back is turned blocking chat GPT and similar AI applications</p>
+<p>won’t work it will only make the programs more intriguing for students</p>
+<p>who wouldn’t want to explore the secrets this technology holds that has caused</p>
+<p>such an adverse reaction amongst their teachers</p>
+<p>plus we can’t control what students do outside of their classrooms and school</p>
+<p>buildings it’s all too easy for students to pull up this program on their phone</p>
+<p>when they go to the bathroom or simply access it on a different device when</p>
+<p>they’re completing their schoolwork at home</p>
+<p>and once Microsoft and Google integrate this technology into their office suite</p>
+<p>products unless we want to regress to the pre-internet age of paper and pencil</p>
+<p>we won’t be able to avoid AI in the classroom we will never be able to truly</p>
+<p>and fully block it instead we have to find ways to work with and around it</p>
+<p>in order to implement effective use of AI in the classroom teachers may need to</p>
+<p>re-evaluate how they are teaching the material and assessing student learning</p>
+<p>What If instead of assigning worksheets and essays we encouraged more</p>
+<p>collaboration in the classroom project-based and student directive</p>
+<p>learning have always been my go-to’s as an educator</p>
+<p>as an English teacher my students were constantly creating posters and</p>
+<p>participating in debates in order to analyze various aspects of literary work</p>
+<p>they would work on group projects and presentations as their end of unit</p>
+<p>assessment and we would use gameplay to review material such as participating in</p>
+<p>an escape room or a competitive game of Jeopardy</p>
+<p>even if my students were able to access AI in my classroom it wouldn’t have</p>
+<p>provided them with much help beyond the ability to be a sounding board for their</p>
+<p>ideas and what would be so wrong with that</p>
+<p>I think most Educators would agree that the goal of education is to help our</p>
+<p>students learn how to think critically and problem solve AI technology can be</p>
+<p>incorporated into the classroom in ways that actually engage students in</p>
+<p>critical thinking math students could create their own math problems and then</p>
+<p>use AI to test the results social studies students could use chat</p>
+<p>GPT to write alternative realities to history and then discuss the results as</p>
+<p>a class science students could use the chat bot</p>
+<p>to adopt the voice of a famous scientist and then engage in a stimulating</p>
+<p>conversation about their discoveries students can also utilize AI to help</p>
+<p>edit their Writing Practice vocabulary terms provide individualized tutoring</p>
+<p>and edit their ideas and research and these are just a few of the</p>
+<p>unlimited applications from the student perspective</p>
+<p>but it also has abilities that can benefit teachers</p>
+<p>almost immediately after my school blocked AI on all of our student devices</p>
+<p>my co-workers began using it to help them do their jobs more effectively</p>
+<p>they use chat GPT to write lesson plans come up with discussion prompts and</p>
+<p>create tests and quizzes and I actually used it to help me write</p>
+<p>a final exam for my students a process that normally takes me hours</p>
+<p>took only 30 minutes with the assistance of AI</p>
+<p>not only does AI have the ability to Save hours of preparation time for</p>
+<p>teachers but it can also take a piece of writing and adapt it in any way the user</p>
+<p>asks which can help make learning and reading more accessible to students of</p>
+<p>all abilities for example we could ask chat GPT to</p>
+<p>take a complex text and transform it into something a fourth grader could</p>
+<p>read or we could have it transform</p>
+<p>Shakespeare’s Romeo and Juliet into a modern day Telenovela</p>
+<p>possibilities are only as limited as the user’s imagination</p>
+<p>we are living in a digitally Progressive world</p>
+<p>shouldn’t our schools reflect that as Matt Miller from ditch that textbook</p>
+<p>said this version of chat GPT is the weakest</p>
+<p>most rudimentary artificial intelligence of its kind our students will ever use</p>
+<p>if we are blocking technology in our schools that are being used in</p>
+<p>businesses across the country and around the world we aren’t adequately preparing</p>
+<p>our students to enter the 21st century Workforce</p>
+<p>our students need to be trained how to interact with the world around them via</p>
+<p>the technology at their disposal and how to do so safely</p>
+<p>and who will teach them these skills if teachers don’t</p>
+<p>but if we also need to give students the benefit of the doubt just like Educators</p>
+<p>do with other classroom technology teachers can establish times to utilize</p>
+<p>Ai and times to not when one educator gave the option for</p>
+<p>his students to use chat GPT on an assignment</p>
+<p>only four actually took him up on the offer</p>
+<p>many students are just as nervous as their adult counterparts are about this</p>
+<p>new technology they too worry about the impact that it will have on their</p>
+<p>ability to problem solve and become functioning adults who are able to make</p>
+<p>a positive contribution to the world in fact</p>
+<p>there are many students who don’t know about this new technology</p>
+<p>of course this will change in the coming months and years</p>
+<p>but for now we have time and we need to use this time to adapt</p>
+<p>accordingly just as the internet did before it AI is</p>
+<p>going to weave its way into every facet of Our Lives the process is already</p>
+<p>started we’re already carrying around little AI machines in our pockets and</p>
+<p>purses and while Chad GPT and gpt4 are far more advanced than Siri or Alexa</p>
+<p>they too will eventually become a staple in our everyday routines</p>
+<p>large language model generative AI is going to change the landscape of the</p>
+<p>world’s economy and launch us into a new era of Education</p>
+<p>schools need to start teaching their students how to use AI safely and</p>
+<p>effectively and teachers need to begin reevaluating and redesigning their</p>
+<p>curriculum so that next year we’re not sitting around a table in shock as our</p>
+<p>co-worker shares how they just caught a student cheating using whatever form of</p>
+<p>AI is coming next thank you</p>
+<p>[Applause]</p>
 ]]></content>
       <tags>
         <tag>English-Learning</tag>
