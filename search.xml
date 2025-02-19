@@ -80,10 +80,10 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/2021/03/14/2021-3-14-%E6%97%A5%E8%AE%B0/</url>
+    <url>/2021/02/04/2021-2-4-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="abc3339a655f449b8b0e49bf85e351a332f6c31f85a95225f75d668afb94908a">249107fcce4fdab00b19d327c31fd8f33af60cc07c7fca5acec9f3d9dbfa6fd6e04d38ad181f8cede03dd9af51349f8d4fa3fd4380e1f3f378354b9b8cf3efeb07b5cd0c0e3a9f3ef9a6a531dc851d28fbbd58642fbb329bdbda96bcaaa5bd3d4b9656f9fbf2527ef07c20767129c8b8e2fdc0688d580ee71d32eafb308094da8893e9abd989e48c177e0d3f443760d5583705f01b844b1431473f39beef9a08</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -106,10 +106,10 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/2021/02/04/2021-2-4-%E6%97%A5%E8%AE%B0/</url>
+    <url>/2021/03/14/2021-3-14-%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="abc3339a655f449b8b0e49bf85e351a332f6c31f85a95225f75d668afb94908a">249107fcce4fdab00b19d327c31fd8f33af60cc07c7fca5acec9f3d9dbfa6fd6e04d38ad181f8cede03dd9af51349f8d4fa3fd4380e1f3f378354b9b8cf3efeb07b5cd0c0e3a9f3ef9a6a531dc851d28fbbd58642fbb329bdbda96bcaaa5bd3d4b9656f9fbf2527ef07c20767129c8b8e2fdc0688d580ee71d32eafb308094da8893e9abd989e48c177e0d3f443760d5583705f01b844b1431473f39beef9a08</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -177,45 +177,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       <categories>
         <category>计算机网络</category>
         <category>体系结构</category>
-      </categories>
-      <tags>
-        <tag>计算机网络</tag>
-        <tag>计算机408</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>物理层</title>
-    <url>/2024/11/17/2024-11-17-%E7%89%A9%E7%90%86%E5%B1%82/</url>
-    <content><![CDATA[<h2 id="通信基础"><a href="#通信基础" class="headerlink" title="通信基础"></a>通信基础</h2><ul>
-<li>曼彻斯特编码用码元中间的电平跳变来表示每个比特，可方便收发双方根据跳变来同步时而不需要额外的时钟信号。差分曼彻斯特编码也不需要额外的时钟信号.</li>
-<li>波特率表示信号每秒变化的次数,也是码元的传输速率;</li>
-<li>一般情况下多个比特构成一个码元,所以波特率在数值上&lt;=比特率,但是在以太网实施的曼彻斯特编码中,一个码元等于二分之一个比特等于一个脉冲(我不是很理解这一块,特殊情况特殊记忆)<blockquote>
-<p><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -1.158ex;" xmlns="http://www.w3.org/2000/svg" width="42.86ex" height="3.527ex" role="img" focusable="false" viewBox="0 -1047.1 18944.3 1558.9"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mfrac"><g data-mml-node="mrow" transform="translate(220,516.8) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">比</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(3000,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(3389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g><g data-mml-node="mi" transform="translate(4389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">据</text></g><g data-mml-node="mi" transform="translate(5389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(6389,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g><g data-mml-node="mrow" transform="translate(1555.7,-370.3) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">波</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g></g><rect width="4992.8" height="60" x="120" y="220"></rect></g><g data-mml-node="mo" transform="translate(5510.5,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(6566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">每</text></g><g data-mml-node="mi" transform="translate(7566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">个</text></g><g data-mml-node="mi" transform="translate(8566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">码</text></g><g data-mml-node="mi" transform="translate(9566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">元</text></g><g data-mml-node="mi" transform="translate(10566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">中</text></g><g data-mml-node="mi" transform="translate(11566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">所</text></g><g data-mml-node="mi" transform="translate(12566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">含</text></g><g data-mml-node="mi" transform="translate(13566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(14566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">比</text></g><g data-mml-node="mi" transform="translate(15566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(16566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g><g data-mml-node="mo" transform="translate(17566.3,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(17955.3,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(18555.3,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container><br> <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex;" xmlns="http://www.w3.org/2000/svg" width="18.871ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 8340.8 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="TeXAtom" transform="translate(533,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g><g data-mml-node="mo" transform="translate(1285,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(2340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">码</text></g><g data-mml-node="mi" transform="translate(3340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">元</text></g><g data-mml-node="mi" transform="translate(4340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(5340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">状</text></g><g data-mml-node="mi" transform="translate(6340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">态</text></g><g data-mml-node="mi" transform="translate(7340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g></g></g></svg></mjx-container></p>
-</blockquote>
-</li>
-<li>曼彻斯特编码:看码元中间,统一上升沿为0或1,下降沿为1或0;<br>差分曼彻斯特编码:看码元的连接处(考试的信号段开头第一个码元看不出来),有跳变表示0,无跳变表示1(0比较圆润所以爱跳,1比较正直稳重,所以平稳);<br>非归零编码(NRZ:Non Return Zero Code):高电平1,低电平0;<br>反向非归零编码(NRZI:Non Return Zero Inverted Code):跳变0,不变1;</li>
-<li>根据奈奎斯特定律 ,波特率的上限为2倍的信道带宽率,所以采样数超过这个数值的部分是无意义的</li>
-<li>香农定理:<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.781ex;" xmlns="http://www.w3.org/2000/svg" width="37.662ex" height="2.8ex" role="img" focusable="false" viewBox="0 -892.5 16646.5 1237.5"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">信</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">道</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(3000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">极</text></g><g data-mml-node="mi" transform="translate(4000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">限</text></g><g data-mml-node="mi" transform="translate(5000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">传</text></g><g data-mml-node="mi" transform="translate(6000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">输</text></g><g data-mml-node="mi" transform="translate(7000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">速</text></g><g data-mml-node="mi" transform="translate(8000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(9277.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(10333.6,0)"><path data-c="1D44A" d="M436 683Q450 683 486 682T553 680Q604 680 638 681T677 682Q695 682 695 674Q695 670 692 659Q687 641 683 639T661 637Q636 636 621 632T600 624T597 615Q597 603 613 377T629 138L631 141Q633 144 637 151T649 170T666 200T690 241T720 295T759 362Q863 546 877 572T892 604Q892 619 873 628T831 637Q817 637 817 647Q817 650 819 660Q823 676 825 679T839 682Q842 682 856 682T895 682T949 681Q1015 681 1034 683Q1048 683 1048 672Q1048 666 1045 655T1038 640T1028 637Q1006 637 988 631T958 617T939 600T927 584L923 578L754 282Q586 -14 585 -15Q579 -22 561 -22Q546 -22 542 -17Q539 -14 523 229T506 480L494 462Q472 425 366 239Q222 -13 220 -15T215 -19Q210 -22 197 -22Q178 -22 176 -15Q176 -12 154 304T131 622Q129 631 121 633T82 637H58Q51 644 51 648Q52 671 64 683H76Q118 680 176 680Q301 680 313 683H323Q329 677 329 674T327 656Q322 641 318 637H297Q236 634 232 620Q262 160 266 136L501 550L499 587Q496 629 489 632Q483 636 447 637Q428 637 422 639T416 648Q416 650 418 660Q419 664 420 669T421 676T424 680T428 682T436 683Z"></path></g><g data-mml-node="mi" transform="translate(11381.6,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(11679.6,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(12164.6,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mo" transform="translate(13078.1,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mn" transform="translate(13467.1,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g><g data-mml-node="mo" transform="translate(14189.3,0)"><path data-c="2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path></g><g data-mml-node="mfrac" transform="translate(15189.6,0)"><g data-mml-node="mi" transform="translate(305.9,394) scale(0.707)"><path data-c="1D446" d="M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z"></path></g><g data-mml-node="mi" transform="translate(220,-345) scale(0.707)"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></g><rect width="827.9" height="60" x="120" y="220"></rect></g><g data-mml-node="mo" transform="translate(16257.5,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container><blockquote>
-<p>W:信道的频率带宽;S:信号的平均功率;N:噪声的功率<br><br>S/N有两种形式:一种是功率比,直接代入公式计算;一种是x(dB)单位,利用公式<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="17.572ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 7766.7 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"></path></g><g data-mml-node="mo" transform="translate(849.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(1905.6,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g><g data-mml-node="mi" transform="translate(2905.6,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(3203.6,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(3688.6,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g></g></g><g data-mml-node="mo" transform="translate(4955.7,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(5344.7,0)"><path data-c="1D446" d="M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(5989.7,0)"><g data-mml-node="mo"><path data-c="2F" d="M423 750Q432 750 438 744T444 730Q444 725 271 248T92 -240Q85 -250 75 -250Q68 -250 62 -245T56 -231Q56 -221 230 257T407 740Q411 750 423 750Z"></path></g></g><g data-mml-node="mi" transform="translate(6489.7,0)"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></g><g data-mml-node="mo" transform="translate(7377.7,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container>,计算出S/N代入即可<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/aa6265cf611fd4f022d7c753c7aab827.png" alt="aa6265cf611fd4f022d7c753c7aab827.png"></p>
-</blockquote>
-</li>
-<li>信道的最大传输速率受香农定理和奈奎斯特定理两者作用,二者取其小</li>
-</ul>
-<h2 id="传输介质"><a href="#传输介质" class="headerlink" title="传输介质"></a>传输介质</h2><ul>
-<li>同轴电缆具有更高的屏蔽性，同时有更好的抗噪声性。</li>
-<li>物理层接口的特性：<br><strong>机械特性</strong>。指明接口所用接线器的形状和尺寸、引脚数目和排列、固定和锁定装置等。<br><strong>电气特性</strong>。指明在接口电缆的各条线上的电压范围、传输速率和距离限制等。<br><strong>功能特性</strong>。指明某条线上出现的某一电平的电压的意义,以及每条线的功能。<br><strong>过程特性</strong>,也称规程特性。指明对不同功能的各种可能事件的出现顺序。</li>
-</ul>
-<h2 id="物理层设备"><a href="#物理层设备" class="headerlink" title="物理层设备"></a>物理层设备</h2><ul>
-<li><strong>中继器</strong>的原理是将衰减的信号再生而不是放大,连接后的网段仍然属于同一个局域网。<br><strong>转发器</strong>只能用来放大信号。<br><strong>集线器</strong>的实质是一个多端口的中继器。集线器没有寻址功能,一个端口接收到数据信号后,从除了接收端口外的其他所有端口转发出去。<br><a href="https://www.doubao.com/thread/a52b99f571a7a"><strong>网桥</strong></a>是数据链路层设备，主要用于连接两个或多个局域网（LAN），并在它们之间转发数据帧。</li>
-<li>互相串联的中继器的个数不能超过4个,而且用4个中继器串联的5段通信介质中,只有3段可以挂接计算机,其余2段只能用作扩展通信范围的链路段,不能挂接计算机。这就是所谓的”<strong>5-4-3规则</strong>“</li>
-<li>若某个网络设备有存储转发功能,则认为它能连接两个不同的协议;</li>
-<li>集线器将多个设备连接在以它为中心的结点上,因此使用它的网络<strong>在物理拓扑上属于星形结<br>构</strong>。集线器不具备交换机所具有的交换表,所以它发送数据时是没有针对性的,而采用广播方式发送。因此,使用集线器的星形以太网<strong>逻辑上仍然是总线网</strong>。</li>
-<li>基带传输，频带传输，宽带传输:<br><strong>基带传输</strong>是信号不经过调制，直接在信道上传输；<br><strong>频带传输</strong>是将信号进行调制之后进行传输；<br><strong>宽带传输</strong>是在频带传输的基础上将链路划分为多个信道进行传输。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>计算机网络</category>
-        <category>物理层</category>
       </categories>
       <tags>
         <tag>计算机网络</tag>
@@ -435,6 +396,45 @@ import {initHBE} from "/js/plugins/hbe.js";
       <categories>
         <category>计算机网络</category>
         <category>数据链路层</category>
+      </categories>
+      <tags>
+        <tag>计算机网络</tag>
+        <tag>计算机408</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>物理层</title>
+    <url>/2024/11/17/2024-11-17-%E7%89%A9%E7%90%86%E5%B1%82/</url>
+    <content><![CDATA[<h2 id="通信基础"><a href="#通信基础" class="headerlink" title="通信基础"></a>通信基础</h2><ul>
+<li>曼彻斯特编码用码元中间的电平跳变来表示每个比特，可方便收发双方根据跳变来同步时而不需要额外的时钟信号。差分曼彻斯特编码也不需要额外的时钟信号.</li>
+<li>波特率表示信号每秒变化的次数,也是码元的传输速率;</li>
+<li>一般情况下多个比特构成一个码元,所以波特率在数值上&lt;=比特率,但是在以太网实施的曼彻斯特编码中,一个码元等于二分之一个比特等于一个脉冲(我不是很理解这一块,特殊情况特殊记忆)<blockquote>
+<p><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -1.158ex;" xmlns="http://www.w3.org/2000/svg" width="42.86ex" height="3.527ex" role="img" focusable="false" viewBox="0 -1047.1 18944.3 1558.9"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mfrac"><g data-mml-node="mrow" transform="translate(220,516.8) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">比</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(3000,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(3389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g><g data-mml-node="mi" transform="translate(4389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">据</text></g><g data-mml-node="mi" transform="translate(5389,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(6389,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g><g data-mml-node="mrow" transform="translate(1555.7,-370.3) scale(0.707)"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">波</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g></g><rect width="4992.8" height="60" x="120" y="220"></rect></g><g data-mml-node="mo" transform="translate(5510.5,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(6566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">每</text></g><g data-mml-node="mi" transform="translate(7566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">个</text></g><g data-mml-node="mi" transform="translate(8566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">码</text></g><g data-mml-node="mi" transform="translate(9566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">元</text></g><g data-mml-node="mi" transform="translate(10566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">中</text></g><g data-mml-node="mi" transform="translate(11566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">所</text></g><g data-mml-node="mi" transform="translate(12566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">含</text></g><g data-mml-node="mi" transform="translate(13566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(14566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">比</text></g><g data-mml-node="mi" transform="translate(15566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">特</text></g><g data-mml-node="mi" transform="translate(16566.3,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g><g data-mml-node="mo" transform="translate(17566.3,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(17955.3,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(18555.3,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container><br> <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex;" xmlns="http://www.w3.org/2000/svg" width="18.871ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 8340.8 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="TeXAtom" transform="translate(533,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g></g><g data-mml-node="mo" transform="translate(1285,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(2340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">码</text></g><g data-mml-node="mi" transform="translate(3340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">元</text></g><g data-mml-node="mi" transform="translate(4340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(5340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">状</text></g><g data-mml-node="mi" transform="translate(6340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">态</text></g><g data-mml-node="mi" transform="translate(7340.8,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">数</text></g></g></g></svg></mjx-container></p>
+</blockquote>
+</li>
+<li>曼彻斯特编码:看码元中间,统一上升沿为0或1,下降沿为1或0;<br>差分曼彻斯特编码:看码元的连接处(考试的信号段开头第一个码元看不出来),有跳变表示0,无跳变表示1(0比较圆润所以爱跳,1比较正直稳重,所以平稳);<br>非归零编码(NRZ:Non Return Zero Code):高电平1,低电平0;<br>反向非归零编码(NRZI:Non Return Zero Inverted Code):跳变0,不变1;</li>
+<li>根据奈奎斯特定律 ,波特率的上限为2倍的信道带宽率,所以采样数超过这个数值的部分是无意义的</li>
+<li>香农定理:<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.781ex;" xmlns="http://www.w3.org/2000/svg" width="37.662ex" height="2.8ex" role="img" focusable="false" viewBox="0 -892.5 16646.5 1237.5"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">信</text></g><g data-mml-node="mi" transform="translate(1000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">道</text></g><g data-mml-node="mi" transform="translate(2000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">的</text></g><g data-mml-node="mi" transform="translate(3000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">极</text></g><g data-mml-node="mi" transform="translate(4000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">限</text></g><g data-mml-node="mi" transform="translate(5000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">传</text></g><g data-mml-node="mi" transform="translate(6000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">输</text></g><g data-mml-node="mi" transform="translate(7000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">速</text></g><g data-mml-node="mi" transform="translate(8000,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">率</text></g><g data-mml-node="mo" transform="translate(9277.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(10333.6,0)"><path data-c="1D44A" d="M436 683Q450 683 486 682T553 680Q604 680 638 681T677 682Q695 682 695 674Q695 670 692 659Q687 641 683 639T661 637Q636 636 621 632T600 624T597 615Q597 603 613 377T629 138L631 141Q633 144 637 151T649 170T666 200T690 241T720 295T759 362Q863 546 877 572T892 604Q892 619 873 628T831 637Q817 637 817 647Q817 650 819 660Q823 676 825 679T839 682Q842 682 856 682T895 682T949 681Q1015 681 1034 683Q1048 683 1048 672Q1048 666 1045 655T1038 640T1028 637Q1006 637 988 631T958 617T939 600T927 584L923 578L754 282Q586 -14 585 -15Q579 -22 561 -22Q546 -22 542 -17Q539 -14 523 229T506 480L494 462Q472 425 366 239Q222 -13 220 -15T215 -19Q210 -22 197 -22Q178 -22 176 -15Q176 -12 154 304T131 622Q129 631 121 633T82 637H58Q51 644 51 648Q52 671 64 683H76Q118 680 176 680Q301 680 313 683H323Q329 677 329 674T327 656Q322 641 318 637H297Q236 634 232 620Q262 160 266 136L501 550L499 587Q496 629 489 632Q483 636 447 637Q428 637 422 639T416 648Q416 650 418 660Q419 664 420 669T421 676T424 680T428 682T436 683Z"></path></g><g data-mml-node="mi" transform="translate(11381.6,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(11679.6,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(12164.6,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mo" transform="translate(13078.1,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mn" transform="translate(13467.1,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g><g data-mml-node="mo" transform="translate(14189.3,0)"><path data-c="2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path></g><g data-mml-node="mfrac" transform="translate(15189.6,0)"><g data-mml-node="mi" transform="translate(305.9,394) scale(0.707)"><path data-c="1D446" d="M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z"></path></g><g data-mml-node="mi" transform="translate(220,-345) scale(0.707)"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></g><rect width="827.9" height="60" x="120" y="220"></rect></g><g data-mml-node="mo" transform="translate(16257.5,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container><blockquote>
+<p>W:信道的频率带宽;S:信号的平均功率;N:噪声的功率<br><br>S/N有两种形式:一种是功率比,直接代入公式计算;一种是x(dB)单位,利用公式<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="17.572ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 7766.7 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"></path></g><g data-mml-node="mo" transform="translate(849.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(1905.6,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g><g data-mml-node="mi" transform="translate(2905.6,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(3203.6,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(3688.6,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g></g></g><g data-mml-node="mo" transform="translate(4955.7,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(5344.7,0)"><path data-c="1D446" d="M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(5989.7,0)"><g data-mml-node="mo"><path data-c="2F" d="M423 750Q432 750 438 744T444 730Q444 725 271 248T92 -240Q85 -250 75 -250Q68 -250 62 -245T56 -231Q56 -221 230 257T407 740Q411 750 423 750Z"></path></g></g><g data-mml-node="mi" transform="translate(6489.7,0)"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></g><g data-mml-node="mo" transform="translate(7377.7,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container>,计算出S/N代入即可<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/aa6265cf611fd4f022d7c753c7aab827.png" alt="aa6265cf611fd4f022d7c753c7aab827.png"></p>
+</blockquote>
+</li>
+<li>信道的最大传输速率受香农定理和奈奎斯特定理两者作用,二者取其小</li>
+</ul>
+<h2 id="传输介质"><a href="#传输介质" class="headerlink" title="传输介质"></a>传输介质</h2><ul>
+<li>同轴电缆具有更高的屏蔽性，同时有更好的抗噪声性。</li>
+<li>物理层接口的特性：<br><strong>机械特性</strong>。指明接口所用接线器的形状和尺寸、引脚数目和排列、固定和锁定装置等。<br><strong>电气特性</strong>。指明在接口电缆的各条线上的电压范围、传输速率和距离限制等。<br><strong>功能特性</strong>。指明某条线上出现的某一电平的电压的意义,以及每条线的功能。<br><strong>过程特性</strong>,也称规程特性。指明对不同功能的各种可能事件的出现顺序。</li>
+</ul>
+<h2 id="物理层设备"><a href="#物理层设备" class="headerlink" title="物理层设备"></a>物理层设备</h2><ul>
+<li><strong>中继器</strong>的原理是将衰减的信号再生而不是放大,连接后的网段仍然属于同一个局域网。<br><strong>转发器</strong>只能用来放大信号。<br><strong>集线器</strong>的实质是一个多端口的中继器。集线器没有寻址功能,一个端口接收到数据信号后,从除了接收端口外的其他所有端口转发出去。<br><a href="https://www.doubao.com/thread/a52b99f571a7a"><strong>网桥</strong></a>是数据链路层设备，主要用于连接两个或多个局域网（LAN），并在它们之间转发数据帧。</li>
+<li>互相串联的中继器的个数不能超过4个,而且用4个中继器串联的5段通信介质中,只有3段可以挂接计算机,其余2段只能用作扩展通信范围的链路段,不能挂接计算机。这就是所谓的”<strong>5-4-3规则</strong>“</li>
+<li>若某个网络设备有存储转发功能,则认为它能连接两个不同的协议;</li>
+<li>集线器将多个设备连接在以它为中心的结点上,因此使用它的网络<strong>在物理拓扑上属于星形结<br>构</strong>。集线器不具备交换机所具有的交换表,所以它发送数据时是没有针对性的,而采用广播方式发送。因此,使用集线器的星形以太网<strong>逻辑上仍然是总线网</strong>。</li>
+<li>基带传输，频带传输，宽带传输:<br><strong>基带传输</strong>是信号不经过调制，直接在信道上传输；<br><strong>频带传输</strong>是将信号进行调制之后进行传输；<br><strong>宽带传输</strong>是在频带传输的基础上将链路划分为多个信道进行传输。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>计算机网络</category>
+        <category>物理层</category>
       </categories>
       <tags>
         <tag>计算机网络</tag>
@@ -977,6 +977,18 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>三体笔记</title>
+    <url>/2024/03/28/2024-3-28-%E4%B8%89%E4%BD%93%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<ul>
+<li>罗辑离开墓碑，站到他为自己挖掘的墓穴旁，将手枪顶到自己的心脏位置，说：”现在，我将让自己的心脏停止跳动，与此同时我也将成为两个世界有史以来最大的罪犯。对于所犯下的罪行，我对两个文明表示深深的歉意，但不会忏悔，因为这是唯一的选择。我知道智子就在身边，但你们对人类的呼唤从不理睬，无言是最大的轻蔑，我们忍受这种轻蔑已经两个世纪了，现在，如果你们愿意，可以继续保持沉默，我只给你们三十秒钟时间。</li>
+<li>晚霞之后可以看星星,朝霞之后只剩下光天化日的现实了</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>三体</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>内存管理</title>
     <url>/2024/12/07/2024-12-7-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</url>
     <content><![CDATA[<h2 id="内存管理概念"><a href="#内存管理概念" class="headerlink" title="内存管理概念"></a>内存管理概念</h2><ul>
@@ -1238,44 +1250,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>三体笔记</title>
-    <url>/2024/03/28/2024-3-28-%E4%B8%89%E4%BD%93%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<ul>
-<li>罗辑离开墓碑，站到他为自己挖掘的墓穴旁，将手枪顶到自己的心脏位置，说：”现在，我将让自己的心脏停止跳动，与此同时我也将成为两个世界有史以来最大的罪犯。对于所犯下的罪行，我对两个文明表示深深的歉意，但不会忏悔，因为这是唯一的选择。我知道智子就在身边，但你们对人类的呼唤从不理睬，无言是最大的轻蔑，我们忍受这种轻蔑已经两个世纪了，现在，如果你们愿意，可以继续保持沉默，我只给你们三十秒钟时间。</li>
-<li>晚霞之后可以看星星,朝霞之后只剩下光天化日的现实了</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>三体</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日记</title>
-    <url>/2024/03/28/2024-3-28-%E7%88%B1%E4%B8%8E%E6%81%A8%E4%B9%8B%E5%85%89/</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="42081a0f0958c8148918e195024200d2a1e6afe363780693acb188e0be911e48">249107fcce4fdab00b19d327c31fd8f3c61bc891ae32ee1dc3c0e8bb295ebadba133e23958cfbb91933c657711adb56f4065de89aa90c6628bc5961ffc4c2d36c9e0aada0affe2e36b8ab433f463fec09d752958bbddf8920f31ea5347243d6d711face15eec90aaa60d1f4b224ad543aa870f9e3f66f89c6a4e6779dbd48c297c369313337ec54b38300727e8e7b25da20621522cc63ad3d04d8c81cf6ccc5e7809c69869aa75cdc7e894e5a8e4f139d5fc2d5b555fc93cb3b7a79a09e80306801669b06160951524a2f01a4965886c96f312dbc2aab08c10c1ad7b77f9cbac749022ee8c66458c9ef7c1d0a7db845bbc6b6f3779e6ed902ca4ae59f66107b7447e8ab731225c1fcbe7da07ba0a5d44686e5d880150c4b0e4fd2d7bf45e023697962653831c5f3d3d5022243a2b3b61551358a46307d35d0febf815c935e794c174736ffb155600b5e704ddfef079115c7c6d5a13f3b71c24aaa39c2ff82d2eb5cc20b0f6f0dc567d6cc49ae6fed2d178de19a9deae127600629861061cee025a777cf9a6d0c00d801137814c40a59da89a4bb9e060f60623ea3004192b1106d78bcbade949b1562db96bafcd0c19b22456877430cd7a6e6a3afb1b83c6028765a382bdc41f5598f660aacaeeb22c8490b029b39b4620097b1dd7b2a4ea0a32940f2de7d069a1beedbb4c10091835164e2f062bd847f2d1a9343f975a7a89dc261b0677eb9bdc45ee19220bff783592c4e7c6600c4bc924de001f748a22d1bad59bd9abc2f11d436cb3f259ada0f3f7231c39906166ba11bd46ab44c9164caceddc99707a51ca33fa48de7c47502d8122956fc41a85d0bd32950834799b5a784f657f723865bf4974deb3d923f24bd214391120d0cc83fe70bfd06f33f982036034cb1771c3f1090757c3b0bc24bd528e0dc6e41fbe90dcec7658e68b21f06845e6b32f290ca14d3d2b96255ab462943bf0f2b384eb85e83c0ebc435804f83f289174251c2b3b42da446dc0e1bf2110d5ad2812a6aa47f4d9b8b7513070d57f75e9c023886a5b8066d2b6915982fa4c451ee8248cd5eb0b50d9a635fad3da01ddb5986e6b246851edbb44bffe44508ddef088d551e4782dee23e34149230fd944c2fd0924a17e2129c3e35ce3260b3b301394af35bcbccd8f60e162b660594cad374927b687bcf09dd74ee6d126df57035b5d0f72b5d151db52423bc7b75500e544766b7e1f05c11ceda01b5e9deb16e6ad8d9525fdfdac1910d5e171c20d8b8c1d1c96a649c5e44a0381309a446b4ea4ab0bad3d3e6357d7483789ef4386bb4b3e2b5e1c34c94db592fa9c83e1d4b13887576e6236b3d62598d66c93c92fe52730a50c9b15d1e3fc0c9ccb0c8aaca09abe65aeb510eb206d281ae1bd73717fbddddb41e298bb20f6d8de0d3317cacee8730e000fa942d0759189902a31bc9d449bd22a54e54ffb50a1c483b1140b89eef9e5a6f48e3e2218ba83c583f8ea3d902cbf6de13eb7eeaa6b6df9743a85ecb6988942b5d9ffc15e21f3943fafdfb362321fa57f04787c98023f5bc6c6633fe223c2b2f09fe153a967f88cf0bc191c7cb057c650f545adb2935ef5d6ab28a8a7328d7710a10b54505dc8735ad840342088ed26be41c9d4764e5257d7b7a94280a871494e48fc7e8cb8637a7f47ba5a2fbc9d6592b57dff9c788f9ef2eb46ea3d5e8dd94473e96c8e0ab40767585b38301190c63f5ee2de293145975509a0c916c2d3ca32de1e3f1878e3743fcd8e26699252f91f8aafb6b3b7e7231ae297f71b3f3305e797d18c48d07c3bd42f4a14ed67b5a5b2913bd193dfdd73ce78c797ab912098dfcae3ea228412ddbdc830352ad4a8254a9be88aed06e0e859e919212f58f02ed012804504876bb9a3c9572d622e52f9cbc5833c18a954510cb661abba73c4337666f3d12a59794bb334fc79e5adc3951409e02dea29adb79cbfc93dfebbd0bbbce659afcb512ba3e2092d7b899e97c5c9071cdcd1cf8e41ce5fc8add7878a6f969a762131dd5d62dedaab7efbc3e0c44ccc30bc23b27b022513ca5abbe813f54adba4e83c7b09bcf4d2226ada90562d55ff0eca5c4848ae227fabbc460ada12f3cf67656a8e199b449d849b6aa20ebc0e3d33c00acc948677ac07a0a3d35ceda29d475a908a0d97b9ecfad3d6f703f846d84134ffc6bba70b443db35bc67d31075c3c8d33a25131ac219df207a9b51c15b57d96fd2ec15f4a0c4b35148b8c2fa29f084633472938071844b43e405fb3e66d73fbea077e10e8dd19abfac93caf9fcebb452054e022cfed8e5a8798bddf6e95fa057a80d744359e714c40f9c709c8c389178cdcf09aca7df29861eca08251f506c9b473ac07627f8063136bba6f6c37d2136ae9fe874f270d4f</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>日记</title>
     <url>/2024/03/28/2024-3-28-%E5%81%87%E5%A6%82%E6%88%91%E9%9D%9E%E6%88%91/</url>
     <content><![CDATA[
@@ -1312,6 +1286,32 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
+    <url>/2024/03/28/2024-3-28-%E7%88%B1%E4%B8%8E%E6%81%A8%E4%B9%8B%E5%85%89/</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="42081a0f0958c8148918e195024200d2a1e6afe363780693acb188e0be911e48">249107fcce4fdab00b19d327c31fd8f3c61bc891ae32ee1dc3c0e8bb295ebadba133e23958cfbb91933c657711adb56f4065de89aa90c6628bc5961ffc4c2d36c9e0aada0affe2e36b8ab433f463fec09d752958bbddf8920f31ea5347243d6d711face15eec90aaa60d1f4b224ad543aa870f9e3f66f89c6a4e6779dbd48c297c369313337ec54b38300727e8e7b25da20621522cc63ad3d04d8c81cf6ccc5e7809c69869aa75cdc7e894e5a8e4f139d5fc2d5b555fc93cb3b7a79a09e80306801669b06160951524a2f01a4965886c96f312dbc2aab08c10c1ad7b77f9cbac749022ee8c66458c9ef7c1d0a7db845bbc6b6f3779e6ed902ca4ae59f66107b7447e8ab731225c1fcbe7da07ba0a5d44686e5d880150c4b0e4fd2d7bf45e023697962653831c5f3d3d5022243a2b3b61551358a46307d35d0febf815c935e794c174736ffb155600b5e704ddfef079115c7c6d5a13f3b71c24aaa39c2ff82d2eb5cc20b0f6f0dc567d6cc49ae6fed2d178de19a9deae127600629861061cee025a777cf9a6d0c00d801137814c40a59da89a4bb9e060f60623ea3004192b1106d78bcbade949b1562db96bafcd0c19b22456877430cd7a6e6a3afb1b83c6028765a382bdc41f5598f660aacaeeb22c8490b029b39b4620097b1dd7b2a4ea0a32940f2de7d069a1beedbb4c10091835164e2f062bd847f2d1a9343f975a7a89dc261b0677eb9bdc45ee19220bff783592c4e7c6600c4bc924de001f748a22d1bad59bd9abc2f11d436cb3f259ada0f3f7231c39906166ba11bd46ab44c9164caceddc99707a51ca33fa48de7c47502d8122956fc41a85d0bd32950834799b5a784f657f723865bf4974deb3d923f24bd214391120d0cc83fe70bfd06f33f982036034cb1771c3f1090757c3b0bc24bd528e0dc6e41fbe90dcec7658e68b21f06845e6b32f290ca14d3d2b96255ab462943bf0f2b384eb85e83c0ebc435804f83f289174251c2b3b42da446dc0e1bf2110d5ad2812a6aa47f4d9b8b7513070d57f75e9c023886a5b8066d2b6915982fa4c451ee8248cd5eb0b50d9a635fad3da01ddb5986e6b246851edbb44bffe44508ddef088d551e4782dee23e34149230fd944c2fd0924a17e2129c3e35ce3260b3b301394af35bcbccd8f60e162b660594cad374927b687bcf09dd74ee6d126df57035b5d0f72b5d151db52423bc7b75500e544766b7e1f05c11ceda01b5e9deb16e6ad8d9525fdfdac1910d5e171c20d8b8c1d1c96a649c5e44a0381309a446b4ea4ab0bad3d3e6357d7483789ef4386bb4b3e2b5e1c34c94db592fa9c83e1d4b13887576e6236b3d62598d66c93c92fe52730a50c9b15d1e3fc0c9ccb0c8aaca09abe65aeb510eb206d281ae1bd73717fbddddb41e298bb20f6d8de0d3317cacee8730e000fa942d0759189902a31bc9d449bd22a54e54ffb50a1c483b1140b89eef9e5a6f48e3e2218ba83c583f8ea3d902cbf6de13eb7eeaa6b6df9743a85ecb6988942b5d9ffc15e21f3943fafdfb362321fa57f04787c98023f5bc6c6633fe223c2b2f09fe153a967f88cf0bc191c7cb057c650f545adb2935ef5d6ab28a8a7328d7710a10b54505dc8735ad840342088ed26be41c9d4764e5257d7b7a94280a871494e48fc7e8cb8637a7f47ba5a2fbc9d6592b57dff9c788f9ef2eb46ea3d5e8dd94473e96c8e0ab40767585b38301190c63f5ee2de293145975509a0c916c2d3ca32de1e3f1878e3743fcd8e26699252f91f8aafb6b3b7e7231ae297f71b3f3305e797d18c48d07c3bd42f4a14ed67b5a5b2913bd193dfdd73ce78c797ab912098dfcae3ea228412ddbdc830352ad4a8254a9be88aed06e0e859e919212f58f02ed012804504876bb9a3c9572d622e52f9cbc5833c18a954510cb661abba73c4337666f3d12a59794bb334fc79e5adc3951409e02dea29adb79cbfc93dfebbd0bbbce659afcb512ba3e2092d7b899e97c5c9071cdcd1cf8e41ce5fc8add7878a6f969a762131dd5d62dedaab7efbc3e0c44ccc30bc23b27b022513ca5abbe813f54adba4e83c7b09bcf4d2226ada90562d55ff0eca5c4848ae227fabbc460ada12f3cf67656a8e199b449d849b6aa20ebc0e3d33c00acc948677ac07a0a3d35ceda29d475a908a0d97b9ecfad3d6f703f846d84134ffc6bba70b443db35bc67d31075c3c8d33a25131ac219df207a9b51c15b57d96fd2ec15f4a0c4b35148b8c2fa29f084633472938071844b43e405fb3e66d73fbea077e10e8dd19abfac93caf9fcebb452054e022cfed8e5a8798bddf6e95fa057a80d744359e714c40f9c709c8c389178cdcf09aca7df29861eca08251f506c9b473ac07627f8063136bba6f6c37d2136ae9fe874f270d4f</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日记</title>
     <url>/2024/03/28/2024-3-28-%E8%87%B4%E8%80%81%E5%B8%88/</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -1338,8 +1338,8 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>杂记</title>
-    <url>/2024/03/28/2024-3-28-%E8%AF%84%E8%AE%BA%E7%AC%94%E8%AE%B0(%E4%BA%8C)/</url>
-    <content><![CDATA[<p><strong>@染墨时</strong>：王朗：汉帝正逊，山阳犹在，曹魏承汉之正朔。尔等却随编履之徒，从流寇之首，占同姓之州，夺宗亲之地，贪从龙之功，图华夏之土；不拥正统，伪立贼寇，是为不忠；袭占益州，驱其旧主，是为不信；遣疲弊之民，攻熊罴之师，是为不仁，公陶袁曹刘，竟五易其主，是为不义，兴一州之兵，伐正朔之国，是为不智。秦失其鹿，天下共逐，陈吴起事，王侯归土，桓灵昏聩，汉失其德，张角振臂，坠其天命；二十载夙兴夜寐，曹氏归天下于一统，然惜败于赤壁，若非此，吾等可于朝堂坐论天下，岂于阵前，立上而视下，局高而驳谬，以司空之职，斥匹夫伪相之名？<br><br><br>在宋时，百姓听书，每听到刘备败退皆是扼腕叹息，每听到曹操败退皆是鼓掌欢庆。那时人虽然受教育程度不高，但大多都相信世间有仁义之事，有行仁义之人。故多尊刘而贬曹。而今人多利己，不相信世上有不为己的人。这样对比之下，曹操更符合今人的认知。故多尊曹而贬刘。于是枭雄变成了英雄，真仁义变成了伪君子。他们自己做不到仁义，便认为别人也做不到，即使做到了，那也要扣上各种帽子。这样他们才会觉得自己才是世界上认识最清醒的人，这才是符合他们的世界观。躲在角落里，看什么都是黑的。<br><br></p>
+    <url>/2024/03/28/2024-3-28-%E8%AF%84%E8%AE%BA%E7%AC%94%E8%AE%B0(%E4%B8%80)/</url>
+    <content><![CDATA[<p><strong>@没得感情滴人</strong>：罗翔老师这段话让我茅塞顿开: “其实没什么好后悔的，很多事情就算时间能重来一遍，以当时的心智和阅历还是会做同样的选择，避免不了同样的结果。人本来就是在失败中学乖的，与其抱着过去后悔，不如擦擦眼泪向前走吧。我们可能经常会想:“如果当初我怎样怎样就好了；如果当初我换了一个专业就好了；如果当时没来这个城市就好了；如果当初再见他一面就好了。” 似乎未选择的那条路总是更好的，但事实真的如此吗?可能你选择另一条路，大概率也是换一个新的烦恼，那些似乎必然通向好的结局也只是你的遐想。 但人生最有趣的一点就是，无论你做出什么选择，你都是在向前走。所以不要纠结和后悔，脚下的这条路就是最好的路，不要总是去美化未选择的路，不要站在现在的角度去批判当时的自己，要相信一切都是上天最好的安排，你所错过的很可能都是上天在保护你。<br><br><br><strong>@皮皮小肉包</strong>：“不要欺负以前的自己，她当时一个人站在大雾里也很迷茫” <br><br><br><strong>@阅己越己悦己</strong>：这就是一个责任主体的争论，孩子没完成作业，妈妈比孩子更着急，是为了完成任务，责任主体变成了妈妈，爸爸是让孩子明白，没有完成作业，责任主体是孩子。妈妈着眼于当下，爸爸着眼于未来，我们要明白，孩子是独立的个体，始终要独自面对世界，培养独立的人格，学会独立思考，独立判断，这才是作为父母留给孩子长期影响，受益终身的事情。</p>
 ]]></content>
       <tags>
         <tag>评论笔记</tag>
@@ -1347,8 +1347,8 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>杂记</title>
-    <url>/2024/03/28/2024-3-28-%E8%AF%84%E8%AE%BA%E7%AC%94%E8%AE%B0(%E4%B8%80)/</url>
-    <content><![CDATA[<p><strong>@没得感情滴人</strong>：罗翔老师这段话让我茅塞顿开: “其实没什么好后悔的，很多事情就算时间能重来一遍，以当时的心智和阅历还是会做同样的选择，避免不了同样的结果。人本来就是在失败中学乖的，与其抱着过去后悔，不如擦擦眼泪向前走吧。我们可能经常会想:“如果当初我怎样怎样就好了；如果当初我换了一个专业就好了；如果当时没来这个城市就好了；如果当初再见他一面就好了。” 似乎未选择的那条路总是更好的，但事实真的如此吗?可能你选择另一条路，大概率也是换一个新的烦恼，那些似乎必然通向好的结局也只是你的遐想。 但人生最有趣的一点就是，无论你做出什么选择，你都是在向前走。所以不要纠结和后悔，脚下的这条路就是最好的路，不要总是去美化未选择的路，不要站在现在的角度去批判当时的自己，要相信一切都是上天最好的安排，你所错过的很可能都是上天在保护你。<br><br><br><strong>@皮皮小肉包</strong>：“不要欺负以前的自己，她当时一个人站在大雾里也很迷茫” <br><br><br><strong>@阅己越己悦己</strong>：这就是一个责任主体的争论，孩子没完成作业，妈妈比孩子更着急，是为了完成任务，责任主体变成了妈妈，爸爸是让孩子明白，没有完成作业，责任主体是孩子。妈妈着眼于当下，爸爸着眼于未来，我们要明白，孩子是独立的个体，始终要独自面对世界，培养独立的人格，学会独立思考，独立判断，这才是作为父母留给孩子长期影响，受益终身的事情。</p>
+    <url>/2024/03/28/2024-3-28-%E8%AF%84%E8%AE%BA%E7%AC%94%E8%AE%B0(%E4%BA%8C)/</url>
+    <content><![CDATA[<p><strong>@染墨时</strong>：王朗：汉帝正逊，山阳犹在，曹魏承汉之正朔。尔等却随编履之徒，从流寇之首，占同姓之州，夺宗亲之地，贪从龙之功，图华夏之土；不拥正统，伪立贼寇，是为不忠；袭占益州，驱其旧主，是为不信；遣疲弊之民，攻熊罴之师，是为不仁，公陶袁曹刘，竟五易其主，是为不义，兴一州之兵，伐正朔之国，是为不智。秦失其鹿，天下共逐，陈吴起事，王侯归土，桓灵昏聩，汉失其德，张角振臂，坠其天命；二十载夙兴夜寐，曹氏归天下于一统，然惜败于赤壁，若非此，吾等可于朝堂坐论天下，岂于阵前，立上而视下，局高而驳谬，以司空之职，斥匹夫伪相之名？<br><br><br>在宋时，百姓听书，每听到刘备败退皆是扼腕叹息，每听到曹操败退皆是鼓掌欢庆。那时人虽然受教育程度不高，但大多都相信世间有仁义之事，有行仁义之人。故多尊刘而贬曹。而今人多利己，不相信世上有不为己的人。这样对比之下，曹操更符合今人的认知。故多尊曹而贬刘。于是枭雄变成了英雄，真仁义变成了伪君子。他们自己做不到仁义，便认为别人也做不到，即使做到了，那也要扣上各种帽子。这样他们才会觉得自己才是世界上认识最清醒的人，这才是符合他们的世界观。躲在角落里，看什么都是黑的。<br><br></p>
 ]]></content>
       <tags>
         <tag>评论笔记</tag>
@@ -1392,52 +1392,6 @@ import {initHBE} from "/js/plugins/hbe.js";
 </ul>
 <p>这种设计避免了多服务器竞争、地址冲突等问题，同时支持租约管理等复杂功能。<br><br></p>
 <a class="button  regular" href="/2025/01/25/2025-1-25-网络层" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a>]]></content>
-      <tags>
-        <tag>外链</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>IPv6协议中ARP的疑问</title>
-    <url>/2025/01/28/2025-01-28-IPv6%E5%8D%8F%E8%AE%AE%E4%B8%ADARP%E7%9A%84%E7%96%91%E9%97%AE/</url>
-    <content><![CDATA[<p>IPv6 确实<strong>不再依赖传统的 ARP 协议</strong>，而是通过 <strong>邻居发现协议（Neighbor Discovery Protocol, NDP）</strong> 实现地址解析功能。以下是详细解释：</p>
-<hr>
-<h3 id="1-IPv6-接口标识符与硬件地址的关系"><a href="#1-IPv6-接口标识符与硬件地址的关系" class="headerlink" title="1. IPv6 接口标识符与硬件地址的关系"></a>1. <strong>IPv6 接口标识符与硬件地址的关系</strong></h3><ul>
-<li>IPv6 地址的<strong>接口标识符（后 64 位）</strong>通常基于网卡的 <strong>MAC 地址</strong>生成（例如 EUI-64 格式）。例如：<ul>
-<li>若 MAC 地址为 <code>00:11:22:33:44:55</code>，则接口标识符可能为 <code>0211:22ff:fe33:4455</code>。</li>
-</ul>
-</li>
-<li>通过这种方式，IPv6 地址可以直接包含硬件地址信息，理论上无需额外解析。</li>
-</ul>
-<hr>
-<h3 id="2-为什么说“不需要-ARP”？"><a href="#2-为什么说“不需要-ARP”？" class="headerlink" title="2. 为什么说“不需要 ARP”？"></a>2. <strong>为什么说“不需要 ARP”？</strong></h3><ul>
-<li><strong>直接编码</strong>：当接口标识符基于 MAC 地址时，可通过 IPv6 地址直接推导出目标设备的 MAC 地址，省去了类似 ARP 的广播查询过程。</li>
-<li><strong>NDP 替代 ARP</strong>：IPv6 使用 <strong>NDP</strong>（基于 ICMPv6）实现以下功能：<ul>
-<li><strong>邻居请求（Neighbor Solicitation, NS）</strong>：类似 ARP 请求，用于查询目标 IPv6 地址对应的 MAC 地址。</li>
-<li><strong>邻居公告（Neighbor Advertisement, NA）</strong>：类似 ARP 响应，提供 MAC 地址信息。</li>
-</ul>
-</li>
-<li><strong>无广播依赖</strong>：NDP 使用组播而非广播，效率更高。</li>
-</ul>
-<hr>
-<h3 id="3-例外情况与补充说明"><a href="#3-例外情况与补充说明" class="headerlink" title="3. 例外情况与补充说明"></a>3. <strong>例外情况与补充说明</strong></h3><ul>
-<li><strong>隐私扩展地址</strong>：某些 IPv6 地址（如临时地址）的接口标识符是随机生成的，不基于 MAC 地址。此时仍需通过 NDP 解析 MAC 地址。</li>
-<li><strong>NDP 仍需要交互</strong>：即使接口标识符包含 MAC 地址，NDP 的 NS/NA 消息仍需验证地址的可用性和可达性（例如检测重复地址）。</li>
-<li><strong>ARP 完全淘汰</strong>：在纯 IPv6 网络中，传统 ARP 协议已被 NDP 取代；但在 IPv4/IPv6 双栈环境中，ARP 仍用于 IPv4 地址解析。</li>
-</ul>
-<hr>
-<h3 id="4-实际网络中的验证"><a href="#4-实际网络中的验证" class="headerlink" title="4. 实际网络中的验证"></a>4. <strong>实际网络中的验证</strong></h3><ul>
-<li>在 IPv6 网络中，可通过以下命令观察地址解析过程：<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ping6 fe80::[接口标识符]%[接口名]   <span class="comment"># 触发 NDP 请求</span></span><br><span class="line">ip -6 neigh show                  <span class="comment"># 查看 IPv6 邻居表（类似 ARP 表）</span></span><br></pre></td></tr></table></figure></div></li>
-<li>抓包工具（如 Wireshark）可捕获 <strong>ICMPv6 类型的 NS/NA 报文</strong>，而非 ARP 报文。</li>
-</ul>
-<hr>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><ul>
-<li><strong>IPv6 淘汰了传统 ARP 协议</strong>，其地址解析功能由 <strong>NDP（基于 ICMPv6）</strong> 实现。</li>
-<li>若 IPv6 地址的接口标识符基于 MAC 地址（如 EUI-64），可直接从地址中提取硬件信息，无需额外解析。</li>
-<li>对于非 MAC 地址生成的接口标识符（如随机化地址），仍需通过 NDP 的 NS/NA 交互完成地址解析。  </li>
-<li>因此，材料中“不需要 ARP”的表述是准确的，但需注意其背后依赖的是更高效的 NDP 机制。<br>
-<a class="button  regular" href="/2025/01/25/2025-1-25-网络层" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a></li>
-</ul>
-]]></content>
       <tags>
         <tag>外链</tag>
       </tags>
@@ -1492,6 +1446,52 @@ import {initHBE} from "/js/plugins/hbe.js";
 </ul>
 <p>通过这种分层协作，数据包能在复杂的网络环境中高效、准确地从源传输到目的地。<br><br></p>
 <a class="button  regular" href="/2025/01/25/2025-1-25-网络层" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a>]]></content>
+      <tags>
+        <tag>外链</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>IPv6协议中ARP的疑问</title>
+    <url>/2025/01/28/2025-01-28-IPv6%E5%8D%8F%E8%AE%AE%E4%B8%ADARP%E7%9A%84%E7%96%91%E9%97%AE/</url>
+    <content><![CDATA[<p>IPv6 确实<strong>不再依赖传统的 ARP 协议</strong>，而是通过 <strong>邻居发现协议（Neighbor Discovery Protocol, NDP）</strong> 实现地址解析功能。以下是详细解释：</p>
+<hr>
+<h3 id="1-IPv6-接口标识符与硬件地址的关系"><a href="#1-IPv6-接口标识符与硬件地址的关系" class="headerlink" title="1. IPv6 接口标识符与硬件地址的关系"></a>1. <strong>IPv6 接口标识符与硬件地址的关系</strong></h3><ul>
+<li>IPv6 地址的<strong>接口标识符（后 64 位）</strong>通常基于网卡的 <strong>MAC 地址</strong>生成（例如 EUI-64 格式）。例如：<ul>
+<li>若 MAC 地址为 <code>00:11:22:33:44:55</code>，则接口标识符可能为 <code>0211:22ff:fe33:4455</code>。</li>
+</ul>
+</li>
+<li>通过这种方式，IPv6 地址可以直接包含硬件地址信息，理论上无需额外解析。</li>
+</ul>
+<hr>
+<h3 id="2-为什么说“不需要-ARP”？"><a href="#2-为什么说“不需要-ARP”？" class="headerlink" title="2. 为什么说“不需要 ARP”？"></a>2. <strong>为什么说“不需要 ARP”？</strong></h3><ul>
+<li><strong>直接编码</strong>：当接口标识符基于 MAC 地址时，可通过 IPv6 地址直接推导出目标设备的 MAC 地址，省去了类似 ARP 的广播查询过程。</li>
+<li><strong>NDP 替代 ARP</strong>：IPv6 使用 <strong>NDP</strong>（基于 ICMPv6）实现以下功能：<ul>
+<li><strong>邻居请求（Neighbor Solicitation, NS）</strong>：类似 ARP 请求，用于查询目标 IPv6 地址对应的 MAC 地址。</li>
+<li><strong>邻居公告（Neighbor Advertisement, NA）</strong>：类似 ARP 响应，提供 MAC 地址信息。</li>
+</ul>
+</li>
+<li><strong>无广播依赖</strong>：NDP 使用组播而非广播，效率更高。</li>
+</ul>
+<hr>
+<h3 id="3-例外情况与补充说明"><a href="#3-例外情况与补充说明" class="headerlink" title="3. 例外情况与补充说明"></a>3. <strong>例外情况与补充说明</strong></h3><ul>
+<li><strong>隐私扩展地址</strong>：某些 IPv6 地址（如临时地址）的接口标识符是随机生成的，不基于 MAC 地址。此时仍需通过 NDP 解析 MAC 地址。</li>
+<li><strong>NDP 仍需要交互</strong>：即使接口标识符包含 MAC 地址，NDP 的 NS/NA 消息仍需验证地址的可用性和可达性（例如检测重复地址）。</li>
+<li><strong>ARP 完全淘汰</strong>：在纯 IPv6 网络中，传统 ARP 协议已被 NDP 取代；但在 IPv4/IPv6 双栈环境中，ARP 仍用于 IPv4 地址解析。</li>
+</ul>
+<hr>
+<h3 id="4-实际网络中的验证"><a href="#4-实际网络中的验证" class="headerlink" title="4. 实际网络中的验证"></a>4. <strong>实际网络中的验证</strong></h3><ul>
+<li>在 IPv6 网络中，可通过以下命令观察地址解析过程：<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ping6 fe80::[接口标识符]%[接口名]   <span class="comment"># 触发 NDP 请求</span></span><br><span class="line">ip -6 neigh show                  <span class="comment"># 查看 IPv6 邻居表（类似 ARP 表）</span></span><br></pre></td></tr></table></figure></div></li>
+<li>抓包工具（如 Wireshark）可捕获 <strong>ICMPv6 类型的 NS/NA 报文</strong>，而非 ARP 报文。</li>
+</ul>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><ul>
+<li><strong>IPv6 淘汰了传统 ARP 协议</strong>，其地址解析功能由 <strong>NDP（基于 ICMPv6）</strong> 实现。</li>
+<li>若 IPv6 地址的接口标识符基于 MAC 地址（如 EUI-64），可直接从地址中提取硬件信息，无需额外解析。</li>
+<li>对于非 MAC 地址生成的接口标识符（如随机化地址），仍需通过 NDP 的 NS/NA 交互完成地址解析。  </li>
+<li>因此，材料中“不需要 ARP”的表述是准确的，但需注意其背后依赖的是更高效的 NDP 机制。<br>
+<a class="button  regular" href="/2025/01/25/2025-1-25-网络层" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a></li>
+</ul>
+]]></content>
       <tags>
         <tag>外链</tag>
       </tags>
@@ -1910,85 +1910,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>关于上古时期的疑问</title>
-    <url>/2025/02/15/2025-02-15-%E5%85%B3%E4%BA%8E%E4%B8%8A%E5%8F%A4%E6%97%B6%E6%9C%9F%E7%9A%84%E7%96%91%E9%97%AE/</url>
-    <content><![CDATA[<p>关于中国早期历史中三皇五帝、禅让制与夏朝建立的关系，可以按以下逻辑解析：</p>
-<hr>
-<h3 id="一、三皇五帝的性质"><a href="#一、三皇五帝的性质" class="headerlink" title="一、三皇五帝的性质"></a><strong>一、三皇五帝的性质</strong></h3><ol>
-<li><p><strong>传说而非朝代</strong>  </p>
-<ul>
-<li><strong>三皇五帝</strong>是古代文献（如《史记》《尚书》）记载的远古圣王，属于<strong>部落联盟或酋邦阶段的领袖</strong>，而非严格意义上的朝代君主。  </li>
-<li>他们的统治更多体现为道德典范和族群共主，缺乏明确的疆域、官僚体系或世袭制度，因此<strong>不被视为“朝代”</strong>。</li>
-</ul>
-</li>
-<li><p><strong>历史定位争议</strong>  </p>
-<ul>
-<li>三皇五帝的事迹带有浓厚神话色彩（如伏羲画卦、神农尝百草），<strong>缺乏考古实证</strong>，现代史学通常将其归为“传说时代”。  </li>
-<li>夏朝则是传统史书（如《竹书纪年》）明确记载的<strong>首个世袭制王朝</strong>，标志中国进入“家天下”阶段。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="二、禅让制与禹的角色"><a href="#二、禅让制与禹的角色" class="headerlink" title="二、禅让制与禹的角色"></a><strong>二、禅让制与禹的角色</strong></h3><ol>
-<li><p><strong>禅让制的本质</strong>  </p>
-<ul>
-<li>尧→舜→禹的权力传递属于<strong>部落联盟推举制</strong>，即通过德行与功绩选拔领袖（“选贤与能”）。  </li>
-<li>禹因治水成功获得威望，被舜禅让为首领，此时<strong>仍属禅让传统</strong>，未形成固定政权。</li>
-</ul>
-</li>
-<li><p><strong>禹的过渡地位</strong>  </p>
-<ul>
-<li>禹在位期间，权力虽名义上通过禅让传递，但其家族（夏后氏）逐渐掌握核心资源（如军队、祭祀权），为世袭制奠定基础。  </li>
-<li><strong>禹的统治兼具禅让与世袭的双重特征</strong>：他名义上是禅让制下的领袖，实则为夏朝世袭制的奠基人。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="三、夏朝的建立：为何禹是开创者而非舜？"><a href="#三、夏朝的建立：为何禹是开创者而非舜？" class="headerlink" title="三、夏朝的建立：为何禹是开创者而非舜？"></a><strong>三、夏朝的建立：为何禹是开创者而非舜？</strong></h3><ol>
-<li><p><strong>启的世袭是关键转折</strong>  </p>
-<ul>
-<li>禹去世后，其子<strong>启</strong>通过武力或政治手段（如“钧台之享”）废除禅让制，直接继承权力，确立<strong>父死子继的世袭制度</strong>。  </li>
-<li><strong>启的行为标志着夏朝的正式建立</strong>，而禹作为启的父亲，被后世追认为夏朝始祖。</li>
-</ul>
-</li>
-<li><p><strong>历史书写与追认逻辑</strong>  </p>
-<ul>
-<li>古代史家（如司马迁）将夏朝的起点追溯至禹，因其功绩（治水、划九州）被视为王朝奠基者，而启的世袭是这一过程的完成。  </li>
-<li>舜作为禅让制下的领袖，其统治未被赋予“朝代”属性，故<strong>夏朝始于禹而非舜</strong>。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="四、现代视角的补充"><a href="#四、现代视角的补充" class="headerlink" title="四、现代视角的补充"></a><strong>四、现代视角的补充</strong></h3><ol>
-<li><p><strong>考古与文献的争议</strong>  </p>
-<ul>
-<li>夏朝的存在尚未被国际学术界普遍认可（因缺乏如商朝甲骨文的直接文字证据），但二里头文化（约前1900-前1500年）被多数中国学者视为夏朝遗存。  </li>
-<li>三皇五帝则完全属于传说体系，与考古发现的龙山文化、良渚文化等难以直接对应。</li>
-</ul>
-</li>
-<li><p><strong>权力演变的本质</strong>  </p>
-<ul>
-<li>从禅让到世袭的转变反映了<strong>社会组织复杂化</strong>：部落联盟→早期国家。禹和启的统治正是这一过渡的关键节点。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="结论"><a href="#结论" class="headerlink" title="结论"></a><strong>结论</strong></h3><ul>
-<li><strong>三皇五帝是传说时代的道德领袖</strong>，不属于严格意义上的朝代；  </li>
-<li><strong>禹通过禅让获得权力，但启的世袭制确立了夏朝</strong>，因此禹被追认为夏朝建立者；  </li>
-<li><strong>舜作为禅让制末代领袖</strong>，其统治仍属前朝体系，未被归入“朝代”范畴。</li>
-</ul>
-<p>这一划分既基于传统史书的叙事逻辑，也反映了早期中国从部落联盟向国家形态演进的历史进程。</p>
-]]></content>
-      <categories>
-        <category>公务员考试</category>
-        <category>常识</category>
-      </categories>
-      <tags>
-        <tag>公务员考试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>杂剧、小令、套曲</title>
     <url>/2025/02/15/2025-02-15-%E6%9D%82%E5%89%A7%E3%80%81%E5%B0%8F%E4%BB%A4%E3%80%81%E5%A5%97%E6%9B%B2/</url>
     <content><![CDATA[<p>杂剧、小令和套曲是中国古代戏曲和散曲的三种重要形式，分别属于不同的艺术类别。以下是它们的定义、特点及区别：</p>
@@ -2086,6 +2007,85 @@ import {initHBE} from "/js/plugins/hbe.js";
 <li><strong>小令</strong>是散曲的短篇形式，以抒情为主；  </li>
 <li><strong>套曲</strong>是散曲的长篇形式，兼具文学性与音乐性。<br>三者共同构成了元代文学艺术的辉煌成就。</li>
 </ul>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于上古时期的疑问</title>
+    <url>/2025/02/15/2025-02-15-%E5%85%B3%E4%BA%8E%E4%B8%8A%E5%8F%A4%E6%97%B6%E6%9C%9F%E7%9A%84%E7%96%91%E9%97%AE/</url>
+    <content><![CDATA[<p>关于中国早期历史中三皇五帝、禅让制与夏朝建立的关系，可以按以下逻辑解析：</p>
+<hr>
+<h3 id="一、三皇五帝的性质"><a href="#一、三皇五帝的性质" class="headerlink" title="一、三皇五帝的性质"></a><strong>一、三皇五帝的性质</strong></h3><ol>
+<li><p><strong>传说而非朝代</strong>  </p>
+<ul>
+<li><strong>三皇五帝</strong>是古代文献（如《史记》《尚书》）记载的远古圣王，属于<strong>部落联盟或酋邦阶段的领袖</strong>，而非严格意义上的朝代君主。  </li>
+<li>他们的统治更多体现为道德典范和族群共主，缺乏明确的疆域、官僚体系或世袭制度，因此<strong>不被视为“朝代”</strong>。</li>
+</ul>
+</li>
+<li><p><strong>历史定位争议</strong>  </p>
+<ul>
+<li>三皇五帝的事迹带有浓厚神话色彩（如伏羲画卦、神农尝百草），<strong>缺乏考古实证</strong>，现代史学通常将其归为“传说时代”。  </li>
+<li>夏朝则是传统史书（如《竹书纪年》）明确记载的<strong>首个世袭制王朝</strong>，标志中国进入“家天下”阶段。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="二、禅让制与禹的角色"><a href="#二、禅让制与禹的角色" class="headerlink" title="二、禅让制与禹的角色"></a><strong>二、禅让制与禹的角色</strong></h3><ol>
+<li><p><strong>禅让制的本质</strong>  </p>
+<ul>
+<li>尧→舜→禹的权力传递属于<strong>部落联盟推举制</strong>，即通过德行与功绩选拔领袖（“选贤与能”）。  </li>
+<li>禹因治水成功获得威望，被舜禅让为首领，此时<strong>仍属禅让传统</strong>，未形成固定政权。</li>
+</ul>
+</li>
+<li><p><strong>禹的过渡地位</strong>  </p>
+<ul>
+<li>禹在位期间，权力虽名义上通过禅让传递，但其家族（夏后氏）逐渐掌握核心资源（如军队、祭祀权），为世袭制奠定基础。  </li>
+<li><strong>禹的统治兼具禅让与世袭的双重特征</strong>：他名义上是禅让制下的领袖，实则为夏朝世袭制的奠基人。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、夏朝的建立：为何禹是开创者而非舜？"><a href="#三、夏朝的建立：为何禹是开创者而非舜？" class="headerlink" title="三、夏朝的建立：为何禹是开创者而非舜？"></a><strong>三、夏朝的建立：为何禹是开创者而非舜？</strong></h3><ol>
+<li><p><strong>启的世袭是关键转折</strong>  </p>
+<ul>
+<li>禹去世后，其子<strong>启</strong>通过武力或政治手段（如“钧台之享”）废除禅让制，直接继承权力，确立<strong>父死子继的世袭制度</strong>。  </li>
+<li><strong>启的行为标志着夏朝的正式建立</strong>，而禹作为启的父亲，被后世追认为夏朝始祖。</li>
+</ul>
+</li>
+<li><p><strong>历史书写与追认逻辑</strong>  </p>
+<ul>
+<li>古代史家（如司马迁）将夏朝的起点追溯至禹，因其功绩（治水、划九州）被视为王朝奠基者，而启的世袭是这一过程的完成。  </li>
+<li>舜作为禅让制下的领袖，其统治未被赋予“朝代”属性，故<strong>夏朝始于禹而非舜</strong>。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="四、现代视角的补充"><a href="#四、现代视角的补充" class="headerlink" title="四、现代视角的补充"></a><strong>四、现代视角的补充</strong></h3><ol>
+<li><p><strong>考古与文献的争议</strong>  </p>
+<ul>
+<li>夏朝的存在尚未被国际学术界普遍认可（因缺乏如商朝甲骨文的直接文字证据），但二里头文化（约前1900-前1500年）被多数中国学者视为夏朝遗存。  </li>
+<li>三皇五帝则完全属于传说体系，与考古发现的龙山文化、良渚文化等难以直接对应。</li>
+</ul>
+</li>
+<li><p><strong>权力演变的本质</strong>  </p>
+<ul>
+<li>从禅让到世袭的转变反映了<strong>社会组织复杂化</strong>：部落联盟→早期国家。禹和启的统治正是这一过渡的关键节点。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="结论"><a href="#结论" class="headerlink" title="结论"></a><strong>结论</strong></h3><ul>
+<li><strong>三皇五帝是传说时代的道德领袖</strong>，不属于严格意义上的朝代；  </li>
+<li><strong>禹通过禅让获得权力，但启的世袭制确立了夏朝</strong>，因此禹被追认为夏朝建立者；  </li>
+<li><strong>舜作为禅让制末代领袖</strong>，其统治仍属前朝体系，未被归入“朝代”范畴。</li>
+</ul>
+<p>这一划分既基于传统史书的叙事逻辑，也反映了早期中国从部落联盟向国家形态演进的历史进程。</p>
 ]]></content>
       <categories>
         <category>公务员考试</category>
@@ -2490,6 +2490,42 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>尚书、礼记、春秋</title>
+    <url>/2025/02/16/2025-02-16-%E5%B0%9A%E4%B9%A6%E3%80%81%E7%A4%BC%E8%AE%B0%E3%80%81%E6%98%A5%E7%A7%8B/</url>
+    <content><![CDATA[<ul>
+<li>《尚书》《礼记》《春秋》均为儒家经典，在古代文化和学术领域意义重大，以下为你介绍它们的主要内容： <ul>
+<li><strong>《尚书》</strong>：被尊为“政书之祖，史书之源”，记录了虞、夏、商、周时期，涉及政治、宗教、思想、哲学、艺术、法令、天文、地理、军事等诸多领域。 </li>
+<li><strong>典</strong>：主要记载古代先王的重大政治举措、典章制度等，比如《尧典》，记载了尧帝的品德、功绩，包括他对天文历法的制定、对人才的选拔任用等内容 ，展现了上古时期的政治制度和社会管理理念。 </li>
+<li><strong>谟</strong>：以君臣之间的谈话、谋议为主要内容，像《皋陶谟》，是皋陶和大禹在帝舜面前讨论如何治理国家的言论记录，涉及到道德规范、治国策略以及用人原则等重要问题。 </li>
+<li><strong>训</strong>：通常是长辈对晚辈、上级对下级进行教诲的言辞，例如《伊训》，是商汤死后，伊尹对太甲的训诫之辞，强调了遵守祖训、施行德政的重要性。 </li>
+<li><strong>诰</strong>：多为周王对诸侯、大臣的训令、指示，或用于发布政令、告诫等，如《康诰》，是周公封康叔于殷地时所作的诰辞，详细阐述了治理殷商遗民的政策和方法，体现了周朝的统治思想和政治策略。 </li>
+<li><strong>誓</strong>：一般是在战争前，主帅对将士们发布的誓师词，用以鼓舞士气、申明纪律、宣布作战目的和策略等，如《牧誓》，是周武王在牧野之战前对各路诸侯和军队发布的誓师词，列举了商纣王的罪行，表明了伐纣的正义性和作战的纪律要求。 </li>
+<li><strong>命</strong>：主要是君王所发布的命令、任命等，比如《顾命》，记载了周成王临终前对大臣们的遗嘱以及康王即位时的仪式等，反映了西周时期的王位继承制度和重大政治活动的程序。</li>
+</ul>
+</li>
+<li><strong>《礼记》</strong>：是一部儒家思想的资料汇编，内容涵盖了从祭祀、丧葬、饮食到家庭、朝廷、社会等多方面的礼仪规范与儒家思想。 <ul>
+<li><strong>通论性内容</strong>：对礼的起源、本质、作用等进行理论阐述。如《礼运》描述了“大同”“小康”的社会理想，《大学》论述了个人道德修养与社会政治治理的关系，提出“修身、齐家、治国、平天下”的主张。 </li>
+<li><strong>礼仪制度</strong>：详细记载各种礼仪规范。《曲礼》包含日常生活中的言行举止、待人接物的礼节；《王制》讲述了古代国家的政治制度、行政区划、官员设置等；《丧服》《檀弓》等则针对丧葬之礼，对不同身份的人在丧服、居丧时间、丧葬仪式等方面作出规定。 </li>
+<li><strong>孔子及弟子言论</strong>：记录孔子及其弟子关于礼和道德修养的言论。如《论语》中有诸多关于“仁”“礼”关系的表述，《礼记》中也有类似记载，像《仲尼燕居》《孔子闲居》等篇章，展现了孔子对礼的具体阐释和应用。</li>
+</ul>
+</li>
+<li><strong>《春秋》</strong>：是鲁国的编年体史书，记载了从鲁隐公元年（前722年）到鲁哀公十四年（前481年）的历史大事，内容多与政治、军事活动相关。 <ul>
+<li><strong>政治活动</strong>：记录各国君主的即位、去世，以及各国之间的朝聘、会盟等外交活动。如“隐公元年，春，王正月”，开启了对鲁国历史的记载；而像“齐侯、宋公、陈侯、卫侯、郑伯会于鄄”，则记录了诸侯之间的会盟，反映当时的政治格局与各国关系。 </li>
+<li><strong>军事战争</strong>：对各诸侯国之间发生的战争进行记载，包括战争的起因、经过和结果等。如齐鲁长勺之战，虽记载简略，但“十年春，齐师伐我。公将战”寥寥数语，点明了战争时间、双方及性质。 </li>
+<li><strong>灾异现象</strong>：记录了一些自然界的异常现象，如日食、地震、水旱灾害等。如“隐公三年，春，王二月，己巳，日有食之”，通过这些灾异记载，反映古人对自然现象的重视及天人观念。</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>大学与中庸</title>
     <url>/2025/02/16/2025-02-16-%E5%A4%A7%E5%AD%A6%E4%B8%8E%E4%B8%AD%E5%BA%B8/</url>
     <content><![CDATA[<p>《中庸》和《大学》是儒家经典“四书”中的两部重要著作，集中体现了儒家的哲学思想、伦理观念和政治理想。以下是它们的主要内容概述：</p>
@@ -2583,32 +2619,52 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>尚书、礼记、春秋</title>
-    <url>/2025/02/16/2025-02-16-%E5%B0%9A%E4%B9%A6%E3%80%81%E7%A4%BC%E8%AE%B0%E3%80%81%E6%98%A5%E7%A7%8B/</url>
-    <content><![CDATA[<ul>
-<li>《尚书》《礼记》《春秋》均为儒家经典，在古代文化和学术领域意义重大，以下为你介绍它们的主要内容： <ul>
-<li><strong>《尚书》</strong>：被尊为“政书之祖，史书之源”，记录了虞、夏、商、周时期，涉及政治、宗教、思想、哲学、艺术、法令、天文、地理、军事等诸多领域。 </li>
-<li><strong>典</strong>：主要记载古代先王的重大政治举措、典章制度等，比如《尧典》，记载了尧帝的品德、功绩，包括他对天文历法的制定、对人才的选拔任用等内容 ，展现了上古时期的政治制度和社会管理理念。 </li>
-<li><strong>谟</strong>：以君臣之间的谈话、谋议为主要内容，像《皋陶谟》，是皋陶和大禹在帝舜面前讨论如何治理国家的言论记录，涉及到道德规范、治国策略以及用人原则等重要问题。 </li>
-<li><strong>训</strong>：通常是长辈对晚辈、上级对下级进行教诲的言辞，例如《伊训》，是商汤死后，伊尹对太甲的训诫之辞，强调了遵守祖训、施行德政的重要性。 </li>
-<li><strong>诰</strong>：多为周王对诸侯、大臣的训令、指示，或用于发布政令、告诫等，如《康诰》，是周公封康叔于殷地时所作的诰辞，详细阐述了治理殷商遗民的政策和方法，体现了周朝的统治思想和政治策略。 </li>
-<li><strong>誓</strong>：一般是在战争前，主帅对将士们发布的誓师词，用以鼓舞士气、申明纪律、宣布作战目的和策略等，如《牧誓》，是周武王在牧野之战前对各路诸侯和军队发布的誓师词，列举了商纣王的罪行，表明了伐纣的正义性和作战的纪律要求。 </li>
-<li><strong>命</strong>：主要是君王所发布的命令、任命等，比如《顾命》，记载了周成王临终前对大臣们的遗嘱以及康王即位时的仪式等，反映了西周时期的王位继承制度和重大政治活动的程序。</li>
+    <title>盐水为什么可以清洗掉桃子表面的细毛</title>
+    <url>/2025/02/17/2025-02-17-%E7%9B%90%E6%B0%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AF%E4%BB%A5%E6%B8%85%E6%B4%97%E6%8E%89%E6%A1%83%E5%AD%90%E8%A1%A8%E9%9D%A2%E7%9A%84%E7%BB%86%E6%AF%9B/</url>
+    <content><![CDATA[<p>盐水可以清除桃子表面的细毛，主要是因为盐水的化学和物理作用。以下是具体原因：</p>
+<hr>
+<h3 id="一、盐水的化学作用"><a href="#一、盐水的化学作用" class="headerlink" title="一、盐水的化学作用"></a><strong>一、盐水的化学作用</strong></h3><ol>
+<li><p><strong>软化细毛</strong>  </p>
+<ul>
+<li>盐水中的<strong>氯化钠（NaCl）</strong>能够渗透到桃子表面的细毛中，破坏细毛的细胞结构，使其变软、脱落。  </li>
+<li>细毛的主要成分是<strong>纤维素</strong>，盐水可以使其吸水膨胀，变得更容易脱落。</li>
 </ul>
 </li>
-<li><strong>《礼记》</strong>：是一部儒家思想的资料汇编，内容涵盖了从祭祀、丧葬、饮食到家庭、朝廷、社会等多方面的礼仪规范与儒家思想。 <ul>
-<li><strong>通论性内容</strong>：对礼的起源、本质、作用等进行理论阐述。如《礼运》描述了“大同”“小康”的社会理想，《大学》论述了个人道德修养与社会政治治理的关系，提出“修身、齐家、治国、平天下”的主张。 </li>
-<li><strong>礼仪制度</strong>：详细记载各种礼仪规范。《曲礼》包含日常生活中的言行举止、待人接物的礼节；《王制》讲述了古代国家的政治制度、行政区划、官员设置等；《丧服》《檀弓》等则针对丧葬之礼，对不同身份的人在丧服、居丧时间、丧葬仪式等方面作出规定。 </li>
-<li><strong>孔子及弟子言论</strong>：记录孔子及其弟子关于礼和道德修养的言论。如《论语》中有诸多关于“仁”“礼”关系的表述，《礼记》中也有类似记载，像《仲尼燕居》《孔子闲居》等篇章，展现了孔子对礼的具体阐释和应用。</li>
+<li><p><strong>溶解作用</strong>  </p>
+<ul>
+<li>盐水具有一定的<strong>溶解能力</strong>，可以溶解细毛表面的部分物质（如果胶），使细毛与桃子表面的附着力减弱。</li>
 </ul>
 </li>
-<li><strong>《春秋》</strong>：是鲁国的编年体史书，记载了从鲁隐公元年（前722年）到鲁哀公十四年（前481年）的历史大事，内容多与政治、军事活动相关。 <ul>
-<li><strong>政治活动</strong>：记录各国君主的即位、去世，以及各国之间的朝聘、会盟等外交活动。如“隐公元年，春，王正月”，开启了对鲁国历史的记载；而像“齐侯、宋公、陈侯、卫侯、郑伯会于鄄”，则记录了诸侯之间的会盟，反映当时的政治格局与各国关系。 </li>
-<li><strong>军事战争</strong>：对各诸侯国之间发生的战争进行记载，包括战争的起因、经过和结果等。如齐鲁长勺之战，虽记载简略，但“十年春，齐师伐我。公将战”寥寥数语，点明了战争时间、双方及性质。 </li>
-<li><strong>灾异现象</strong>：记录了一些自然界的异常现象，如日食、地震、水旱灾害等。如“隐公三年，春，王二月，己巳，日有食之”，通过这些灾异记载，反映古人对自然现象的重视及天人观念。</li>
+</ol>
+<hr>
+<h3 id="二、盐水的物理作用"><a href="#二、盐水的物理作用" class="headerlink" title="二、盐水的物理作用"></a><strong>二、盐水的物理作用</strong></h3><ol>
+<li><p><strong>摩擦力增强</strong>  </p>
+<ul>
+<li>盐水增加了桃子表面的<strong>湿润度</strong>，使细毛更容易被摩擦掉。  </li>
+<li>用手或刷子在盐水中搓洗桃子时，细毛在摩擦力的作用下更容易脱落。</li>
 </ul>
 </li>
+<li><p><strong>浮力作用</strong>  </p>
+<ul>
+<li>盐水密度高于清水，细毛在盐水中受到的<strong>浮力</strong>更大，更容易从桃子表面脱离。</li>
 </ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、操作步骤"><a href="#三、操作步骤" class="headerlink" title="三、操作步骤"></a><strong>三、操作步骤</strong></h3><ol>
+<li>准备一盆清水，加入适量食盐（约1-2汤匙），搅拌至溶解。  </li>
+<li>将桃子放入盐水中浸泡5-10分钟。  </li>
+<li>用手或软刷轻轻搓洗桃子表面，细毛会逐渐脱落。  </li>
+<li>用清水冲洗干净即可。</li>
+</ol>
+<hr>
+<h3 id="四、注意事项"><a href="#四、注意事项" class="headerlink" title="四、注意事项"></a><strong>四、注意事项</strong></h3><ol>
+<li><strong>盐水浓度</strong>：盐浓度不宜过高，否则可能影响桃子口感。  </li>
+<li><strong>浸泡时间</strong>：时间过长可能导致桃子吸水变软，影响口感。  </li>
+<li><strong>清洗工具</strong>：使用软刷或手搓洗，避免损伤桃子表皮。</li>
+</ol>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>盐水通过<strong>软化细毛、增强摩擦力</strong>等作用，能够有效清除桃子表面的细毛。这种方法简单、环保，且不会影响桃子的营养价值。</p>
 ]]></content>
       <categories>
         <category>公务员考试</category>
@@ -2779,62 +2835,6 @@ import {initHBE} from "/js/plugins/hbe.js";
 </ol>
 <hr>
 <h3 id="总结-1"><a href="#总结-1" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>修昔底德陷阱揭示了国际关系中大国竞争的潜在风险。通过<strong>外交、合作与危机管理</strong>，可以降低冲突的可能性，维护全球和平与稳定。</p>
-]]></content>
-      <categories>
-        <category>公务员考试</category>
-        <category>常识</category>
-      </categories>
-      <tags>
-        <tag>公务员考试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>盐水为什么可以清洗掉桃子表面的细毛</title>
-    <url>/2025/02/17/2025-02-17-%E7%9B%90%E6%B0%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AF%E4%BB%A5%E6%B8%85%E6%B4%97%E6%8E%89%E6%A1%83%E5%AD%90%E8%A1%A8%E9%9D%A2%E7%9A%84%E7%BB%86%E6%AF%9B/</url>
-    <content><![CDATA[<p>盐水可以清除桃子表面的细毛，主要是因为盐水的化学和物理作用。以下是具体原因：</p>
-<hr>
-<h3 id="一、盐水的化学作用"><a href="#一、盐水的化学作用" class="headerlink" title="一、盐水的化学作用"></a><strong>一、盐水的化学作用</strong></h3><ol>
-<li><p><strong>软化细毛</strong>  </p>
-<ul>
-<li>盐水中的<strong>氯化钠（NaCl）</strong>能够渗透到桃子表面的细毛中，破坏细毛的细胞结构，使其变软、脱落。  </li>
-<li>细毛的主要成分是<strong>纤维素</strong>，盐水可以使其吸水膨胀，变得更容易脱落。</li>
-</ul>
-</li>
-<li><p><strong>溶解作用</strong>  </p>
-<ul>
-<li>盐水具有一定的<strong>溶解能力</strong>，可以溶解细毛表面的部分物质（如果胶），使细毛与桃子表面的附着力减弱。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="二、盐水的物理作用"><a href="#二、盐水的物理作用" class="headerlink" title="二、盐水的物理作用"></a><strong>二、盐水的物理作用</strong></h3><ol>
-<li><p><strong>摩擦力增强</strong>  </p>
-<ul>
-<li>盐水增加了桃子表面的<strong>湿润度</strong>，使细毛更容易被摩擦掉。  </li>
-<li>用手或刷子在盐水中搓洗桃子时，细毛在摩擦力的作用下更容易脱落。</li>
-</ul>
-</li>
-<li><p><strong>浮力作用</strong>  </p>
-<ul>
-<li>盐水密度高于清水，细毛在盐水中受到的<strong>浮力</strong>更大，更容易从桃子表面脱离。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="三、操作步骤"><a href="#三、操作步骤" class="headerlink" title="三、操作步骤"></a><strong>三、操作步骤</strong></h3><ol>
-<li>准备一盆清水，加入适量食盐（约1-2汤匙），搅拌至溶解。  </li>
-<li>将桃子放入盐水中浸泡5-10分钟。  </li>
-<li>用手或软刷轻轻搓洗桃子表面，细毛会逐渐脱落。  </li>
-<li>用清水冲洗干净即可。</li>
-</ol>
-<hr>
-<h3 id="四、注意事项"><a href="#四、注意事项" class="headerlink" title="四、注意事项"></a><strong>四、注意事项</strong></h3><ol>
-<li><strong>盐水浓度</strong>：盐浓度不宜过高，否则可能影响桃子口感。  </li>
-<li><strong>浸泡时间</strong>：时间过长可能导致桃子吸水变软，影响口感。  </li>
-<li><strong>清洗工具</strong>：使用软刷或手搓洗，避免损伤桃子表皮。</li>
-</ol>
-<hr>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>盐水通过<strong>软化细毛、增强摩擦力</strong>等作用，能够有效清除桃子表面的细毛。这种方法简单、环保，且不会影响桃子的营养价值。</p>
 ]]></content>
       <categories>
         <category>公务员考试</category>
@@ -3110,6 +3110,122 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>核磁共振的基本原理</title>
+    <url>/2025/02/18/2025-02-18-%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/</url>
+    <content><![CDATA[<p>核磁共振（Nuclear Magnetic Resonance, NMR）是一种基于原子核磁性的物理现象，广泛应用于医学成像（MRI）、化学分析、材料科学等领域。以下用通俗易懂的方式解释其原理和主要应用，并关联考试可能涉及的知识点：</p>
+<hr>
+<h3 id="一、核磁共振的原理（简化版）"><a href="#一、核磁共振的原理（简化版）" class="headerlink" title="一、核磁共振的原理（简化版）"></a><strong>一、核磁共振的原理（简化版）</strong></h3><h4 id="1-核心概念"><a href="#1-核心概念" class="headerlink" title="1. 核心概念"></a><strong>1. 核心概念</strong></h4><ul>
+<li><strong>原子核的“磁性”</strong>：某些原子核（如氢原子核，即质子）像小磁铁一样具有磁性，称为“核自旋”。  </li>
+<li><strong>外加磁场</strong>：当这些原子核被置于强磁场中时，会像指南针一样沿着磁场方向排列。</li>
+</ul>
+<h4 id="2-共振现象"><a href="#2-共振现象" class="headerlink" title="2. 共振现象"></a><strong>2. 共振现象</strong></h4><ul>
+<li><strong>射频脉冲</strong>：向磁场中的原子核发射特定频率的无线电波（射频脉冲），原子核吸收能量后发生“共振”，偏离原方向。  </li>
+<li><strong>信号释放</strong>：停止射频脉冲后，原子核逐渐回到原方向，并释放能量信号（称为“弛豫”）。</li>
+</ul>
+<h4 id="3-信号解读"><a href="#3-信号解读" class="headerlink" title="3. 信号解读"></a><strong>3. 信号解读</strong></h4><ul>
+<li>不同组织中的氢原子（如水、脂肪）释放信号的快慢不同 → 通过计算机处理信号差异，生成图像或分析物质结构。</li>
+</ul>
+<hr>
+<h3 id="二、核磁共振的应用"><a href="#二、核磁共振的应用" class="headerlink" title="二、核磁共振的应用"></a><strong>二、核磁共振的应用</strong></h3><h4 id="1-医学成像（MRI，磁共振成像）"><a href="#1-医学成像（MRI，磁共振成像）" class="headerlink" title="1. 医学成像（MRI，磁共振成像）"></a><strong>1. 医学成像（MRI，磁共振成像）</strong></h4><ul>
+<li><strong>原理</strong>：利用人体内氢原子（水分子和脂肪中的氢）的核磁共振信号成像。  </li>
+<li><strong>优势</strong>：  <ul>
+<li><strong>无辐射</strong>：与CT不同，MRI不使用X射线，安全性高。  </li>
+<li><strong>高分辨率</strong>：对软组织（脑、脊髓、关节、肌肉）成像清晰，可检测肿瘤、炎症、神经损伤等。</li>
+</ul>
+</li>
+<li><strong>常见用途</strong>：  <ul>
+<li>脑部疾病（中风、脑瘤、多发性硬化症）。  </li>
+<li>关节损伤（韧带撕裂、半月板损伤）。  </li>
+<li>腹部器官（肝脏、胰腺病变）。</li>
+</ul>
+</li>
+</ul>
+<h4 id="2-化学分析（NMR波谱）"><a href="#2-化学分析（NMR波谱）" class="headerlink" title="2. 化学分析（NMR波谱）"></a><strong>2. 化学分析（NMR波谱）</strong></h4><ul>
+<li><strong>原理</strong>：不同化学环境中原子核的共振频率不同，形成“指纹图谱”。  </li>
+<li><strong>用途</strong>：  <ul>
+<li><strong>结构解析</strong>：确定有机分子结构（如药物研发）。  </li>
+<li><strong>纯度检测</strong>：分析化合物纯度或混合物成分。  </li>
+<li><strong>反应监测</strong>：实时跟踪化学反应过程。</li>
+</ul>
+</li>
+</ul>
+<h4 id="3-材料科学"><a href="#3-材料科学" class="headerlink" title="3. 材料科学"></a><strong>3. 材料科学</strong></h4><ul>
+<li><strong>用途</strong>：  <ul>
+<li>研究高分子材料（如塑料、橡胶）的分子结构。  </li>
+<li>分析电池材料中的离子迁移过程。</li>
+</ul>
+</li>
+</ul>
+<h4 id="4-其他领域"><a href="#4-其他领域" class="headerlink" title="4. 其他领域"></a><strong>4. 其他领域</strong></h4><ul>
+<li><strong>石油勘探</strong>：通过分析岩石样本中的氢原子分布，评估油气储量。  </li>
+<li><strong>食品检测</strong>：检测食品中的水分、脂肪含量及掺假成分。</li>
+</ul>
+<hr>
+<h3 id="三、考试关联点（科技常识-医学常识）"><a href="#三、考试关联点（科技常识-医学常识）" class="headerlink" title="三、考试关联点（科技常识/医学常识）"></a><strong>三、考试关联点（科技常识/医学常识）</strong></h3><ol>
+<li><strong>MRI与CT的区别</strong></li>
+</ol>
+<table>
+<thead>
+<tr>
+<th><strong>对比项</strong></th>
+<th><strong>MRI</strong></th>
+<th><strong>CT</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>成像原理</td>
+<td>核磁共振信号</td>
+<td>X射线穿透成像</td>
+</tr>
+<tr>
+<td>辐射</td>
+<td>无</td>
+<td>有</td>
+</tr>
+<tr>
+<td>适用组织</td>
+<td>软组织（脑、关节）</td>
+<td>骨骼、肺部</td>
+</tr>
+<tr>
+<td>检查时间</td>
+<td>较长（15-60分钟</td>
+<td>较短（几秒到几分钟</td>
+</tr>
+</tbody></table>
+<ol start="2">
+<li><strong>高频考点</strong>  <ul>
+<li><strong>安全性</strong>：MRI无电离辐射，孕妇和儿童可优先选择（但体内有金属植入物者需谨慎）。  </li>
+<li><strong>技术优势</strong>：MRI对早期脑梗死的诊断比CT更敏感。  </li>
+<li><strong>诺贝尔奖关联</strong>：2003年诺贝尔生理学或医学奖授予MRI技术的奠基人保罗·劳特伯和彼得·曼斯菲尔德。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="四、记忆技巧"><a href="#四、记忆技巧" class="headerlink" title="四、记忆技巧"></a><strong>四、记忆技巧</strong></h3><ol start="3">
+<li><strong>类比法</strong>：  <ul>
+<li>原子核像小磁铁 → 磁场中排队 → 射频脉冲“敲击”后释放信号 → 信号差异形成图像。</li>
+</ul>
+</li>
+<li><strong>口诀</strong>：  <blockquote>
+<p>“核磁共振无射线，软组织里显神通；化学分析指纹谱，材料石油样样通。”</p>
+</blockquote>
+</li>
+</ol>
+<hr>
+<h3 id="五、真题示例"><a href="#五、真题示例" class="headerlink" title="五、真题示例"></a><strong>五、真题示例</strong></h3><p>【例题】关于核磁共振（MRI）的描述，错误的是：<br>A. 利用氢原子核的磁性成像<br>B. 对骨骼成像效果优于CT<br>C. 检查时无电离辐射<br>D. 可用于脑部肿瘤诊断<br><strong>答案</strong>：B（MRI对软组织成像更优，骨骼成像CT更清晰）。  </p>
+<hr>
+<p>通过理解“磁场+射频信号→图像/数据”的核心逻辑，结合应用场景，即使非专业背景也能掌握核磁共振的关键知识点！ 🧲⚛️</p>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>人工智能思维导图</title>
     <url>/2025/02/18/2025-02-18-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</url>
     <content><![CDATA[<h2 id="第一节课"><a href="#第一节课" class="headerlink" title="第一节课"></a>第一节课</h2><pre class="mermaid">mindmap
@@ -3175,45 +3291,604 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>核磁共振的基本原理</title>
-    <url>/2025/02/18/2025-02-18-%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/</url>
-    <content><![CDATA[<p><strong>核磁共振（NMR，Nuclear Magnetic Resonance）</strong>是一种基于原子核磁性原理的分析技术，广泛应用于化学、物理学、生物学以及医学（如核磁共振成像MRI）。核磁共振的原理主要依赖于原子核在外加磁场中的行为和特定频率的射频脉冲。</p>
-<h3 id="核磁共振的基本原理："><a href="#核磁共振的基本原理：" class="headerlink" title="核磁共振的基本原理："></a>核磁共振的基本原理：</h3><ol>
-<li><p><strong>原子核的自旋和磁性</strong>：</p>
+    <title>我国油料作物简介以及气候+土壤如何影响作物分布</title>
+    <url>/2025/02/19/2025-02-19-%E6%88%91%E5%9B%BD%E6%B2%B9%E6%96%99%E4%BD%9C%E7%89%A9%E7%AE%80%E4%BB%8B/</url>
+    <content><![CDATA[<h2 id="我国油料作物简介"><a href="#我国油料作物简介" class="headerlink" title="我国油料作物简介"></a>我国油料作物简介</h2><p>我国油料作物是指以种子或果实榨取食用油或工业用油的农作物，是保障粮油安全的重要组成部分。以下是主要油料作物及其特点的简要总结：</p>
+<hr>
+<h3 id="一、主要油料作物"><a href="#一、主要油料作物" class="headerlink" title="一、主要油料作物"></a><strong>一、主要油料作物</strong></h3><ol>
+<li><p><strong>大豆</strong>  </p>
 <ul>
-<li>原子核（如氢核H、碳核C、氮核N等）具有自旋（内部角动量），并且这些自旋表现出磁性。不同的原子核在外部磁场中会根据其磁性（即“磁矩”）与外磁场相互作用，产生不同的能量状态。</li>
+<li><strong>地位</strong>：我国第一大油料作物，占国产植物油原料的50%以上。  </li>
+<li><strong>用途</strong>：榨油（豆油）、豆粕（饲料）。  </li>
+<li><strong>主产区</strong>：东北（黑龙江、吉林）、黄淮海（河南、山东）。  </li>
+<li><strong>现状</strong>：进口依赖度高（80%以上），国家推行“大豆振兴计划”提升自给率。</li>
 </ul>
 </li>
-<li><p><strong>外加磁场的作用</strong>：</p>
+<li><p><strong>油菜</strong>  </p>
 <ul>
-<li>当样品置于强磁场中时，带有自旋的原子核的磁矩会与外磁场相互作用。由于每种核的磁性不同，它们在外磁场中的能量状态和磁共振频率也不同。</li>
-<li>在外磁场中，原子核的自旋可以“取向”两种方式之一：与外磁场方向一致（低能态），或与外磁场方向相反（高能态）。</li>
+<li><strong>地位</strong>：国产食用植物油第一大来源（菜籽油）。  </li>
+<li><strong>类型</strong>：冬油菜（长江流域）、春油菜（西北、东北）。  </li>
+<li><strong>主产区</strong>：湖北、湖南、四川、安徽、江苏。  </li>
+<li><strong>政策</strong>：推广“双低油菜”（低芥酸、低硫苷），提升品质。</li>
 </ul>
 </li>
-<li><p><strong>射频脉冲的激发</strong>：</p>
+<li><p><strong>花生</strong>  </p>
 <ul>
-<li>当向样品施加一个特定频率的射频脉冲时，如果该频率与原子核的能量差匹配，原子核将从低能态跃迁到高能态。</li>
-<li>射频脉冲的频率通常与外磁场的强度以及原子核的种类有关，因此不同类型的原子核（如氢、碳、氮等）会有不同的共振频率。</li>
+<li><strong>特点</strong>：出油率高（40%-50%），耐旱性强。  </li>
+<li><strong>主产区</strong>：山东、河南、河北、广东。  </li>
+<li><strong>用途</strong>：花生油、食品加工（如花生酱）。</li>
 </ul>
 </li>
-<li><p><strong>信号的接收和解读</strong>：</p>
+<li><p><strong>向日葵</strong>  </p>
 <ul>
-<li>当射频脉冲停止后，原子核会从高能态回到低能态，并释放出能量。这些释放的能量以射频信号的形式被探测器接收。</li>
-<li>这些信号的强度、频率和相位信息可以用来推断样品中各原子核的环境及其相对位置等信息。</li>
+<li><strong>分布</strong>：北方干旱地区（内蒙古、新疆、甘肃）。  </li>
+<li><strong>优势</strong>：耐盐碱、耐贫瘠，葵花籽油富含维生素E。</li>
 </ul>
 </li>
-<li><p><strong>化学位移</strong>：</p>
+<li><p><strong>芝麻</strong>  </p>
 <ul>
-<li>不同化学环境下的原子核（例如氢原子在不同化学基团中的位置）会对外磁场产生不同的效应，导致它们的共振频率发生微小的变化。这种现象被称为<strong>化学位移</strong>，它是核磁共振技术中的一个关键特征，使得我们可以识别分子中的不同化学环境。</li>
+<li><strong>特色</strong>：小品种油料，香油（芝麻油）为传统调味品。  </li>
+<li><strong>主产区</strong>：湖北、河南、安徽。</li>
 </ul>
 </li>
 </ol>
-<h3 id="核磁共振的应用："><a href="#核磁共振的应用：" class="headerlink" title="核磁共振的应用："></a>核磁共振的应用：</h3><ul>
-<li><strong>化学分析</strong>：通过NMR谱图分析化学分子的结构，确定原子之间的连接关系、官能团的环境等。</li>
-<li><strong>生物学研究</strong>：研究蛋白质、DNA、RNA等生物大分子的结构和相互作用。</li>
-<li><strong>医学成像（MRI）</strong>：利用核磁共振成像技术（MRI），通过检测体内水分子的磁共振信号，生成高分辨率的身体内部图像，用于诊断疾病，尤其是大脑、肌肉和软组织的成像。</li>
+<hr>
+<h3 id="二、主产区分布"><a href="#二、主产区分布" class="headerlink" title="二、主产区分布"></a><strong>二、主产区分布</strong></h3><table>
+<thead>
+<tr>
+<th><strong>作物</strong></th>
+<th><strong>核心产区</strong></th>
+<th><strong>地理特征</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>大豆</td>
+<td>东北平原、黄淮海平原</td>
+<td>黑土地、温带季风气候</td>
+</tr>
+<tr>
+<td>油菜</td>
+<td>长江流域</td>
+<td>水热充足、冬季温和</td>
+</tr>
+<tr>
+<td>花生</td>
+<td>华北平原、华南沿海</td>
+<td>沙质土壤、排水良好</td>
+</tr>
+<tr>
+<td>向日葵</td>
+<td>内蒙古、新疆</td>
+<td>干旱半干旱区、光照充足</td>
+</tr>
+</tbody></table>
+<hr>
+<h3 id="三、发展现状与政策"><a href="#三、发展现状与政策" class="headerlink" title="三、发展现状与政策"></a><strong>三、发展现状与政策</strong></h3><ol start="6">
+<li><strong>进口依赖问题</strong>：  <ul>
+<li>大豆、棕榈油（非国产）进口量大，需保障供应链安全。</li>
 </ul>
-<h3 id="总结："><a href="#总结：" class="headerlink" title="总结："></a>总结：</h3><p>核磁共振的原理基于原子核在外加磁场中自旋和磁性的行为，通过施加射频脉冲激发核的跃迁，并通过接收其释放的能量信号来分析物质的结构、成分或分布。在化学和生物学中，NMR是研究分子结构的强有力工具，而在医学领域，MRI则广泛用于非侵入性地成像人体内部结构。</p>
+</li>
+<li><strong>政策支持</strong>：  <ul>
+<li>扩大油菜、花生等高产油料种植面积（如南方冬闲田种油菜）。  </li>
+<li>推广机械化收割（如油菜联合收割机）。</li>
+</ul>
+</li>
+<li><strong>特色油料</strong>：  <ul>
+<li>油茶（南方丘陵）、胡麻（西北）等小品种油料发展潜力大。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="四、考试关联点"><a href="#四、考试关联点" class="headerlink" title="四、考试关联点"></a><strong>四、考试关联点</strong></h3><ol start="9">
+<li><strong>乡村振兴</strong>：油料作物种植与农民增收、农业结构调整。  </li>
+<li><strong>粮食安全</strong>：减少食用油对外依存度，提升自给率。  </li>
+<li><strong>地理题</strong>：结合气候、土壤分析作物分布（如东北大豆与黑土关联）。</li>
+</ol>
+<p>如需进一步细化某类作物或政策，可随时补充！ 📚🌱</p>
+<hr>
+<h2 id="气候-土壤如何影响作物分布"><a href="#气候-土壤如何影响作物分布" class="headerlink" title="气候+土壤如何影响作物分布"></a>气候+土壤如何影响作物分布</h2><h3 id="一、核心逻辑：作物需求-vs-环境供给"><a href="#一、核心逻辑：作物需求-vs-环境供给" class="headerlink" title="一、核心逻辑：作物需求 vs 环境供给"></a><strong>一、核心逻辑：作物需求 vs 环境供给</strong></h3><p><strong>作物生长需要特定条件</strong> → <strong>气候和土壤提供条件</strong> → <strong>两者匹配则适合种植</strong><br><strong>例如</strong>：水稻需要高温多雨+保水土壤 → 南方水热充足+黏土 → 匹配成功，成为水稻主产区。</p>
+<hr>
+<h3 id="二、气候四要素（理科生简化版）"><a href="#二、气候四要素（理科生简化版）" class="headerlink" title="二、气候四要素（理科生简化版）"></a><strong>二、气候四要素（理科生简化版）</strong></h3><h4 id="1-温度"><a href="#1-温度" class="headerlink" title="1. 温度"></a><strong>1. 温度</strong></h4><ul>
+<li><strong>关键点</strong>：作物生长期需要的最低、最适、最高温度。  </li>
+<li><strong>举例</strong>：  <ul>
+<li><strong>小麦</strong>：耐寒，生长期适温15-20℃ → 华北、东北（温带）。  </li>
+<li><strong>甘蔗</strong>：喜热，要求年均温20℃以上 → 只能种在华南（热带&#x2F;亚热带）。</li>
+</ul>
+</li>
+</ul>
+<h4 id="2-降水（水量-季节分配）"><a href="#2-降水（水量-季节分配）" class="headerlink" title="2. 降水（水量+季节分配）"></a><strong>2. 降水（水量+季节分配）</strong></h4><ul>
+<li><strong>关键点</strong>：年降水量多少？雨季是否与作物需水期一致？  </li>
+<li><strong>举例</strong>：  <ul>
+<li><strong>水稻</strong>：需大量水且持续灌溉 → 南方多雨区（年降水&gt;800mm）。  </li>
+<li><strong>棉花</strong>：成熟期需干燥 → 新疆（降水少但灌溉便利）。</li>
+</ul>
+</li>
+</ul>
+<h4 id="3-光照（日照时长-强度）"><a href="#3-光照（日照时长-强度）" class="headerlink" title="3. 光照（日照时长+强度）"></a><strong>3. 光照（日照时长+强度）</strong></h4><ul>
+<li><strong>关键点</strong>：长日照作物（如小麦）vs 短日照作物（如水稻）。  </li>
+<li><strong>举例</strong>：  <ul>
+<li><strong>新疆瓜果甜</strong>：昼夜温差大+光照强 → 光合作用强，糖分积累多。</li>
+</ul>
+</li>
+</ul>
+<h4 id="4-灾害性天气"><a href="#4-灾害性天气" class="headerlink" title="4. 灾害性天气"></a><strong>4. 灾害性天气</strong></h4><ul>
+<li><strong>关键点</strong>：避开影响作物生长的极端天气（如霜冻、台风）。  </li>
+<li><strong>举例</strong>：  <ul>
+<li><strong>橡胶</strong>：怕低温霜冻 → 仅分布海南、云南（无霜冻）。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="三、土壤三要素（理科生简化版）"><a href="#三、土壤三要素（理科生简化版）" class="headerlink" title="三、土壤三要素（理科生简化版）"></a><strong>三、土壤三要素（理科生简化版）</strong></h3><h4 id="1-土壤类型"><a href="#1-土壤类型" class="headerlink" title="1. 土壤类型"></a><strong>1. 土壤类型</strong></h4><ul>
+<li><strong>砂土</strong>：透气好、保水差 → 适合耐旱作物（花生、西瓜）。  </li>
+<li><strong>黏土</strong>：保水强、透气差 → 适合水稻（需水田）。  </li>
+<li><strong>黑土</strong>：天然肥力高 → 东北种大豆、玉米。</li>
+</ul>
+<h4 id="2-土壤肥力"><a href="#2-土壤肥力" class="headerlink" title="2. 土壤肥力"></a><strong>2. 土壤肥力</strong></h4><ul>
+<li><strong>肥力高</strong>：无需大量施肥 → 长江中下游水稻土（长期耕作仍肥沃）。  </li>
+<li><strong>肥力低</strong>：需改良 → 红壤（南方丘陵，酸性强，种茶树需施石灰）。</li>
+</ul>
+<h4 id="3-土壤酸碱度（pH值）"><a href="#3-土壤酸碱度（pH值）" class="headerlink" title="3. 土壤酸碱度（pH值）"></a><strong>3. 土壤酸碱度（pH值）</strong></h4><ul>
+<li><strong>酸性土</strong>：适合茶树、柑橘（南方红壤）。  </li>
+<li><strong>碱性土</strong>：适合向日葵、甜菜（西北盐碱地）。</li>
+</ul>
+<hr>
+<h3 id="四、实战分析模板（直接套用答题）"><a href="#四、实战分析模板（直接套用答题）" class="headerlink" title="四、实战分析模板（直接套用答题）"></a><strong>四、实战分析模板（直接套用答题）</strong></h3><p><strong>问题</strong>：为什么华北平原是冬小麦主产区？<br><strong>分析框架</strong>：<br>12. <strong>气候匹配</strong>：  </p>
+<ul>
+<li><strong>温度</strong>：冬小麦秋季播种，越冬需低温但不极端寒冷（华北冬季&gt; -10℃）。  </li>
+<li><strong>降水</strong>：年降水500-600mm，集中在夏季（小麦成熟期需少雨防霉变）。</li>
+</ul>
+<ol start="13">
+<li><strong>土壤匹配</strong>：</li>
+</ol>
+<ul>
+<li><strong>黄土&#x2F;褐土</strong>：透气性适中，保水保肥能力较好。</li>
+</ul>
+<ol start="14">
+<li><strong>结论</strong>：气候（温带季风）+土壤（肥沃黄土）共同支撑冬小麦种植。</li>
+</ol>
+<hr>
+<h3 id="五、典型作物与地区配对（考试常考！）"><a href="#五、典型作物与地区配对（考试常考！）" class="headerlink" title="五、典型作物与地区配对（考试常考！）"></a><strong>五、典型作物与地区配对（考试常考！）</strong></h3><table>
+<thead>
+<tr>
+<th><strong>作物</strong></th>
+<th><strong>主产区</strong></th>
+<th><strong>气候+土壤条件</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>水稻</td>
+<td>长江中下游</td>
+<td>高温多雨+黏土保水</td>
+</tr>
+<tr>
+<td>小麦</td>
+<td>华北平原</td>
+<td>温带季风（雨热同期）+黄土肥沃</td>
+</tr>
+<tr>
+<td>甘蔗</td>
+<td>广西、广东</td>
+<td>年均温&gt;20℃+降水丰富</td>
+</tr>
+<tr>
+<td>棉花</td>
+<td>新疆</td>
+<td>光照强+昼夜温差大+砂质土（透气）</td>
+</tr>
+<tr>
+<td>茶树</td>
+<td>江南丘陵</td>
+<td>酸性红壤+多雾湿润</td>
+</tr>
+</tbody></table>
+<hr>
+<h3 id="六、记忆技巧"><a href="#六、记忆技巧" class="headerlink" title="六、记忆技巧"></a><strong>六、记忆技巧</strong></h3><ol start="15">
+<li><strong>联想法</strong>：</li>
+</ol>
+<ul>
+<li>新疆棉花 → 联想“阳光充足晒棉花，砂土透气根不烂”。  </li>
+<li>东北大豆 → 联想“黑土油汪汪，豆子长得壮”。</li>
+</ul>
+<ol start="16">
+<li><p><strong>对比表</strong>：  </p>
+<table>
+<thead>
+<tr>
+<th><strong>干旱区</strong>（西北）</th>
+<th><strong>湿润区</strong>（东南）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>光照强、降水少</td>
+<td>降水多、热量足</td>
+</tr>
+<tr>
+<td>种棉花、向日葵</td>
+<td>种水稻、油菜</td>
+</tr>
+</tbody></table>
+</li>
+<li><p><strong>极端条件排除法</strong>：</p>
+</li>
+</ol>
+<ul>
+<li>如果某地有“低温”“干旱”“土壤酸性强”等极端条件，直接排除不耐受的作物。<br>   <strong>例如</strong>：东北寒冷 → 排除甘蔗；南方红壤酸性 → 排除甜菜。</li>
+</ul>
+<hr>
+<h3 id="七、考试应用"><a href="#七、考试应用" class="headerlink" title="七、考试应用"></a><strong>七、考试应用</strong></h3><ol start="18">
+<li><p><strong>选择题</strong>：<br>   【例题】下列地区与作物组合正确的是：<br>   A. 山东半岛——甘蔗<br>   B. 青藏高原——青稞<br>   C. 海南岛——苹果<br>   D. 长江三角洲——花生<br>   <strong>答案</strong>：B（青稞耐高寒，青藏高原气候匹配）。  </p>
+</li>
+<li><p><strong>简答题</strong>：<br>   <strong>问题</strong>：分析云南成为我国重要橡胶产区的原因。<br>   <strong>答题要点</strong>：</p>
+</li>
+</ol>
+<ul>
+<li>气候：热带季风，冬季无霜冻（橡胶怕低温）。  </li>
+<li>地形：河谷盆地避风（减少台风破坏）。  </li>
+<li>政策：国家战略物资扶持。</li>
+</ul>
+<hr>
+<p>用“条件匹配”逻辑+典型例子记忆，即使没有地理基础也能快速解题！如果需要其他作物分析，可以再细化哦~ 🌾📚</p>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>横向垄断协议与纵向垄断协议</title>
+    <url>/2025/02/19/2025-02-19-%E6%A8%AA%E5%90%91%E5%9E%84%E6%96%AD%E5%8D%8F%E8%AE%AE%E4%B8%8E%E7%BA%B5%E5%90%91%E5%9E%84%E6%96%AD%E5%8D%8F%E8%AE%AE/</url>
+    <content><![CDATA[<p>横向垄断协议与纵向垄断协议是反垄断法中的核心概念，两者的主要区别在于参与主体之间的关系不同，对市场竞争的影响也存在差异。以下用通俗易懂的方式解释两者的定义、区别及法律后果：</p>
+<hr>
+<h3 id="一、横向垄断协议（同行之间的“合谋”）"><a href="#一、横向垄断协议（同行之间的“合谋”）" class="headerlink" title="一、横向垄断协议（同行之间的“合谋”）"></a><strong>一、横向垄断协议（同行之间的“合谋”）</strong></h3><h4 id="1-定义"><a href="#1-定义" class="headerlink" title="1. 定义"></a><strong>1. 定义</strong></h4><p>横向垄断协议是指 <strong>同一行业、处于同一生产或销售环节的竞争对手之间</strong> 达成的限制竞争协议。<br><strong>例如</strong>：几家牛奶生产企业联合涨价，或几家建筑公司约定不进入对方市场。</p>
+<h4 id="2-常见形式"><a href="#2-常见形式" class="headerlink" title="2. 常见形式"></a><strong>2. 常见形式</strong></h4><ul>
+<li><strong>固定价格</strong>：同行企业约定统一价格（如所有超市约定某商品最低售价）。  </li>
+<li><strong>分割市场</strong>：划分销售区域或客户群体（如A公司只卖北方，B公司只卖南方）。  </li>
+<li><strong>限制产量</strong>：共同减少产量以抬高价格（如石油公司联合减产）。  </li>
+<li><strong>联合抵制交易</strong>：集体拒绝与特定供应商或客户合作。</li>
+</ul>
+<h4 id="3-法律风险"><a href="#3-法律风险" class="headerlink" title="3. 法律风险"></a><strong>3. 法律风险</strong></h4><ul>
+<li><strong>严格禁止</strong>：横向垄断协议对市场竞争危害极大，各国反垄断法普遍直接禁止，无豁免例外（中国《反垄断法》第17条）。  </li>
+<li><strong>高额罚款</strong>：企业可能被处以上一年度销售额1%-10%的罚款，甚至面临刑事责任（如串通投标）。</li>
+</ul>
+<hr>
+<h3 id="二、纵向垄断协议（上下游之间的“控制”）"><a href="#二、纵向垄断协议（上下游之间的“控制”）" class="headerlink" title="二、纵向垄断协议（上下游之间的“控制”）"></a><strong>二、纵向垄断协议（上下游之间的“控制”）</strong></h3><h4 id="1-定义-1"><a href="#1-定义-1" class="headerlink" title="1. 定义"></a><strong>1. 定义</strong></h4><p>纵向垄断协议是指 <strong>处于不同生产或销售环节的企业之间</strong> 达成的限制竞争协议，通常是上下游关系。<br><strong>例如</strong>：手机厂商要求经销商不得低于某价格销售，或汽车品牌限制4S店只能销售自家配件。</p>
+<h4 id="2-常见形式-1"><a href="#2-常见形式-1" class="headerlink" title="2. 常见形式"></a><strong>2. 常见形式</strong></h4><ul>
+<li><strong>固定转售价格</strong>：生产商强制规定经销商的最低售价（如茅台要求所有门店售价不低于1499元）。  </li>
+<li><strong>地域或客户限制</strong>：禁止经销商跨区域销售或向特定客户供货。  </li>
+<li><strong>搭售</strong>：购买A商品必须同时购买B商品（如打印机厂商强制购买原装墨水）。</li>
+</ul>
+<h4 id="3-法律风险-1"><a href="#3-法律风险-1" class="headerlink" title="3. 法律风险"></a><strong>3. 法律风险</strong></h4><ul>
+<li><strong>有条件禁止</strong>：纵向协议可能有一定合理性（如保证服务质量），但过度限制竞争仍违法。  </li>
+<li><strong>需个案分析</strong>：需证明协议显著排除、限制竞争（中国《反垄断法》第18条）。  </li>
+<li><strong>豁免可能</strong>：若协议能提高效率、让消费者受益（如新技术推广），可能被豁免处罚。</li>
+</ul>
+<hr>
+<h3 id="三、两者的核心区别"><a href="#三、两者的核心区别" class="headerlink" title="三、两者的核心区别"></a><strong>三、两者的核心区别</strong></h3><table>
+<thead>
+<tr>
+<th><strong>对比维度</strong></th>
+<th><strong>横向垄断协议</strong></th>
+<th><strong>纵向垄断协议</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>参与者关系</strong></td>
+<td>竞争对手（同一环节）</td>
+<td>上下游企业（不同环节）</td>
+</tr>
+<tr>
+<td><strong>竞争损害</strong></td>
+<td>直接消除竞争，危害极大</td>
+<td>可能促进效率，也可能限制竞争</td>
+</tr>
+<tr>
+<td><strong>法律态度</strong></td>
+<td>一律禁止，无豁免</td>
+<td>有条件禁止，可抗辩或豁免</td>
+</tr>
+<tr>
+<td><strong>典型案例</strong></td>
+<td>水泥企业联合涨价</td>
+<td>品牌商控价或限制经销商跨区销售</td>
+</tr>
+</tbody></table>
+<hr>
+<h3 id="四、注意事项（法律小白必看！）"><a href="#四、注意事项（法律小白必看！）" class="headerlink" title="四、注意事项（法律小白必看！）"></a><strong>四、注意事项（法律小白必看！）</strong></h3><ol>
+<li><p><strong>横向协议风险极高</strong>  </p>
+<ul>
+<li>同行之间讨论价格、产量、市场划分等敏感话题，即使未书面签约，也可能被认定为垄断协议。  </li>
+<li><strong>例如</strong>：行业会议上暗示“大家别降价”，可能构成违法。</li>
+</ul>
+</li>
+<li><p><strong>纵向协议需谨慎设计</strong>  </p>
+<ul>
+<li>生产商对经销商的控制需以合同明确约定，避免直接干预价格，可改为“建议零售价”。  </li>
+<li><strong>例如</strong>：苹果公司曾因要求经销商固定价格被欧盟罚款。</li>
+</ul>
+</li>
+<li><p><strong>法律后果严重</strong>  </p>
+<ul>
+<li>企业可能面临巨额罚款（最高年销售额10%），负责人可能被追责；消费者或竞争对手可提起民事赔偿诉讼。</li>
+</ul>
+</li>
+<li><p><strong>合规建议</strong>  </p>
+<ul>
+<li>避免与竞争对手讨论敏感商业信息（价格、成本、市场策略）。  </li>
+<li>纵向协议中保留经销商一定的自主权（如允许适度降价促销）。  </li>
+<li>遇到疑似垄断行为，可向市场监管总局举报或咨询反垄断律师。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="五、总结"><a href="#五、总结" class="headerlink" title="五、总结"></a><strong>五、总结</strong></h3><ul>
+<li><strong>横向垄断协议</strong>：同行合谋，直接扼杀竞争，法律“零容忍”。  </li>
+<li><strong>纵向垄断协议</strong>：上下游控制，需权衡利弊，避免过度限制。  </li>
+<li><strong>核心原则</strong>：任何协议若实质损害消费者利益或排除竞争，都可能触犯《反垄断法》。  </li>
+<li><strong>行动建议</strong>：商业合作中保持独立性，必要时寻求法律合规审查。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>经济补偿金的支付</title>
+    <url>/2025/02/19/2025-02-19-%E7%BB%8F%E6%B5%8E%E8%A1%A5%E5%81%BF%E9%87%91%E7%9A%84%E6%94%AF%E4%BB%98/</url>
+    <content><![CDATA[<p>用人单位是否需要支付经济补偿金，主要取决于劳动合同解除或终止的具体情形。根据《劳动合同法》及相关规定，以下是需要支付和不需要支付经济补偿金的主要情形：</p>
+<hr>
+<h3 id="一、需要支付经济补偿金的情形"><a href="#一、需要支付经济补偿金的情形" class="headerlink" title="一、需要支付经济补偿金的情形"></a><strong>一、需要支付经济补偿金的情形</strong></h3><h4 id="1-用人单位提出解除劳动合同"><a href="#1-用人单位提出解除劳动合同" class="headerlink" title="1. 用人单位提出解除劳动合同"></a><strong>1. 用人单位提出解除劳动合同</strong></h4><ul>
+<li><p><strong>协商解除</strong>：用人单位主动提出解除劳动合同，并与劳动者协商一致（《劳动合同法》第36条）。<br><strong>例如</strong>：公司因业务调整与员工协商解除合同，需支付补偿金。</p>
+</li>
+<li><p><strong>无过失性辞退</strong>（《劳动合同法》第40条）：<br>劳动者无过错，但因以下原因被解除合同：  </p>
+<ul>
+<li>患病或非因工负伤，医疗期满后不能从事原工作或另行安排的工作；  </li>
+<li>不能胜任工作，经培训或调岗后仍不能胜任；  </li>
+<li>劳动合同订立时的客观情况发生重大变化，导致合同无法履行且未能协商一致。</li>
+</ul>
+</li>
+<li><p><strong>经济性裁员</strong>（《劳动合同法》第41条）：<br>企业因破产重整、经营困难、技术革新等需裁减人员，依法履行程序后裁员。</p>
+</li>
+</ul>
+<h4 id="2-劳动者提出解除劳动合同"><a href="#2-劳动者提出解除劳动合同" class="headerlink" title="2. 劳动者提出解除劳动合同"></a><strong>2. 劳动者提出解除劳动合同</strong></h4><ul>
+<li><strong>用人单位存在过错</strong>（《劳动合同法》第38条）：<br>用人单位有下列情形之一，劳动者可单方解除合同并要求补偿金：  <ul>
+<li>未按约定提供劳动保护或劳动条件；  </li>
+<li>未及时足额支付工资；  </li>
+<li>未依法缴纳社会保险；  </li>
+<li>规章制度违法损害劳动者权益；  </li>
+<li>以暴力、威胁等手段强迫劳动。</li>
+</ul>
+</li>
+</ul>
+<h4 id="3-劳动合同终止"><a href="#3-劳动合同终止" class="headerlink" title="3. 劳动合同终止"></a><strong>3. 劳动合同终止</strong></h4><ul>
+<li><p><strong>劳动合同期满不续签</strong>：  </p>
+<ul>
+<li>用人单位不同意续签（除非劳动者拒绝续签条件不低于原合同）；  </li>
+<li>用人单位降低条件续签，劳动者拒绝。</li>
+</ul>
+</li>
+<li><p><strong>用人单位主体资格消灭</strong>：<br>如企业被宣告破产、吊销营业执照、责令关闭等。</p>
+</li>
+</ul>
+<hr>
+<h3 id="二、不需要支付经济补偿金的情形"><a href="#二、不需要支付经济补偿金的情形" class="headerlink" title="二、不需要支付经济补偿金的情形"></a><strong>二、不需要支付经济补偿金的情形</strong></h3><h4 id="1-劳动者主动辞职"><a href="#1-劳动者主动辞职" class="headerlink" title="1. 劳动者主动辞职"></a><strong>1. 劳动者主动辞职</strong></h4><ul>
+<li>劳动者因个人原因（如另谋高就、家庭原因等）主动提出解除劳动合同（《劳动合同法》第37条）。<br><strong>例外</strong>：若辞职是因用人单位存在过错（如拖欠工资），仍需支付补偿金。</li>
+</ul>
+<h4 id="2-劳动者有过失被辞退（《劳动合同法》第39条）："><a href="#2-劳动者有过失被辞退（《劳动合同法》第39条）：" class="headerlink" title="2. 劳动者有过失被辞退（《劳动合同法》第39条）："></a><strong>2. 劳动者有过失被辞退</strong>（《劳动合同法》第39条）：</h4><p>  劳动者存在严重过错，用人单位可单方解除合同且无需补偿，包括：  </p>
+<ul>
+<li>试用期不符合录用条件；  </li>
+<li>严重违反规章制度；  </li>
+<li>严重失职、营私舞弊造成重大损失；  </li>
+<li>同时与其他单位建立劳动关系且拒不改正；  </li>
+<li>被依法追究刑事责任。</li>
+</ul>
+<h4 id="3-劳动合同自然终止"><a href="#3-劳动合同自然终止" class="headerlink" title="3. 劳动合同自然终止"></a><strong>3. 劳动合同自然终止</strong></h4><ul>
+<li>劳动者开始依法享受基本养老保险待遇（退休）；  </li>
+<li>劳动者死亡，或被宣告死亡、失踪；  </li>
+<li>固定期限劳动合同到期，劳动者不同意续签（用人单位维持或提高原条件）。</li>
+</ul>
+<hr>
+<h3 id="三、经济补偿金的计算标准"><a href="#三、经济补偿金的计算标准" class="headerlink" title="三、经济补偿金的计算标准"></a><strong>三、经济补偿金的计算标准</strong></h3><ul>
+<li><strong>工作年限</strong>：每满1年支付1个月工资；6个月以上不满1年按1年算；不满6个月支付半个月工资。  </li>
+<li><strong>月工资标准</strong>：解除或终止前12个月的平均工资（包括奖金、津贴等）。  </li>
+<li><strong>上限</strong>：若月工资高于当地社平工资3倍，按3倍计算，且补偿年限最高不超过12年。</li>
+</ul>
+<hr>
+<h3 id="四、注意事项"><a href="#四、注意事项" class="headerlink" title="四、注意事项"></a><strong>四、注意事项</strong></h3><ol>
+<li><p><strong>协商解除需谨慎</strong>：  </p>
+<ul>
+<li>若劳动者主动提出解除合同，即使双方协商一致，用人单位也无需支付补偿金。  </li>
+<li><strong>关键点</strong>：谁先提出解除合同直接影响补偿金支付义务。</li>
+</ul>
+</li>
+<li><p><strong>证据保留</strong>：  </p>
+<ul>
+<li>用人单位需保存劳动者过错行为的证据（如违纪记录、考核不合格证明），避免违法解除风险。</li>
+</ul>
+</li>
+<li><p><strong>特殊情形</strong>：  </p>
+<ul>
+<li>劳动合同因“用人单位被宣告破产”终止时，经济补偿金从企业破产财产中优先清偿。</li>
+</ul>
+</li>
+<li><p><strong>违法解除的后果</strong>：  </p>
+<ul>
+<li>若用人单位违法解除或终止合同，劳动者可要求继续履行合同或支付赔偿金（经济补偿金的2倍）。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="五、总结表格"><a href="#五、总结表格" class="headerlink" title="五、总结表格"></a><strong>五、总结表格</strong></h3><table>
+<thead>
+<tr>
+<th><strong>情形分类</strong></th>
+<th><strong>是否需要支付经济补偿金</strong></th>
+<th><strong>法律依据</strong></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>协商解除（用人单位提出）</td>
+<td>✔️ 需支付</td>
+<td>《劳动合同法》第36条</td>
+<td></td>
+</tr>
+<tr>
+<td>劳动者因用人单位过错辞职</td>
+<td>✔️ 需支付</td>
+<td>《劳动合同法》第38条</td>
+<td></td>
+</tr>
+<tr>
+<td>无过失性辞退或经济性裁员</td>
+<td>✔️ 需支付</td>
+<td>《劳动合同法》第40、41条</td>
+<td></td>
+</tr>
+<tr>
+<td>劳动合同期满不续签（用人单位原因）</td>
+<td>✔️ 需支付</td>
+<td>《劳动合同法》第46条</td>
+<td></td>
+</tr>
+<tr>
+<td>劳动者主动辞职（无用人单位过错）</td>
+<td>❌ 不支付</td>
+<td>《劳动合同法》第37条</td>
+<td></td>
+</tr>
+<tr>
+<td>劳动者有过失被辞退</td>
+<td>❌ 不支付</td>
+<td>《劳动合同法》第39条</td>
+<td></td>
+</tr>
+<tr>
+<td>劳动者退休或死亡</td>
+<td>❌ 不支付</td>
+<td>《劳动合同法》第44条</td>
+<td></td>
+</tr>
+</tbody></table>
+<hr>
+<h3 id="六、维权建议"><a href="#六、维权建议" class="headerlink" title="六、维权建议"></a><strong>六、维权建议</strong></h3><ul>
+<li><strong>劳动者</strong>：保存劳动合同、工资条、解除通知等证据，若用人单位拒付补偿金，可向劳动仲裁委员会申请仲裁。  </li>
+<li><strong>用人单位</strong>：解除或终止劳动合同时需严格依法操作，避免因程序瑕疵引发纠纷。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>诉讼程序中的鉴定解疑</title>
+    <url>/2025/02/19/2025-02-19-%E8%AF%89%E8%AE%BC%E7%A8%8B%E5%BA%8F%E4%B8%AD%E7%9A%84%E9%89%B4%E5%AE%9A%E8%A7%A3%E7%96%91/</url>
+    <content><![CDATA[<p>诉讼程序中的“鉴定”是指由专业机构或专家对案件涉及的专门性问题进行科学、技术性分析，并出具书面结论的过程。鉴定结论通常作为法院认定事实的重要证据。以下用通俗易懂的方式解释相关知识点和注意事项：</p>
+<hr>
+<h3 id="一、鉴定的核心作用"><a href="#一、鉴定的核心作用" class="headerlink" title="一、鉴定的核心作用"></a><strong>一、鉴定的核心作用</strong></h3><ol>
+<li><p><strong>解决专业问题</strong><br>当案件涉及医学、工程、会计、笔迹、痕迹等普通人难以判断的专业问题时，法院会通过鉴定来查明真相。<br><strong>例如</strong>：交通事故中伤残等级的评定、合同纠纷中签名真伪的鉴定。</p>
+</li>
+<li><p><strong>辅助法官裁判</strong><br>法官并非所有领域的专家，鉴定结论能帮助法官更客观地认定事实，避免主观臆断。</p>
+</li>
+</ol>
+<hr>
+<h3 id="二、鉴定的常见类型"><a href="#二、鉴定的常见类型" class="headerlink" title="二、鉴定的常见类型"></a><strong>二、鉴定的常见类型</strong></h3><ol>
+<li><p><strong>司法鉴定</strong>  </p>
+<ul>
+<li><strong>法医类</strong>：伤情鉴定、死亡原因鉴定、DNA鉴定等。  </li>
+<li><strong>物证类</strong>：指纹、笔迹、印章真伪鉴定。  </li>
+<li><strong>声像资料类</strong>：录音、视频是否被篡改的鉴定。</li>
+</ul>
+</li>
+<li><p><strong>其他专业鉴定</strong>  </p>
+<ul>
+<li><strong>医疗事故鉴定</strong>：判断医疗行为是否存在过错。  </li>
+<li><strong>工程质量鉴定</strong>：房屋裂缝是否因施工不当导致。  </li>
+<li><strong>资产评估鉴定</strong>：争议财产的价值评估。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、鉴定的基本流程"><a href="#三、鉴定的基本流程" class="headerlink" title="三、鉴定的基本流程"></a><strong>三、鉴定的基本流程</strong></h3><ol>
+<li><p><strong>申请鉴定</strong>  </p>
+<ul>
+<li>当事人可主动向法院申请，或由法院依职权启动。  </li>
+<li><strong>关键点</strong>：需明确说明需要鉴定的问题和理由（如“申请对合同中的签名是否本人书写进行鉴定”）。</li>
+</ul>
+</li>
+<li><p><strong>选定鉴定机构</strong>  </p>
+<ul>
+<li>通常由法院组织双方协商选择；若协商不成，由法院指定。  </li>
+<li><strong>注意</strong>：鉴定机构需具备法定资质（可在司法部官网查询）。</li>
+</ul>
+</li>
+<li><p><strong>提交材料与缴费</strong>  </p>
+<ul>
+<li>需提供与鉴定相关的材料（如病历、合同原件等）。  </li>
+<li>鉴定费用一般由申请方预交，最终由败诉方承担。</li>
+</ul>
+</li>
+<li><p><strong>出具鉴定报告</strong>  </p>
+<ul>
+<li>鉴定机构在规定时间内完成并提交报告，内容包括鉴定方法、过程和结论。</li>
+</ul>
+</li>
+<li><p><strong>质证环节</strong>  </p>
+<ul>
+<li>双方可对鉴定结论提出质疑，甚至申请重新鉴定（需有合理理由）。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="四、注意事项（小白必看！）"><a href="#四、注意事项（小白必看！）" class="headerlink" title="四、注意事项（小白必看！）"></a><strong>四、注意事项（小白必看！）</strong></h3><ol start="6">
+<li><p><strong>及时申请</strong>  </p>
+<ul>
+<li>鉴定需在举证期限内提出，逾期可能被法院拒绝。  </li>
+<li><strong>例如</strong>：一审中未申请，二审再申请可能不被准许。</li>
+</ul>
+</li>
+<li><p><strong>选择权威机构</strong>  </p>
+<ul>
+<li>务必确认鉴定机构有合法资质（如司法鉴定许可证），避免“野鸡机构”影响结果可信度。</li>
+</ul>
+</li>
+<li><p><strong>材料真实完整</strong>  </p>
+<ul>
+<li>若提交的材料不完整或造假，可能导致鉴定结论无效。  </li>
+<li><strong>例如</strong>：医疗纠纷中，需提供完整的病历和检查报告。</li>
+</ul>
+</li>
+<li><p><strong>费用问题</strong>  </p>
+<ul>
+<li>鉴定费用可能较高（几千到数万元不等），需提前做好预算。  </li>
+<li>若经济困难，可申请缓交或由法院协调分担。</li>
+</ul>
+</li>
+<li><p><strong>对结论有异议怎么办？</strong></p>
+</li>
+</ol>
+<ul>
+<li>可要求鉴定人出庭说明，或申请重新鉴定（需证明原结论存在程序违法、依据不足等问题）。</li>
+</ul>
+<hr>
+<h3 id="五、常见误区"><a href="#五、常见误区" class="headerlink" title="五、常见误区"></a><strong>五、常见误区</strong></h3><ul>
+<li><strong>误区1</strong>：“鉴定结论必须被法院采纳。”<br>→ 法院会审查鉴定程序是否合法、结论是否合理，可能不采纳有问题的结论。  </li>
+<li><strong>误区2</strong>：“自己找的鉴定机构更可靠。”<br>→ 单方委托的鉴定可能被对方质疑，最好通过法院委托。  </li>
+<li><strong>误区3</strong>：“鉴定时间越长越好。”<br>→ 拖延鉴定可能导致证据灭失（如伤情恢复后无法鉴定）。</li>
+</ul>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>鉴定是诉讼中解决专业问题的“科学助手”，但需注意程序合法、机构权威、材料真实。如果作为当事人，建议在律师指导下操作，避免因程序错误影响案件结果。</p>
 ]]></content>
       <categories>
         <category>公务员考试</category>
@@ -3633,6 +4308,17 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>一键推送脚本</title>
+    <url>/2025/01/21/2025-1-21-deploy%E8%84%9A%E6%9C%AC/</url>
+    <content><![CDATA[<p>server.vbs是以管理员身份执行server.bat</p>
+<h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:start</span><br><span class="line">echo 请输入操作编号：</span><br><span class="line">echo 0. 退出</span><br><span class="line">echo 1. 执行 hexo clean</span><br><span class="line">echo 2. 执行 hexo generate</span><br><span class="line">echo 3. 执行 hexo server</span><br><span class="line">echo 4. 执行 hexo deploy</span><br><span class="line">echo 5. 执行 npm run server</span><br><span class="line">echo 6. 执行 npm run deploy</span><br><span class="line">set /p choice=输入:</span><br><span class="line"></span><br><span class="line">if "%choice%"=="0" (</span><br><span class="line">    exit /b</span><br><span class="line">) else if "%choice%"=="1" (</span><br><span class="line">    start "" cmd /c  hexo clean</span><br><span class="line">) else if "%choice%"=="2" (</span><br><span class="line">    start "" cmd /c hexo generate</span><br><span class="line">) else if "%choice%"=="3" (</span><br><span class="line">    start "" cmd /c hexo server</span><br><span class="line">) else if "%choice%"=="4" (</span><br><span class="line">    start "" cmd /c hexo deploy</span><br><span class="line">) else if "%choice%"=="5" (</span><br><span class="line">    start "" cmd /c npm run server</span><br><span class="line">) else if "%choice%"=="6" (</span><br><span class="line">    start "" cmd /c npm run deploy</span><br><span class="line">) else (</span><br><span class="line">    echo 输入错误，请输入 0、1、2 、3、4、5或 6。</span><br><span class="line">    goto start</span><br><span class="line">)</span><br><span class="line">echo 操作已完成，按任意键继续...</span><br><span class="line">pause &gt; nul</span><br><span class="line">goto start</span><br></pre></td></tr></table></figure></div>
+<h3 id="server-vbs"><a href="#server-vbs" class="headerlink" title="server.vbs"></a>server.vbs</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Set UAC = CreateObject("Shell.Application")</span><br><span class="line">UAC.ShellExecute "server.bat", "", "", "runas", 1</span><br></pre></td></tr></table></figure></div>
+]]></content>
+      <tags>
+        <tag>code</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>smoothscroll时间戳转换</title>
     <url>/2025/01/21/2025-1-21-smoothscroll%E6%97%B6%E9%97%B4%E6%88%B3%E8%BD%AC%E6%8D%A2/</url>
     <content><![CDATA[
@@ -3653,17 +4339,6 @@ import {initHBE} from "/js/plugins/hbe.js";
   console.log("hexo-blog-encrypt: loaded.");
     initHBE();
 </script>
-]]></content>
-      <tags>
-        <tag>code</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一键推送脚本</title>
-    <url>/2025/01/21/2025-1-21-deploy%E8%84%9A%E6%9C%AC/</url>
-    <content><![CDATA[<p>server.vbs是以管理员身份执行server.bat</p>
-<h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:start</span><br><span class="line">echo 请输入操作编号：</span><br><span class="line">echo 0. 退出</span><br><span class="line">echo 1. 执行 hexo clean</span><br><span class="line">echo 2. 执行 hexo generate</span><br><span class="line">echo 3. 执行 hexo server</span><br><span class="line">echo 4. 执行 hexo deploy</span><br><span class="line">echo 5. 执行 npm run server</span><br><span class="line">echo 6. 执行 npm run deploy</span><br><span class="line">set /p choice=输入:</span><br><span class="line"></span><br><span class="line">if "%choice%"=="0" (</span><br><span class="line">    exit /b</span><br><span class="line">) else if "%choice%"=="1" (</span><br><span class="line">    start "" cmd /c  hexo clean</span><br><span class="line">) else if "%choice%"=="2" (</span><br><span class="line">    start "" cmd /c hexo generate</span><br><span class="line">) else if "%choice%"=="3" (</span><br><span class="line">    start "" cmd /c hexo server</span><br><span class="line">) else if "%choice%"=="4" (</span><br><span class="line">    start "" cmd /c hexo deploy</span><br><span class="line">) else if "%choice%"=="5" (</span><br><span class="line">    start "" cmd /c npm run server</span><br><span class="line">) else if "%choice%"=="6" (</span><br><span class="line">    start "" cmd /c npm run deploy</span><br><span class="line">) else (</span><br><span class="line">    echo 输入错误，请输入 0、1、2 、3、4、5或 6。</span><br><span class="line">    goto start</span><br><span class="line">)</span><br><span class="line">echo 操作已完成，按任意键继续...</span><br><span class="line">pause &gt; nul</span><br><span class="line">goto start</span><br></pre></td></tr></table></figure></div>
-<h3 id="server-vbs"><a href="#server-vbs" class="headerlink" title="server.vbs"></a>server.vbs</h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Set UAC = CreateObject("Shell.Application")</span><br><span class="line">UAC.ShellExecute "server.bat", "", "", "runas", 1</span><br></pre></td></tr></table></figure></div>
 ]]></content>
       <tags>
         <tag>code</tag>
