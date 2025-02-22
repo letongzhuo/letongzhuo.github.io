@@ -1,0 +1,1282 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Blog, Hexo, Node.js,lele,TongZhuo,同桌,乐乐,同桌的博客">
+    
+    <meta name="author" content="lele">
+    <!-- preconnect -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    
+        
+        
+        
+            <link rel="preconnect" href="https://registry.npmmirror.com" crossorigin>
+        
+    
+    <!--- Seo Part-->
+    
+    <link rel="canonical" href="https://letongzhuo.cn/192800"/>
+    <meta name="robots" content="index,follow">
+    <meta name="googlebot" content="index,follow">
+    <meta name="revisit-after" content="1 days">
+    
+    
+    
+        
+        <meta name="description" content="Hexo Theme Redefine, Redefine Your Hexo Journey.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How to talk like a native speaker">
+<meta property="og:url" content="https://letongzhuo.cn/192800">
+<meta property="og:site_name" content="TongZhuo&#39;s Blog">
+<meta property="og:description" content="Hexo Theme Redefine, Redefine Your Hexo Journey.">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://letongzhuo.cn/images/redefine-og.webp">
+<meta property="article:published_time" content="2025-01-04T11:28:00.000Z">
+<meta property="article:modified_time" content="2025-02-22T07:08:37.014Z">
+<meta property="article:author" content="lele">
+<meta property="article:tag" content="English-Learning">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://letongzhuo.cn/images/redefine-og.webp">
+    
+    
+    <!--- Icon Part-->
+    <link rel="icon" type="image/png" href="/img/favicon.ico" sizes="192x192">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon.ico">
+    <meta name="theme-color" content="#A31F34">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+    <!--- Page Info-->
+    
+    <title>
+        
+            How to talk like a native speaker | TongZhuo&#39;s Blog
+        
+    </title>
+
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fonts/Chillax/chillax.css">
+
+    <!--- Inject Part-->
+    
+        
+            
+    
+            
+    
+
+    
+<link rel="stylesheet" href="/css/style.css">
+
+
+    
+        <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/css/build/tailwind.css">
+    
+
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fonts/GeistMono/geist-mono.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fonts/Geist/geist.css">
+    <!--- Font Part-->
+    
+        <link href="https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Medium/result.css" rel="stylesheet">
+    
+    
+    
+        <link href="https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Medium/result.css" rel="stylesheet">
+    
+    
+        <link href="/fonts/Chillax/chillax.css" rel="stylesheet">
+    
+    
+    
+
+    <script id="hexo-configurations">
+    window.config = {"hostname":"letongzhuo.cn","root":"/","language":"zh-CN","path":"search.xml"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"14px","image_alignment":"center","image_caption":false,"link_icon":true,"delete_mask":false,"title_alignment":"left","headings_top_spacing":{"h1":"3.2rem","h2":"2.4rem","h3":"1.9rem","h4":"1.6rem","h5":"1.4rem","h6":"1.3rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","highlight_theme":{"light":"github","dark":"vs2015"},"font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":true},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"pangu_js":false,"recommendation":{"enable":true,"title":"推荐阅读","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":true,"family":"Yozai Medium","url":"https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Medium/result.css"},"english":{"enable":true,"family":"Chillax","url":"/fonts/Chillax/chillax.css"},"title":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":true},"scroll_progress":{"bar":true,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":true,"site_pv":true,"site_uv":true,"post_pv":false},"single_page":true,"preloader":{"enable":"ture","custom_message":null},"open_graph":{"enable":true,"image":"/images/redefine-og.webp","description":"Hexo Theme Redefine, Redefine Your Hexo Journey."},"google_analytics":{"enable":false,"id":null}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"welcome to TongZhuo's website.","subtitle":{"text":["苦恨甘来的某天","一切皆为宝藏"],"hitokoto":{"enable":true,"show_author":true,"api":"https://v1.hitokoto.cn?c=d&c=h&c=i&c=j&c=k"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":true,"family":"Yozai Medium","url":"https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Medium/result.css"},"social_links":{"enable":true,"style":"default","links":{"github":"https://github.com/tongzhuo-0801","instagram":null,"zhihu":null,"twitter":null,"email":"tongzhuo0801@gmail","facebook":"https://www.facebook.com/profile.php?id=61558241926702"},"qrs":{"weixin":"/img/wechat.jpeg","qq":"/img/qq.jpg"}}},"plugins":{"feed":{"enable":false},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":true,"version":"11.4.1"}},"version":"2.8.2","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Archives":{"path":"/archives","icon":"fa-regular fa-archive"},"tags":{"path":"/tags","icon":"fa-solid fa-tags"},"Categories":{"path":"/categories","icon":"fa-regular fa-folder"},"About":{"icon":"fa-regular fa-user","submenus":{"Me":"/about","Friends":"/links"}}},"search":{"enable":true,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":"感谢deepseek以及各种AI<br>没了你们我就是无头苍蝇<br>o(╥﹏╥)o","show_on_mobile":true,"links":{"Archives":{"path":"/archives","icon":"fa-regular fa-archive"},"Tags":{"path":"/tags","icon":"fa-regular fa-tags"},"Categories":{"path":"/categories","icon":"fa-regular fa-folder"},"essays":{"path":"/essays","icon":"fa-regular fa-message"}}},"article_date_format":"auto","excerpt_length":200,"categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2025/1/1 00:00:00"};
+    window.lang_ago = {"second":"%s 秒前","minute":"%s 分钟前","hour":"%s 小时前","day":"%s 天前","week":"%s 周前","month":"%s 个月前","year":"%s 年前"};
+    window.data = {"masonry":false};
+  </script>
+    
+    <!--- Fontawesome Part-->
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fontawesome/fontawesome.min.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fontawesome/brands.min.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fontawesome/solid.min.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fontawesome/regular.min.css">
+    
+    
+    
+    
+<meta name="generator" content="Hexo 7.3.0"></head>
+
+
+
+<body>
+	<div class="progress-bar-container">
+	
+	<span class="scroll-progress-bar"></span>
+	
+
+	
+	<span class="pjax-progress-bar"></span>
+	<!--        <span class="swup-progress-icon">-->
+	<!--            <i class="fa-solid fa-circle-notch fa-spin"></i>-->
+	<!--        </span>-->
+	
+</div>
+
+<main class="page-container" id="swup">
+
+	
+
+	<div class="main-content-container flex flex-col justify-between min-h-dvh">
+		<div class="main-content-header">
+			<header class="navbar-container px-6 md:px-12">
+    <div class="navbar-content transition-navbar ">
+        <div class="left">
+            
+                <a class="logo-image h-8 w-8 sm:w-10 sm:h-10 mr-3" href="/">
+                    <img src="/img/avatar-tongzhuo.jpg" class="w-full h-full rounded-sm">
+                </a>
+            
+            <a class="logo-title" href="/">
+                
+                TongZhuo&#39;s Blog
+                
+            </a>
+        </div>
+
+        <div class="right">
+            <!-- PC -->
+            <div class="desktop">
+                <ul class="navbar-list">
+                    
+                        
+                            
+
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   href="/"
+                                        >
+                                    <i class="fa-regular fa-house fa-fw"></i>
+                                    首页
+                                    
+                                </a>
+
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                        
+                            
+
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   href="/archives"
+                                        >
+                                    <i class="fa-regular fa-archive fa-fw"></i>
+                                    归档
+                                    
+                                </a>
+
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                        
+                            
+
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   href="/tags"
+                                        >
+                                    <i class="fa-solid fa-tags fa-fw"></i>
+                                    标签
+                                    
+                                </a>
+
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                        
+                            
+
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   href="/categories"
+                                        >
+                                    <i class="fa-regular fa-folder fa-fw"></i>
+                                    分类
+                                    
+                                </a>
+
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                        
+                            
+
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class="has-dropdown"
+                                   href="#"
+                                        onClick=&#34;return false;&#34;>
+                                    <i class="fa-regular fa-user fa-fw"></i>
+                                    关于
+                                    <i class="fa-solid fa-chevron-down fa-fw"></i>
+                                </a>
+
+                                <!-- Submenu -->
+                                
+                                    <ul class="sub-menu">
+                                        
+                                            <li>
+                                                <a href="/about">
+                                                    ME
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/links">
+                                                    友情链接
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                            </li>
+                    
+                    
+                        <li class="navbar-item search search-popup-trigger">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </li>
+                    
+                </ul>
+            </div>
+            <!-- Mobile -->
+            <div class="mobile">
+                
+                    <div class="icon-item search search-popup-trigger"><i class="fa-solid fa-magnifying-glass"></i>
+                    </div>
+                
+                <div class="icon-item navbar-bar">
+                    <div class="navbar-bar-middle"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile sheet -->
+    <div class="navbar-drawer h-dvh w-full absolute top-0 left-0 bg-background-color flex flex-col justify-between">
+        <ul class="drawer-navbar-list flex flex-col px-4 justify-center items-start">
+            
+                
+                    
+
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           href="/"
+                        >
+                            <span>
+                                首页
+                            </span>
+                            
+                                <i class="fa-regular fa-house fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
+
+                        
+                    </li>
+            
+                
+                    
+
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           href="/archives"
+                        >
+                            <span>
+                                归档
+                            </span>
+                            
+                                <i class="fa-regular fa-archive fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
+
+                        
+                    </li>
+            
+                
+                    
+
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           href="/tags"
+                        >
+                            <span>
+                                标签
+                            </span>
+                            
+                                <i class="fa-solid fa-tags fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
+
+                        
+                    </li>
+            
+                
+                    
+
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           href="/categories"
+                        >
+                            <span>
+                                分类
+                            </span>
+                            
+                                <i class="fa-regular fa-folder fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
+
+                        
+                    </li>
+            
+                
+                    
+
+                    <li class="drawer-navbar-item-sub text-base my-1.5 flex flex-col w-full">
+                        
+                        <div class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary cursor-pointer text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                             navbar-data-toggle="submenu-About"
+                        >
+                            <span>
+                                关于
+                            </span>
+                            
+                                <i class="fa-solid fa-chevron-right fa-sm fa-fw transition-all"></i>
+                            
+                        </div>
+                        
+
+                        
+                            <div class="flex-col items-start px-2 py-2 hidden" data-target="submenu-About">
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           href="/about">ME</a>
+                                    </div>
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           href="/links">友情链接</a>
+                                    </div>
+                                
+                            </div>
+                        
+                    </li>
+            
+
+            
+            
+                
+                    
+                    
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full active"
+                           href="/tags"
+                        >
+                            <span>Tags</span>
+                            <i class="fa-regular fa-tags fa-sm fa-fw"></i>
+                        </a>
+                    </li>
+                
+                    
+                    
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full active"
+                           href="/essays"
+                        >
+                            <span>essays</span>
+                            <i class="fa-regular fa-message fa-sm fa-fw"></i>
+                        </a>
+                    </li>
+                
+            
+        </ul>
+
+        <div class="statistics flex justify-around my-2.5">
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/tags">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12</div>
+        <div class="label text-third-text-color text-sm">标签</div>
+    </a>
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/categories">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">24</div>
+        <div class="label text-third-text-color text-sm">分类</div>
+    </a>
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">80</div>
+        <div class="label text-third-text-color text-sm">文章</div>
+    </a>
+</div>
+    </div>
+
+    <div class="window-mask"></div>
+
+</header>
+
+
+		</div>
+
+		<div class="main-content-body transition-fade-up">
+			
+
+			<div class="main-content">
+				<div class="post-page-container flex relative justify-between box-border w-full h-full">
+	<div class="article-content-container">
+
+		<div class="article-title relative w-full">
+			
+			<div class="w-full flex items-center pt-6 justify-start">
+				<h1 class="article-title-regular text-second-text-color tracking-tight text-4xl md:text-6xl font-semibold px-2 sm:px-6 md:px-8 py-3">How to talk like a native speaker</h1>
+			</div>
+			
+		</div>
+
+		
+		<div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
+			<div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
+				<img src="/img/avatar-tongzhuo.jpg">
+			</div>
+			<div class="info flex flex-col justify-between">
+				<div class="author flex items-center">
+					<span class="name text-default-text-color text-lg font-semibold">lele</span>
+					
+					<span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv5</span>
+					
+				</div>
+				<div class="meta-info">
+					<div class="article-meta-info">
+    <span class="article-date article-meta-item">
+        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
+        <span class="desktop">2025-01-04 19:28</span>
+        <span class="mobile">2025-01-04 19:28</span>
+        <span class="hover-info">创建</span>
+    </span>
+    
+        <span class="article-date article-meta-item">
+            <i class="fa-regular fa-wrench"></i>&nbsp;
+            <span class="desktop">2025-02-22 15:08:37</span>
+            <span class="mobile">2025-02-22 15:08:37</span>
+            <span class="hover-info">更新</span>
+        </span>
+    
+
+    
+    
+        <span class="article-tags article-meta-item">
+            <i class="fa-regular fa-tags"></i>&nbsp;
+            <ul>
+                
+                    <li>
+                        <a href="/tags/English-Learning/">English-Learning</a>&nbsp;
+                    </li>
+                
+            </ul>
+        </span>
+    
+
+    
+    
+        <span class="article-wordcount article-meta-item">
+            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>2.8k 字</span>
+        </span>
+    
+    
+        <span class="article-min2read article-meta-item">
+            <i class="fa-regular fa-clock"></i>&nbsp;<span>17 分钟</span>
+        </span>
+    
+    
+</div>
+
+				</div>
+			</div>
+		</div>
+		
+
+		
+
+
+		<div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
+			<h1 id="how-to-talk-like-a-native-speaker"><a href="#how-to-talk-like-a-native-speaker" class="headerlink" title="how to talk like a native speaker"></a><a class="link"   target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=Ti_gFEe1XNY" >how to talk like a native speaker<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></h1><p>Translator: Phuong Cao Reviewer: Leonardo Silva</p>
+<p>My story starts in Moscow.</p>
+<p>I was 15 years old.</p>
+<p>My best friend and I, we were part of a group of Westerners,</p>
+<p>visiting the Soviet Union.</p>
+<p>This was in 1987,</p>
+<p>a few years before the fall of the communist regime.</p>
+<p>We were given an official tour guide who was assigned to us.</p>
+<p>And the tour would start in the morning,</p>
+<p>and we were checked in to our hotel rooms for the night.</p>
+<p>My friend said to me, ‘’Let’s go outside and look at the city.’’</p>
+<p>I thought it was a great idea.</p>
+<p>Dumb idea.</p>
+<p>So we grabbed our coats, and we snuck out past security and into the street.</p>
+<p>We found the entrance to the metro.</p>
+<p>The Moscow underground transportation system is the deepest one in the world.</p>
+<p>The ride down the escalator took a full minute.</p>
+<p>Once we were down there, my friend headed right to an open train,</p>
+<p>and I pulled him back and said, “Wait!</p>
+<p>Let’s write down the name of the station so we can find our way back.”</p>
+<p>So I had a notepad, and I took a notepad,</p>
+<p>and I wrote down the letters of the station,</p>
+<p>and we hopped down the train and went on train hopping.</p>
+<p>And that was fun because -</p>
+<p>Well, actually, it was weird.</p>
+<p>There were a lot of people, probably all coming home from work.</p>
+<p>They were all dressed in brown and gray clothes,</p>
+<p>and it looked very, very different from what we were used to at home.</p>
+<p>But the stations were lovely.</p>
+<p>There were stations with statues, with paintings on the wall,</p>
+<p>and glass displays.</p>
+<p>It was really like museums.</p>
+<p>We would never have expected that.</p>
+<p>And everything was perfectly clean.</p>
+<p>Well,</p>
+<p>what was weird though is that the people - nobody seemed to speak,</p>
+<p>and everyone seemed to be looking at us and it kind of weirded us out.</p>
+<p>So after about 20-30 minutes,</p>
+<p>we’d had enough and we wanted to go home.</p>
+<p>I showed my note to someone and they directed me over there.</p>
+<p>Then over there, I showed my note to another person,</p>
+<p>and they directed us to the other way.</p>
+<p>And then a third person directed us sideways.</p>
+<p>That was a little confusing.</p>
+<p>Aw, then I saw it.</p>
+<p>Over the stairs, the sign.</p>
+<p>It turned out I had written down the Russian word for “Exit.”</p>
+<p>(Laughter)</p>
+<p>So we headed upstairs and we found a taxi.</p>
+<p>That was great.</p>
+<p>And we told the driver, you know, “Intourist Hotel,”</p>
+<p>and then he was willing to take us.</p>
+<p>And I remember sitting next to the driver, handing him 50 rubles.</p>
+<p>And he looked at me and he said,</p>
+<p>(Russian) No, dollar!</p>
+<p>(Laughter)</p>
+<p>Fifty dollars?</p>
+<p>That was like I don’t know 20 times that amount or something.</p>
+<p>That was not an option for us.</p>
+<p>So we had to get out of the taxi,</p>
+<p>and he drove away, leaving us standing there.</p>
+<p>It was a cold night,</p>
+<p>and you know everything was strange for us,</p>
+<p>and we were teenagers,</p>
+<p>and we were pretty nervous, didn’t know what to do.</p>
+<p>Well, we started walking.</p>
+<p>We walked to the end of the block.</p>
+<p>We turned the corner.</p>
+<p>And 200 yards in front of us, the Intourist Hotel.</p>
+<p>(Laughter)</p>
+<p>Well, this experience affected me in two ways.</p>
+<p>The first is that anytime after this trip that I would hear anyone speak Russian,</p>
+<p>I was just cringe.</p>
+<p>(Laughter)</p>
+<p>And the second one is that it taught me the importance</p>
+<p>of understanding the local language when you’re traveling.</p>
+<p>And it actually led to me learning another four languages fluently</p>
+<p>over the following years.</p>
+<p>Now, before I go on, I’d like to know in the audience -</p>
+<p>Can we have a little bit of light maybe in the audience?</p>
+<p>I’d just like to know who’s -</p>
+<p>By a show of hands, who is not a native English speaker?</p>
+<p>It must be 99%.</p>
+<p>(Laughter)</p>
+<p>Anyone who doesn’t speak English, stand up!</p>
+<p>(Laughter)</p>
+<p>Alright, so I can assume</p>
+<p>all of you have, you know, gone through the process of learning a language.</p>
+<p>Anybody who speaks three or more languages?</p>
+<p>Wow, that’s maybe 70%.</p>
+<p>Four or more languages, anyone?</p>
+<p>That’s still quite a bit.</p>
+<p>Anyone speak five or more languages?</p>
+<p>Wow, come see me during the break.</p>
+<p>(Laughter)</p>
+<p>To me, learning a language is…</p>
+<p>For me, it’s like a deck of playing cards lying faced down on the table.</p>
+<p>As you start learning and understanding, the cards start opening up for you.</p>
+<p>Now there’s no standard way of classifying this.</p>
+<p>But as you learn, you reach certain milestones.</p>
+<p>And the first one would be when about 25% of the cards are turned up,</p>
+<p>you reach like a basic level.</p>
+<p>At this level, you have a base vocabulary, some grammar,</p>
+<p>and you’re able to have maybe very simple conversations</p>
+<p>and communicate a little bit.</p>
+<p>And your study goes on until you reach this magical point of fluency,</p>
+<p>what we call being fluent in the language.</p>
+<p>Now what does it mean, being fluent in a language?</p>
+<p>It means that you’ve turned up more than 50% of the cards in the deck,</p>
+<p>and that is the point where you have -</p>
+<p>where the language becomes part of your subconscious</p>
+<p>so that even if you don’t use it anymore for 10 years or longer,</p>
+<p>you will not forget it.</p>
+<p>You can get back into it within a very, very short time.</p>
+<p>So this is a level where you’re comfortable thinking in a language,</p>
+<p>and comfortable communicating in a language.</p>
+<p>Now, some people go on and, you know, reach like a mastery level.</p>
+<p>By that time, you know classic literature in the other language</p>
+<p>and have maybe in-depth knowledge of specialized fields.</p>
+<p>That’s often the point taken in academia.</p>
+<p>For me, when I learned my first foreign language,</p>
+<p>I had a head start</p>
+<p>because I was born to a German-speaking mother and an American father.</p>
+<p>Now, when I was a baby, I didn’t really understand</p>
+<p>that what my parents were speaking to me were two separate languages.</p>
+<p>But by the time I was two years old, I had figured it all out.</p>
+<p>Women speak only German.</p>
+<p>(Laughter)</p>
+<p>Men only speak English.</p>
+<p>(Laughter)</p>
+<p>Imagine the fun my parents had when they introduced me to couples.</p>
+<p>(Laughter)</p>
+<p>Being a bilingual was actually pretty helpful in learning my first language.</p>
+<p>It definitely helped.</p>
+<p>If you’re -</p>
+<p>But it also gave me something else.</p>
+<p>It gave me two identities and the ability to switch between them.</p>
+<p>When you’re a native speaker of more than one language,</p>
+<p>then your personality, your humor, your value system,</p>
+<p>they change as you switch languages.</p>
+<p>This can have huge advantages.</p>
+<p>I mean, some studies have shown an increased problem-solving ability</p>
+<p>or even a higher resistance to Alzheimer’s disease.</p>
+<p>But what I’m almost interested in</p>
+<p>is that it’s actually given me a lot of social benefits.</p>
+<p>When you’re a native speaker,</p>
+<p>then you feel at home among native speakers or in a culture,</p>
+<p>and also native speakers accept you as one of theirs.</p>
+<p>Now is this only relevant to native speakers?</p>
+<p>And that’s the big question.</p>
+<p>But wouldn’t it be cool</p>
+<p>if a person learning a foreign language could actually develop another identity</p>
+<p>and actually enjoy the social benefits of a native speaker</p>
+<p>that go beyond communication skills?</p>
+<p>Well, that’s what happened to me.</p>
+<p>I was able to do that,</p>
+<p>and I want to show you from my experience how I think this can be achieved.</p>
+<p>So if we say this green area here is the level of the native speaker,</p>
+<p>the first thing to note is that on your way to reaching fluency,</p>
+<p>there is not really any shortcut.</p>
+<p>There are some methods that you can use such as the Burrito Principle</p>
+<p>where you identify 20% of the most effective materials to study.</p>
+<p>There are some apps, like stuff for time-spaced learning,</p>
+<p>that increase vocabulary retention.</p>
+<p>They save a little time,</p>
+<p>but in the end, there’s no way around working with the material, practicing it,</p>
+<p>until you reach the fluency level.</p>
+<p>But the second thing to note</p>
+<p>is that going from fluency to mastery is a much slower process,</p>
+<p>and it requires proportionally more effort.</p>
+<p>That’s why most people - they just stop at fluency.</p>
+<p>They know how to speak English, good enough,</p>
+<p>and they don’t even attempt to venture on,</p>
+<p>and I can understand it.</p>
+<p>But the good news is,</p>
+<p>to get the benefits of a native speaker, at a native-speaker level,</p>
+<p>you don’t have to go through mastery in the academic sense.</p>
+<p>In fact, you can skip this step altogether.</p>
+<p>So if you think about it,</p>
+<p>there are many native speakers do not have an in-depth knowledge</p>
+<p>of specialized fields or sophisticated vocabulary.</p>
+<p>So, that’s not really what is required.</p>
+<p>So how do you do it? What is required?</p>
+<p>Well,</p>
+<p>I want to give you three areas to focus on</p>
+<p>when you’re learning and interacting with native speakers.</p>
+<p>The first is: work on eliminating your accent.</p>
+<p>I’m aware I said eliminating.</p>
+<p>It should be at least minimizing it.</p>
+<p>This is, in my opinion, the most overlooked aspect</p>
+<p>of language learning today,</p>
+<p>but it’s also the most important one</p>
+<p>to reach what I call a native-speaker level or a speaker-like level.</p>
+<p>If you communicate without an accent or almost without an accent,</p>
+<p>this changes how natives behave towards you unconsciously,</p>
+<p>and it also gives you an ability to adapt to a new self-image.</p>
+<p>The best way that I’ve found -</p>
+<p>the best exercise I’ve found to improve your pronunciation</p>
+<p>is what I call the perfect-sentence technique.</p>
+<p>What you do is you find a native speaker to help you,</p>
+<p>and you take a book in the foreign language,</p>
+<p>you open it at a random page,</p>
+<p>and you read the first sentence.</p>
+<p>Then, you ask a native speaker to rate you</p>
+<p>on obvious accent, slight accent, no accent.</p>
+<p>Then the native speaker will read this sentence back to you.</p>
+<p>You have to listen carefully and then you repeat.</p>
+<p>And you repeat this process over and over until the native speaker tells you</p>
+<p>that he can no longer hear an accent when you read the sentence.</p>
+<p>Now, I realize it can take a very long time</p>
+<p>even just to get one sentence right.</p>
+<p>But I promise you</p>
+<p>if you are persistent, and if you patiently work on this,</p>
+<p>you’ll be amazed by what happens to your accent.</p>
+<p>The second area to focus on is using verbs and expressions that locals use.</p>
+<p>Now, we all know the situation that vocabulary can be region-specific.</p>
+<p>Like, in the US, you use “stand in line.”</p>
+<p>In the UK, you “queue.”</p>
+<p>That’s all good.</p>
+<p>But sometimes, the spoken word is so different,</p>
+<p>the speech is so different from what you get in textbooks,</p>
+<p>that the books are almost useless if you want to converse with natives.</p>
+<p>I want to give you an example.</p>
+<p>In the French language, there are words like “le travail,”</p>
+<p>which is “my work.”</p>
+<p>A French person talking to his friend would probably say “mon boulot,”</p>
+<p>which is a completely different word.</p>
+<p>The same for “the clothes,” “le vestments,”</p>
+<p>but you’ll hear “le fringues.”</p>
+<p>Or money is “l’argent,”</p>
+<p>but people say “le fric,” “le sou,” or many other expressions for this.</p>
+<p>So, obviously I’m only scratching the surface here.</p>
+<p>But here you actually have to learn all of these words and expressions one by one.</p>
+<p>And of course, you have to interact with natives to do that.</p>
+<p>But after you reach a critical mass that you’re comfortable with,</p>
+<p>it’ll actually be easier when you encounter something new.</p>
+<p>You’ll just pick it up in one go, like native speakers would,</p>
+<p>who hear words or expressions that they didn’t know before.</p>
+<p>The third area to work on is adopting cultural traits.</p>
+<p>What do I mean by that?</p>
+<p>So let me ask you:</p>
+<p>what does this gesture mean to you?</p>
+<p>Any Italians here?</p>
+<p>(Laughter)</p>
+<p>OK, now, depending on what culture you’re from,</p>
+<p>this could mean something rude,</p>
+<p>or it could just mean it’s something incredulous,</p>
+<p>like, “Why did you do that?”</p>
+<p>Or, “How could you?”</p>
+<p>Or it could just be signaling food, “Give me food!”</p>
+<p>Interesting!</p>
+<p>In the Middle East,</p>
+<p>this is just a standard way of signaling “Please, wait!”</p>
+<p>So these kind of traits you have to internalize,</p>
+<p>and sometimes, they’re hard to spot,</p>
+<p>and it takes a lot of active listening.</p>
+<p>I want to give you a few more examples.</p>
+<p>So imagine I am with three of my friends: an American, a German, and a Frenchman.</p>
+<p>And, like, we’re walking and maybe the American bumps his head,</p>
+<p>and his initial reaction might be, “Ouch!”</p>
+<p>That’s how you say it in English.</p>
+<p>But the German that, you know, gets, I don’t know, elbowed in the crowd,</p>
+<p>he would say, “Ow-ah!”</p>
+<p>(Laughter)</p>
+<p>And the French person might step on the nail and say, “Ay!”</p>
+<p>(Laughter)</p>
+<p>So this, of course, in your target language,</p>
+<p>this is something you have to observe and also internalize,</p>
+<p>and it has to become part of you.</p>
+<p>If…</p>
+<p>Again I’m with these three friends, and I sit with them,</p>
+<p>and let’s say I serve them tea,</p>
+<p>and I ask the American, “Would you like a biscuit with your tea?”</p>
+<p>And if he answers in the affirmative, he might say, “Uh-huh!”</p>
+<p>And I can ask the German, “Do you know what tea this is?”</p>
+<p>He’ll say, ‘’Mm- hmm!’’</p>
+<p>And then I ask the Frenchman, “Do you like this?”</p>
+<p>He’ll say, “Hmm!”</p>
+<p>(Laughter)</p>
+<p>So these difference, they really require active listening.</p>
+<p>So all of these three things that I told you</p>
+<p>which is pronunciation,</p>
+<p>and colloquial speech and adopting cultural traits,</p>
+<p>they all require that you interact with natives as much as possible.</p>
+<p>Ideally, you should fully immerse yourself in the culture.</p>
+<p>Now if you have the chance to live abroad for a while, that will be great.</p>
+<p>Or maybe live among natives in your hometown.</p>
+<p>Perhaps just have a romantic relationship,</p>
+<p>or even just spend time, you know, with co-workers.</p>
+<p>So, romantic relationships, I could do a whole talk about that.</p>
+<p>(Laughter)</p>
+<p>That works really well for these things.</p>
+<p>But yeah -</p>
+<p>So this will be different for everybody, of course.</p>
+<p>But even when you’re not around natives, your learning must not stop.</p>
+<p>Because what you can do is you can watch TV shows and films,</p>
+<p>you can mimic the characters,</p>
+<p>you can write down anything that you haven’t heard of before,</p>
+<p>and practice that.</p>
+<p>I also want to encourage you to learn the lyrics of songs.</p>
+<p>Songs are really great because they tell stories.</p>
+<p>And they not only help your pronunciation when you sing them,</p>
+<p>but if they’re emotional,</p>
+<p>they can anchor these expressions into your active vocabulary.</p>
+<p>And it’s like speaking all day and really using the expressions unconsciously.</p>
+<p>It’s a great way.</p>
+<p>So music, definitely.</p>
+<p>The other thing you need to move towards native-speaker status</p>
+<p>is the right mindset,</p>
+<p>and a belief that if you sound like a native,</p>
+<p>express yourself like a native,</p>
+<p>talk like a native and act like a native,</p>
+<p>you’ll actually achieve a native-like level.</p>
+<p>So if I could only leave you with one thing today,</p>
+<p>it would be: work on your pronunciation.</p>
+<p>Because pronunciation</p>
+<p>helps any stage of the learning process,</p>
+<p>even in the very beginning.</p>
+<p>It’ll speed up everything.</p>
+<p>And it also is the key to reaching a native-speaker level,</p>
+<p>or almost-native-speaker status.</p>
+<p>So before I go,</p>
+<p>I’d like to tell you how I was able to overcome my fear of the Russian language.</p>
+<p>It was a very, very elegant solution.</p>
+<p>I married a Russian girl.</p>
+<p>(Laughter)</p>
+<p>And I now have little kids in my home that speak Russian to me every day.</p>
+<p>(Laughter)</p>
+<p>So I want to thank you.</p>
+<p>(Applause)</p>
+<p>And before I go, I just want to wish you</p>
+<p>(Spanish) A lot of success with your language studies.</p>
+<p>(French) It was a pleasure to present for you today.</p>
+<p>(Hebrew) I wish you lots of success with your studies.</p>
+<p>(Yiddish) Thank you for listening.</p>
+<p>Good luck to you all and…</p>
+<p>(Russian) Thank you.</p>
+<p>(Applause)</p>
+
+		</div>
+
+		
+		<div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
+			<div class="article-copyright-info-container">
+    <ul>
+        <li><strong>标题:</strong> How to talk like a native speaker</li>
+        <li><strong>作者:</strong> lele</li>
+        <li><strong>创建于
+                :</strong> 2025-01-04 19:28:00</li>
+        
+            <li>
+                <strong>更新于
+                    :</strong> 2025-02-22 15:08:37
+            </li>
+        
+        <li>
+            <strong>链接:</strong> https://letongzhuo.cn//192800
+        </li>
+        <li>
+            <strong>
+                版权声明:
+            </strong>
+            
+
+            
+                本文章采用 <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a> 进行许可。
+            
+        </li>
+    </ul>
+</div>
+
+		</div>
+		
+
+		
+		<ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
+			
+			<li class="tag-item mx-0.5">
+				<a href="/tags/English-Learning/">#English-Learning</a>&nbsp;
+			</li>
+			
+		</ul>
+		
+
+		
+  <div class="recommended-article px-2 sm:px-6 md:px-8">
+   <div class="recommended-desktop">
+    <div class="recommended-article-header text-xl md:text-3xl font-bold mt-10">
+     <i aria-hidden="true"></i><span>推荐阅读</span>
+    </div>
+    <div class="recommended-article-group"><a class="recommended-article-item" target="_blank" href="//114400" title="How to motivate yourself to change your behavior" rel="bookmark noopener">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="How to motivate yourself to change your behavior" class="!max-w-none">
+  <span class="title">How to motivate yourself to change your behavior</span>
+</a><a class="recommended-article-item" target="_blank" href="//145600" title="Should we let students use ChatGPT?" rel="bookmark noopener">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="Should we let students use ChatGPT?" class="!max-w-none">
+  <span class="title">Should we let students use ChatGPT?</span>
+</a><a class="recommended-article-item" target="_blank" href="//183100" title="曼士先生的教育理论" rel="bookmark noopener">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="曼士先生的教育理论" class="!max-w-none">
+  <span class="title">曼士先生的教育理论</span>
+</a></div>
+   </div>
+   <div class="recommended-mobile">
+   <div class="recommended-article-header text-xl md:text-3xl font-bold mt-10">
+     <i aria-hidden="true"></i><span>推荐阅读</span>
+   </div>
+   <div class="recommended-article-group"><a class="recommended-article-item" target="_blank" href="//114400" title="How to motivate yourself to change your behavior" rel="bookmark noopener">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="How to motivate yourself to change your behavior" class="!max-w-none">
+  <span class="title">How to motivate yourself to change your behavior</span>
+</a><a class="recommended-article-item" target="_blank" href="//145600" title="Should we let students use ChatGPT?" rel="bookmark noopener">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="Should we let students use ChatGPT?" class="!max-w-none">
+  <span class="title">Should we let students use ChatGPT?</span>
+</a></div>
+   </div>
+  </div>
+
+		
+		<div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
+			
+			<div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
+				<a class="prev" rel="prev" href="/145600">
+					<span class="left arrow-icon flex justify-center items-center">
+						<i class="fa-solid fa-chevron-left"></i>
+					</span>
+					<span class="title flex justify-center items-center">
+						<span class="post-nav-title-item">Should we let students use ChatGPT?</span>
+						<span class="post-nav-item">上一篇</span>
+					</span>
+				</a>
+			</div>
+			
+			
+			<div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
+				<a class="next" rel="next" href="/114400">
+					<span class="title flex justify-center items-center">
+						<span class="post-nav-title-item">How to motivate yourself to change your behavior</span>
+						<span class="post-nav-item">下一篇</span>
+					</span>
+					<span class="right arrow-icon flex justify-center items-center">
+						<i class="fa-solid fa-chevron-right"></i>
+					</span>
+				</a>
+			</div>
+			
+		</div>
+		
+
+
+		
+		<div class="comment-container px-2 sm:px-6 md:px-8 pb-8">
+			<div class="comments-container mt-10 w-full ">
+    <div id="comment-anchor" class="w-full h-2.5"></div>
+    <div class="comment-area-title w-full my-1.5 md:my-2.5 text-xl md:text-3xl font-bold">
+        评论
+    </div>
+    
+
+        
+            
+    <div id="waline"></div>
+    <script type="module" data-swup-reload-script>
+      import { init } from '/js/libs/waline.mjs';
+
+      function loadWaline() {
+        init({
+          el: '#waline',
+          serverURL: 'https://comment.letongzhuo.cn',
+          lang: 'zh-CN',
+          dark: 'body[class~="dark-mode"]',
+          reaction: false,
+          requiredMeta: ['nick', 'mail'],
+          emoji: [],
+          
+          
+        });
+      }
+
+      if (typeof swup !== 'undefined') {
+        loadWaline();
+      } else {
+        window.addEventListener('DOMContentLoaded', loadWaline);
+      }
+    </script>
+
+
+
+        
+    
+</div>
+
+		</div>
+		
+	</div>
+
+	
+	<div class="toc-content-container">
+		<div class="post-toc-wrap">
+	<div class="post-toc">
+		<div class="toc-title">目录</div>
+		<div class="page-title">How to talk like a native speaker</div>
+		<ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#how-to-talk-like-a-native-speaker"><span class="nav-text">how to talk like a native speaker</span></a></li></ol>
+
+	</div>
+</div>
+	</div>
+	
+</div>
+			</div>
+
+			
+		</div>
+
+		<div class="main-content-footer">
+			<footer class="footer mt-5 py-5 h-auto text-base text-third-text-color relative border-t-2 border-t-border-color">
+    <div class="info-container py-3 text-center">
+        
+        <div class="text-center">
+            &copy;
+            
+              <span>2025</span>
+              -
+            
+            2025&nbsp;&nbsp;<i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s; color: #f54545"></i>&nbsp;&nbsp;<a href="/">lele</a>
+            
+                
+                <p class="post-count space-x-0.5">
+                    <span>
+                        共撰写了 80 篇文章
+                    </span>
+                    
+                        <span>
+                            共 90.7k 字
+                        </span>
+                    
+                </p>
+            
+        </div>
+        
+            <script data-swup-reload-script src="https://cn.vercount.one/js"></script>
+            <div class="relative text-center lg:absolute lg:right-[20px] lg:top-1/2 lg:-translate-y-1/2 lg:text-right">
+                
+                    <span id="busuanzi_container_site_uv" class="lg:!block">
+                        <span class="text-sm">访问人数</span>
+                        <span id="busuanzi_value_site_uv"></span>
+                    </span>
+                
+                
+                    <span id="busuanzi_container_site_pv" class="lg:!block">
+                        <span class="text-sm">总访问量</span>
+                        <span id="busuanzi_value_site_pv"></span>
+                    </span>
+                
+            </div>
+        
+        <div class="relative text-center lg:absolute lg:left-[20px] lg:top-1/2 lg:-translate-y-1/2 lg:text-left">
+            <span class="lg:block text-sm">由 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg class="relative top-[2px] inline-block align-baseline" version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1rem" height="1rem" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path fill="#0E83CD" d="M256.4,25.8l-200,115.5L56,371.5l199.6,114.7l200-115.5l0.4-230.2L256.4,25.8z M349,354.6l-18.4,10.7l-18.6-11V275H200v79.6l-18.4,10.7l-18.6-11v-197l18.5-10.6l18.5,10.8V237h112v-79.6l18.5-10.6l18.5,10.8V354.6z"/></svg><a target="_blank" class="text-base" href="https://hexo.io">Hexo</a> 驱动</span>
+            <span class="text-sm lg:block">主题&nbsp;<a class="text-base" target="_blank" href="https://github.com/EvanNotFound/hexo-theme-redefine">Redefine v2.8.2</a></span>
+        </div>
+        
+        
+            <div>
+                博客已运行 <span class="odometer" id="runtime_days" ></span> 天 <span class="odometer" id="runtime_hours"></span> 小时 <span class="odometer" id="runtime_minutes"></span> 分钟 <span class="odometer" id="runtime_seconds"></span> 秒
+            </div>
+        
+        
+            <script data-swup-reload-script>
+                try {
+                    function odometer_init() {
+                    const elements = document.querySelectorAll('.odometer');
+                    elements.forEach(el => {
+                        new Odometer({
+                            el,
+                            format: '( ddd).dd',
+                            duration: 200
+                        });
+                    });
+                    }
+                    odometer_init();
+                } catch (error) {}
+            </script>
+        
+        
+            
+                
+        
+                
+        
+        
+    </div>  
+</footer>
+		</div>
+	</div>
+
+	
+	<div class="post-tools">
+		<div class="post-tools-container">
+	<ul class="article-tools-list">
+		<!-- TOC aside toggle -->
+		
+		<li class="right-bottom-tools page-aside-toggle">
+			<i class="fa-regular fa-outdent"></i>
+		</li>
+		
+
+		<!-- go comment -->
+		
+		<li class="go-comment">
+			<i class="fa-regular fa-comments"></i>
+		</li>
+		
+	</ul>
+</div>
+	</div>
+	
+
+	<div class="right-side-tools-container">
+		<div class="side-tools-container">
+	<ul class="hidden-tools-list">
+		<li class="right-bottom-tools tool-font-adjust-plus flex justify-center items-center">
+			<i class="fa-regular fa-magnifying-glass-plus"></i>
+		</li>
+
+		<li class="right-bottom-tools tool-font-adjust-minus flex justify-center items-center">
+			<i class="fa-regular fa-magnifying-glass-minus"></i>
+		</li>
+
+		<li class="right-bottom-tools tool-dark-light-toggle flex justify-center items-center">
+			<i class="fa-regular fa-moon"></i>
+		</li>
+
+		<!-- rss -->
+		
+
+		
+
+		<li class="right-bottom-tools tool-scroll-to-bottom flex justify-center items-center">
+			<i class="fa-regular fa-arrow-down"></i>
+		</li>
+	</ul>
+
+	<ul class="visible-tools-list">
+		<li class="right-bottom-tools toggle-tools-list flex justify-center items-center">
+			<i class="fa-regular fa-cog fa-spin"></i>
+		</li>
+		
+		<li class="right-bottom-tools tool-scroll-to-top flex justify-center items-center">
+			<i class="arrow-up fas fa-arrow-up"></i>
+			<span class="percent"></span>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+
+	<div class="image-viewer-container">
+	<img src="">
+</div>
+
+	
+	<div class="search-pop-overlay">
+	<div class="popup search-popup">
+		<div class="search-header">
+			<span class="search-input-field-pre">
+				<i class="fa-solid fa-keyboard"></i>
+			</span>
+			<div class="search-input-container">
+				<input autocomplete="off" autocorrect="off" autocapitalize="off" placeholder="站内搜索您需要的内容..." spellcheck="false" type="search" class="search-input">
+			</div>
+			<span class="popup-btn-close">
+				<i class="fa-solid fa-times"></i>
+			</span>
+		</div>
+		<div id="search-result">
+			<div id="no-result">
+				<i class="fa-solid fa-spinner fa-spin-pulse fa-5x fa-fw"></i>
+			</div>
+		</div>
+	</div>
+</div>
+	
+
+</main>
+
+
+<script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/Swup.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupSlideTheme.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupScriptsPlugin.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupProgressPlugin.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupScrollPlugin.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupPreloadPlugin.min.js" ></script>
+<script>
+    const swup = new Swup({
+        plugins: [
+            new SwupScriptsPlugin({
+                optin: true,
+            }),
+            new SwupProgressPlugin(),
+            new SwupScrollPlugin({
+                offset: 80,
+            }),
+            new SwupSlideTheme({
+                mainElement: ".main-content-body",
+            }),
+            new SwupPreloadPlugin(),
+        ],
+        containers: ["#swup"],
+    });
+</script>
+
+
+
+
+	<script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/imageViewer.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/utils.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/main.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/navbarShrink.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/scrollTopBottom.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/lightDarkSwitch.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/categoryList.js" ></script>
+
+
+    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/localSearch.js" ></script>
+
+
+
+    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/codeBlock.js" ></script>
+
+
+
+    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/lazyload.js" ></script>
+
+
+
+    <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/runtime.js" ></script>
+    <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/odometer.min.js" ></script>
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/assets/odometer-theme-minimal.css">
+
+
+
+  <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/Typed.min.js" ></script>
+  <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/plugins/typed.js" ></script>
+
+
+
+    
+        <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/mermaid.min.js" ></script>
+    
+    <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/plugins/mermaid.js" ></script>
+
+
+
+
+
+
+
+
+    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/tocToggle.js" data-swup-reload-script></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/toc.js" data-swup-reload-script></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/plugins/tabs.js" data-swup-reload-script></script>
+
+
+<script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/moment-with-locales.min.js" data-swup-reload-script></script>
+<script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/essays.js" data-swup-reload-script></script>
+
+
+
+
+	
+</body>
+
+</html>
