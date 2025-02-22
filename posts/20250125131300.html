@@ -1,0 +1,1533 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Blog, Hexo, Node.js,lele,TongZhuo,同桌,乐乐,同桌的博客">
+    
+    <meta name="author" content="lele">
+    <!-- preconnect -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    
+        
+        
+        
+            <link rel="preconnect" href="https://registry.npmmirror.com" crossorigin>
+        
+    
+    <!--- Seo Part-->
+    
+    <link rel="canonical" href="https://letongzhuo.cn/posts/20250125131300.html"/>
+    <meta name="robots" content="index,follow">
+    <meta name="googlebot" content="index,follow">
+    <meta name="revisit-after" content="1 days">
+    
+    
+    
+        
+        <meta name="description" content="Hexo Theme Redefine, Redefine Your Hexo Journey.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="网络层">
+<meta property="og:url" content="https://letongzhuo.cn/posts/20250125131300">
+<meta property="og:site_name" content="TongZhuo&#39;s Blog">
+<meta property="og:description" content="Hexo Theme Redefine, Redefine Your Hexo Journey.">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://letongzhuo.cn/images/redefine-og.webp">
+<meta property="article:published_time" content="2025-01-25T05:13:00.000Z">
+<meta property="article:modified_time" content="2025-02-22T10:28:22.050Z">
+<meta property="article:author" content="lele">
+<meta property="article:tag" content="计算机网络">
+<meta property="article:tag" content="计算机408">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://letongzhuo.cn/images/redefine-og.webp">
+    
+    
+    <!--- Icon Part-->
+    <link rel="icon" type="image/png" href="/img/favicon.ico" sizes="192x192">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon.ico">
+    <meta name="theme-color" content="#A31F34">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+    <!--- Page Info-->
+    
+    <title>
+        
+            网络层 | TongZhuo&#39;s Blog
+        
+    </title>
+
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fonts/Chillax/chillax.css">
+
+    <!--- Inject Part-->
+    
+        
+            
+    
+            
+    
+
+    
+<link rel="stylesheet" href="/css/style.css">
+
+
+    
+        <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/css/build/tailwind.css">
+    
+
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fonts/GeistMono/geist-mono.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fonts/Geist/geist.css">
+    <!--- Font Part-->
+    
+        <link href="https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Medium/result.css" rel="stylesheet">
+    
+    
+    
+        <link href="https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Medium/result.css" rel="stylesheet">
+    
+    
+        <link href="/fonts/Chillax/chillax.css" rel="stylesheet">
+    
+    
+    
+
+    <script id="hexo-configurations">
+    window.config = {"hostname":"letongzhuo.cn","root":"/","language":"zh-CN","path":"search.xml"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"14px","image_alignment":"center","image_caption":false,"link_icon":true,"delete_mask":false,"title_alignment":"left","headings_top_spacing":{"h1":"3.2rem","h2":"2.4rem","h3":"1.9rem","h4":"1.6rem","h5":"1.4rem","h6":"1.3rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","highlight_theme":{"light":"github","dark":"vs2015"},"font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":true},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"pangu_js":false,"recommendation":{"enable":true,"title":"推荐阅读","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":true,"family":"Yozai Medium","url":"https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Medium/result.css"},"english":{"enable":true,"family":"Chillax","url":"/fonts/Chillax/chillax.css"},"title":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":true},"scroll_progress":{"bar":true,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":true,"site_pv":true,"site_uv":true,"post_pv":false},"single_page":true,"preloader":{"enable":"ture","custom_message":null},"open_graph":{"enable":true,"image":"/images/redefine-og.webp","description":"Hexo Theme Redefine, Redefine Your Hexo Journey."},"google_analytics":{"enable":false,"id":null}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"welcome to TongZhuo's website.","subtitle":{"text":["苦恨甘来的某天","一切皆为宝藏"],"hitokoto":{"enable":true,"show_author":true,"api":"https://v1.hitokoto.cn?c=d&c=h&c=i&c=j&c=k"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":true,"family":"Yozai Medium","url":"https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Medium/result.css"},"social_links":{"enable":true,"style":"default","links":{"github":"https://github.com/tongzhuo-0801","instagram":null,"zhihu":null,"twitter":null,"email":"tongzhuo0801@gmail","facebook":"https://www.facebook.com/profile.php?id=61558241926702"},"qrs":{"weixin":"/img/wechat.jpeg","qq":"/img/qq.jpg"}}},"plugins":{"feed":{"enable":false},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":true,"version":"11.4.1"}},"version":"2.8.2","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Archives":{"path":"/archives","icon":"fa-regular fa-archive"},"tags":{"path":"/tags","icon":"fa-solid fa-tags"},"Categories":{"path":"/categories","icon":"fa-regular fa-folder"},"About":{"icon":"fa-regular fa-user","submenus":{"Me":"/about","Friends":"/links"}}},"search":{"enable":true,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":"感谢deepseek以及各种AI<br>没了你们我就是无头苍蝇<br>o(╥﹏╥)o","show_on_mobile":true,"links":{"Archives":{"path":"/archives","icon":"fa-regular fa-archive"},"Tags":{"path":"/tags","icon":"fa-regular fa-tags"},"Categories":{"path":"/categories","icon":"fa-regular fa-folder"},"essays":{"path":"/essays","icon":"fa-regular fa-message"}}},"article_date_format":"auto","excerpt_length":200,"categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2025/1/1 00:00:00"};
+    window.lang_ago = {"second":"%s 秒前","minute":"%s 分钟前","hour":"%s 小时前","day":"%s 天前","week":"%s 周前","month":"%s 个月前","year":"%s 年前"};
+    window.data = {"masonry":false};
+  </script>
+    
+    <!--- Fontawesome Part-->
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fontawesome/fontawesome.min.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fontawesome/brands.min.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fontawesome/solid.min.css">
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fontawesome/regular.min.css">
+    
+    
+    
+    
+<meta name="generator" content="Hexo 7.3.0"><style>mjx-container[jax="SVG"] {
+  direction: ltr;
+}
+
+mjx-container[jax="SVG"] > svg {
+  overflow: visible;
+}
+
+mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="SVG"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="SVG"][justify="right"] {
+  text-align: right;
+}
+
+g[data-mml-node="merror"] > g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node="merror"] > rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node="mtable"] > line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node="mtable"] > .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node="mtable"] > svg {
+  overflow: visible;
+}
+
+[jax="SVG"] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax="SVG"] mjx-tool > mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool > mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node="maction"][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+.MathJax path {
+  stroke-width: 3;
+}
+
+mjx-container[display="true"] {
+  overflow: auto hidden;
+}
+
+mjx-container[display="true"] + br {
+  display: none;
+}
+</style></head>
+
+
+
+<body>
+	<div class="progress-bar-container">
+	
+	<span class="scroll-progress-bar"></span>
+	
+
+	
+	<span class="pjax-progress-bar"></span>
+	<!--        <span class="swup-progress-icon">-->
+	<!--            <i class="fa-solid fa-circle-notch fa-spin"></i>-->
+	<!--        </span>-->
+	
+</div>
+
+<main class="page-container" id="swup">
+
+	
+
+	<div class="main-content-container flex flex-col justify-between min-h-dvh">
+		<div class="main-content-header">
+			<header class="navbar-container px-6 md:px-12">
+    <div class="navbar-content transition-navbar ">
+        <div class="left">
+            
+                <a class="logo-image h-8 w-8 sm:w-10 sm:h-10 mr-3" href="/">
+                    <img src="/img/avatar-tongzhuo.jpg" class="w-full h-full rounded-sm">
+                </a>
+            
+            <a class="logo-title" href="/">
+                
+                TongZhuo&#39;s Blog
+                
+            </a>
+        </div>
+
+        <div class="right">
+            <!-- PC -->
+            <div class="desktop">
+                <ul class="navbar-list">
+                    
+                        
+                            
+
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   href="/"
+                                        >
+                                    <i class="fa-regular fa-house fa-fw"></i>
+                                    首页
+                                    
+                                </a>
+
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                        
+                            
+
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   href="/archives"
+                                        >
+                                    <i class="fa-regular fa-archive fa-fw"></i>
+                                    归档
+                                    
+                                </a>
+
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                        
+                            
+
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   href="/tags"
+                                        >
+                                    <i class="fa-solid fa-tags fa-fw"></i>
+                                    标签
+                                    
+                                </a>
+
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                        
+                            
+
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   href="/categories"
+                                        >
+                                    <i class="fa-regular fa-folder fa-fw"></i>
+                                    分类
+                                    
+                                </a>
+
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                        
+                            
+
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class="has-dropdown"
+                                   href="#"
+                                        onClick=&#34;return false;&#34;>
+                                    <i class="fa-regular fa-user fa-fw"></i>
+                                    关于
+                                    <i class="fa-solid fa-chevron-down fa-fw"></i>
+                                </a>
+
+                                <!-- Submenu -->
+                                
+                                    <ul class="sub-menu">
+                                        
+                                            <li>
+                                                <a href="/about">
+                                                    ME
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/links">
+                                                    友情链接
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                            </li>
+                    
+                    
+                        <li class="navbar-item search search-popup-trigger">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </li>
+                    
+                </ul>
+            </div>
+            <!-- Mobile -->
+            <div class="mobile">
+                
+                    <div class="icon-item search search-popup-trigger"><i class="fa-solid fa-magnifying-glass"></i>
+                    </div>
+                
+                <div class="icon-item navbar-bar">
+                    <div class="navbar-bar-middle"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile sheet -->
+    <div class="navbar-drawer h-dvh w-full absolute top-0 left-0 bg-background-color flex flex-col justify-between">
+        <ul class="drawer-navbar-list flex flex-col px-4 justify-center items-start">
+            
+                
+                    
+
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           href="/"
+                        >
+                            <span>
+                                首页
+                            </span>
+                            
+                                <i class="fa-regular fa-house fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
+
+                        
+                    </li>
+            
+                
+                    
+
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           href="/archives"
+                        >
+                            <span>
+                                归档
+                            </span>
+                            
+                                <i class="fa-regular fa-archive fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
+
+                        
+                    </li>
+            
+                
+                    
+
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           href="/tags"
+                        >
+                            <span>
+                                标签
+                            </span>
+                            
+                                <i class="fa-solid fa-tags fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
+
+                        
+                    </li>
+            
+                
+                    
+
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           href="/categories"
+                        >
+                            <span>
+                                分类
+                            </span>
+                            
+                                <i class="fa-regular fa-folder fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
+
+                        
+                    </li>
+            
+                
+                    
+
+                    <li class="drawer-navbar-item-sub text-base my-1.5 flex flex-col w-full">
+                        
+                        <div class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary cursor-pointer text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                             navbar-data-toggle="submenu-About"
+                        >
+                            <span>
+                                关于
+                            </span>
+                            
+                                <i class="fa-solid fa-chevron-right fa-sm fa-fw transition-all"></i>
+                            
+                        </div>
+                        
+
+                        
+                            <div class="flex-col items-start px-2 py-2 hidden" data-target="submenu-About">
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           href="/about">ME</a>
+                                    </div>
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           href="/links">友情链接</a>
+                                    </div>
+                                
+                            </div>
+                        
+                    </li>
+            
+
+            
+            
+                
+                    
+                    
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full active"
+                           href="/tags"
+                        >
+                            <span>Tags</span>
+                            <i class="fa-regular fa-tags fa-sm fa-fw"></i>
+                        </a>
+                    </li>
+                
+                    
+                    
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full active"
+                           href="/essays"
+                        >
+                            <span>essays</span>
+                            <i class="fa-regular fa-message fa-sm fa-fw"></i>
+                        </a>
+                    </li>
+                
+            
+        </ul>
+
+        <div class="statistics flex justify-around my-2.5">
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/tags">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13</div>
+        <div class="label text-third-text-color text-sm">标签</div>
+    </a>
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/categories">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">26</div>
+        <div class="label text-third-text-color text-sm">分类</div>
+    </a>
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">81</div>
+        <div class="label text-third-text-color text-sm">文章</div>
+    </a>
+</div>
+    </div>
+
+    <div class="window-mask"></div>
+
+</header>
+
+
+		</div>
+
+		<div class="main-content-body transition-fade-up">
+			
+
+			<div class="main-content">
+				<div class="post-page-container flex relative justify-between box-border w-full h-full">
+	<div class="article-content-container">
+
+		<div class="article-title relative w-full">
+			
+			<div class="w-full flex items-center pt-6 justify-start">
+				<h1 class="article-title-regular text-second-text-color tracking-tight text-4xl md:text-6xl font-semibold px-2 sm:px-6 md:px-8 py-3">网络层</h1>
+			</div>
+			
+		</div>
+
+		
+		<div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
+			<div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
+				<img src="/img/avatar-tongzhuo.jpg">
+			</div>
+			<div class="info flex flex-col justify-between">
+				<div class="author flex items-center">
+					<span class="name text-default-text-color text-lg font-semibold">lele</span>
+					
+					<span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv5</span>
+					
+				</div>
+				<div class="meta-info">
+					<div class="article-meta-info">
+    <span class="article-date article-meta-item">
+        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
+        <span class="desktop">2025-01-25 13:13</span>
+        <span class="mobile">2025-01-25 13:13</span>
+        <span class="hover-info">创建</span>
+    </span>
+    
+        <span class="article-date article-meta-item">
+            <i class="fa-regular fa-wrench"></i>&nbsp;
+            <span class="desktop">2025-02-22 18:28:22</span>
+            <span class="mobile">2025-02-22 18:28:22</span>
+            <span class="hover-info">更新</span>
+        </span>
+    
+
+    
+        <span class="article-categories article-meta-item">
+            <i class="fa-regular fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/">计算机网络</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%B1%82/">网络层</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+    
+    
+        <span class="article-tags article-meta-item">
+            <i class="fa-regular fa-tags"></i>&nbsp;
+            <ul>
+                
+                    <li>
+                        <a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/">计算机网络</a>&nbsp;
+                    </li>
+                
+                    <li>
+                        | <a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA408/">计算机408</a>&nbsp;
+                    </li>
+                
+            </ul>
+        </span>
+    
+
+    
+    
+        <span class="article-wordcount article-meta-item">
+            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>5.9k 字</span>
+        </span>
+    
+    
+        <span class="article-min2read article-meta-item">
+            <i class="fa-regular fa-clock"></i>&nbsp;<span>20 分钟</span>
+        </span>
+    
+    
+</div>
+
+				</div>
+			</div>
+		</div>
+		
+
+		
+
+
+		<div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
+			<h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><ul>
+<li><strong>路由器的两个功能</strong>：<ul>
+<li><strong>路由选择</strong>：定期与相邻的路由器交换信息，获取最新的网络拓扑，然后更新路由表，根据路由表确定分组到达目的的最优路线</li>
+<li><strong>分组转发</strong>：根据转发表选择合适的端口将分组转发出去
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>转发表是根据路由表得出来的，虽然不是一个东西，但是讨论的时候可以互相代替</p>
+
+  </div></li>
+</ul>
+</li>
+<li><strong>网络层提供两种服务</strong>：<ul>
+<li><strong>虚电路</strong>：两台计算机通信时先建立网络层连接即虚电路，通信分虚电路建立、数据传输、虚电路释放三阶段。建立时分配虚电路号，之后分组首部只需携带该编号。<ul>
+<li><strong>工作原理</strong>：<ul>
+<li>数据传输前，主机 A 发 “呼叫请求” 分组给主机 B，主机 B 同意则发 “呼叫应答” 分组确认。</li>
+<li>虚电路建立后，主机 A、B 相互传送数据分组。</li>
+<li>传送结束，主机 A 发 “释放请求” 分组拆除虚电路。</li>
+</ul>
+</li>
+<li><strong>特点</strong>：<ul>
+<li>建立和拆除有时间开销，对交互式和少量短分组浪费，对长时间频繁数据交换效率高。</li>
+<li>路由选择在连接建立阶段，之后传输路径确定。</li>
+<li>提供可靠通信，保证分组正确有序到达，可控制端点流量。</li>
+<li>网络结点或链路故障会破坏经过的虚电路。</li>
+<li>分组首部含虚电路号不含目的地址，开销小。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>数据报</strong>：<ul>
+<li><strong>分组构成与发送</strong>：发送分组前无需建立连接，源主机高层协议将报文拆成小数据段，加上地址等控制信息构成分组，直接发往相连交换结点。 </li>
+<li><strong>交换结点转发</strong>：交换结点缓存分组，查找转发表转发。因网络状态时刻不同，不同分组转发路径可能不同。</li>
+<li><strong>传输过程</strong>：网络中其他结点类似转发分组，直至到达目的主机。分组传输时不占用网络其他部分资源，主机可同时双向发送分组。 <ul>
+<li>数据报服务特点 <ul>
+<li><strong>无连接性</strong>：发送分组前无需建立连接，发送方和网络结点可随时收发分组。 </li>
+<li><strong>尽力交付</strong>：网络尽最大努力交付，不保证可靠性，分组可能出错、丢失，且不一定按序到达。 </li>
+<li><strong>完整地址</strong>：分组包含发送方和接收方完整地址，以便独立传输。 </li>
+<li><strong>存储转发时延</strong>：分组在交换结点存储转发需排队，带来时延，网络拥塞时更明显，结点还可能丢弃分组。 </li>
+<li><strong>冗余路径与故障适应</strong>：网络有冗余路径，结点或链路故障时，可更新转发表找替代路径，对故障适应能力强。 </li>
+<li><strong>资源利用率高</strong>：收发双方不独占链路，资源利用率较高。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+  <div class="note p-4 mb-4 rounded-small default">
+    <p><a class="link" target="_blank" rel="noopener" href="https://www.doubao.com/thread/ab4007f53f4ab">数据报和分组转发<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>越看越像一个东西，数据报是宏观的的服务，分组转发是具体的行为，应该可以这样描述：“<strong>数据报服务是通过分组转发技术实现的</strong>”。</p>
+
+  </div>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/a687298dca0b0"><strong>SDN软件定义网络</strong></a>：把网络比作城市的交通系统，传统的网络就是按着固定的红绿灯倒计时进行交通控制，SDN就像是有一个掌控全局的幕后大佬控制着每个路口的交通信号灯，根据各个方向车辆的多少来控制各个方向的倒计时</li>
+<li><strong>拥塞控制</strong>：<ul>
+<li>拥塞控制是指对整个网络中的分组进行控制，网络能承载的流量是有限的，网络中的分组太多就会造成阻塞，所以拥塞控制是全局的行为、流量控制是俩主机之间点对点的行为</li>
+<li><strong>拥塞控制的两种方法</strong>：<ul>
+<li><strong>开环控制</strong>：是一种静态预防方法，在设计网络时就将拥塞相关因素考虑周全。系统启动运行后中途无需修改，手段包括确定接收新流量、丢弃分组的时机及对象，以及调度策略等，决策时不考虑当前网络状态。</li>
+<li><strong>闭环控制</strong>：事先不考虑拥塞因素，通过监测网络系统来监视拥塞发生位置，然后将拥塞信息传至合适地方，以调整网络系统运行并解决问题，是基于反馈环路概念的动态方法。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="IPv4"><a href="#IPv4" class="headerlink" title="IPv4"></a>IPv4</h2><h3 id="IPv4分组的格式"><a href="#IPv4分组的格式" class="headerlink" title="IPv4分组的格式"></a>IPv4分组的格式</h3><ul>
+<li><strong>格式</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250126104609.png"><ul>
+<li><strong>版本</strong>：v4还是v6</li>
+<li><strong>首部长度</strong>：表示首部的长度，最常用的是20B，这时候不使用任何可选字段，最长表示60B</li>
+<li><strong>区分服务</strong>：用于表示这个分组的特殊要求，比如延迟、优先级这种，根据这个字段提供不同的处理</li>
+<li><strong>总长度</strong>：表示这个分组的全部长度，一定不能超过下一层（数据链路层）的MTU（最大传输单元）的长度，<strong>以太网帧的最大传送单元(MTU)为1500B</strong></li>
+<li><strong>标识</strong>：用于表示这个分组属于哪个数据报，用于最后重组数据报的时候通过这个字段判断</li>
+<li><strong>标志</strong>：表示这个分组能不能分片，DF=0（Don’t Fragment）表示可以分片，MF=1（More Fragment表示这一片后边还有分片，MF=0表示这一片是最后一个分片</li>
+<li><strong>片偏移</strong>：表示这个分组在数据报中的位置</li>
+<li><strong>生存时间</strong>：分组经过一个路由器生存时间减一，减到零的时候丢弃这个分组，避免这个分组在网络中无限循环</li>
+<li><strong>协议</strong>：表示这个分组应该给上层的哪个协议处理，值为6表示TCP，值为17表示UDP</li>
+<li><strong>首部检验和</strong>：经过一个路由器，都要重新计算首部检验和看这个分组的首部出错了没有</li>
+<li><strong>源地址</strong>：发送这个分组的主机IP</li>
+<li><strong>目的地址</strong>：接受这个分组的主机IP
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-triangle-exclamation"></i><p>warning题中经常出现这几个长度之间的加减运算</p>
+
+    </div>
+    <div class="notel-content">
+      <p>基本单位长度：<br>首部4B<br>总长度1B<br>片偏移8B<br><strong>基本单位长度的含义</strong>：比如，若首部长度字段的值为 5，那么首部实际长度就是 5×4 = 20 字节。</p>
+
+    </div>
+  </div></li>
+</ul>
+</li>
+</ul>
+<h3 id="IPv4与NAT"><a href="#IPv4与NAT" class="headerlink" title="IPv4与NAT"></a>IPv4与NAT</h3><ul>
+<li><strong>特殊IP的用途</strong>：<ul>
+<li>主机号全为0表示本网络，eg:202.98.174.0//前三个部分是网络号</li>
+<li>主机号全为1表示广播地址</li>
+<li>127.x.x.x是环回自检地址，意思就是本主机，这个地址永远不会出现到互联网
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-triangle-exclamation"></i><p>震惊，原来除了127.0.0.1只要是127开头的都是，我才知道</p>
+
+    </div>
+    <div class="notel-content">
+      <p><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250127111356.png"></p>
+
+    </div>
+  </div></li>
+<li>0.0.0.0表示本网络的本主机
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-triangle-exclamation"></i><p>GOD!!!,0.0.0.0竟然也可以</p>
+
+    </div>
+    <div class="notel-content">
+      <p><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250127111631.png"></p>
+
+    </div>
+  </div></li>
+<li>255.255.255.255表示整个网络的广播地址，但是因为路由器对广播域的隔离作用，实际等效为本网络的广播地址</li>
+<li><strong>常用的三类IP适用范围</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250127114136.png"><ul>
+<li><strong>A类网络最大可用网络数-2的原因</strong>：<ul>
+<li>一个全为零的IP，0.0.0.0</li>
+<li>一个127开头的地址</li>
+</ul>
+</li>
+<li><strong>最大主机数-2的原因</strong>：<ul>
+<li>一个主机号全为零表示网络号</li>
+<li>主机号全为1表示广播地址</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+  
+  <div class="note p-4 mb-4 rounded-small red">
+    <p>现在这种分类的网络已经被淘汰了（无语了，淘汰了还考屁啊）<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/09A4825A.png"></p>
+
+  </div></li>
+<li><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/a5a9667dbb56d"><strong>NAT中私有地址的网段</strong></a>：<ul>
+<li>一个A类地址：<strong>10</strong>.0.0.0~<strong>10</strong>.255.255.255（我学校的局域网就是这个网段）</li>
+<li>16个B类地址：<strong>172.16</strong>.0.0~<strong>172.31</strong>.255.255</li>
+<li>256个C类地址：<strong>192.168.0</strong>.0~<strong>192.168.255</strong>.255（我家是这个）</li>
+</ul>
+</li>
+<li><strong>NAT的实现原理</strong>：<ul>
+<li>内网的主机以【端口1（eg:3345）】发送web请求</li>
+<li>路由器接受该请求然后从【端口2(eg:5001)】发送web请求</li>
+<li>服务器相应80端口的web请求</li>
+<li>路由器接受【端口2】的数据</li>
+<li>最后把数据转发到到内网主机的【端口1】<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250127152053.png"></li>
+</ul>
+</li>
+</ul>
+<h3 id="划分子网与路由聚合"><a href="#划分子网与路由聚合" class="headerlink" title="划分子网与路由聚合"></a>划分子网与路由聚合</h3><ul>
+<li><strong>划分子网的IP地址的结构</strong>：<br>{&lt;网络号&gt;,&lt;子网号&gt;,&lt;主机号&gt;}
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>其实就是把主机号分成两部分再划分网段，方便内部管理</p>
+
+  </div></li>
+<li><strong>子网掩码</strong>：和IP地址长度一样，用1表示网络号和子网号，0表示主机号<ul>
+<li>A类地址的默认子网掩码：255.0.0.0</li>
+<li>B类地址的默认子网掩码：255.255.0.0</li>
+<li>C类地址的默认子网掩码：255.255.255.0</li>
+</ul>
+</li>
+<li>ABC分类的地址早都淘汰了，现在是<strong>CIDR</strong>（我读：赛der(#^.^#)）（<strong>无分类编址</strong>，Classless Inter-Domain Routing）的天下<br>IP地址的格式：{&lt;网络前缀&gt;,&lt;主机号&gt;}<ul>
+<li>可以用子网掩码来表示网络前缀</li>
+<li>也可以用“x.x.x.x/20”这种方法表示</li>
+</ul>
+</li>
+<li><strong>路由聚合</strong>也叫构成超网，举例说明这个东西：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250127155000.png">网络1和网络2的掩码一样，都是17位，然后聚合之后在R1看来就是两个网络都是16位的掩码，这就是聚合，两网络聚合成一个网络<ul>
+<li><strong>路由器分组转发的方法</strong>：使用CIDR之后网络号变得不一样长，所以在转发的时候要越具体越好，选择<strong>最长匹配的网络号</strong>进行转发
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>为了减少查询的时间，可以在路由器中<strong>按前缀的长短由长到短排序</strong></p>
+
+  </div></li>
+</ul>
+</li>
+<li><strong>CIDR的应用</strong>：208.115.21.0/24，划分三个部门，各部分的主机数为50、20、5<ul>
+<li>除了要分配对应主机数的IP地址之外还要给每个部门分配一个<strong>路由器接口地址</strong>，也就是51、21、6个IP</li>
+<li>总共三个部分，所以要用2个比特位表示3个部门，后边的主机号只要够用就好<ul>
+<li>也就是208.115.21.0000 0000\26</li>
+<li>208.115.21.0100 0000\26</li>
+<li>208.115.21.1000 0000\26。</li>
+</ul>
+</li>
+<li>除了这样按网络号分配（每个部门都剩下了可多IP）之外，还可以<strong>按主机分配</strong>(这样可以减少IP的浪费)，直接把掩码拉到IP刚好够主机数</li>
+</ul>
+</li>
+</ul>
+<h3 id="网络层转发分组的过程"><a href="#网络层转发分组的过程" class="headerlink" title="网络层转发分组的过程"></a>网络层转发分组的过程</h3><ul>
+<li><strong>路由表中的两条特殊路由</strong>：<ul>
+<li><strong>x.x.x.x/32</strong>：对于特定的主机专门弄一条路由，子网掩码全是1，这样可以方便管理员控制和测试网络，确保这个流量优先传送</li>
+<li><strong>0.0.0.0/0</strong>：这个是默认路由，路由表最后一个表项，随便一个分组都能与它匹配，这个用于前边没有表项与分组匹配。默认路由通常用于路由器到互联网的路由</li>
+</ul>
+</li>
+<li><a href="/2025/01/28/250128112100"><strong>路由器分组转发的过程</strong></a>:<ol>
+<li>提取出分组目的IP</li>
+<li>把IP和子网掩码AND运算</li>
+<li>把结果与表项逐一比较</li>
+<li>找到之后交付到本网络的主机，或者交付到下一个网络</li>
+<li>没有匹配的就转发到默认路由，否则报错
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-triangle-exclamation"></i><p>warning</p>
+
+    </div>
+    <div class="notel-content">
+      <p>第四步中得到目的IP地址之后不能直接转发，还要解封MAC帧，通过ARP协议得到下一跳的MAC地址封装到MAC帧中<br>IP是全局的，MAC是局部的，每经过一个网络，MAC帧的源地址和目的地址都要更新，IP地址始终不变</p>
+
+    </div>
+  </div></li>
+</ol>
+</li>
+</ul>
+<h3 id="地址解析协议ARP"><a href="#地址解析协议ARP" class="headerlink" title="地址解析协议ARP"></a>地址解析协议ARP</h3><ul>
+<li><strong>ARP的工作原理</strong>：<ol>
+<li><strong>缓存查询</strong>：主机A欲向主机B发送IP数据报时，先在其ARP高速缓存中查找主机B的IP地址。</li>
+<li><strong>缓存命中处理</strong>：若缓存中有主机B的IP地址，则查出对应的硬件地址（MAC地址），将其写入MAC帧，通过局域网将该MAC帧发往此硬件地址。 </li>
+<li><strong>缓存未命中处理</strong>：若缓存中无主机B的IP地址，主机A使用目的MAC地址为FF - FF - FF - FF - FF - FF的帧来封装并广播ARP请求分组，使得同一个局域网里的所有主机都能收到此ARP请求。</li>
+<li><strong>响应发送</strong>：主机B收到ARP请求后，向主机A发出ARP响应分组（单播发送），分组中包含主机B的IP地址与MAC地址的映射关系。 </li>
+<li><strong>缓存更新与数据发送</strong>：主机A收到ARP响应分组后，将主机B的IP - MAC映射关系写入ARP缓存，然后按查询到的硬件地址发送MAC帧。
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>如果两个主机不在一个局域网中，A主机把分组发给路由器，让路由器把分组转发到目的网络</p>
+
+  </div></li>
+</ol>
+</li>
+</ul>
+<h3 id="动态主机配置协议DHCP"><a href="#动态主机配置协议DHCP" class="headerlink" title="动态主机配置协议DHCP"></a>动态主机配置协议DHCP</h3><ul>
+<li><strong>DHCP的工作流程</strong>：<ol>
+<li>客户主机向服务器发送“DHCP发现”消息，想找到网络上的DHCP服务器。源地址：0.0.0.0，目标地址：255.255.255.255</li>
+<li>服务器收到这个消息，然后发送“DHCP提供”消息，这个消息里边还有提供的IP地址。源地址为服务器IP地址（不是0.0.0.0），目的地址是255.255.255.255</li>
+<li>客户机收到这个消息，如果接受了这个IP就广播“DHCP请求”消息，请求提供IP。源地址：0.0.0.0，目标地址：255.255.255.255</li>
+<li>服务器广播“DHCP确认”消息，把第2步发出去的IP分配给这个主机。源地址为服务器IP地址，目的地址是255.255.255.255
+  <div class="note-large blue">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-question"></i><p><a href="/posts/250128132900">为什么第二步提供IP了第三步还要请求</a></p>
+
+    </div>
+    <div class="notel-content">
+      <p>第二步表示我提供这个IP，第三步表示我要用这个IP，第四步表示服务器确认</p>
+
+    </div>
+  </div></li>
+</ol>
+</li>
+</ul>
+<h3 id="网际控制报文ICMP"><a href="#网际控制报文ICMP" class="headerlink" title="网际控制报文ICMP"></a>网际控制报文ICMP</h3><ul>
+<li>ICMP有两种<ol>
+<li><strong>ICMP差错报告报文</strong>：五种类型<ol>
+<li>终点不可达报文</li>
+<li>源点抑制（网络拥塞而丢弃数据报就发送这个报文，<strong>现在已经弃用</strong>）</li>
+<li>时间超过：TTL减到0路由器丢弃数据报就发送这个</li>
+<li>参数问题：数据报首部有字段不正确发送这个</li>
+<li>改变路由（重定向）：发送这个让主机知道下次发给别的路由器，这个路由器有更好的路由路径</li>
+</ol>
+<ul>
+<li>对下边情况不发送ICMP差错报告报文<ul>
+<li>对于ICMP报文不再发送ICMP差错报文（禁止套娃！！！）</li>
+<li>对于分片的数据报，除了第一个，后续的所有报片都不发送</li>
+<li>多播地址不发送</li>
+<li>特殊地址不发送（127.x.x.x，0.0.0.0这种）</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>ICMP询问报文</strong>：<ol>
+<li>回送请求和回答报文</li>
+<li>时间戳请求和回答报文</li>
+<li>地址掩码请求和回答报文</li>
+<li>路由器请求和通告报文
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>啥！啥！啥！这四个都是啥！</p>
+
+  </div></li>
+</ol>
+</li>
+</ol>
+</li>
+<li>ICMP的应用是ping和tracert命令，<strong>but</strong>ping工作在应用层，tracert工作在网络层</li>
+</ul>
+<h2 id="IPv6"><a href="#IPv6" class="headerlink" title="IPv6"></a>IPv6</h2><h3 id="IPv6格式"><a href="#IPv6格式" class="headerlink" title="IPv6格式"></a>IPv6格式</h3><ul>
+<li><strong>IPv6的数据报首部格式</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250128152703.png"><ul>
+<li><strong>版本</strong>：6</li>
+<li><strong>通信量类</strong>：用来区分不同IPv6的类别或优先级</li>
+<li><strong>流标号</strong>：把从特定源点到特定终点的一系列数据报称作流，这种数据报都有实时性要求 ，应该是为这种流量设的字段，传统的非实时性的流量用不上，可以设置为0</li>
+<li><strong>有效载荷长度</strong>：指明除了基本首部的数据长度（包括扩展首部）</li>
+<li><strong>下一个首部</strong>：这个数据报没有扩展首部时：这个字段指明本数据报装的是什么协议的数据；有扩展首部时：这个字段指明第一个扩展首部的类型</li>
+<li><strong>跳数限制</strong>：最大TTL值为255
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>因为IPv6有128位，所以虽然基本首部减少到8个字段，但是还是比IPv4长</p>
+
+  </div></li>
+</ul>
+</li>
+</ul>
+<h3 id="IPv6地址类型"><a href="#IPv6地址类型" class="headerlink" title="IPv6地址类型"></a>IPv6地址类型</h3><ul>
+<li><strong>IPv6地址类型</strong>：<ul>
+<li><strong>单播</strong>：点对点通信</li>
+<li><strong>多播</strong></li>
+<li><strong>任播</strong>：任播的终点是一组计算机，但是数据报只交付其中距离最近的一个主机</li>
+</ul>
+</li>
+<li><strong>地址分类</strong>：<ul>
+<li><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250128184328.png"></li>
+<li><strong>未指明地址</strong>：用作未分配IPv6地址的主机作为源地址（DHCP那里也是这，0.0.0.0作为源地址）</li>
+<li><strong>环回地址</strong>：IPv6的环回地址就这一个，不像IPv4一样只要127开头都可以</li>
+<li><strong>多播地址</strong>：前八位都是1</li>
+<li><strong>本地链路单播地址</strong>：IPv6的局域网地址<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250128184738.png"></li>
+<li><strong>全球单播地址</strong>：分成三部分<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250128185602.png">
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-triangle-exclamation"></i><p><a href="/posts/20250128190000">IPv6中ARP协议怎么办</a></p>
+
+    </div>
+    <div class="notel-content">
+      <ul>
+<li><strong>IPv6 淘汰了传统 ARP 协议</strong>，其地址解析功能由 <strong>NDP（基于 ICMPv6）</strong> 实现。</li>
+<li>若 IPv6 地址的接口标识符基于 MAC 地址（如 EUI-64），可直接从地址中提取硬件信息，无需额外解析。</li>
+<li>对于非 MAC 地址生成的接口标识符（如随机化地址），仍需通过 NDP 的 NS/NA 交互完成地址解析。</li>
+</ul>
+
+    </div>
+  </div></li>
+</ul>
+</li>
+</ul>
+<h3 id="IPv4向IPv6过渡的策略"><a href="#IPv4向IPv6过渡的策略" class="headerlink" title="IPv4向IPv6过渡的策略"></a>IPv4向IPv6过渡的策略</h3><ol>
+<li><a href="/posts/20250129115800">双协议栈</a>：在一台主机上同时装有IPv4和IPv6两个协议栈，主机发送的DNS请求返回的是IPv4就用IPv4地址，返回的是IPv6就用IPv6地址</li>
+<li><strong>隧道技术</strong>：这个数据包进入IPv4网络的时候将IPv6的数据包封装到IPv4里边作为数据部分，离开这个网络的时候再解封</li>
+</ol>
+<h2 id="路由算法和路由协议"><a href="#路由算法和路由协议" class="headerlink" title="路由算法和路由协议"></a>路由算法和路由协议</h2><h3 id="路由算法"><a href="#路由算法" class="headerlink" title="路由算法"></a>路由算法</h3><ul>
+<li><strong>静态路由与动态路由</strong>：<ul>
+<li><strong>静态路由算法</strong>：由网络管理员手动配置路由表</li>
+<li><strong>动态路由算法</strong>：根据网络流量负载和拓扑结构动态调整路由表</li>
+</ul>
+</li>
+<li><strong>距离向量路由算法</strong>：<a href="/posts/20250129163600">点这里</a><ol>
+<li><strong>初始状态</strong>：每个节点只知道直接邻居的路径费用</li>
+<li><strong>第一次信息交换</strong>：所有节点把自己的路径表广播给邻居，收到邻居的路径表后，更新自己的路径</li>
+<li><strong>第二次信息交换</strong>：<ol>
+<li>只有路径表有变化的节点再次广播新路径表。</li>
+<li>其他节点检查后，发现没有更优路径，不再更新。</li>
+</ol>
+</li>
+<li><strong>算法停止</strong>：当所有节点的路径表不再变化时，算法结束，网络进入稳定状态，每个节点都知道全局最优路径。
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>RIP协议就是这个算法，RIP使用路由器的跳数作为路径费用</p>
+
+  </div></li>
+</ol>
+</li>
+<li><strong>链路状态路由算法</strong>：只执行两项任务<ol>
+<li>主动测试所有相邻节点的状态</li>
+<li>定期地将链路状态传播给所有其他节点<br>这应该就是泛洪法
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>这样就可以让每个节点知道全网的结点分布，就可以通过Dijkstra算法得到其他节点的最短路径<br>典型的链路状态路由算法是OSPF算法</p>
+
+  </div></li>
+</ol>
+</li>
+<li><strong>内部网关协议</strong>（interior gateway protocol ,IGP）：自治系统里边使用的协议，RIP、OSPF这种</li>
+<li><strong>外部网关协议</strong>(external  gateway Protocol,EGP)：自治系统之间使用的协议，目前最多使用的是BGP-4
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>自治系统是一组路由器集合</p>
+
+  </div></li>
+</ul>
+<h3 id="RIP"><a href="#RIP" class="headerlink" title="RIP"></a>RIP</h3><ul>
+<li>路由表跳数那一栏的值为16表示这一栏的目标网络不可达，可以防止数据报在网络中打转</li>
+<li>封装RIP的协议是UDP（端口520）
+  <div class="note p-4 mb-4 rounded-small red">
+    <p><strong>RIP是应用层协议！！！</strong>，无语，放在网络层讲</p>
+
+  </div></li>
+<li>RIP两个特点：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250129171646.png"><ul>
+<li><strong>好消息传播快</strong>：a图中R1到N的距离变成了1，R1更新自己的路由表然后把自己的路由表发给R2，R2也进行更新，完成！</li>
+<li><strong>坏消息传播慢</strong>：那一段距离变成了16，R1更新自己的路由表，但是R2的路由表还没更新，然后R1惊奇的发现通过R2到N距离是5，傻嘚得的更新了自己路由表然后发给了R2，R2也更新自己的路由表到N的跳数为6，R1蒙圈了，又接着更新……直到16</li>
+</ul>
+</li>
+</ul>
+<h3 id="开放最短路径优先（OSPF）协议"><a href="#开放最短路径优先（OSPF）协议" class="headerlink" title="开放最短路径优先（OSPF）协议"></a>开放最短路径优先（OSPF）协议</h3><ul>
+<li>这个算法虽然使用Dijkstra算法可以得出完整的路径，但是路由表中不会存储完整的路径，只有下一跳地址，分组到达下一跳就知道接着该往哪里去了</li>
+<li>OSPF是网络层协议，不使用UDP、TCP，直接用IP数据报发送</li>
+<li><a class="link" target="_blank" rel="noopener" href="https://www.doubao.com/thread/a85a663a20d18">工作流程<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+<h3 id="边界网关协议BGP"><a href="#边界网关协议BGP" class="headerlink" title="边界网关协议BGP"></a>边界网关协议BGP</h3><ul>
+<li><a href="/posts/20250129163600"><strong>BGP的工作流程</strong></a>：<ul>
+<li>每个AS里边选择一个路由器作为边界路由器</li>
+<li>发言人之间建立TCP连接</li>
+<li>在TCP连接的基础上再建立BGP会话，完成初始化（关键报文有OPEN报文和KEEPALIVE报文）</li>
+<li>然后交换路由信息（通过UPDATE报文交换路由信息）</li>
+<li>BGP发言人还要运行内部网关协议，确保AS数据报能在本AS里边正确转发</li>
+</ul>
+</li>
+<li>BGP在刚运行的时候与邻站交换整个路由表，但是之后就交换有更新的路由部分</li>
+</ul>
+<h2 id="IP多播"><a href="#IP多播" class="headerlink" title="IP多播"></a>IP多播</h2><ul>
+<li>多播时源主机只发了一份数据，在传输路径分叉时，在分叉口进行复制，然后再分发数据<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Pasted%20image%2020250130144628.png"></li>
+</ul>
+<h3 id="IP多播地址"><a href="#IP多播地址" class="headerlink" title="IP多播地址"></a>IP多播地址</h3><ul>
+<li>IP多播地址就是IPv4的D类地址，前四位是1110，每一个D类IP标志一个多播组，一台主机可以随时加入离开一个多播组（其实这都不用说，看直播的时候都知道能随便进去退出）</li>
+<li>多播数据报的目标地址是D类地址，而且协议字段为2，表明是IGMP</li>
+</ul>
+<h3 id="在局域网上进行硬件多播"><a href="#在局域网上进行硬件多播" class="headerlink" title="在局域网上进行硬件多播"></a>在局域网上进行硬件多播</h3><ul>
+<li>局域网支持硬件多播，所以可以将IP多播地址映射成MAC地址多播，但是D类IP和MAC不是一一对应的关系<br>D类IP除去前四位1110，还剩28位，MAC除去01:00:5e:0xxx(这个0是2进制那个数的最高位)前25位，还剩23位<br>解决办法就是：主机收到多播MAC帧后还要检查目标IP地址，只有IP地址属于本机加入的多播组才接受这个数据帧</li>
+</ul>
+<h3 id="IGMP与多播路由选择协议"><a href="#IGMP与多播路由选择协议" class="headerlink" title="IGMP与多播路由选择协议"></a>IGMP与多播路由选择协议</h3><ul>
+<li><strong>IGMP的工作流程</strong>：<ul>
+<li><strong>第一阶段</strong>：主机加入多播组，向多播路由器发送IGMP报文声明，本地多播路由器收到之后通过多播路由选择协议将组成员关系转发给其他的多播路由器</li>
+<li><strong>第二阶段</strong>：路由器定期询问局域网内的主机还在不在这个多播组里边，在的话就接着工作，不在的话就不在向这个主机发送消息
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>麻蛋，呜啦的啥啊，不说人话</p>
+
+  </div></li>
+</ul>
+</li>
+<li><strong>多播路由选择协议</strong>：找出以源主机为根节点的多播转发树，确保每个分组在只转发一次，总的来说：<a class="link" target="_blank" rel="noopener" href="https://www.doubao.com/thread/a25cb71c1b1f7">不同多播组对应不同多播转发树，同一多播组对不同源点也有不同多播转发树<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。</li>
+</ul>
+<h2 id="移动IP"><a href="#移动IP" class="headerlink" title="移动IP"></a>移动IP</h2><ul>
+<li><a class="link" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Mobile_IP">维基解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>我自己的理解：移动IP是移动设备在不同网络切换的时候不会产生明显的割裂感的技术<br>在不同网络切换的时候IP不变，<a class="link" target="_blank" rel="noopener" href="https://www.doubao.com/thread/a9be5e1fd7b03">举个例子<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>：<ul>
+<li>我在家正在和小明发消息</li>
+<li>我妈喊我出去一下，但是我不能停（移动节点）</li>
+<li>我出去的时候，数据报仍然发送到我家里边（本地代理，归属地址，归属代理）</li>
+<li>然后由我家里边的路由器发送给另一个网络的路由器（通过隧道封装）</li>
+<li>另一个路由器再发送给我（外部代理）</li>
+</ul>
+</li>
+</ul>
+<h2 id="网络层设备"><a href="#网络层设备" class="headerlink" title="网络层设备"></a>网络层设备</h2><ul>
+<li><a target="_blank" rel="noopener" href="https://www.doubao.com/thread/a26af504135a2"><strong>冲突域和广播域</strong></a>：<ul>
+<li>冲突域是广播域的一部分</li>
+<li>冲突域在物理层，广播域在数据链路层<br>
+  <div class="note p-4 mb-4 rounded-small blue">
+    <p>形象理解：<br>广播域是一个村，村长用大喇叭一喊交电费了！！，村里人都能听见，外村人不理会<br>每几个村户是冲突域，我和我邻居都想通过家门口的十字路口开车出去，但是只能一个一个出去</p>
+
+  </div></li>
+</ul>
+</li>
+</ul>
+
+		</div>
+
+		
+		<div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
+			<div class="article-copyright-info-container">
+    <ul>
+        <li><strong>标题:</strong> 网络层</li>
+        <li><strong>作者:</strong> lele</li>
+        <li><strong>创建于
+                :</strong> 2025-01-25 13:13:00</li>
+        
+            <li>
+                <strong>更新于
+                    :</strong> 2025-02-22 18:28:22
+            </li>
+        
+        <li>
+            <strong>链接:</strong> https://letongzhuo.cn/posts/20250125131300.html
+        </li>
+        <li>
+            <strong>
+                版权声明:
+            </strong>
+            
+
+            
+                本文章采用 <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a> 进行许可。
+            
+        </li>
+    </ul>
+</div>
+
+		</div>
+		
+
+		
+		<ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
+			
+			<li class="tag-item mx-0.5">
+				<a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/">#计算机网络</a>&nbsp;
+			</li>
+			
+			<li class="tag-item mx-0.5">
+				<a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA408/">#计算机408</a>&nbsp;
+			</li>
+			
+		</ul>
+		
+
+		
+  <div class="recommended-article px-2 sm:px-6 md:px-8">
+   <div class="recommended-desktop">
+    <div class="recommended-article-header text-xl md:text-3xl font-bold mt-10">
+     <i aria-hidden="true"></i><span>推荐阅读</span>
+    </div>
+    <div class="recommended-article-group"><a class="recommended-article-item" href="/posts/20250128112100.html" title="IP与MAC协同工作流程" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="IP与MAC协同工作流程" class="!max-w-none">
+  <span class="title">IP与MAC协同工作流程</span>
+</a><a class="recommended-article-item" href="/posts/20250128190000.html" title="IPv6协议中ARP的疑问" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="IPv6协议中ARP的疑问" class="!max-w-none">
+  <span class="title">IPv6协议中ARP的疑问</span>
+</a><a class="recommended-article-item" href="/posts/20241120120000.html" title="数据链路层" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="数据链路层" class="!max-w-none">
+  <span class="title">数据链路层</span>
+</a></div>
+   </div>
+   <div class="recommended-mobile">
+   <div class="recommended-article-header text-xl md:text-3xl font-bold mt-10">
+     <i aria-hidden="true"></i><span>推荐阅读</span>
+   </div>
+   <div class="recommended-article-group"><a class="recommended-article-item" href="/posts/20250128112100.html" title="IP与MAC协同工作流程" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="IP与MAC协同工作流程" class="!max-w-none">
+  <span class="title">IP与MAC协同工作流程</span>
+</a><a class="recommended-article-item" href="/posts/20250128190000.html" title="IPv6协议中ARP的疑问" rel="bookmark">
+  <img src="/images/wallhaven-wqery6-light.webp" alt="IPv6协议中ARP的疑问" class="!max-w-none">
+  <span class="title">IPv6协议中ARP的疑问</span>
+</a></div>
+   </div>
+  </div>
+
+		
+		<div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
+			
+			<div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
+				<a class="prev" rel="prev" href="/posts/20250125151300">
+					<span class="left arrow-icon flex justify-center items-center">
+						<i class="fa-solid fa-chevron-left"></i>
+					</span>
+					<span class="title flex justify-center items-center">
+						<span class="post-nav-title-item">IDM-IAS</span>
+						<span class="post-nav-item">上一篇</span>
+					</span>
+				</a>
+			</div>
+			
+			
+			<div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
+				<a class="next" rel="next" href="/posts/20250121141300">
+					<span class="title flex justify-center items-center">
+						<span class="post-nav-title-item">smoothscroll时间戳转换</span>
+						<span class="post-nav-item">下一篇</span>
+					</span>
+					<span class="right arrow-icon flex justify-center items-center">
+						<i class="fa-solid fa-chevron-right"></i>
+					</span>
+				</a>
+			</div>
+			
+		</div>
+		
+
+
+		
+		<div class="comment-container px-2 sm:px-6 md:px-8 pb-8">
+			<div class="comments-container mt-10 w-full ">
+    <div id="comment-anchor" class="w-full h-2.5"></div>
+    <div class="comment-area-title w-full my-1.5 md:my-2.5 text-xl md:text-3xl font-bold">
+        评论
+    </div>
+    
+
+        
+            
+    <div id="waline"></div>
+    <script type="module" data-swup-reload-script>
+      import { init } from '/js/libs/waline.mjs';
+
+      function loadWaline() {
+        init({
+          el: '#waline',
+          serverURL: 'https://comment.letongzhuo.cn',
+          lang: 'zh-CN',
+          dark: 'body[class~="dark-mode"]',
+          reaction: false,
+          requiredMeta: ['nick', 'mail'],
+          emoji: [],
+          
+          
+        });
+      }
+
+      if (typeof swup !== 'undefined') {
+        loadWaline();
+      } else {
+        window.addEventListener('DOMContentLoaded', loadWaline);
+      }
+    </script>
+
+
+
+        
+    
+</div>
+
+		</div>
+		
+	</div>
+
+	
+	<div class="toc-content-container">
+		<div class="post-toc-wrap">
+	<div class="post-toc">
+		<div class="toc-title">目录</div>
+		<div class="page-title">网络层</div>
+		<ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8A%9F%E8%83%BD"><span class="nav-text">功能</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#IPv4"><span class="nav-text">IPv4</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#IPv4%E5%88%86%E7%BB%84%E7%9A%84%E6%A0%BC%E5%BC%8F"><span class="nav-text">IPv4分组的格式</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#IPv4%E4%B8%8ENAT"><span class="nav-text">IPv4与NAT</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%88%92%E5%88%86%E5%AD%90%E7%BD%91%E4%B8%8E%E8%B7%AF%E7%94%B1%E8%81%9A%E5%90%88"><span class="nav-text">划分子网与路由聚合</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%BD%91%E7%BB%9C%E5%B1%82%E8%BD%AC%E5%8F%91%E5%88%86%E7%BB%84%E7%9A%84%E8%BF%87%E7%A8%8B"><span class="nav-text">网络层转发分组的过程</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9C%B0%E5%9D%80%E8%A7%A3%E6%9E%90%E5%8D%8F%E8%AE%AEARP"><span class="nav-text">地址解析协议ARP</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8A%A8%E6%80%81%E4%B8%BB%E6%9C%BA%E9%85%8D%E7%BD%AE%E5%8D%8F%E8%AE%AEDHCP"><span class="nav-text">动态主机配置协议DHCP</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%BD%91%E9%99%85%E6%8E%A7%E5%88%B6%E6%8A%A5%E6%96%87ICMP"><span class="nav-text">网际控制报文ICMP</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#IPv6"><span class="nav-text">IPv6</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#IPv6%E6%A0%BC%E5%BC%8F"><span class="nav-text">IPv6格式</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#IPv6%E5%9C%B0%E5%9D%80%E7%B1%BB%E5%9E%8B"><span class="nav-text">IPv6地址类型</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#IPv4%E5%90%91IPv6%E8%BF%87%E6%B8%A1%E7%9A%84%E7%AD%96%E7%95%A5"><span class="nav-text">IPv4向IPv6过渡的策略</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%B7%AF%E7%94%B1%E7%AE%97%E6%B3%95%E5%92%8C%E8%B7%AF%E7%94%B1%E5%8D%8F%E8%AE%AE"><span class="nav-text">路由算法和路由协议</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%B7%AF%E7%94%B1%E7%AE%97%E6%B3%95"><span class="nav-text">路由算法</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#RIP"><span class="nav-text">RIP</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%BC%80%E6%94%BE%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88%EF%BC%88OSPF%EF%BC%89%E5%8D%8F%E8%AE%AE"><span class="nav-text">开放最短路径优先（OSPF）协议</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%BE%B9%E7%95%8C%E7%BD%91%E5%85%B3%E5%8D%8F%E8%AE%AEBGP"><span class="nav-text">边界网关协议BGP</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#IP%E5%A4%9A%E6%92%AD"><span class="nav-text">IP多播</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#IP%E5%A4%9A%E6%92%AD%E5%9C%B0%E5%9D%80"><span class="nav-text">IP多播地址</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9C%A8%E5%B1%80%E5%9F%9F%E7%BD%91%E4%B8%8A%E8%BF%9B%E8%A1%8C%E7%A1%AC%E4%BB%B6%E5%A4%9A%E6%92%AD"><span class="nav-text">在局域网上进行硬件多播</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#IGMP%E4%B8%8E%E5%A4%9A%E6%92%AD%E8%B7%AF%E7%94%B1%E9%80%89%E6%8B%A9%E5%8D%8F%E8%AE%AE"><span class="nav-text">IGMP与多播路由选择协议</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%A7%BB%E5%8A%A8IP"><span class="nav-text">移动IP</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%BD%91%E7%BB%9C%E5%B1%82%E8%AE%BE%E5%A4%87"><span class="nav-text">网络层设备</span></a></li></ol>
+
+	</div>
+</div>
+	</div>
+	
+</div>
+			</div>
+
+			
+		</div>
+
+		<div class="main-content-footer">
+			<footer class="footer mt-5 py-5 h-auto text-base text-third-text-color relative border-t-2 border-t-border-color">
+    <div class="info-container py-3 text-center">
+        
+        <div class="text-center">
+            &copy;
+            
+              <span>2025</span>
+              -
+            
+            2025&nbsp;&nbsp;<i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s; color: #f54545"></i>&nbsp;&nbsp;<a href="/">lele</a>
+            
+                
+                <p class="post-count space-x-0.5">
+                    <span>
+                        共撰写了 81 篇文章
+                    </span>
+                    
+                        <span>
+                            共 91.2k 字
+                        </span>
+                    
+                </p>
+            
+        </div>
+        
+            <script data-swup-reload-script src="https://cn.vercount.one/js"></script>
+            <div class="relative text-center lg:absolute lg:right-[20px] lg:top-1/2 lg:-translate-y-1/2 lg:text-right">
+                
+                    <span id="busuanzi_container_site_uv" class="lg:!block">
+                        <span class="text-sm">访问人数</span>
+                        <span id="busuanzi_value_site_uv"></span>
+                    </span>
+                
+                
+                    <span id="busuanzi_container_site_pv" class="lg:!block">
+                        <span class="text-sm">总访问量</span>
+                        <span id="busuanzi_value_site_pv"></span>
+                    </span>
+                
+            </div>
+        
+        <div class="relative text-center lg:absolute lg:left-[20px] lg:top-1/2 lg:-translate-y-1/2 lg:text-left">
+            <span class="lg:block text-sm">由 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg class="relative top-[2px] inline-block align-baseline" version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1rem" height="1rem" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path fill="#0E83CD" d="M256.4,25.8l-200,115.5L56,371.5l199.6,114.7l200-115.5l0.4-230.2L256.4,25.8z M349,354.6l-18.4,10.7l-18.6-11V275H200v79.6l-18.4,10.7l-18.6-11v-197l18.5-10.6l18.5,10.8V237h112v-79.6l18.5-10.6l18.5,10.8V354.6z"/></svg><a target="_blank" class="text-base" href="https://hexo.io">Hexo</a> 驱动</span>
+            <span class="text-sm lg:block">主题&nbsp;<a class="text-base" target="_blank" href="https://github.com/EvanNotFound/hexo-theme-redefine">Redefine v2.8.2</a></span>
+        </div>
+        
+        
+            <div>
+                博客已运行 <span class="odometer" id="runtime_days" ></span> 天 <span class="odometer" id="runtime_hours"></span> 小时 <span class="odometer" id="runtime_minutes"></span> 分钟 <span class="odometer" id="runtime_seconds"></span> 秒
+            </div>
+        
+        
+            <script data-swup-reload-script>
+                try {
+                    function odometer_init() {
+                    const elements = document.querySelectorAll('.odometer');
+                    elements.forEach(el => {
+                        new Odometer({
+                            el,
+                            format: '( ddd).dd',
+                            duration: 200
+                        });
+                    });
+                    }
+                    odometer_init();
+                } catch (error) {}
+            </script>
+        
+        
+            
+                
+        
+                
+        
+        
+    </div>  
+</footer>
+		</div>
+	</div>
+
+	
+	<div class="post-tools">
+		<div class="post-tools-container">
+	<ul class="article-tools-list">
+		<!-- TOC aside toggle -->
+		
+		<li class="right-bottom-tools page-aside-toggle">
+			<i class="fa-regular fa-outdent"></i>
+		</li>
+		
+
+		<!-- go comment -->
+		
+		<li class="go-comment">
+			<i class="fa-regular fa-comments"></i>
+		</li>
+		
+	</ul>
+</div>
+	</div>
+	
+
+	<div class="right-side-tools-container">
+		<div class="side-tools-container">
+	<ul class="hidden-tools-list">
+		<li class="right-bottom-tools tool-font-adjust-plus flex justify-center items-center">
+			<i class="fa-regular fa-magnifying-glass-plus"></i>
+		</li>
+
+		<li class="right-bottom-tools tool-font-adjust-minus flex justify-center items-center">
+			<i class="fa-regular fa-magnifying-glass-minus"></i>
+		</li>
+
+		<li class="right-bottom-tools tool-dark-light-toggle flex justify-center items-center">
+			<i class="fa-regular fa-moon"></i>
+		</li>
+
+		<!-- rss -->
+		
+
+		
+
+		<li class="right-bottom-tools tool-scroll-to-bottom flex justify-center items-center">
+			<i class="fa-regular fa-arrow-down"></i>
+		</li>
+	</ul>
+
+	<ul class="visible-tools-list">
+		<li class="right-bottom-tools toggle-tools-list flex justify-center items-center">
+			<i class="fa-regular fa-cog fa-spin"></i>
+		</li>
+		
+		<li class="right-bottom-tools tool-scroll-to-top flex justify-center items-center">
+			<i class="arrow-up fas fa-arrow-up"></i>
+			<span class="percent"></span>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+
+	<div class="image-viewer-container">
+	<img src="">
+</div>
+
+	
+	<div class="search-pop-overlay">
+	<div class="popup search-popup">
+		<div class="search-header">
+			<span class="search-input-field-pre">
+				<i class="fa-solid fa-keyboard"></i>
+			</span>
+			<div class="search-input-container">
+				<input autocomplete="off" autocorrect="off" autocapitalize="off" placeholder="站内搜索您需要的内容..." spellcheck="false" type="search" class="search-input">
+			</div>
+			<span class="popup-btn-close">
+				<i class="fa-solid fa-times"></i>
+			</span>
+		</div>
+		<div id="search-result">
+			<div id="no-result">
+				<i class="fa-solid fa-spinner fa-spin-pulse fa-5x fa-fw"></i>
+			</div>
+		</div>
+	</div>
+</div>
+	
+
+</main>
+
+
+<script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/Swup.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupSlideTheme.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupScriptsPlugin.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupProgressPlugin.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupScrollPlugin.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupPreloadPlugin.min.js" ></script>
+<script>
+    const swup = new Swup({
+        plugins: [
+            new SwupScriptsPlugin({
+                optin: true,
+            }),
+            new SwupProgressPlugin(),
+            new SwupScrollPlugin({
+                offset: 80,
+            }),
+            new SwupSlideTheme({
+                mainElement: ".main-content-body",
+            }),
+            new SwupPreloadPlugin(),
+        ],
+        containers: ["#swup"],
+    });
+</script>
+
+
+
+
+	<script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/imageViewer.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/utils.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/main.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/navbarShrink.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/scrollTopBottom.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/lightDarkSwitch.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/categoryList.js" ></script>
+
+
+    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/localSearch.js" ></script>
+
+
+
+    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/codeBlock.js" ></script>
+
+
+
+    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/lazyload.js" ></script>
+
+
+
+    <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/runtime.js" ></script>
+    <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/odometer.min.js" ></script>
+    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/assets/odometer-theme-minimal.css">
+
+
+
+  <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/Typed.min.js" ></script>
+  <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/plugins/typed.js" ></script>
+
+
+
+    
+        <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/mermaid.min.js" ></script>
+    
+    <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/plugins/mermaid.js" ></script>
+
+
+
+
+
+
+
+
+    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/tocToggle.js" data-swup-reload-script></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/toc.js" data-swup-reload-script></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/plugins/tabs.js" data-swup-reload-script></script>
+
+
+<script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/moment-with-locales.min.js" data-swup-reload-script></script>
+<script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/essays.js" data-swup-reload-script></script>
+
+
+
+
+	
+</body>
+
+</html>
