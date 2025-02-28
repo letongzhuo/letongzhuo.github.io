@@ -54,62 +54,36 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/posts/20210204120000.html</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日记</title>
-    <url>/posts/20210314120000.html</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="abc3339a655f449b8b0e49bf85e351a332f6c31f85a95225f75d668afb94908a">249107fcce4fdab00b19d327c31fd8f33af60cc07c7fca5acec9f3d9dbfa6fd6e04d38ad181f8cede03dd9af51349f8d4fa3fd4380e1f3f378354b9b8cf3efeb07b5cd0c0e3a9f3ef9a6a531dc851d28fbbd58642fbb329bdbda96bcaaa5bd3d4b9656f9fbf2527ef07c20767129c8b8e2fdc0688d580ee71d32eafb308094da8893e9abd989e48c177e0d3f443760d5583705f01b844b1431473f39beef9a08</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日记</title>
     <url>/posts/20210201120000.html</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
   <script id="hbeData" type="hbeData" data-hmacdigest="ac2c294148fe5f08ef71e1129aa8cffd4aecf76517c1d3164e1b5677cca82cfe">249107fcce4fdab00b19d327c31fd8f3391582e1934f620d485f8d387d53437fe866eca361f7e448cbd323c1ab078057e1d4619d48760fce188797ef5e29c71df3f2d0a383734f0b54ca103243d58e42e2b9f56845e5553b8efb88a26c176fda62ad7bcc2faf1f56cf7ba98d1b0237529d826f34a0d6adb67ef6caf71da7a2b560d5758f5332cab2dad14e1884024b6ae877c96777713fe06b85d0b16c5369b8c524cb9dbcf50ba0370024bc9f9dd14072c19c84f65d83eff795109d9084b440704b2ad559592b377ec42fbf82f7e2c762e5005d1cdb850c79be34451ad2f77a26f4fa53cdef064331b88d4d3105a2e2815d122a4060d3bdde391c450dce68bd25f9a29a4a9c94923cfa7e6f75072df03710d2e3a706b680de08f03e100303147b8244f82bb7755259004225b21d19f056357ab810af69cf5b6f1a29ed886150d1dd3f593f76b2539c682f2c0ec906f3c4eeb1c3d31702f2b92540db3f75574bca3839ed9168bd006da9c285d7bd723a9a7189aa67dd75faed4f28e7a6d9916e190d620c225263dc1a2be096306564be6c1015f520892cb05f4ba81eaab13e13fe89d3b5a064e94569d58204ed11c56a8ae5034da4e35ca297f3431b5ce4376631b10bb7cdfef1de2f2a249e2135ede68d3aa363c2798a40346eecf9dff120f8a86b08ac35a92ffdd354ddcfe73b613bb28448377b3df01440b083b030e9ce34af7302a9c2f88e6d9b732cc1ca038d058961a73a1c6c95477b871c38e7a4be53d225fe6c014305875203516f91845fcfabd2863fa8345f3ffaaa96114c2c596e75b69255165f35b5675fdf2458ee2d10d234e37931b6bbb09e2285430b3b2f7b206c3ed97af718fb78fc05a5f23db1beb480bfc24ad68b5c914c68ae01f187d1c11443a5dceeac5891424418193313b99c149eaa4064a5f5cb94c1680c8d65cc2f9823f493bcabf0525cb69bb9494060031fac4c2736521960259fd578642711e193c08217fa967a6e43ebcf2f39e98156e1cf0cbd5cb0b8cc62c5f9d3595c6c18e9b9bc04b607dfc3c617e9dfd0deb025a6184086796dfc416154ef04220794333437cd60a4c24203749676da211dd3e78e1580b269e20d6babf610836f507197c2cdc9f651dd6bf846df9656828e12bb5f512be4503d9a78679d37cacb91db708e9df541d636e40c652c5fe946422dda78da9592b92a806874142cbdc30af8ae101c84bf82a5553df1412b31b1a7e1a9ea70f7d8225598250f8ca1e0bcbdb14dbf5560e067f32d9dfddf8c3ce26548b0cb4cc1e8b6565b2996ae1ca3abd946c2b6309f21a6e0d7262f6f516b424e65e119aa600c725eae72de08d1b3a7f9c00c3fd2e70da8519715a11b2c642699cc28c30184b1b0774220cbe19d02f732421a01615f4371e8b09748a5e0a98aaa9c23d68b2b2d3efacc7f6c09bb74a8753bfd61b3f70bbf1dd7cadae4797680b4f9c7515f4823781a379d8a8b07fab22b319939f4bfa032b61ef21ddad3da9956a3a8180f4023a21377469b75df97c338e7f33e554ee90fae689d57605c0daa4785d9d7190942533ad23c8293ce27f889b9b97d2b5b9ac1610ae08c1a63b87b86e5d87d7ad14d5fad3df5ca475d49bc8dfe6ecf33c2e23be36235132ea194de0ee26a0ae838a8619f0f633b154121cdd7b784f754970a2541c7a4edcfb85ea05895513a11d03e0ac1491f09a0d92f7a442741a8d2c8e146b2f9bc2cd154341fbcb83a60f2b56f0b15275a66e65654818480e42fb58f77497f569295fadea3cbc5253871b5d14024585b941f9ea80cfa566467679447741af09dd8a1c979f48ee3992e006b8cfe7f61e0db23b56d6d00f865</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日记</title>
+    <url>/posts/20210204120000.html</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -181,6 +155,32 @@ import {initHBE} from "/js/plugins/hbe.js";
       <tags>
         <tag>计算机网络</tag>
         <tag>计算机408</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日记</title>
+    <url>/posts/20210314120000.html</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="abc3339a655f449b8b0e49bf85e351a332f6c31f85a95225f75d668afb94908a">249107fcce4fdab00b19d327c31fd8f33af60cc07c7fca5acec9f3d9dbfa6fd6e04d38ad181f8cede03dd9af51349f8d4fa3fd4380e1f3f378354b9b8cf3efeb07b5cd0c0e3a9f3ef9a6a531dc851d28fbbd58642fbb329bdbda96bcaaa5bd3d4b9656f9fbf2527ef07c20767129c8b8e2fdc0688d580ee71d32eafb308094da8893e9abd989e48c177e0d3f443760d5583705f01b844b1431473f39beef9a08</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>日记</tag>
       </tags>
   </entry>
   <entry>
@@ -442,6 +442,103 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>操作系统概述</title>
+    <url>/posts/20241121000000.html</url>
+    <content><![CDATA[<h2 id="1-1操作系统的基本概念"><a href="#1-1操作系统的基本概念" class="headerlink" title="1.1操作系统的基本概念"></a>1.1操作系统的基本概念</h2><ul>
+<li>操作系统的四大特征:并发,共享,虚拟,异步,前两个是最基本的特征;<br><br><strong>并发</strong>是指两个或多个事件在同一时间间隔内发生;<br><br><strong>共享</strong>是指系统中的资源可供内存中多个并发执行的进程共同使用;<br><br><strong>虚拟</strong>是指将一个物理上的实体变为若干逻辑上的对应物;<br><br><strong>异步</strong>是指计算机中的进程因为资源问题,所以不是一下就运行到底的而是走走停停</li>
+<li>操作系统提供的接口主要分为两类:一类是<strong>命令接口</strong>，用户利用这些操作命令来组织和控制作业的执行:另一类是<strong>程序接口</strong>，编程人员可以使用它们来请求操作系统服务。<br><br>命令接口有联机和脱机两种:联机是输入一条命令就要得到结果,就是交互性;脱机是把处理任务直接扔给计算机,用户不干预计算机的运行,坐等结果;<br><br>程序接口是由一组系统调用组成,GUI就是通过调用程序接口实现的,但是GUI不是操作系统的一部分,GUI调用的系统调用命令是操作系统的一部分;</li>
+</ul>
+<h2 id="1-2操作系统发展历程"><a href="#1-2操作系统发展历程" class="headerlink" title="1.2操作系统发展历程"></a>1.2操作系统发展历程</h2><ul>
+<li><strong>单道批处理系统</strong>:把一堆作业扔给操作系统,配上监督程序,作业一个一个进行,具有自动性,顺序性,单道性;</li>
+<li><strong>多道批处理系统</strong>用户所提交的作业都先存放在外存上并排成一个队列，作业调度程序按一定的算法从后备队列中选择若干作业调入内存，它们在管理程序的控制下相互穿插地运行</li>
+<li><strong>分时操作系统</strong>是指将处理器的运行时间分成很短的时间片，按时间片轮流将处理器分配给各个作业<br>多个用户终端共享主机,响应时间很短,但是对于需要实时反馈的作业就不够了,需要实时系统</li>
+<li><strong>实时系统</strong>有硬实时和软实时,前者对于时间要求很严格,后者拖延一会也没事</li>
+<li>多道程序技术要求进程间能实现并发，需要实现进程调度以保证CPU的工作效率，而并发性的实现需要中断功能的支持。</li>
+</ul>
+<h2 id="1-3操作系统的运行环境"><a href="#1-3操作系统的运行环境" class="headerlink" title="1.3操作系统的运行环境"></a>1.3操作系统的运行环境</h2><ul>
+<li>CPU 的运行模式划分为用户态(目态)和核心态(又称管态、内核态)。</li>
+<li>特权指令(核心态)，是指不允许用户直接使用的指令，如I/O 指令、关中断指令、内存清零指令,存取用于内存保护的寄存器、送 PSW 到程序状态字寄存器等的指令。<br>非特权指令(用户态)，是指允许用户直接使用的指令，它不能直接访问系统中的软硬件资源，仅限于访问用户的地址空间，这也是为了防止用户程序对系统造成破坏。</li>
+<li><strong>中断和异常</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-21_20-21-35.png"></li>
+<li><strong>系统调用的功能</strong>:<br><br>设备管理。完成设备的请求或释放，以及设备启动等功能。<br><br>文件管理。完成文件的读、写、创建及删除等功能。<br><br>进程控制。完成进程的创建、撤销、阻塞及唤醒等功能。<br><br>进程通信。完成进程之间的消息传递或信号传递等功能。<br><br>内存管理。完成内存的分配、回收以及获取作业占用内存区大小和起始地址等功能。</li>
+<li>用户程序创建一个新进程，需使用操作系统提供的系统调用接口<br><br>用户程序使用系统调用命令，该命令经过编译后形成若干参数和陷入指令<br>当操作系统完成用户请求的系统调用功能后，应使CPU从内核态转到用户态</li>
+<li>在中断发生后，进入中断处理的程序只能属于操作系统程序</li>
+<li>计算机通过<strong>硬件</strong>完成操作系统由用户态到核心态的转换，这是通过中断机制来实现的。发生中断事件时，由硬件中断机制将计算机状态置为核心态。</li>
+<li>大多数计算机操作系统的内核包括四个方面的内容，即时钟管理、中断机制、原语和系统控制的数据结构及处理，其中第4部分实际上是系统调用类的指令(广义指令)。<br><blockquote>
+<p>置时钟指令是在核心态运行的,如果该指令允许在用户态执行，那么程序就可以自行更改时间片，会一直霸占CPU。</p>
+</blockquote>
+</li>
+<li>命令解释程序属于命令接口，能面对用户，在用户态下执行。磁盘调度程序、中断处理程序和进程调度程序都工作在内核态。</li>
+<li>“访管”指令仅在用户态下使用，<strong>执行“访管”指令将用户态转变为核心态。</strong></li>
+<li>系统调用命令工作在核心态，系统调用本身是一条在核心态运行的命令，并不是调用系统的命令，调用系统调用的命令才是用户态的。<br><strong>也就是说，系统调用的发生是在用户态，系统调用的执行是在核心态</strong></li>
+<li>I/O设备的请求、时钟中断是外部中断。<br><br>访管指令、缺页异常是内部中断。</li>
+<li>系统调用需要保存 PSW 和PC的值，一般过程调用只需保存PC的值。<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_08-53-49.png"><br>一般过程调用的被调用程序与调用程序运行在同一个状态，可能是系统态，也可能是用户态<br>系统调用的被调用过程一定运行在核心态</li>
+<li>trap 指令、跳转指令和压栈指令均可以在用户态执行，其中 trap 指令负责由用户态转换为内核态。关中断指令为特权指令，必须在核心态才能执行。<strong>注意</strong>，在操作系统中，关中断指令是权限非常大的指令，因为中断是现代操作系统正常运行的核心保障之一，能把它关掉，说明执行这条指令的一定是权限非常大的机构(管态)。</li>
+<li>外部中断处理过程，PC 值由中断隐指令自动保存，而通用寄存器内容由操作系统保存。块表(TLB)和 Cache 中的内容则由硬件机构保存。</li>
+<li>执行系统调用的过程：<br><ol>
+<li>传递系统调用参数</li>
+<li>执行陷入(trap)指令</li>
+<li>执行相应的服务程序</li>
+<li>返回用户态</li>
+</ol>
+</li>
+<li>当 CPU 检测到中断信号后，由硬件自动保存被中断程序的断点[程序计数器(PC)和程序状态字寄存器(PSW)]<blockquote>
+<p>麻蛋，到底是硬件保存的还是中断隐指令保存的啊，<strong>暂定是硬件保存的</strong></p>
+</blockquote>
+之后，硬件找到该中断信号对应的中断向量，中断向量指明中断服务程序入口地址(各中断向量统一存放在中断向量表中，该表由操作系统初始化)。<br>接下来开始执行中断服务程序，保存中断屏蔽字、保存各通用寄存器的值，并提供与中断信号对应的中断服务</li>
+<li><strong>系统调用是由用户进程发起的，请求操作系统的服务。</strong><br><ol>
+<li>当内存中的空闲页框不够时，操作系统会将某些页面调出，并将要访问的页面调入，这个过程完全由操作系统完成，不涉及系统调用。</li>
+<li>进程调度完全由操作系统完成，无法通过系统调用完成。</li>
+<li>创建新进程可以通过系统调用来完成，如Linux 中通过 fork 系统调用来创建子进程。</li>
+</ol>
+</li>
+<li>发生系统调用时，CPU 通过执行软中断指令将CPU的运行状态从用户态切换到内核态，这个过程与中断和异常的响应过程相同,，<strong>由硬件负责保存断点和程序状态字,并将 CPU 模式改为内核态</strong>。<br>然后，执行操作系统内核的系统调用入口程序，<strong>该内核程序负责保存通用寄存器的内容，再调用执行特定的系统调用服务例程。</strong><br>综上，前俩由硬件完成，后俩由操作系统完成。</li>
+</ul>
+<h2 id="1-4操作系统的结构，引导和虚拟机"><a href="#1-4操作系统的结构，引导和虚拟机" class="headerlink" title="1.4操作系统的结构，引导和虚拟机"></a>1.4操作系统的结构，引导和虚拟机</h2><ul>
+<li>结构：<br><ol>
+<li><strong>分层法</strong>：把操作系统分层，从底层（硬件）一层层向上扩充，每层只能调用紧邻它的低层的功能和服务(单向依赖)。<ul>
+<li><strong>优势</strong>：容易调试检查错误，一层一层向上检查，很容易确定具体哪一层出错；<br>容易扩充和维护，跟砌墙一样，想实现更高的功能只需要一层层叠加就🆗了</li>
+<li><strong>劣势</strong>：合理定义各层比较困难，各层之间挨得太近，暧昧不分；<br>效率很差，要完成某个功能要从底层开始穿越</li>
+</ul>
+</li>
+<li><strong>模块化</strong>：把操作系统按照不同的功能分为不同的模块<ul>
+<li><strong>优势</strong>：①提高了操作系统设计的正确性、可理解性和可维护性;②增强了操作系统的可适应性;③加速了操作系统的开发过程。</li>
+<li><strong>劣势</strong>：接口很难设计，你不知道它都有啥需求；<br>模块也很难设计，各个模块要齐头并进，顺序很难把握；</li>
+</ul>
+</li>
+<li><a class="link" href="https://www.doubao.com/thread/a4197fa860ae6">微内核<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>是保留最基础的内核功能，把多余的功能都剥离出去。<br><ul>
+<li>优势：<ol>
+<li>扩展性和灵活性。</li>
+<li>可靠性和安全性。</li>
+<li>可移植性</li>
+<li>分布式计算。</li>
+</ol>
+</li>
+<li>劣势：有点性能问题，因为需要频繁地在用户态和内核态之间切换</li>
+</ul>
+</li>
+<li><strong>宏内核</strong>：把所有功能都聚合到一起，效率很高，共享信息很快，但是操作系统越做越大，这种结构就很臃肿</li>
+</ol>
+</li>
+<li>模块化操作系统的各功能模块都在内核中，且模块之间相互调用、相互依赖，任何一个模块出错，都可能导致整个内核崩溃。<br>在微内核操作系统中，内核外的某个功能模块出错不会导致整个系统崩溃，可靠性高。 </li>
+<li>操作系统的启动过程：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_09-40-56.png" alt="text"></li>
+<li>Windows 是融合了宏内核和微内核的操作系统</li>
+<li>在拥有外核的操作系统中，外核只负责硬件资源的分配、回收、保护等，进程管理相关的工作仍然由内核负责。</li>
+<li>引导程序有两种，一种是位于BIOS中的用于引导开启各个设备，一种是位于硬盘中的用于引导操作系统</li>
+<li>第一类虚拟机管理程序直接运行在物理硬件之上，具有高性能和高安全性；第二类虚拟机管理程序运行在现有操作系统之上，安装和使用相对简单。<a class="link" href="https://www.doubao.com/thread/a3ff2039790f2">详细<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>BIOS 将控制权交给排在首位的启动设备后，CPU 将该设备主引导扇区的内容[主引导记录(MBR)]加载到内存中，然后由 MBR 检查分区表，查找活动分区，并将该分区的引导扇区的内容[分区引导记录(PBR)]加载到内存加以执行。</li>
+<li><strong>访管指令与访管中断</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_10-42-53.png" alt="text"></li>
+</ul>
+]]></content>
+      <categories>
+        <category>计算机操作系统</category>
+        <category>概述</category>
+      </categories>
+      <tags>
+        <tag>计算机408</tag>
+        <tag>计算机操作系统</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>进程与线程</title>
     <url>/posts/20241123000000.html</url>
     <content><![CDATA[<h2 id="2-1进程与线程"><a href="#2-1进程与线程" class="headerlink" title="2.1进程与线程"></a>2.1进程与线程</h2><ul>
@@ -667,103 +764,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       <categories>
         <category>计算机操作系统</category>
         <category>进程与线程</category>
-      </categories>
-      <tags>
-        <tag>计算机408</tag>
-        <tag>计算机操作系统</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>操作系统概述</title>
-    <url>/posts/20241121000000.html</url>
-    <content><![CDATA[<h2 id="1-1操作系统的基本概念"><a href="#1-1操作系统的基本概念" class="headerlink" title="1.1操作系统的基本概念"></a>1.1操作系统的基本概念</h2><ul>
-<li>操作系统的四大特征:并发,共享,虚拟,异步,前两个是最基本的特征;<br><br><strong>并发</strong>是指两个或多个事件在同一时间间隔内发生;<br><br><strong>共享</strong>是指系统中的资源可供内存中多个并发执行的进程共同使用;<br><br><strong>虚拟</strong>是指将一个物理上的实体变为若干逻辑上的对应物;<br><br><strong>异步</strong>是指计算机中的进程因为资源问题,所以不是一下就运行到底的而是走走停停</li>
-<li>操作系统提供的接口主要分为两类:一类是<strong>命令接口</strong>，用户利用这些操作命令来组织和控制作业的执行:另一类是<strong>程序接口</strong>，编程人员可以使用它们来请求操作系统服务。<br><br>命令接口有联机和脱机两种:联机是输入一条命令就要得到结果,就是交互性;脱机是把处理任务直接扔给计算机,用户不干预计算机的运行,坐等结果;<br><br>程序接口是由一组系统调用组成,GUI就是通过调用程序接口实现的,但是GUI不是操作系统的一部分,GUI调用的系统调用命令是操作系统的一部分;</li>
-</ul>
-<h2 id="1-2操作系统发展历程"><a href="#1-2操作系统发展历程" class="headerlink" title="1.2操作系统发展历程"></a>1.2操作系统发展历程</h2><ul>
-<li><strong>单道批处理系统</strong>:把一堆作业扔给操作系统,配上监督程序,作业一个一个进行,具有自动性,顺序性,单道性;</li>
-<li><strong>多道批处理系统</strong>用户所提交的作业都先存放在外存上并排成一个队列，作业调度程序按一定的算法从后备队列中选择若干作业调入内存，它们在管理程序的控制下相互穿插地运行</li>
-<li><strong>分时操作系统</strong>是指将处理器的运行时间分成很短的时间片，按时间片轮流将处理器分配给各个作业<br>多个用户终端共享主机,响应时间很短,但是对于需要实时反馈的作业就不够了,需要实时系统</li>
-<li><strong>实时系统</strong>有硬实时和软实时,前者对于时间要求很严格,后者拖延一会也没事</li>
-<li>多道程序技术要求进程间能实现并发，需要实现进程调度以保证CPU的工作效率，而并发性的实现需要中断功能的支持。</li>
-</ul>
-<h2 id="1-3操作系统的运行环境"><a href="#1-3操作系统的运行环境" class="headerlink" title="1.3操作系统的运行环境"></a>1.3操作系统的运行环境</h2><ul>
-<li>CPU 的运行模式划分为用户态(目态)和核心态(又称管态、内核态)。</li>
-<li>特权指令(核心态)，是指不允许用户直接使用的指令，如I/O 指令、关中断指令、内存清零指令,存取用于内存保护的寄存器、送 PSW 到程序状态字寄存器等的指令。<br>非特权指令(用户态)，是指允许用户直接使用的指令，它不能直接访问系统中的软硬件资源，仅限于访问用户的地址空间，这也是为了防止用户程序对系统造成破坏。</li>
-<li><strong>中断和异常</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-21_20-21-35.png"></li>
-<li><strong>系统调用的功能</strong>:<br><br>设备管理。完成设备的请求或释放，以及设备启动等功能。<br><br>文件管理。完成文件的读、写、创建及删除等功能。<br><br>进程控制。完成进程的创建、撤销、阻塞及唤醒等功能。<br><br>进程通信。完成进程之间的消息传递或信号传递等功能。<br><br>内存管理。完成内存的分配、回收以及获取作业占用内存区大小和起始地址等功能。</li>
-<li>用户程序创建一个新进程，需使用操作系统提供的系统调用接口<br><br>用户程序使用系统调用命令，该命令经过编译后形成若干参数和陷入指令<br>当操作系统完成用户请求的系统调用功能后，应使CPU从内核态转到用户态</li>
-<li>在中断发生后，进入中断处理的程序只能属于操作系统程序</li>
-<li>计算机通过<strong>硬件</strong>完成操作系统由用户态到核心态的转换，这是通过中断机制来实现的。发生中断事件时，由硬件中断机制将计算机状态置为核心态。</li>
-<li>大多数计算机操作系统的内核包括四个方面的内容，即时钟管理、中断机制、原语和系统控制的数据结构及处理，其中第4部分实际上是系统调用类的指令(广义指令)。<br><blockquote>
-<p>置时钟指令是在核心态运行的,如果该指令允许在用户态执行，那么程序就可以自行更改时间片，会一直霸占CPU。</p>
-</blockquote>
-</li>
-<li>命令解释程序属于命令接口，能面对用户，在用户态下执行。磁盘调度程序、中断处理程序和进程调度程序都工作在内核态。</li>
-<li>“访管”指令仅在用户态下使用，<strong>执行“访管”指令将用户态转变为核心态。</strong></li>
-<li>系统调用命令工作在核心态，系统调用本身是一条在核心态运行的命令，并不是调用系统的命令，调用系统调用的命令才是用户态的。<br><strong>也就是说，系统调用的发生是在用户态，系统调用的执行是在核心态</strong></li>
-<li>I/O设备的请求、时钟中断是外部中断。<br><br>访管指令、缺页异常是内部中断。</li>
-<li>系统调用需要保存 PSW 和PC的值，一般过程调用只需保存PC的值。<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_08-53-49.png"><br>一般过程调用的被调用程序与调用程序运行在同一个状态，可能是系统态，也可能是用户态<br>系统调用的被调用过程一定运行在核心态</li>
-<li>trap 指令、跳转指令和压栈指令均可以在用户态执行，其中 trap 指令负责由用户态转换为内核态。关中断指令为特权指令，必须在核心态才能执行。<strong>注意</strong>，在操作系统中，关中断指令是权限非常大的指令，因为中断是现代操作系统正常运行的核心保障之一，能把它关掉，说明执行这条指令的一定是权限非常大的机构(管态)。</li>
-<li>外部中断处理过程，PC 值由中断隐指令自动保存，而通用寄存器内容由操作系统保存。块表(TLB)和 Cache 中的内容则由硬件机构保存。</li>
-<li>执行系统调用的过程：<br><ol>
-<li>传递系统调用参数</li>
-<li>执行陷入(trap)指令</li>
-<li>执行相应的服务程序</li>
-<li>返回用户态</li>
-</ol>
-</li>
-<li>当 CPU 检测到中断信号后，由硬件自动保存被中断程序的断点[程序计数器(PC)和程序状态字寄存器(PSW)]<blockquote>
-<p>麻蛋，到底是硬件保存的还是中断隐指令保存的啊，<strong>暂定是硬件保存的</strong></p>
-</blockquote>
-之后，硬件找到该中断信号对应的中断向量，中断向量指明中断服务程序入口地址(各中断向量统一存放在中断向量表中，该表由操作系统初始化)。<br>接下来开始执行中断服务程序，保存中断屏蔽字、保存各通用寄存器的值，并提供与中断信号对应的中断服务</li>
-<li><strong>系统调用是由用户进程发起的，请求操作系统的服务。</strong><br><ol>
-<li>当内存中的空闲页框不够时，操作系统会将某些页面调出，并将要访问的页面调入，这个过程完全由操作系统完成，不涉及系统调用。</li>
-<li>进程调度完全由操作系统完成，无法通过系统调用完成。</li>
-<li>创建新进程可以通过系统调用来完成，如Linux 中通过 fork 系统调用来创建子进程。</li>
-</ol>
-</li>
-<li>发生系统调用时，CPU 通过执行软中断指令将CPU的运行状态从用户态切换到内核态，这个过程与中断和异常的响应过程相同,，<strong>由硬件负责保存断点和程序状态字,并将 CPU 模式改为内核态</strong>。<br>然后，执行操作系统内核的系统调用入口程序，<strong>该内核程序负责保存通用寄存器的内容，再调用执行特定的系统调用服务例程。</strong><br>综上，前俩由硬件完成，后俩由操作系统完成。</li>
-</ul>
-<h2 id="1-4操作系统的结构，引导和虚拟机"><a href="#1-4操作系统的结构，引导和虚拟机" class="headerlink" title="1.4操作系统的结构，引导和虚拟机"></a>1.4操作系统的结构，引导和虚拟机</h2><ul>
-<li>结构：<br><ol>
-<li><strong>分层法</strong>：把操作系统分层，从底层（硬件）一层层向上扩充，每层只能调用紧邻它的低层的功能和服务(单向依赖)。<ul>
-<li><strong>优势</strong>：容易调试检查错误，一层一层向上检查，很容易确定具体哪一层出错；<br>容易扩充和维护，跟砌墙一样，想实现更高的功能只需要一层层叠加就🆗了</li>
-<li><strong>劣势</strong>：合理定义各层比较困难，各层之间挨得太近，暧昧不分；<br>效率很差，要完成某个功能要从底层开始穿越</li>
-</ul>
-</li>
-<li><strong>模块化</strong>：把操作系统按照不同的功能分为不同的模块<ul>
-<li><strong>优势</strong>：①提高了操作系统设计的正确性、可理解性和可维护性;②增强了操作系统的可适应性;③加速了操作系统的开发过程。</li>
-<li><strong>劣势</strong>：接口很难设计，你不知道它都有啥需求；<br>模块也很难设计，各个模块要齐头并进，顺序很难把握；</li>
-</ul>
-</li>
-<li><a class="link" href="https://www.doubao.com/thread/a4197fa860ae6">微内核<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>是保留最基础的内核功能，把多余的功能都剥离出去。<br><ul>
-<li>优势：<ol>
-<li>扩展性和灵活性。</li>
-<li>可靠性和安全性。</li>
-<li>可移植性</li>
-<li>分布式计算。</li>
-</ol>
-</li>
-<li>劣势：有点性能问题，因为需要频繁地在用户态和内核态之间切换</li>
-</ul>
-</li>
-<li><strong>宏内核</strong>：把所有功能都聚合到一起，效率很高，共享信息很快，但是操作系统越做越大，这种结构就很臃肿</li>
-</ol>
-</li>
-<li>模块化操作系统的各功能模块都在内核中，且模块之间相互调用、相互依赖，任何一个模块出错，都可能导致整个内核崩溃。<br>在微内核操作系统中，内核外的某个功能模块出错不会导致整个系统崩溃，可靠性高。 </li>
-<li>操作系统的启动过程：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_09-40-56.png" alt="text"></li>
-<li>Windows 是融合了宏内核和微内核的操作系统</li>
-<li>在拥有外核的操作系统中，外核只负责硬件资源的分配、回收、保护等，进程管理相关的工作仍然由内核负责。</li>
-<li>引导程序有两种，一种是位于BIOS中的用于引导开启各个设备，一种是位于硬盘中的用于引导操作系统</li>
-<li>第一类虚拟机管理程序直接运行在物理硬件之上，具有高性能和高安全性；第二类虚拟机管理程序运行在现有操作系统之上，安装和使用相对简单。<a class="link" href="https://www.doubao.com/thread/a3ff2039790f2">详细<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
-<li>BIOS 将控制权交给排在首位的启动设备后，CPU 将该设备主引导扇区的内容[主引导记录(MBR)]加载到内存中，然后由 MBR 检查分区表，查找活动分区，并将该分区的引导扇区的内容[分区引导记录(PBR)]加载到内存加以执行。</li>
-<li><strong>访管指令与访管中断</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_10-42-53.png" alt="text"></li>
-</ul>
-]]></content>
-      <categories>
-        <category>计算机操作系统</category>
-        <category>概述</category>
       </categories>
       <tags>
         <tag>计算机408</tag>
@@ -1286,10 +1286,10 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/posts/20240328000007.html</url>
+    <url>/posts/20240328000001.html</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="ad0cf5f3e2084cc4b1bd0c73320b9ea5ff61cb11d9732259cc500d0ef340d7e6">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367a137ea0f940c897349cdcb2a213d524e95ed5dbc19e41ff24630ea417a647ff20e8435eb0c132c442ae3e41660bf8fd80cf367d5a74f626b3b4bd36866dd7870527a70f07c6b037422483860feedeea1c01351abd66533ce4b5cf8dbb1ac756cab64c9f02c01c7caa8d50f69997b2b9ba2de59b20fd43a2a18c6423ee3ae4b79fed05c3a723d51bc7220a2ea60ee437d7c0f536c31f64497d8d2254aedc4f015a2fc5081dfc074c05b30c9b544ec8d047165f5a3f6dca74f33290d4bc05fea581c6f9b1e54533e748fd6a496a1422e796dced37ea44978a5734c52b50c0851978d833e742315e963e004cbebf932c7d98504befa2aa85bd7fe735a82b2c7e4a34b8927c93d67b8e8540059b6f180f931e90582ccd3149cc08718a69be33dee5d0d4ac7aaebf41c5e93bf22984cc25f728e45deaaf5cd251f57ebfa83cf5cc70829a18286e0eff7eee8f363c3807d40e7e185e49c9f971892f373abe7ad762906b0cb020ae134b4f88cd4dca6f3c726f007c7c0ebe6e9390962ab369fac9748b257e8a08e78f86a953a5581e4614e297677e6ef7596863e6ce445f749f6a19d4c4ab9e06c0449ea320482d2241240f068f43a75b7ada14d134c6c8a7747ccc5b704a16055745aed30775a9ad6d59e82efc314040f181fd9934d35eb46c09729498759cf23dafabe3503ffaba29a269791002c317f088b1d60a389270ebcb3f9933087bdcb607b7b4bcf020a4839494721916db2600349b581a3c271b94cfc0acc9172cdd0f502d27af9d1b4ff12cca2f0442c469ccf50a2c42f25acec34b2b25987815c524cd7fdc31798a008b1c77d1f28257e5a39083eec695b50850d7f34e3e8f5b77ba121549a48180cd90738051e2c74f6f3018b9d665577c78272822ea32baa1253b105536c39ee6c49223f4320e4d2aca32d6790037999a34368eef01f3aeba32ef411f6b37627cdf03c0cb3b2f0493109eae636b264429c52e41221f3d76b4963a1cd81f3ca1c2000b30e408c6132e4dc5015772949d8e236016d1293e4156a65e413c715031d400020de8362c9e9d5ca350b515848accf561bf05ae2271518964783cd0e0bcc92544c8705981fa5862b184e15834a9c1d2e8d2b72d0f3425b3a620f61928e543c06a66712b24b900c9c9479a78e1a21915ae8c8c764d2a2bc259808d7659ce61c107b991762e1f3dc99436d38652c0c9ed93eb0b36a929f01abb3c4bba020d988f61ed3c283ff4d00c953adf7808bc1e5fa585a22d51a3f27e28d78cf090110d180e805c49c9582e2d01f5f451f0a3863cc0a504b7c0e23e9db8acebc681b5f1084afb0ff0de633df1bf363aea8d21f52332b8989e99f3d93405508f373a5bfd78729066aba0ec8c008b962984671f5d0755bfb62aa922b841b71680cf82502ffb18ee8033fc1e8a774c779a09944a295118990aa7ef1c9d9b8f93dd0e79ba3643e0b6d538707edd71b1546f88eacf918d6ca28f45d807cb28743b5ac001c9ca8efa9bcb4e3e6c8cb1d0709f86d3726ba99ccff457aa670f26ccf7164c1bc880c31c551727739bdc79a66618d2b52fa922515a1bc4d91a8fa54e34ada99b9bc6c859e6e715c507b62442d266c3f1ea0c5ab53baedc65e768404933d1511dc60ca59019ac5d5fdeb7f12d8f2a249bd6f5be4e2c3aae3b77d77402fe13afb86006d664689064a831d120064f30676d5d75a4fcfb468e7b28aec4d64b557bfb426e0c51b6ce419bbab8e0ebf9e9cbf50b4a03e5b601cde6033860fd82869202d89fa04fddec6fab49cf33ca166de7cc48f1bcdfedff272be9bc28e913318a5c3b2a4258a42f2f0c7264be696e73b3114c92acde91e8360c4f52582eead3de157dd8f93c28e8564ef98aa70dfa853b81bb16f9be267df31eb654d6ee32aa2c8736eb89146d2d9f16900bb1240dfc365544486c2f3de01d73bc5c9ac776c846e8b5db0fedc40f6dd1471aa3c363d847584bd5c8636b02a3b1bc963a887fc8c7efcae85af3d25445a23fe41c3a3111ae02300378ff76eade9e736a9791f0050fb0b16d7eb0ed4b566f1b970538161383646f5278392da34119e85be4b0aec9c451140cb670df75621ebe2b48e2cccc107101cf71a14f9d6c2ad9a24738296ba54539dbe9c065980e2b19e383164748a015450dc6bf09a3274390198bbecf987300765e14b4d1830e43bc3f01ba2edf3203c2466a8943847163375da69f2d0cf07f4294577acb1b8e66005c7d6864c144f2c4cfba771e959b1128a4a0fdf2b5683d09d0fb61971071c3ed7187e274eea08de48adf927a9b6b580d24c5d9c8b32fcaa57badf0b7b6ff5c1e011e0efffb2827cb2871a8e9c2212eb3c108936e16773dc2fba9640ef4fb366449b697e05ddf10d5a66e02a989ffa87592e228c1854d8b06caf378130d6713a0a37887febb0b7c152c9f97a2a98c32dd545836f454a112e2e47c6992010430a42c75d46b5cb02a13bc69ce505eef411de3ca0ae86802f7b95fa210ec01bba2f7645a811c40bcf9678fde2ecdcab5592e5116ce1124be5d423b0c55ad2526c6ab3e7909aeb636d9dd2c575fcea6f4c8948d13d5f6ce9aea182927943169c563e6cbf57129dde334a05cfface3975933462e3220126199c043b033b00f34548c94b4e251e328e2015d55905d84be6ea35f844e0fd46d1dfdfc19c6f0c5b3e5834a8f222773b9ac33ada7a3cd49f6caec27ae349a71752a4cc7e37a3847931909e222c17f0e182a3cb596a8284b4d8f268a1aa9ec0f73e519c6d431fbb7f52e122be82894c68f875889db4a713e20c692465a5f9dea5b50273f66977c2e328fa36fb3964a70a901e261e13280e863cc6dffd1385b62e979114009aeb260411ebd4ff70ed9899d5eba4d172e8a85b2dbfd29ad5e698d4eceaa84b45ada5b38937db5d2dcbe07e131fb6b769d1565d12fb432cb787fccd89bad2b6bc79ba09dd4b80c33f195678cb7cb7b75cc3b65a60d2c145f9fe70e4168943d491fb1e3963811d5e74df567fde4ab5e8e263a69ae210eda73d1b697e273f6de3d6d15d570569fb48002ec07ce8c25cdb2729f2dda7e92a7409ffc3c14ec71464f01d4b887d8119fc974ae50b65c6072cac5d30dff255e5e97b86113071d1ea4746eb1e51c698fb1393b68baf749307bfda8e6c35451f42b6977e1c3e0693a4b58ee3e872062332c104a1919a63cbf8565a31b7e0ac7448cc99b38714191322547b5b7304c59914919b0a9e64b8de46defcbd6a97b787938dd974e6d3fcc31bc46488fb63af2bbc64171e147900933cce696cb6b90d2a0b779eb714eba29fce830cd2f75be99463a0da9528e24fcdf1a880c167a966d53b7173c72fffb1e86604db9fd4bc5e9dfe1160f2f6328d4cb070177643ff0518e311fa75d19193880c4cc6630ddc6cde7dd0218a3f200bc3d7b68325e83831f3f5f47cb5ad1f6f2531b80f4cef900fe01cc5d8d06dbae9e752e81478fda7f9d3acf5c020edd3a224df6a19c3fa49039531efd9dcd88012c0a63a5fa9135f3cb3d72cc1687eb0ac656dee7f67c4d5996b1ae9e765738ba35bc8fcfde54c055ea4830ed62a6d28f877dca6375aed8af37ae2c6945d5a926fc2b15a675d6fcbb9c4b26703ae695c64f1599f0460af61ec5025593f40fb3afbd90b18aa846c56dd18eaf7654a6382cdca5193388824162bdb36df2cbee665ce3f5b305f5b851b4abefb1cf5aad026b8d61d2dc79cd864e924dd8eaa748eac03cf26fd9992e5846dcfa9d42323e7c95b584a7fa8646f27d1ff42a00c77b4ccb959d5b73c09f1e90d581edcbda87ab0fe455b9bb002e3ce098fc4374e1be8a8fc40e4a98fa17ca0767875b0512b7d0829dc2c61469dd6b48f1d0f76a8664b201e91f3be9ff2fa7f732af278f9a43c3fc6997ca7ad24270d81bfc0a9e285c7ecd42293d942b3655d8135b1f94093b7cd55f25cac2602f4a3330452459f4e9c69a2132d2786387a47e0f5df8a803c5c67ce85527029600b95260bb8e6f09104a959c224f45cd936b211d73a3949d91cf68fba830a27d78e1dbb9e1a07db5be20d4fb64d5bd6500880b93f91ff72217f3d32993b22e697677ffadde74f2ec33b4756cca32c04f3da72d8b563b0ace35859aaae15687ed3bebe143228371cea41c02187922a3c2153fe5d37f7345c382a940acfeaa3241db3828cf2c90438670bae6e4e016a1b69641a892f186c7747832f02cf2185ada00752fdd1a27e7ac7f0ae80f6079901463b17a30fc42ce2d22d9eb646b455fed780157def944f92e417961754bcbda3b16c5c43e38b70a73f48dd786187ae6305a86e622390c3e4bc48d638b1f1322145b2c33400f6c48bbc2b26d5330edb1d1f7295b282f87f38ca211789eb02c53ba6f11eac1b6b245dc7b52026a0641c33643e8a867098360bd9b374ee32077e6ecc12c60c3de7c879b80d359e8d5d250132dbbad6fff95801b0bc61e42005f8cb61edffdc042187dd2137f7bab6b22a9f4353c28af263243dc4311fc2ffacce65291720f0241bd40fcfae21831f268227a312e4faec2eb2cfcc840bbf40fb0db7f7da66825eb84e61d8166f29bca36dfe1d819696ef36adc53ce21c8c50032e5c5117091379325e9dc869146254eb17b1ebb6fb9eb27f615c9ac2c04a9184ec76016dffc30014be42a4e08d17878b99393b37bd8a8ab6a373f3dc805f3d8d0cd99e2b752472000bec0da34e6bd813043b760321d31c81957515e86b472ed7d0f2c8d96fc92fabd5ce771cee1c1117766fdcadcf154704afe6599d1ba660760df71ce55bcede787a486734360aec20ce50d3ed760c53c555c2788acc48bf1f5147d6ccd8c2a5ef7bd0a1a3b81d282249a72c81d956c80137a592805b992f288a63e82df81c2d8fb59ddeaa866643fc11171ec3f39a2143b9dfba5841403157998baa52a18eead8f806a9ed8a5f10b11641562d2a08c390f3f51f421dfc282455aa32eee575360e5d3fbc3fa458723b314af543e17270b29da325435d8c3fa222245c5ff7602b15365d073a08a4c99084a046c2cffec3f3d9b846b563eb409a0e12c867dedf2ebe29910db474c81d19b466456dc0e7ee4d908732ce43ec343ddec1cf4fbf3930913a37fd00314b61af005f029c3a7ee4a152a9897d6efa36dd057334d1bd1eb858e2468acdd30f43c38f7c93577d7b60a9db6fa44c21ac263e5857ee690c838d048ae5edc22049c2a127f49d42ea0f085bac88248c3bd6cabc6be5bd41fefbd012bbe089c057724ce20458cf1724d6987c4ffc899dab8fe0945b401b5cac613a2a1312fba3a7b9b7925d4a95b7b6a5c85bbc8cd009e5768ac5408ee3c2da73400adc0c5f52fd1fca26807564693965708a186ff7b373b3a39763adcf50eb570b289ab3f27bcee424e6f8bc6550675ff4e914c25069768844da569f508109b9c21671f4a03b9d3c716c7da721bf39a4a2e98413391f16acc4484c5f766361b493383c2047d3d142b8a2c27fca44d53c67393962ff5c6e8fb2dbfade09be7df730cb4790da37dd826405ab634e471ec4c2022e7c015172f52d555f327fe17afe7e390f78cfa71d0dd12a7737b0ef212753e1c23708c44fc98d3b2f5d32aeb6bd3919078d8b504911c8f15a1807d396776712c5d4f20e268f37f903562059f02bbe0ef3aeb3f59aa1cb4befceb49d8af9d545123a6f76e3c104d44ed70add6e5799b4d853c770eb60491e390aabcd9209685e51333f342c1935f77c98659b14038730a3e43f2c168dacec5cbcaa6dd389c5dccfd67af9376b13bfd7eb41cb18dcdb947cb80f46de694183d27f6e87574bf22f578ce9fd20837bd83b825c15df72554078ce476aa99f91a3a70260c212ff276beb74673e84c2cda8e08ffc764909ef137845d43613777e978120193dbc2a39e0dee3cb2f0118bf87593d5fd464981d9c78f47814b0921bc71a85f6e112d8ccab5fd5045ccbf177b8b5f922e1d6174a0d05fd120a5bd49ea60bdd7c246bd62e83999549b09c14332028464fa74e3d8903c72c4ab2aeaedd325058a38f4a12f1eecb5444d72744bf672a24c4f45afa4c629fece7209e4d1306b431996ec50a9a25aa9b4aa37a431c3e785774958e082927c2edfd038b445ffc59c913506b7c2460b0549190d912567b04f0f32e1ab86e06fc9b0ba05116e92ac4ce30bc26d81f6d1dd6e7d5f49b0a2d2aa609eb464adf2304132ee74dffaaa7b90a27a631e3f8a9edf400a3a20d9ee9cef8652b82d5db67ee1beb83751e3acdef73c167db6c4440e136881571a1603d35f7c80f687e3aa9ec12d22fc04db278401b33df396479891386fcbf85bd9a502917d844c559786f75ae153073d67873f59fc80c9d634ef17c95f9456b2aef12b551c3ce63184dbb11b145d36e8590727b750d78549351d80b2a9684dab8f2c6e8956294a91018ac65ebf1271c351c1a13cc8e7db0f2ffd994ff236c9d350736581bb9a8273900134631af65b63cf48257f5a1e6167cf2a3e6488b4581930698e84eb8d6d98d095d6955fbe848432136b0d1c875cd50f8cb52ffe48e4f502356520dc7701d8876688fc9581bc357c637b78543f3a7ae2c6583e72af67984f98988907c504f6d507e4a05ae857ec4fc1a6937be47a373fd992469d9c08b76df25a801e9dcbbd71ba84cb2cd577dcb5dc451835109d46f88cf9cfb4b8502ee3758cf0e80460b30379e5507571f6bbac6c73fccf8780e29854d2f8848079d3ba0032e0fa313570788539e8c8d7c91b53d3e93eadd331bc8abc1c50bfbff2f73b10270a3a5dfdc23e6426047e1240f7d5fa4cba6ccfd8cc96d9c721eeb01218793cf5986af8af7644e2a0e1302b44239216adad47cf303b0ec51ad3d6d30c2e5e7bbd7fe4c441cc027b5819e64e5827b2ef4214d52776e8e8408a6e08ea5c0b5c84f7be7de08b429af3121b07827797545a077688551906b2de27b521cfa40b734b02ea5f162ae80cd8dcfc3ca5872bbfc869226facee97e2116bfab49817c8d30c46a2d1cf10ab61dcbcdb810a884c1d06f6ffa69c0129680e3d913a5f0850532763871ffb0cff9b94a60589629ef4ad2b250a7461611075edb08b7dc824350431878e301012b528735812ba8db4f88855767d9030d577056a8a9b675a5898e73b0932b64224e4812839103c4b8c96e11143073337aa0c7f53671e6f22fb60aec2f41b454984146c280d54a3cf64f69e28f37417c08fc96bf6fc7c713c89db542fca9b3b54395e52526259c80278ae43e5fda7f6c2e36e043c365817123ca8243a1a79d9ccd386790985836367df8f908c0883d063616e0fe0264917b765aac75c10814a325224499deea7063d634a7019e35bff2189676eefed32e7f37a58bee58594d177e9e1b8b2190426e3489de3946cc6d522cfa46831b39c6727ad11b27845c9083fbe28e4fbbd9001850c49b3e063cc215c0549c470f696f3129f3354860943ee63dffd0d1f27454fd854b7471b3af3bf7270eb9a1d11c30473ccddfabead8fa77885ba0599ce56234274752f13df6d4c83929ec49df9bd9b0157cfd12c53d5e0fc2db07335ec00967b9c0ad79fef55bfbbab731efcf5bc461b6e5f0842c1c15db6b34f10210dce4eb4a2f7ea28a10564b5b660fecb1000edbb552c2c33f7ea191f9cc29b22ae45037fdb8abe0c6ac06fe6c14036a3f1e626d09c114bc93bcc6727848ea99410bd755d0d97d3338e44907ea9c9163c494a66a292f616af3aed5902537d6be7fbe7c8e3ea90328feca3b8de95b5a5ad97deb2e31c483cc1b6d38ae20a44fb391ce83ca134d0fc8acdce716bb728d46102b1a31e14ab6c86ede95304d1e7e9fd171db793a9636bf725e89ab694c6a9bf90d104c478197e43bb6ed711cc3be02e3b1185d1d926d3eebb036d9c313b5354677d667271e269856bef2de005b17697a6ce60483e3d07c49d3019f6b7de3fe7e5086616518576705e652ef2b230e987d6011741219cb639303f6198942eb539a1dae158a6fb47996305ef1e984bfea7ae4a014a3d837d3ca8445bf0f2ded02ac8973657af7fd407ac5e8e4319271a9ee22e557a2298f1e6f35486b8b6a2cd176d2aefb16ad54a1aa1cdf731735fa74b6291f4790644ad79f507b2161400af4a083eb45b91211c57e158758c3a036565ed3c52159c0a07d260cd6060fc1c438e35abae56553af4e49c2aea61879fbe9fc00a4b26cdee0891bb9ecca1ce9ae149f549787f48e160a09390071b63809829abab68e7087d6afb5aaddefea361d675dd30460cbcf2c486852685d01cde29f979b6b2f06d833a724aac1ddc75384122da279d53504ebd0e78486381ea0a65999c969879e90ddf7e8ce169d5b32078806198c059d2e58965b049848b712d83c1ade6d9c40072b0a0dc1a0c3f3f2cd179986138e4df57a3506756e404a40b041cdd6bfcd0f386cff85c3219bb318fb0e0aa636fa7c70c64ba12a1c98a2439415049e1a7749e911f6eebf4ff539d324d3e680347cf8da1fbc87e299f08d75a52d7765f33902bc71a0f5ab94d5cbc7ed19c449fd46e52df6da0670a0f56e7b6f1f1751fe797e6481c6ecf36910b86d9d527b6d53dfe86850f50a4edfd531f916b0753f29f15ffa1e3c4241fcb8a156ee2e00f007b649be4d6febc686a241680ee6a7f79967630278da951825d70807236d85649adac207a088250446532018e586e73086833afaa413f3dd74e5638bfef81767e62f5af653e32b0813f3d5b5ae787a2aff6b624d54ff2e1ed37159c9cb9befc466e303cff72f567e9db413a1af5a0b9c516d39eadba4f7a154dac0f578d02472ecdb7e422b0cb040368262befc882927c11d79d11f4c749f108a5c943b6845f75edf89318d18c3ecef357c3c07f223e00364626bfc922c56cd3f15556e1d1030a8ee3d4f31aedd767d8ce39e0736ca8d464a06b69f2dcd4e598156a04c3b51c4bd7b1b3b526115dc989c797293ffe24f6681fb4c99fb087b2c3f8da1e759a9042e2402bbda5e3b0c9714c576c8a0c2ec9b9af59dafebd10c5c342ce5823b1de91c91382b737096bebcdab8f1b4dd652e48384cfb797545c5bfd6c743af580edd2d79f17cbbaef37cf31d632fa1eb770c41339a8ed1f4bcd3373207f95586551005cc3eceffefa2c96e4c18c020d5813b153e03ba8d3fa0f2fdbb8eb5e16013867472d559042cf4af8f856f6400b2eb63a90c1f9b8cec57c5a77092cb794516087e3b8d7bc1060fccdb15aa53f5cff63ab445d1ce2239118e5ffdbe61599847a7c721fa8d15263670621ab5300b4c4cc5ece0ab337058059783572f134bc2dd881bca3b5222561b52c04eb73fd42fa7dc5fc264587f9b92b7aa47d512d90253f4b9e8c54e0ca51a2ca4f7c5686375d4475d2277d31285ed02178c96c003260ba492414964c56beb43dd0fc860fb7feaa06be6072f3dd7aa8ead0595be733bff2169dc2c856990bc8ede9f025fb1bd2b3adab8e44b3a3625fa76415b7a076d51090780759ae8f36e2e13dc70cf24d5f1fbbc063c1382e4f483a7c9435e96f088737c43670b97edf2a59c19dcd689792ab0e3a0cc4d166d8765926457069982630da330cba12910d46b47f56d803007dd9e89c2f0344ebe2ea7f6c7b10766097e59bd507961c0f57a7fc1f3b9ecabd5d249cf781995773218b8327efaed1bf51858fda29c931dab1911613479ec9df6eb790e03ae6f079e69c9fba2144c58c24dff9658526a8b5262b4651c69f0f25372755dee6387574a8047776d6e0daafdffc37ffa7022d88dda42f1e4e0e842f0307a36e9aece3fe0737e125f0c7a58c54d0cc8a26ad60db92b74dd5c0c7a6a74644079869034cef2e853aa7304bf43960a89c2fb9b27f45269a4f4c165571201cb255e0c46d0bbb432c2b684ea7c2a97</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="42081a0f0958c8148918e195024200d2a1e6afe363780693acb188e0be911e48">249107fcce4fdab00b19d327c31fd8f3c61bc891ae32ee1dc3c0e8bb295ebadba133e23958cfbb91933c657711adb56f4065de89aa90c6628bc5961ffc4c2d36c9e0aada0affe2e36b8ab433f463fec09d752958bbddf8920f31ea5347243d6d711face15eec90aaa60d1f4b224ad543aa870f9e3f66f89c6a4e6779dbd48c297c369313337ec54b38300727e8e7b25da20621522cc63ad3d04d8c81cf6ccc5e7809c69869aa75cdc7e894e5a8e4f139d5fc2d5b555fc93cb3b7a79a09e80306801669b06160951524a2f01a4965886c96f312dbc2aab08c10c1ad7b77f9cbac749022ee8c66458c9ef7c1d0a7db845bbc6b6f3779e6ed902ca4ae59f66107b7447e8ab731225c1fcbe7da07ba0a5d44686e5d880150c4b0e4fd2d7bf45e023697962653831c5f3d3d5022243a2b3b61551358a46307d35d0febf815c935e794c174736ffb155600b5e704ddfef079115c7c6d5a13f3b71c24aaa39c2ff82d2eb5cc20b0f6f0dc567d6cc49ae6fed2d178de19a9deae127600629861061cee025a777cf9a6d0c00d801137814c40a59da89a4bb9e060f60623ea3004192b1106d78bcbade949b1562db96bafcd0c19b22456877430cd7a6e6a3afb1b83c6028765a382bdc41f5598f660aacaeeb22c8490b029b39b4620097b1dd7b2a4ea0a32940f2de7d069a1beedbb4c10091835164e2f062bd847f2d1a9343f975a7a89dc261b0677eb9bdc45ee19220bff783592c4e7c6600c4bc924de001f748a22d1bad59bd9abc2f11d436cb3f259ada0f3f7231c39906166ba11bd46ab44c9164caceddc99707a51ca33fa48de7c47502d8122956fc41a85d0bd32950834799b5a784f657f723865bf4974deb3d923f24bd214391120d0cc83fe70bfd06f33f982036034cb1771c3f1090757c3b0bc24bd528e0dc6e41fbe90dcec7658e68b21f06845e6b32f290ca14d3d2b96255ab462943bf0f2b384eb85e83c0ebc435804f83f289174251c2b3b42da446dc0e1bf2110d5ad2812a6aa47f4d9b8b7513070d57f75e9c023886a5b8066d2b6915982fa4c451ee8248cd5eb0b50d9a635fad3da01ddb5986e6b246851edbb44bffe44508ddef088d551e4782dee23e34149230fd944c2fd0924a17e2129c3e35ce3260b3b301394af35bcbccd8f60e162b660594cad374927b687bcf09dd74ee6d126df57035b5d0f72b5d151db52423bc7b75500e544766b7e1f05c11ceda01b5e9deb16e6ad8d9525fdfdac1910d5e171c20d8b8c1d1c96a649c5e44a0381309a446b4ea4ab0bad3d3e6357d7483789ef4386bb4b3e2b5e1c34c94db592fa9c83e1d4b13887576e6236b3d62598d66c93c92fe52730a50c9b15d1e3fc0c9ccb0c8aaca09abe65aeb510eb206d281ae1bd73717fbddddb41e298bb20f6d8de0d3317cacee8730e000fa942d0759189902a31bc9d449bd22a54e54ffb50a1c483b1140b89eef9e5a6f48e3e2218ba83c583f8ea3d902cbf6de13eb7eeaa6b6df9743a85ecb6988942b5d9ffc15e21f3943fafdfb362321fa57f04787c98023f5bc6c6633fe223c2b2f09fe153a967f88cf0bc191c7cb057c650f545adb2935ef5d6ab28a8a7328d7710a10b54505dc8735ad840342088ed26be41c9d4764e5257d7b7a94280a871494e48fc7e8cb8637a7f47ba5a2fbc9d6592b57dff9c788f9ef2eb46ea3d5e8dd94473e96c8e0ab40767585b38301190c63f5ee2de293145975509a0c916c2d3ca32de1e3f1878e3743fcd8e26699252f91f8aafb6b3b7e7231ae297f71b3f3305e797d18c48d07c3bd42f4a14ed67b5a5b2913bd193dfdd73ce78c797ab912098dfcae3ea228412ddbdc830352ad4a8254a9be88aed06e0e859e919212f58f02ed012804504876bb9a3c9572d622e52f9cbc5833c18a954510cb661abba73c4337666f3d12a59794bb334fc79e5adc3951409e02dea29adb79cbfc93dfebbd0bbbce659afcb512ba3e2092d7b899e97c5c9071cdcd1cf8e41ce5fc8add7878a6f969a762131dd5d62dedaab7efbc3e0c44ccc30bc23b27b022513ca5abbe813f54adba4e83c7b09bcf4d2226ada90562d55ff0eca5c4848ae227fabbc460ada12f3cf67656a8e199b449d849b6aa20ebc0e3d33c00acc948677ac07a0a3d35ceda29d475a908a0d97b9ecfad3d6f703f846d84134ffc6bba70b443db35bc67d31075c3c8d33a25131ac219df207a9b51c15b57d96fd2ec15f4a0c4b35148b8c2fa29f084633472938071844b43e405fb3e66d73fbea077e10e8dd19abfac93caf9fcebb452054e022cfed8e5a8798bddf6e95fa057a80d744359e714c40f9c709c8c389178cdcf09aca7df29861eca08251f506c9b473ac07627f8063136bba6f6c37d2136ae9fe874f270d4f</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -1312,10 +1312,10 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/posts/20240328000001.html</url>
+    <url>/posts/20240328000007.html</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="42081a0f0958c8148918e195024200d2a1e6afe363780693acb188e0be911e48">249107fcce4fdab00b19d327c31fd8f3c61bc891ae32ee1dc3c0e8bb295ebadba133e23958cfbb91933c657711adb56f4065de89aa90c6628bc5961ffc4c2d36c9e0aada0affe2e36b8ab433f463fec09d752958bbddf8920f31ea5347243d6d711face15eec90aaa60d1f4b224ad543aa870f9e3f66f89c6a4e6779dbd48c297c369313337ec54b38300727e8e7b25da20621522cc63ad3d04d8c81cf6ccc5e7809c69869aa75cdc7e894e5a8e4f139d5fc2d5b555fc93cb3b7a79a09e80306801669b06160951524a2f01a4965886c96f312dbc2aab08c10c1ad7b77f9cbac749022ee8c66458c9ef7c1d0a7db845bbc6b6f3779e6ed902ca4ae59f66107b7447e8ab731225c1fcbe7da07ba0a5d44686e5d880150c4b0e4fd2d7bf45e023697962653831c5f3d3d5022243a2b3b61551358a46307d35d0febf815c935e794c174736ffb155600b5e704ddfef079115c7c6d5a13f3b71c24aaa39c2ff82d2eb5cc20b0f6f0dc567d6cc49ae6fed2d178de19a9deae127600629861061cee025a777cf9a6d0c00d801137814c40a59da89a4bb9e060f60623ea3004192b1106d78bcbade949b1562db96bafcd0c19b22456877430cd7a6e6a3afb1b83c6028765a382bdc41f5598f660aacaeeb22c8490b029b39b4620097b1dd7b2a4ea0a32940f2de7d069a1beedbb4c10091835164e2f062bd847f2d1a9343f975a7a89dc261b0677eb9bdc45ee19220bff783592c4e7c6600c4bc924de001f748a22d1bad59bd9abc2f11d436cb3f259ada0f3f7231c39906166ba11bd46ab44c9164caceddc99707a51ca33fa48de7c47502d8122956fc41a85d0bd32950834799b5a784f657f723865bf4974deb3d923f24bd214391120d0cc83fe70bfd06f33f982036034cb1771c3f1090757c3b0bc24bd528e0dc6e41fbe90dcec7658e68b21f06845e6b32f290ca14d3d2b96255ab462943bf0f2b384eb85e83c0ebc435804f83f289174251c2b3b42da446dc0e1bf2110d5ad2812a6aa47f4d9b8b7513070d57f75e9c023886a5b8066d2b6915982fa4c451ee8248cd5eb0b50d9a635fad3da01ddb5986e6b246851edbb44bffe44508ddef088d551e4782dee23e34149230fd944c2fd0924a17e2129c3e35ce3260b3b301394af35bcbccd8f60e162b660594cad374927b687bcf09dd74ee6d126df57035b5d0f72b5d151db52423bc7b75500e544766b7e1f05c11ceda01b5e9deb16e6ad8d9525fdfdac1910d5e171c20d8b8c1d1c96a649c5e44a0381309a446b4ea4ab0bad3d3e6357d7483789ef4386bb4b3e2b5e1c34c94db592fa9c83e1d4b13887576e6236b3d62598d66c93c92fe52730a50c9b15d1e3fc0c9ccb0c8aaca09abe65aeb510eb206d281ae1bd73717fbddddb41e298bb20f6d8de0d3317cacee8730e000fa942d0759189902a31bc9d449bd22a54e54ffb50a1c483b1140b89eef9e5a6f48e3e2218ba83c583f8ea3d902cbf6de13eb7eeaa6b6df9743a85ecb6988942b5d9ffc15e21f3943fafdfb362321fa57f04787c98023f5bc6c6633fe223c2b2f09fe153a967f88cf0bc191c7cb057c650f545adb2935ef5d6ab28a8a7328d7710a10b54505dc8735ad840342088ed26be41c9d4764e5257d7b7a94280a871494e48fc7e8cb8637a7f47ba5a2fbc9d6592b57dff9c788f9ef2eb46ea3d5e8dd94473e96c8e0ab40767585b38301190c63f5ee2de293145975509a0c916c2d3ca32de1e3f1878e3743fcd8e26699252f91f8aafb6b3b7e7231ae297f71b3f3305e797d18c48d07c3bd42f4a14ed67b5a5b2913bd193dfdd73ce78c797ab912098dfcae3ea228412ddbdc830352ad4a8254a9be88aed06e0e859e919212f58f02ed012804504876bb9a3c9572d622e52f9cbc5833c18a954510cb661abba73c4337666f3d12a59794bb334fc79e5adc3951409e02dea29adb79cbfc93dfebbd0bbbce659afcb512ba3e2092d7b899e97c5c9071cdcd1cf8e41ce5fc8add7878a6f969a762131dd5d62dedaab7efbc3e0c44ccc30bc23b27b022513ca5abbe813f54adba4e83c7b09bcf4d2226ada90562d55ff0eca5c4848ae227fabbc460ada12f3cf67656a8e199b449d849b6aa20ebc0e3d33c00acc948677ac07a0a3d35ceda29d475a908a0d97b9ecfad3d6f703f846d84134ffc6bba70b443db35bc67d31075c3c8d33a25131ac219df207a9b51c15b57d96fd2ec15f4a0c4b35148b8c2fa29f084633472938071844b43e405fb3e66d73fbea077e10e8dd19abfac93caf9fcebb452054e022cfed8e5a8798bddf6e95fa057a80d744359e714c40f9c709c8c389178cdcf09aca7df29861eca08251f506c9b473ac07627f8063136bba6f6c37d2136ae9fe874f270d4f</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="ad0cf5f3e2084cc4b1bd0c73320b9ea5ff61cb11d9732259cc500d0ef340d7e6">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367a137ea0f940c897349cdcb2a213d524e95ed5dbc19e41ff24630ea417a647ff20e8435eb0c132c442ae3e41660bf8fd80cf367d5a74f626b3b4bd36866dd7870527a70f07c6b037422483860feedeea1c01351abd66533ce4b5cf8dbb1ac756cab64c9f02c01c7caa8d50f69997b2b9ba2de59b20fd43a2a18c6423ee3ae4b79fed05c3a723d51bc7220a2ea60ee437d7c0f536c31f64497d8d2254aedc4f015a2fc5081dfc074c05b30c9b544ec8d047165f5a3f6dca74f33290d4bc05fea581c6f9b1e54533e748fd6a496a1422e796dced37ea44978a5734c52b50c0851978d833e742315e963e004cbebf932c7d98504befa2aa85bd7fe735a82b2c7e4a34b8927c93d67b8e8540059b6f180f931e90582ccd3149cc08718a69be33dee5d0d4ac7aaebf41c5e93bf22984cc25f728e45deaaf5cd251f57ebfa83cf5cc70829a18286e0eff7eee8f363c3807d40e7e185e49c9f971892f373abe7ad762906b0cb020ae134b4f88cd4dca6f3c726f007c7c0ebe6e9390962ab369fac9748b257e8a08e78f86a953a5581e4614e297677e6ef7596863e6ce445f749f6a19d4c4ab9e06c0449ea320482d2241240f068f43a75b7ada14d134c6c8a7747ccc5b704a16055745aed30775a9ad6d59e82efc314040f181fd9934d35eb46c09729498759cf23dafabe3503ffaba29a269791002c317f088b1d60a389270ebcb3f9933087bdcb607b7b4bcf020a4839494721916db2600349b581a3c271b94cfc0acc9172cdd0f502d27af9d1b4ff12cca2f0442c469ccf50a2c42f25acec34b2b25987815c524cd7fdc31798a008b1c77d1f28257e5a39083eec695b50850d7f34e3e8f5b77ba121549a48180cd90738051e2c74f6f3018b9d665577c78272822ea32baa1253b105536c39ee6c49223f4320e4d2aca32d6790037999a34368eef01f3aeba32ef411f6b37627cdf03c0cb3b2f0493109eae636b264429c52e41221f3d76b4963a1cd81f3ca1c2000b30e408c6132e4dc5015772949d8e236016d1293e4156a65e413c715031d400020de8362c9e9d5ca350b515848accf561bf05ae2271518964783cd0e0bcc92544c8705981fa5862b184e15834a9c1d2e8d2b72d0f3425b3a620f61928e543c06a66712b24b900c9c9479a78e1a21915ae8c8c764d2a2bc259808d7659ce61c107b991762e1f3dc99436d38652c0c9ed93eb0b36a929f01abb3c4bba020d988f61ed3c283ff4d00c953adf7808bc1e5fa585a22d51a3f27e28d78cf090110d180e805c49c9582e2d01f5f451f0a3863cc0a504b7c0e23e9db8acebc681b5f1084afb0ff0de633df1bf363aea8d21f52332b8989e99f3d93405508f373a5bfd78729066aba0ec8c008b962984671f5d0755bfb62aa922b841b71680cf82502ffb18ee8033fc1e8a774c779a09944a295118990aa7ef1c9d9b8f93dd0e79ba3643e0b6d538707edd71b1546f88eacf918d6ca28f45d807cb28743b5ac001c9ca8efa9bcb4e3e6c8cb1d0709f86d3726ba99ccff457aa670f26ccf7164c1bc880c31c551727739bdc79a66618d2b52fa922515a1bc4d91a8fa54e34ada99b9bc6c859e6e715c507b62442d266c3f1ea0c5ab53baedc65e768404933d1511dc60ca59019ac5d5fdeb7f12d8f2a249bd6f5be4e2c3aae3b77d77402fe13afb86006d664689064a831d120064f30676d5d75a4fcfb468e7b28aec4d64b557bfb426e0c51b6ce419bbab8e0ebf9e9cbf50b4a03e5b601cde6033860fd82869202d89fa04fddec6fab49cf33ca166de7cc48f1bcdfedff272be9bc28e913318a5c3b2a4258a42f2f0c7264be696e73b3114c92acde91e8360c4f52582eead3de157dd8f93c28e8564ef98aa70dfa853b81bb16f9be267df31eb654d6ee32aa2c8736eb89146d2d9f16900bb1240dfc365544486c2f3de01d73bc5c9ac776c846e8b5db0fedc40f6dd1471aa3c363d847584bd5c8636b02a3b1bc963a887fc8c7efcae85af3d25445a23fe41c3a3111ae02300378ff76eade9e736a9791f0050fb0b16d7eb0ed4b566f1b970538161383646f5278392da34119e85be4b0aec9c451140cb670df75621ebe2b48e2cccc107101cf71a14f9d6c2ad9a24738296ba54539dbe9c065980e2b19e383164748a015450dc6bf09a3274390198bbecf987300765e14b4d1830e43bc3f01ba2edf3203c2466a8943847163375da69f2d0cf07f4294577acb1b8e66005c7d6864c144f2c4cfba771e959b1128a4a0fdf2b5683d09d0fb61971071c3ed7187e274eea08de48adf927a9b6b580d24c5d9c8b32fcaa57badf0b7b6ff5c1e011e0efffb2827cb2871a8e9c2212eb3c108936e16773dc2fba9640ef4fb366449b697e05ddf10d5a66e02a989ffa87592e228c1854d8b06caf378130d6713a0a37887febb0b7c152c9f97a2a98c32dd545836f454a112e2e47c6992010430a42c75d46b5cb02a13bc69ce505eef411de3ca0ae86802f7b95fa210ec01bba2f7645a811c40bcf9678fde2ecdcab5592e5116ce1124be5d423b0c55ad2526c6ab3e7909aeb636d9dd2c575fcea6f4c8948d13d5f6ce9aea182927943169c563e6cbf57129dde334a05cfface3975933462e3220126199c043b033b00f34548c94b4e251e328e2015d55905d84be6ea35f844e0fd46d1dfdfc19c6f0c5b3e5834a8f222773b9ac33ada7a3cd49f6caec27ae349a71752a4cc7e37a3847931909e222c17f0e182a3cb596a8284b4d8f268a1aa9ec0f73e519c6d431fbb7f52e122be82894c68f875889db4a713e20c692465a5f9dea5b50273f66977c2e328fa36fb3964a70a901e261e13280e863cc6dffd1385b62e979114009aeb260411ebd4ff70ed9899d5eba4d172e8a85b2dbfd29ad5e698d4eceaa84b45ada5b38937db5d2dcbe07e131fb6b769d1565d12fb432cb787fccd89bad2b6bc79ba09dd4b80c33f195678cb7cb7b75cc3b65a60d2c145f9fe70e4168943d491fb1e3963811d5e74df567fde4ab5e8e263a69ae210eda73d1b697e273f6de3d6d15d570569fb48002ec07ce8c25cdb2729f2dda7e92a7409ffc3c14ec71464f01d4b887d8119fc974ae50b65c6072cac5d30dff255e5e97b86113071d1ea4746eb1e51c698fb1393b68baf749307bfda8e6c35451f42b6977e1c3e0693a4b58ee3e872062332c104a1919a63cbf8565a31b7e0ac7448cc99b38714191322547b5b7304c59914919b0a9e64b8de46defcbd6a97b787938dd974e6d3fcc31bc46488fb63af2bbc64171e147900933cce696cb6b90d2a0b779eb714eba29fce830cd2f75be99463a0da9528e24fcdf1a880c167a966d53b7173c72fffb1e86604db9fd4bc5e9dfe1160f2f6328d4cb070177643ff0518e311fa75d19193880c4cc6630ddc6cde7dd0218a3f200bc3d7b68325e83831f3f5f47cb5ad1f6f2531b80f4cef900fe01cc5d8d06dbae9e752e81478fda7f9d3acf5c020edd3a224df6a19c3fa49039531efd9dcd88012c0a63a5fa9135f3cb3d72cc1687eb0ac656dee7f67c4d5996b1ae9e765738ba35bc8fcfde54c055ea4830ed62a6d28f877dca6375aed8af37ae2c6945d5a926fc2b15a675d6fcbb9c4b26703ae695c64f1599f0460af61ec5025593f40fb3afbd90b18aa846c56dd18eaf7654a6382cdca5193388824162bdb36df2cbee665ce3f5b305f5b851b4abefb1cf5aad026b8d61d2dc79cd864e924dd8eaa748eac03cf26fd9992e5846dcfa9d42323e7c95b584a7fa8646f27d1ff42a00c77b4ccb959d5b73c09f1e90d581edcbda87ab0fe455b9bb002e3ce098fc4374e1be8a8fc40e4a98fa17ca0767875b0512b7d0829dc2c61469dd6b48f1d0f76a8664b201e91f3be9ff2fa7f732af278f9a43c3fc6997ca7ad24270d81bfc0a9e285c7ecd42293d942b3655d8135b1f94093b7cd55f25cac2602f4a3330452459f4e9c69a2132d2786387a47e0f5df8a803c5c67ce85527029600b95260bb8e6f09104a959c224f45cd936b211d73a3949d91cf68fba830a27d78e1dbb9e1a07db5be20d4fb64d5bd6500880b93f91ff72217f3d32993b22e697677ffadde74f2ec33b4756cca32c04f3da72d8b563b0ace35859aaae15687ed3bebe143228371cea41c02187922a3c2153fe5d37f7345c382a940acfeaa3241db3828cf2c90438670bae6e4e016a1b69641a892f186c7747832f02cf2185ada00752fdd1a27e7ac7f0ae80f6079901463b17a30fc42ce2d22d9eb646b455fed780157def944f92e417961754bcbda3b16c5c43e38b70a73f48dd786187ae6305a86e622390c3e4bc48d638b1f1322145b2c33400f6c48bbc2b26d5330edb1d1f7295b282f87f38ca211789eb02c53ba6f11eac1b6b245dc7b52026a0641c33643e8a867098360bd9b374ee32077e6ecc12c60c3de7c879b80d359e8d5d250132dbbad6fff95801b0bc61e42005f8cb61edffdc042187dd2137f7bab6b22a9f4353c28af263243dc4311fc2ffacce65291720f0241bd40fcfae21831f268227a312e4faec2eb2cfcc840bbf40fb0db7f7da66825eb84e61d8166f29bca36dfe1d819696ef36adc53ce21c8c50032e5c5117091379325e9dc869146254eb17b1ebb6fb9eb27f615c9ac2c04a9184ec76016dffc30014be42a4e08d17878b99393b37bd8a8ab6a373f3dc805f3d8d0cd99e2b752472000bec0da34e6bd813043b760321d31c81957515e86b472ed7d0f2c8d96fc92fabd5ce771cee1c1117766fdcadcf154704afe6599d1ba660760df71ce55bcede787a486734360aec20ce50d3ed760c53c555c2788acc48bf1f5147d6ccd8c2a5ef7bd0a1a3b81d282249a72c81d956c80137a592805b992f288a63e82df81c2d8fb59ddeaa866643fc11171ec3f39a2143b9dfba5841403157998baa52a18eead8f806a9ed8a5f10b11641562d2a08c390f3f51f421dfc282455aa32eee575360e5d3fbc3fa458723b314af543e17270b29da325435d8c3fa222245c5ff7602b15365d073a08a4c99084a046c2cffec3f3d9b846b563eb409a0e12c867dedf2ebe29910db474c81d19b466456dc0e7ee4d908732ce43ec343ddec1cf4fbf3930913a37fd00314b61af005f029c3a7ee4a152a9897d6efa36dd057334d1bd1eb858e2468acdd30f43c38f7c93577d7b60a9db6fa44c21ac263e5857ee690c838d048ae5edc22049c2a127f49d42ea0f085bac88248c3bd6cabc6be5bd41fefbd012bbe089c057724ce20458cf1724d6987c4ffc899dab8fe0945b401b5cac613a2a1312fba3a7b9b7925d4a95b7b6a5c85bbc8cd009e5768ac5408ee3c2da73400adc0c5f52fd1fca26807564693965708a186ff7b373b3a39763adcf50eb570b289ab3f27bcee424e6f8bc6550675ff4e914c25069768844da569f508109b9c21671f4a03b9d3c716c7da721bf39a4a2e98413391f16acc4484c5f766361b493383c2047d3d142b8a2c27fca44d53c67393962ff5c6e8fb2dbfade09be7df730cb4790da37dd826405ab634e471ec4c2022e7c015172f52d555f327fe17afe7e390f78cfa71d0dd12a7737b0ef212753e1c23708c44fc98d3b2f5d32aeb6bd3919078d8b504911c8f15a1807d396776712c5d4f20e268f37f903562059f02bbe0ef3aeb3f59aa1cb4befceb49d8af9d545123a6f76e3c104d44ed70add6e5799b4d853c770eb60491e390aabcd9209685e51333f342c1935f77c98659b14038730a3e43f2c168dacec5cbcaa6dd389c5dccfd67af9376b13bfd7eb41cb18dcdb947cb80f46de694183d27f6e87574bf22f578ce9fd20837bd83b825c15df72554078ce476aa99f91a3a70260c212ff276beb74673e84c2cda8e08ffc764909ef137845d43613777e978120193dbc2a39e0dee3cb2f0118bf87593d5fd464981d9c78f47814b0921bc71a85f6e112d8ccab5fd5045ccbf177b8b5f922e1d6174a0d05fd120a5bd49ea60bdd7c246bd62e83999549b09c14332028464fa74e3d8903c72c4ab2aeaedd325058a38f4a12f1eecb5444d72744bf672a24c4f45afa4c629fece7209e4d1306b431996ec50a9a25aa9b4aa37a431c3e785774958e082927c2edfd038b445ffc59c913506b7c2460b0549190d912567b04f0f32e1ab86e06fc9b0ba05116e92ac4ce30bc26d81f6d1dd6e7d5f49b0a2d2aa609eb464adf2304132ee74dffaaa7b90a27a631e3f8a9edf400a3a20d9ee9cef8652b82d5db67ee1beb83751e3acdef73c167db6c4440e136881571a1603d35f7c80f687e3aa9ec12d22fc04db278401b33df396479891386fcbf85bd9a502917d844c559786f75ae153073d67873f59fc80c9d634ef17c95f9456b2aef12b551c3ce63184dbb11b145d36e8590727b750d78549351d80b2a9684dab8f2c6e8956294a91018ac65ebf1271c351c1a13cc8e7db0f2ffd994ff236c9d350736581bb9a8273900134631af65b63cf48257f5a1e6167cf2a3e6488b4581930698e84eb8d6d98d095d6955fbe848432136b0d1c875cd50f8cb52ffe48e4f502356520dc7701d8876688fc9581bc357c637b78543f3a7ae2c6583e72af67984f98988907c504f6d507e4a05ae857ec4fc1a6937be47a373fd992469d9c08b76df25a801e9dcbbd71ba84cb2cd577dcb5dc451835109d46f88cf9cfb4b8502ee3758cf0e80460b30379e5507571f6bbac6c73fccf8780e29854d2f8848079d3ba0032e0fa313570788539e8c8d7c91b53d3e93eadd331bc8abc1c50bfbff2f73b10270a3a5dfdc23e6426047e1240f7d5fa4cba6ccfd8cc96d9c721eeb01218793cf5986af8af7644e2a0e1302b44239216adad47cf303b0ec51ad3d6d30c2e5e7bbd7fe4c441cc027b5819e64e5827b2ef4214d52776e8e8408a6e08ea5c0b5c84f7be7de08b429af3121b07827797545a077688551906b2de27b521cfa40b734b02ea5f162ae80cd8dcfc3ca5872bbfc869226facee97e2116bfab49817c8d30c46a2d1cf10ab61dcbcdb810a884c1d06f6ffa69c0129680e3d913a5f0850532763871ffb0cff9b94a60589629ef4ad2b250a7461611075edb08b7dc824350431878e301012b528735812ba8db4f88855767d9030d577056a8a9b675a5898e73b0932b64224e4812839103c4b8c96e11143073337aa0c7f53671e6f22fb60aec2f41b454984146c280d54a3cf64f69e28f37417c08fc96bf6fc7c713c89db542fca9b3b54395e52526259c80278ae43e5fda7f6c2e36e043c365817123ca8243a1a79d9ccd386790985836367df8f908c0883d063616e0fe0264917b765aac75c10814a325224499deea7063d634a7019e35bff2189676eefed32e7f37a58bee58594d177e9e1b8b2190426e3489de3946cc6d522cfa46831b39c6727ad11b27845c9083fbe28e4fbbd9001850c49b3e063cc215c0549c470f696f3129f3354860943ee63dffd0d1f27454fd854b7471b3af3bf7270eb9a1d11c30473ccddfabead8fa77885ba0599ce56234274752f13df6d4c83929ec49df9bd9b0157cfd12c53d5e0fc2db07335ec00967b9c0ad79fef55bfbbab731efcf5bc461b6e5f0842c1c15db6b34f10210dce4eb4a2f7ea28a10564b5b660fecb1000edbb552c2c33f7ea191f9cc29b22ae45037fdb8abe0c6ac06fe6c14036a3f1e626d09c114bc93bcc6727848ea99410bd755d0d97d3338e44907ea9c9163c494a66a292f616af3aed5902537d6be7fbe7c8e3ea90328feca3b8de95b5a5ad97deb2e31c483cc1b6d38ae20a44fb391ce83ca134d0fc8acdce716bb728d46102b1a31e14ab6c86ede95304d1e7e9fd171db793a9636bf725e89ab694c6a9bf90d104c478197e43bb6ed711cc3be02e3b1185d1d926d3eebb036d9c313b5354677d667271e269856bef2de005b17697a6ce60483e3d07c49d3019f6b7de3fe7e5086616518576705e652ef2b230e987d6011741219cb639303f6198942eb539a1dae158a6fb47996305ef1e984bfea7ae4a014a3d837d3ca8445bf0f2ded02ac8973657af7fd407ac5e8e4319271a9ee22e557a2298f1e6f35486b8b6a2cd176d2aefb16ad54a1aa1cdf731735fa74b6291f4790644ad79f507b2161400af4a083eb45b91211c57e158758c3a036565ed3c52159c0a07d260cd6060fc1c438e35abae56553af4e49c2aea61879fbe9fc00a4b26cdee0891bb9ecca1ce9ae149f549787f48e160a09390071b63809829abab68e7087d6afb5aaddefea361d675dd30460cbcf2c486852685d01cde29f979b6b2f06d833a724aac1ddc75384122da279d53504ebd0e78486381ea0a65999c969879e90ddf7e8ce169d5b32078806198c059d2e58965b049848b712d83c1ade6d9c40072b0a0dc1a0c3f3f2cd179986138e4df57a3506756e404a40b041cdd6bfcd0f386cff85c3219bb318fb0e0aa636fa7c70c64ba12a1c98a2439415049e1a7749e911f6eebf4ff539d324d3e680347cf8da1fbc87e299f08d75a52d7765f33902bc71a0f5ab94d5cbc7ed19c449fd46e52df6da0670a0f56e7b6f1f1751fe797e6481c6ecf36910b86d9d527b6d53dfe86850f50a4edfd531f916b0753f29f15ffa1e3c4241fcb8a156ee2e00f007b649be4d6febc686a241680ee6a7f79967630278da951825d70807236d85649adac207a088250446532018e586e73086833afaa413f3dd74e5638bfef81767e62f5af653e32b0813f3d5b5ae787a2aff6b624d54ff2e1ed37159c9cb9befc466e303cff72f567e9db413a1af5a0b9c516d39eadba4f7a154dac0f578d02472ecdb7e422b0cb040368262befc882927c11d79d11f4c749f108a5c943b6845f75edf89318d18c3ecef357c3c07f223e00364626bfc922c56cd3f15556e1d1030a8ee3d4f31aedd767d8ce39e0736ca8d464a06b69f2dcd4e598156a04c3b51c4bd7b1b3b526115dc989c797293ffe24f6681fb4c99fb087b2c3f8da1e759a9042e2402bbda5e3b0c9714c576c8a0c2ec9b9af59dafebd10c5c342ce5823b1de91c91382b737096bebcdab8f1b4dd652e48384cfb797545c5bfd6c743af580edd2d79f17cbbaef37cf31d632fa1eb770c41339a8ed1f4bcd3373207f95586551005cc3eceffefa2c96e4c18c020d5813b153e03ba8d3fa0f2fdbb8eb5e16013867472d559042cf4af8f856f6400b2eb63a90c1f9b8cec57c5a77092cb794516087e3b8d7bc1060fccdb15aa53f5cff63ab445d1ce2239118e5ffdbe61599847a7c721fa8d15263670621ab5300b4c4cc5ece0ab337058059783572f134bc2dd881bca3b5222561b52c04eb73fd42fa7dc5fc264587f9b92b7aa47d512d90253f4b9e8c54e0ca51a2ca4f7c5686375d4475d2277d31285ed02178c96c003260ba492414964c56beb43dd0fc860fb7feaa06be6072f3dd7aa8ead0595be733bff2169dc2c856990bc8ede9f025fb1bd2b3adab8e44b3a3625fa76415b7a076d51090780759ae8f36e2e13dc70cf24d5f1fbbc063c1382e4f483a7c9435e96f088737c43670b97edf2a59c19dcd689792ab0e3a0cc4d166d8765926457069982630da330cba12910d46b47f56d803007dd9e89c2f0344ebe2ea7f6c7b10766097e59bd507961c0f57a7fc1f3b9ecabd5d249cf781995773218b8327efaed1bf51858fda29c931dab1911613479ec9df6eb790e03ae6f079e69c9fba2144c58c24dff9658526a8b5262b4651c69f0f25372755dee6387574a8047776d6e0daafdffc37ffa7022d88dda42f1e4e0e842f0307a36e9aece3fe0737e125f0c7a58c54d0cc8a26ad60db92b74dd5c0c7a6a74644079869034cef2e853aa7304bf43960a89c2fb9b27f45269a4f4c165571201cb255e0c46d0bbb432c2b684ea7c2a97</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -1497,55 +1497,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>距离向量路由算法</title>
-    <url>/posts/20250129163600.html</url>
-    <content><![CDATA[<h3 id="距离向量路由算法简单版解释"><a href="#距离向量路由算法简单版解释" class="headerlink" title="距离向量路由算法简单版解释"></a><strong>距离向量路由算法简单版解释</strong></h3><ol>
-<li><p><strong>初始状态</strong><br>每个节点（如邮局）只知道<strong>直接邻居的路径费用</strong>：  </p>
-<ul>
-<li>例：节点 <code>x</code> 知道到邻居 <code>y</code> 费用2，到 <code>z</code> 费用7；节点 <code>y</code> 知道到 <code>x</code> 费用2，到 <code>z</code> 费用1，以此类推。</li>
-</ul>
-</li>
-<li><p><strong>第一次信息交换</strong>  </p>
-<ul>
-<li>所有节点把自己的路径表<strong>广播给邻居</strong>（比如 <code>x</code> 告诉 <code>y</code> 和 <code>z</code>：“我到自己的费用是0，到 <code>y</code> 是2，到 <code>z</code> 是7”）。  </li>
-<li>收到邻居的路径表后，<strong>更新自己的路径</strong>：  <ul>
-<li>例：<code>x</code> 发现通过邻居 <code>y</code> 到 <code>z</code> 更便宜（<code>x→y→z</code> 总费用=2+1=3），于是将到 <code>z</code> 的费用从7改为3。</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p><strong>第二次信息交换</strong>  </p>
-<ul>
-<li>只有路径表<strong>有变化的节点</strong>（如 <code>x</code> 和 <code>z</code>）再次广播新路径表。  </li>
-<li>其他节点检查后，发现没有更优路径，<strong>不再更新</strong>。</li>
-</ul>
-</li>
-<li><p><strong>算法停止</strong>  </p>
-<ul>
-<li>当所有节点的路径表<strong>不再变化</strong>时，算法结束，网络进入稳定状态，每个节点都知道全局最优路径。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="举个生活例子"><a href="#举个生活例子" class="headerlink" title="举个生活例子"></a><strong>举个生活例子</strong></h3><p>想象三个村庄（<code>x</code>, <code>y</code>, <code>z</code>）互相通邮：  </p>
-<ol>
-<li><strong>初始</strong>：各村只知道直接相邻村的邮路费用（如 <code>x</code> 到 <code>y</code> 邮费2元）。  </li>
-<li><strong>第一次通信</strong>：各村互相告知邮费表，<code>x</code> 发现通过 <code>y</code> 寄到 <code>z</code> 更便宜（总3元），于是更新自己的邮费表。  </li>
-<li><strong>第二次通信</strong>：只有更新过的村（<code>x</code> 和 <code>z</code>）再次通知邻居，其他村发现邮费没变，不再行动。  </li>
-<li><strong>最终</strong>：所有村都掌握了全局最低邮费路径，寄信时自动选最省钱的路！</li>
-</ol>
-<hr>
-<h3 id="核心思想"><a href="#核心思想" class="headerlink" title="核心思想"></a><strong>核心思想</strong></h3><ul>
-<li><strong>本地信息+定期广播</strong>：每个节点只和邻居交换信息，逐步推导全局最优路径。  </li>
-<li><strong>动态更新</strong>：发现更优路径立即修正，直到全网稳定。  </li>
-<li><strong>简单高效</strong>：适合小型网络，但大型网络中可能收敛慢或产生环路（需额外机制解决）。<a class="button  regular" href="/posts/20250125131300" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>外链</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>协议栈</title>
     <url>/posts/20250129115800.html</url>
     <content><![CDATA[<h3 id="协议栈的定义与性质"><a href="#协议栈的定义与性质" class="headerlink" title="协议栈的定义与性质"></a><strong>协议栈的定义与性质</strong></h3><p><strong>协议栈（Protocol Stack）</strong> 是网络通信中<strong>分层的协议集合</strong>，用于实现数据在不同网络层的处理与传输（如TCP/IP协议栈包含应用层、传输层、网络层、链路层等）。  </p>
@@ -1676,6 +1627,55 @@ import {initHBE} from "/js/plugins/hbe.js";
 </ul>
 <p>通过以上流程，BGP实现了全球互联网中不同自治系统间的路由协调，是维护互联网连通性的核心协议。<br></p>
 <a class="button  regular" href="/posts/20250125131300" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a>]]></content>
+      <tags>
+        <tag>外链</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>距离向量路由算法</title>
+    <url>/posts/20250129163600.html</url>
+    <content><![CDATA[<h3 id="距离向量路由算法简单版解释"><a href="#距离向量路由算法简单版解释" class="headerlink" title="距离向量路由算法简单版解释"></a><strong>距离向量路由算法简单版解释</strong></h3><ol>
+<li><p><strong>初始状态</strong><br>每个节点（如邮局）只知道<strong>直接邻居的路径费用</strong>：  </p>
+<ul>
+<li>例：节点 <code>x</code> 知道到邻居 <code>y</code> 费用2，到 <code>z</code> 费用7；节点 <code>y</code> 知道到 <code>x</code> 费用2，到 <code>z</code> 费用1，以此类推。</li>
+</ul>
+</li>
+<li><p><strong>第一次信息交换</strong>  </p>
+<ul>
+<li>所有节点把自己的路径表<strong>广播给邻居</strong>（比如 <code>x</code> 告诉 <code>y</code> 和 <code>z</code>：“我到自己的费用是0，到 <code>y</code> 是2，到 <code>z</code> 是7”）。  </li>
+<li>收到邻居的路径表后，<strong>更新自己的路径</strong>：  <ul>
+<li>例：<code>x</code> 发现通过邻居 <code>y</code> 到 <code>z</code> 更便宜（<code>x→y→z</code> 总费用=2+1=3），于是将到 <code>z</code> 的费用从7改为3。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>第二次信息交换</strong>  </p>
+<ul>
+<li>只有路径表<strong>有变化的节点</strong>（如 <code>x</code> 和 <code>z</code>）再次广播新路径表。  </li>
+<li>其他节点检查后，发现没有更优路径，<strong>不再更新</strong>。</li>
+</ul>
+</li>
+<li><p><strong>算法停止</strong>  </p>
+<ul>
+<li>当所有节点的路径表<strong>不再变化</strong>时，算法结束，网络进入稳定状态，每个节点都知道全局最优路径。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="举个生活例子"><a href="#举个生活例子" class="headerlink" title="举个生活例子"></a><strong>举个生活例子</strong></h3><p>想象三个村庄（<code>x</code>, <code>y</code>, <code>z</code>）互相通邮：  </p>
+<ol>
+<li><strong>初始</strong>：各村只知道直接相邻村的邮路费用（如 <code>x</code> 到 <code>y</code> 邮费2元）。  </li>
+<li><strong>第一次通信</strong>：各村互相告知邮费表，<code>x</code> 发现通过 <code>y</code> 寄到 <code>z</code> 更便宜（总3元），于是更新自己的邮费表。  </li>
+<li><strong>第二次通信</strong>：只有更新过的村（<code>x</code> 和 <code>z</code>）再次通知邻居，其他村发现邮费没变，不再行动。  </li>
+<li><strong>最终</strong>：所有村都掌握了全局最低邮费路径，寄信时自动选最省钱的路！</li>
+</ol>
+<hr>
+<h3 id="核心思想"><a href="#核心思想" class="headerlink" title="核心思想"></a><strong>核心思想</strong></h3><ul>
+<li><strong>本地信息+定期广播</strong>：每个节点只和邻居交换信息，逐步推导全局最优路径。  </li>
+<li><strong>动态更新</strong>：发现更优路径立即修正，直到全网稳定。  </li>
+<li><strong>简单高效</strong>：适合小型网络，但大型网络中可能收敛慢或产生环路（需额外机制解决）。<a class="button  regular" href="/posts/20250125131300" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a></li>
+</ul>
+]]></content>
       <tags>
         <tag>外链</tag>
       </tags>
@@ -1979,114 +1979,6 @@ import {initHBE} from "/js/plugins/hbe.js";
 <li><strong>舜作为禅让制末代领袖</strong>，其统治仍属前朝体系，未被归入“朝代”范畴。</li>
 </ul>
 <p>这一划分既基于传统史书的叙事逻辑，也反映了早期中国从部落联盟向国家形态演进的历史进程。</p>
-]]></content>
-      <categories>
-        <category>公务员考试</category>
-        <category>常识</category>
-        <category>文史常识</category>
-      </categories>
-      <tags>
-        <tag>公务员考试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>杂剧、小令、套曲</title>
-    <url>/posts/20250215110000.html</url>
-    <content><![CDATA[<p>杂剧、小令和套曲是中国古代戏曲和散曲的三种重要形式，分别属于不同的艺术类别。以下是它们的定义、特点及区别：</p>
- <pre class="mermaid">  graph TD;
-      元曲--&gt;散曲;
-      元曲--&gt;杂剧;
-      散曲--&gt;小令;
-      散曲--&gt;套曲;</pre>
-<hr>
-<h3 id="一、杂剧"><a href="#一、杂剧" class="headerlink" title="一、杂剧"></a><strong>一、杂剧</strong></h3><h4 id="1-定义"><a href="#1-定义" class="headerlink" title="1. 定义"></a><strong>1. 定义</strong></h4><ul>
-<li><strong>杂剧</strong>是宋元时期流行的一种戏曲形式，以<strong>叙事性</strong>为主，融合唱、念、做、打等多种表演艺术。  </li>
-<li>元代杂剧（元杂剧）最为成熟，代表了中国古代戏曲的第一个高峰。</li>
-</ul>
-<h4 id="2-特点"><a href="#2-特点" class="headerlink" title="2. 特点"></a><strong>2. 特点</strong></h4><ul>
-<li><strong>结构</strong>：通常为四折一楔子（四幕加序幕），每折由同一宫调的若干曲牌组成。  </li>
-<li><strong>角色</strong>：分旦（女角）、末（男角）、净（花脸）、丑（丑角）等，主角多为旦或末。  </li>
-<li><strong>内容</strong>：题材广泛，包括历史、爱情、公案、神话等，如关汉卿的《窦娥冤》、王实甫的《西厢记》。  </li>
-<li><strong>音乐</strong>：以北曲为主，曲牌固定，唱腔高亢激昂。</li>
-</ul>
-<h4 id="3-历史地位"><a href="#3-历史地位" class="headerlink" title="3. 历史地位"></a><strong>3. 历史地位</strong></h4><ul>
-<li>杂剧是<strong>中国戏曲的奠基形式</strong>，对后世戏曲（如明清传奇）影响深远。</li>
-</ul>
-<hr>
-<h3 id="二、小令"><a href="#二、小令" class="headerlink" title="二、小令"></a><strong>二、小令</strong></h3><h4 id="1-定义-1"><a href="#1-定义-1" class="headerlink" title="1. 定义"></a><strong>1. 定义</strong></h4><ul>
-<li><strong>小令</strong>是散曲的一种，属于<strong>单支曲子</strong>，形式短小精悍，类似于词中的小令。  </li>
-<li>元代小令最为盛行，是文人抒情言志的重要载体。</li>
-</ul>
-<h4 id="2-特点-1"><a href="#2-特点-1" class="headerlink" title="2. 特点"></a><strong>2. 特点</strong></h4><ul>
-<li><strong>结构</strong>：通常为单曲，字数较少（如28字、30字），句式灵活。  </li>
-<li><strong>内容</strong>：多写个人情感（如爱情、隐逸、怀古），语言通俗直白。  </li>
-<li><strong>代表作家</strong>：马致远、张可久、乔吉等，如马致远的《天净沙·秋思》。  </li>
-<li><strong>音乐</strong>：可配乐演唱，但更注重文学性。</li>
-</ul>
-<h4 id="3-历史地位-1"><a href="#3-历史地位-1" class="headerlink" title="3. 历史地位"></a><strong>3. 历史地位</strong></h4><ul>
-<li>小令是<strong>元代散曲的主流形式</strong>，与杂剧共同构成元代文学的双璧。</li>
-</ul>
-<hr>
-<h3 id="三、套曲"><a href="#三、套曲" class="headerlink" title="三、套曲"></a><strong>三、套曲</strong></h3><h4 id="1-定义-2"><a href="#1-定义-2" class="headerlink" title="1. 定义"></a><strong>1. 定义</strong></h4><ul>
-<li><strong>套曲</strong>是散曲的一种，由<strong>同一宫调的若干曲牌</strong>连缀而成，篇幅较长，结构复杂。  </li>
-<li>套曲既可独立演唱，也可作为杂剧的一部分。</li>
-</ul>
-<h4 id="2-特点-2"><a href="#2-特点-2" class="headerlink" title="2. 特点"></a><strong>2. 特点</strong></h4><ul>
-<li><strong>结构</strong>：由引子、正曲、尾声组成，曲牌数量不定（如10-20支）。  </li>
-<li><strong>内容</strong>：题材广泛，可叙事、抒情、写景，语言风格多样。  </li>
-<li><strong>代表作品</strong>：如关汉卿的《南吕·一枝花·不伏老》、马致远的《双调·夜行船·秋思》。  </li>
-<li><strong>音乐</strong>：曲牌连缀需遵循宫调规律，音乐性较强。</li>
-</ul>
-<h4 id="3-历史地位-2"><a href="#3-历史地位-2" class="headerlink" title="3. 历史地位"></a><strong>3. 历史地位</strong></h4><ul>
-<li>套曲是<strong>散曲的高级形式</strong>，体现了元代曲艺的成熟与多样性。</li>
-</ul>
-<hr>
-<h3 id="四、三者区别"><a href="#四、三者区别" class="headerlink" title="四、三者区别"></a><strong>四、三者区别</strong></h3><table>
-<thead>
-<tr>
-<th><strong>项目</strong></th>
-<th><strong>杂剧</strong></th>
-<th><strong>小令</strong></th>
-<th><strong>套曲</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>性质</strong></td>
-<td>戏曲（综合性表演艺术）</td>
-<td>散曲（单支曲子，文学性为主）</td>
-<td>散曲（多支曲子连缀，文学性与音乐性并重）</td>
-</tr>
-<tr>
-<td><strong>结构</strong></td>
-<td>四折一楔子，每折多曲牌</td>
-<td>单支曲子，短小精悍</td>
-<td>多支曲牌连缀，结构复杂</td>
-</tr>
-<tr>
-<td><strong>内容</strong></td>
-<td>叙事为主，题材广泛</td>
-<td>抒情为主，语言通俗</td>
-<td>叙事、抒情、写景皆可</td>
-</tr>
-<tr>
-<td><strong>表演形式</strong></td>
-<td>唱、念、做、打结合</td>
-<td>可配乐演唱，但以文学性为主</td>
-<td>可配乐演唱，音乐性强</td>
-</tr>
-<tr>
-<td><strong>代表作品</strong></td>
-<td>《窦娥冤》《西厢记》</td>
-<td>《天净沙·秋思》</td>
-<td>《南吕·一枝花·不伏老》</td>
-</tr>
-</tbody></table>
-<hr>
-<h3 id="五、总结"><a href="#五、总结" class="headerlink" title="五、总结"></a><strong>五、总结</strong></h3><ul>
-<li><strong>杂剧</strong>是戏曲形式，注重叙事与表演；  </li>
-<li><strong>小令</strong>是散曲的短篇形式，以抒情为主；  </li>
-<li><strong>套曲</strong>是散曲的长篇形式，兼具文学性与音乐性。<br>三者共同构成了元代文学艺术的辉煌成就。</li>
-</ul>
 ]]></content>
       <categories>
         <category>公务员考试</category>
@@ -2426,76 +2318,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>五行中金为什么生水</title>
-    <url>/posts/20250216172800.html</url>
-    <content><![CDATA[<p>五行学说中的“金生水”是古代中国哲学对自然界物质和能量转化关系的一种抽象表达。以下是“金生水”的具体解释：</p>
-<hr>
-<h3 id="一、五行的基本关系"><a href="#一、五行的基本关系" class="headerlink" title="一、五行的基本关系"></a><strong>一、五行的基本关系</strong></h3><p>五行（金、木、水、火、土）之间存在<strong>相生</strong>和<strong>相克</strong>的关系：  </p>
-<ul>
-<li><strong>相生</strong>：金→水→木→火→土→金（循环）。  </li>
-<li><strong>相克</strong>：金→木→土→水→火→金（循环）。</li>
-</ul>
-<p>“金生水”是相生关系中的一环，表示金对水的生成或促进作用。</p>
-<hr>
-<h3 id="二、“金生水”的具体含义"><a href="#二、“金生水”的具体含义" class="headerlink" title="二、“金生水”的具体含义"></a><strong>二、“金生水”的具体含义</strong></h3><ol>
-<li><p><strong>自然现象的解释</strong>  </p>
-<ul>
-<li><strong>金属凝结水汽</strong>：古代观察到金属表面在潮湿环境中容易凝结水珠（如清晨的露水），认为金属具有“生水”的特性。  </li>
-<li><strong>矿物与水的关系</strong>：金属矿石多存在于地下，而地下水常与矿脉相伴，古人认为金属能“孕育”水源。</li>
-</ul>
-</li>
-<li><p><strong>哲学与象征意义</strong>  </p>
-<ul>
-<li><strong>金象征收敛与凝聚</strong>：金的属性为“收敛”，水为“流动”，金通过凝聚作用使水汽凝结成液态水。  </li>
-<li><strong>能量转化</strong>：金代表固态、坚硬，水代表液态、流动，金生水象征从固态到液态的转化过程。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="三、古代文献中的“金生水”"><a href="#三、古代文献中的“金生水”" class="headerlink" title="三、古代文献中的“金生水”"></a><strong>三、古代文献中的“金生水”</strong></h3><ol>
-<li><p><strong>《尚书·洪范》</strong>  </p>
-<ul>
-<li>提到“五行”的基本概念，但未详细解释相生关系。</li>
-</ul>
-</li>
-<li><p><strong>《黄帝内经》</strong>  </p>
-<ul>
-<li>将五行与人体生理结合，认为“金生水”对应肺（金）与肾（水）的关系，肺气清肃下行可滋养肾水。</li>
-</ul>
-</li>
-<li><p><strong>《淮南子》</strong>  </p>
-<ul>
-<li>进一步阐释五行相生，提出“金生水”是自然界物质转化的规律之一。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="四、现代视角的解读"><a href="#四、现代视角的解读" class="headerlink" title="四、现代视角的解读"></a><strong>四、现代视角的解读</strong></h3><ol start="4">
-<li><p><strong>科学角度</strong>  </p>
-<ul>
-<li>金属表面凝结水珠是物理现象（如露水形成），古人通过观察总结出“金生水”的规律。  </li>
-<li>金属矿石与地下水的共生关系也符合现代地质学知识。</li>
-</ul>
-</li>
-<li><p><strong>文化象征</strong>  </p>
-<ul>
-<li>“金生水”体现了古人对自然界物质循环的朴素认知，具有深刻的哲学意义。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="五、总结"><a href="#五、总结" class="headerlink" title="五、总结"></a><strong>五、总结</strong></h3><p>“金生水”是五行学说中相生关系的体现，既源于古人对自然现象的观察（如金属凝结水汽），也蕴含了哲学上的能量转化思想。它不仅是古代中国哲学的重要组成部分，也反映了古人对自然规律的深刻理解。</p>
-]]></content>
-      <categories>
-        <category>公务员考试</category>
-        <category>常识</category>
-        <category>生活常识</category>
-      </categories>
-      <tags>
-        <tag>公务员考试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>大学与中庸</title>
     <url>/posts/20250216173700.html</url>
     <content><![CDATA[<p>《中庸》和《大学》是儒家经典“四书”中的两部重要著作，集中体现了儒家的哲学思想、伦理观念和政治理想。以下是它们的主要内容概述：</p>
@@ -2578,6 +2400,184 @@ import {initHBE} from "/js/plugins/hbe.js";
 <h3 id="四、总结"><a href="#四、总结" class="headerlink" title="四、总结"></a><strong>四、总结</strong></h3><ul>
 <li><strong>《大学》</strong>：提供了一条从个人修养到社会治理的完整路径，强调“修身”是根本。  </li>
 <li><strong>《中庸》</strong>：阐述了儒家追求和谐与平衡的哲学思想，强调“诚”与“中庸”的重要性。<br>两者共同构成了儒家思想的核心体系，对后世中国文化产生了深远影响。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+        <category>文史常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>五行中金为什么生水</title>
+    <url>/posts/20250216172800.html</url>
+    <content><![CDATA[<p>五行学说中的“金生水”是古代中国哲学对自然界物质和能量转化关系的一种抽象表达。以下是“金生水”的具体解释：</p>
+<hr>
+<h3 id="一、五行的基本关系"><a href="#一、五行的基本关系" class="headerlink" title="一、五行的基本关系"></a><strong>一、五行的基本关系</strong></h3><p>五行（金、木、水、火、土）之间存在<strong>相生</strong>和<strong>相克</strong>的关系：  </p>
+<ul>
+<li><strong>相生</strong>：金→水→木→火→土→金（循环）。  </li>
+<li><strong>相克</strong>：金→木→土→水→火→金（循环）。</li>
+</ul>
+<p>“金生水”是相生关系中的一环，表示金对水的生成或促进作用。</p>
+<hr>
+<h3 id="二、“金生水”的具体含义"><a href="#二、“金生水”的具体含义" class="headerlink" title="二、“金生水”的具体含义"></a><strong>二、“金生水”的具体含义</strong></h3><ol>
+<li><p><strong>自然现象的解释</strong>  </p>
+<ul>
+<li><strong>金属凝结水汽</strong>：古代观察到金属表面在潮湿环境中容易凝结水珠（如清晨的露水），认为金属具有“生水”的特性。  </li>
+<li><strong>矿物与水的关系</strong>：金属矿石多存在于地下，而地下水常与矿脉相伴，古人认为金属能“孕育”水源。</li>
+</ul>
+</li>
+<li><p><strong>哲学与象征意义</strong>  </p>
+<ul>
+<li><strong>金象征收敛与凝聚</strong>：金的属性为“收敛”，水为“流动”，金通过凝聚作用使水汽凝结成液态水。  </li>
+<li><strong>能量转化</strong>：金代表固态、坚硬，水代表液态、流动，金生水象征从固态到液态的转化过程。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、古代文献中的“金生水”"><a href="#三、古代文献中的“金生水”" class="headerlink" title="三、古代文献中的“金生水”"></a><strong>三、古代文献中的“金生水”</strong></h3><ol>
+<li><p><strong>《尚书·洪范》</strong>  </p>
+<ul>
+<li>提到“五行”的基本概念，但未详细解释相生关系。</li>
+</ul>
+</li>
+<li><p><strong>《黄帝内经》</strong>  </p>
+<ul>
+<li>将五行与人体生理结合，认为“金生水”对应肺（金）与肾（水）的关系，肺气清肃下行可滋养肾水。</li>
+</ul>
+</li>
+<li><p><strong>《淮南子》</strong>  </p>
+<ul>
+<li>进一步阐释五行相生，提出“金生水”是自然界物质转化的规律之一。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="四、现代视角的解读"><a href="#四、现代视角的解读" class="headerlink" title="四、现代视角的解读"></a><strong>四、现代视角的解读</strong></h3><ol start="4">
+<li><p><strong>科学角度</strong>  </p>
+<ul>
+<li>金属表面凝结水珠是物理现象（如露水形成），古人通过观察总结出“金生水”的规律。  </li>
+<li>金属矿石与地下水的共生关系也符合现代地质学知识。</li>
+</ul>
+</li>
+<li><p><strong>文化象征</strong>  </p>
+<ul>
+<li>“金生水”体现了古人对自然界物质循环的朴素认知，具有深刻的哲学意义。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="五、总结"><a href="#五、总结" class="headerlink" title="五、总结"></a><strong>五、总结</strong></h3><p>“金生水”是五行学说中相生关系的体现，既源于古人对自然现象的观察（如金属凝结水汽），也蕴含了哲学上的能量转化思想。它不仅是古代中国哲学的重要组成部分，也反映了古人对自然规律的深刻理解。</p>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+        <category>生活常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杂剧、小令、套曲</title>
+    <url>/posts/20250215110000.html</url>
+    <content><![CDATA[<p>杂剧、小令和套曲是中国古代戏曲和散曲的三种重要形式，分别属于不同的艺术类别。以下是它们的定义、特点及区别：</p>
+ <pre class="mermaid">  graph TD;
+      元曲--&gt;散曲;
+      元曲--&gt;杂剧;
+      散曲--&gt;小令;
+      散曲--&gt;套曲;</pre>
+<hr>
+<h3 id="一、杂剧"><a href="#一、杂剧" class="headerlink" title="一、杂剧"></a><strong>一、杂剧</strong></h3><h4 id="1-定义"><a href="#1-定义" class="headerlink" title="1. 定义"></a><strong>1. 定义</strong></h4><ul>
+<li><strong>杂剧</strong>是宋元时期流行的一种戏曲形式，以<strong>叙事性</strong>为主，融合唱、念、做、打等多种表演艺术。  </li>
+<li>元代杂剧（元杂剧）最为成熟，代表了中国古代戏曲的第一个高峰。</li>
+</ul>
+<h4 id="2-特点"><a href="#2-特点" class="headerlink" title="2. 特点"></a><strong>2. 特点</strong></h4><ul>
+<li><strong>结构</strong>：通常为四折一楔子（四幕加序幕），每折由同一宫调的若干曲牌组成。  </li>
+<li><strong>角色</strong>：分旦（女角）、末（男角）、净（花脸）、丑（丑角）等，主角多为旦或末。  </li>
+<li><strong>内容</strong>：题材广泛，包括历史、爱情、公案、神话等，如关汉卿的《窦娥冤》、王实甫的《西厢记》。  </li>
+<li><strong>音乐</strong>：以北曲为主，曲牌固定，唱腔高亢激昂。</li>
+</ul>
+<h4 id="3-历史地位"><a href="#3-历史地位" class="headerlink" title="3. 历史地位"></a><strong>3. 历史地位</strong></h4><ul>
+<li>杂剧是<strong>中国戏曲的奠基形式</strong>，对后世戏曲（如明清传奇）影响深远。</li>
+</ul>
+<hr>
+<h3 id="二、小令"><a href="#二、小令" class="headerlink" title="二、小令"></a><strong>二、小令</strong></h3><h4 id="1-定义-1"><a href="#1-定义-1" class="headerlink" title="1. 定义"></a><strong>1. 定义</strong></h4><ul>
+<li><strong>小令</strong>是散曲的一种，属于<strong>单支曲子</strong>，形式短小精悍，类似于词中的小令。  </li>
+<li>元代小令最为盛行，是文人抒情言志的重要载体。</li>
+</ul>
+<h4 id="2-特点-1"><a href="#2-特点-1" class="headerlink" title="2. 特点"></a><strong>2. 特点</strong></h4><ul>
+<li><strong>结构</strong>：通常为单曲，字数较少（如28字、30字），句式灵活。  </li>
+<li><strong>内容</strong>：多写个人情感（如爱情、隐逸、怀古），语言通俗直白。  </li>
+<li><strong>代表作家</strong>：马致远、张可久、乔吉等，如马致远的《天净沙·秋思》。  </li>
+<li><strong>音乐</strong>：可配乐演唱，但更注重文学性。</li>
+</ul>
+<h4 id="3-历史地位-1"><a href="#3-历史地位-1" class="headerlink" title="3. 历史地位"></a><strong>3. 历史地位</strong></h4><ul>
+<li>小令是<strong>元代散曲的主流形式</strong>，与杂剧共同构成元代文学的双璧。</li>
+</ul>
+<hr>
+<h3 id="三、套曲"><a href="#三、套曲" class="headerlink" title="三、套曲"></a><strong>三、套曲</strong></h3><h4 id="1-定义-2"><a href="#1-定义-2" class="headerlink" title="1. 定义"></a><strong>1. 定义</strong></h4><ul>
+<li><strong>套曲</strong>是散曲的一种，由<strong>同一宫调的若干曲牌</strong>连缀而成，篇幅较长，结构复杂。  </li>
+<li>套曲既可独立演唱，也可作为杂剧的一部分。</li>
+</ul>
+<h4 id="2-特点-2"><a href="#2-特点-2" class="headerlink" title="2. 特点"></a><strong>2. 特点</strong></h4><ul>
+<li><strong>结构</strong>：由引子、正曲、尾声组成，曲牌数量不定（如10-20支）。  </li>
+<li><strong>内容</strong>：题材广泛，可叙事、抒情、写景，语言风格多样。  </li>
+<li><strong>代表作品</strong>：如关汉卿的《南吕·一枝花·不伏老》、马致远的《双调·夜行船·秋思》。  </li>
+<li><strong>音乐</strong>：曲牌连缀需遵循宫调规律，音乐性较强。</li>
+</ul>
+<h4 id="3-历史地位-2"><a href="#3-历史地位-2" class="headerlink" title="3. 历史地位"></a><strong>3. 历史地位</strong></h4><ul>
+<li>套曲是<strong>散曲的高级形式</strong>，体现了元代曲艺的成熟与多样性。</li>
+</ul>
+<hr>
+<h3 id="四、三者区别"><a href="#四、三者区别" class="headerlink" title="四、三者区别"></a><strong>四、三者区别</strong></h3><table>
+<thead>
+<tr>
+<th><strong>项目</strong></th>
+<th><strong>杂剧</strong></th>
+<th><strong>小令</strong></th>
+<th><strong>套曲</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>性质</strong></td>
+<td>戏曲（综合性表演艺术）</td>
+<td>散曲（单支曲子，文学性为主）</td>
+<td>散曲（多支曲子连缀，文学性与音乐性并重）</td>
+</tr>
+<tr>
+<td><strong>结构</strong></td>
+<td>四折一楔子，每折多曲牌</td>
+<td>单支曲子，短小精悍</td>
+<td>多支曲牌连缀，结构复杂</td>
+</tr>
+<tr>
+<td><strong>内容</strong></td>
+<td>叙事为主，题材广泛</td>
+<td>抒情为主，语言通俗</td>
+<td>叙事、抒情、写景皆可</td>
+</tr>
+<tr>
+<td><strong>表演形式</strong></td>
+<td>唱、念、做、打结合</td>
+<td>可配乐演唱，但以文学性为主</td>
+<td>可配乐演唱，音乐性强</td>
+</tr>
+<tr>
+<td><strong>代表作品</strong></td>
+<td>《窦娥冤》《西厢记》</td>
+<td>《天净沙·秋思》</td>
+<td>《南吕·一枝花·不伏老》</td>
+</tr>
+</tbody></table>
+<hr>
+<h3 id="五、总结"><a href="#五、总结" class="headerlink" title="五、总结"></a><strong>五、总结</strong></h3><ul>
+<li><strong>杂剧</strong>是戏曲形式，注重叙事与表演；  </li>
+<li><strong>小令</strong>是散曲的短篇形式，以抒情为主；  </li>
+<li><strong>套曲</strong>是散曲的长篇形式，兼具文学性与音乐性。<br>三者共同构成了元代文学艺术的辉煌成就。</li>
 </ul>
 ]]></content>
       <categories>
@@ -4658,114 +4658,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>诉讼程序中的鉴定解疑</title>
-    <url>/posts/20250219083000.html</url>
-    <content><![CDATA[<p>诉讼程序中的“鉴定”是指由专业机构或专家对案件涉及的专门性问题进行科学、技术性分析，并出具书面结论的过程。鉴定结论通常作为法院认定事实的重要证据。以下用通俗易懂的方式解释相关知识点和注意事项：</p>
-<hr>
-<h3 id="一、鉴定的核心作用"><a href="#一、鉴定的核心作用" class="headerlink" title="一、鉴定的核心作用"></a><strong>一、鉴定的核心作用</strong></h3><ol>
-<li><p><strong>解决专业问题</strong><br>当案件涉及医学、工程、会计、笔迹、痕迹等普通人难以判断的专业问题时，法院会通过鉴定来查明真相。<br><strong>例如</strong>：交通事故中伤残等级的评定、合同纠纷中签名真伪的鉴定。</p>
-</li>
-<li><p><strong>辅助法官裁判</strong><br>法官并非所有领域的专家，鉴定结论能帮助法官更客观地认定事实，避免主观臆断。</p>
-</li>
-</ol>
-<hr>
-<h3 id="二、鉴定的常见类型"><a href="#二、鉴定的常见类型" class="headerlink" title="二、鉴定的常见类型"></a><strong>二、鉴定的常见类型</strong></h3><ol>
-<li><p><strong>司法鉴定</strong>  </p>
-<ul>
-<li><strong>法医类</strong>：伤情鉴定、死亡原因鉴定、DNA鉴定等。  </li>
-<li><strong>物证类</strong>：指纹、笔迹、印章真伪鉴定。  </li>
-<li><strong>声像资料类</strong>：录音、视频是否被篡改的鉴定。</li>
-</ul>
-</li>
-<li><p><strong>其他专业鉴定</strong>  </p>
-<ul>
-<li><strong>医疗事故鉴定</strong>：判断医疗行为是否存在过错。  </li>
-<li><strong>工程质量鉴定</strong>：房屋裂缝是否因施工不当导致。  </li>
-<li><strong>资产评估鉴定</strong>：争议财产的价值评估。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="三、鉴定的基本流程"><a href="#三、鉴定的基本流程" class="headerlink" title="三、鉴定的基本流程"></a><strong>三、鉴定的基本流程</strong></h3><ol>
-<li><p><strong>申请鉴定</strong>  </p>
-<ul>
-<li>当事人可主动向法院申请，或由法院依职权启动。  </li>
-<li><strong>关键点</strong>：需明确说明需要鉴定的问题和理由（如“申请对合同中的签名是否本人书写进行鉴定”）。</li>
-</ul>
-</li>
-<li><p><strong>选定鉴定机构</strong>  </p>
-<ul>
-<li>通常由法院组织双方协商选择；若协商不成，由法院指定。  </li>
-<li><strong>注意</strong>：鉴定机构需具备法定资质（可在司法部官网查询）。</li>
-</ul>
-</li>
-<li><p><strong>提交材料与缴费</strong>  </p>
-<ul>
-<li>需提供与鉴定相关的材料（如病历、合同原件等）。  </li>
-<li>鉴定费用一般由申请方预交，最终由败诉方承担。</li>
-</ul>
-</li>
-<li><p><strong>出具鉴定报告</strong>  </p>
-<ul>
-<li>鉴定机构在规定时间内完成并提交报告，内容包括鉴定方法、过程和结论。</li>
-</ul>
-</li>
-<li><p><strong>质证环节</strong>  </p>
-<ul>
-<li>双方可对鉴定结论提出质疑，甚至申请重新鉴定（需有合理理由）。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="四、注意事项（小白必看！）"><a href="#四、注意事项（小白必看！）" class="headerlink" title="四、注意事项（小白必看！）"></a><strong>四、注意事项（小白必看！）</strong></h3><ol start="6">
-<li><p><strong>及时申请</strong>  </p>
-<ul>
-<li>鉴定需在举证期限内提出，逾期可能被法院拒绝。  </li>
-<li><strong>例如</strong>：一审中未申请，二审再申请可能不被准许。</li>
-</ul>
-</li>
-<li><p><strong>选择权威机构</strong>  </p>
-<ul>
-<li>务必确认鉴定机构有合法资质（如司法鉴定许可证），避免“野鸡机构”影响结果可信度。</li>
-</ul>
-</li>
-<li><p><strong>材料真实完整</strong>  </p>
-<ul>
-<li>若提交的材料不完整或造假，可能导致鉴定结论无效。  </li>
-<li><strong>例如</strong>：医疗纠纷中，需提供完整的病历和检查报告。</li>
-</ul>
-</li>
-<li><p><strong>费用问题</strong>  </p>
-<ul>
-<li>鉴定费用可能较高（几千到数万元不等），需提前做好预算。  </li>
-<li>若经济困难，可申请缓交或由法院协调分担。</li>
-</ul>
-</li>
-<li><p><strong>对结论有异议怎么办？</strong></p>
-</li>
-</ol>
-<ul>
-<li>可要求鉴定人出庭说明，或申请重新鉴定（需证明原结论存在程序违法、依据不足等问题）。</li>
-</ul>
-<hr>
-<h3 id="五、常见误区"><a href="#五、常见误区" class="headerlink" title="五、常见误区"></a><strong>五、常见误区</strong></h3><ul>
-<li><strong>误区1</strong>：“鉴定结论必须被法院采纳。”<br>→ 法院会审查鉴定程序是否合法、结论是否合理，可能不采纳有问题的结论。  </li>
-<li><strong>误区2</strong>：“自己找的鉴定机构更可靠。”<br>→ 单方委托的鉴定可能被对方质疑，最好通过法院委托。  </li>
-<li><strong>误区3</strong>：“鉴定时间越长越好。”<br>→ 拖延鉴定可能导致证据灭失（如伤情恢复后无法鉴定）。</li>
-</ul>
-<hr>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>鉴定是诉讼中解决专业问题的“科学助手”，但需注意程序合法、机构权威、材料真实。如果作为当事人，建议在律师指导下操作，避免因程序错误影响案件结果。</p>
-]]></content>
-      <categories>
-        <category>公务员考试</category>
-        <category>常识</category>
-        <category>政法常识</category>
-      </categories>
-      <tags>
-        <tag>公务员考试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>遗传算法解题步骤</title>
     <url>/posts/20250219072900.html</url>
     <content><![CDATA[<p>假设我们要解决的问题是：<strong>在 0 到 31 的整数中，找到使函数 ( f(x) = x^2 ) 最大的值</strong>（显然答案是 31，但我们可以用这个例子演示步骤）。</p>
@@ -5224,6 +5116,114 @@ import {initHBE} from "/js/plugins/hbe.js";
 <a class="button  regular" href="/posts/171300" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a>]]></content>
       <tags>
         <tag>外链</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>诉讼程序中的鉴定解疑</title>
+    <url>/posts/20250219083000.html</url>
+    <content><![CDATA[<p>诉讼程序中的“鉴定”是指由专业机构或专家对案件涉及的专门性问题进行科学、技术性分析，并出具书面结论的过程。鉴定结论通常作为法院认定事实的重要证据。以下用通俗易懂的方式解释相关知识点和注意事项：</p>
+<hr>
+<h3 id="一、鉴定的核心作用"><a href="#一、鉴定的核心作用" class="headerlink" title="一、鉴定的核心作用"></a><strong>一、鉴定的核心作用</strong></h3><ol>
+<li><p><strong>解决专业问题</strong><br>当案件涉及医学、工程、会计、笔迹、痕迹等普通人难以判断的专业问题时，法院会通过鉴定来查明真相。<br><strong>例如</strong>：交通事故中伤残等级的评定、合同纠纷中签名真伪的鉴定。</p>
+</li>
+<li><p><strong>辅助法官裁判</strong><br>法官并非所有领域的专家，鉴定结论能帮助法官更客观地认定事实，避免主观臆断。</p>
+</li>
+</ol>
+<hr>
+<h3 id="二、鉴定的常见类型"><a href="#二、鉴定的常见类型" class="headerlink" title="二、鉴定的常见类型"></a><strong>二、鉴定的常见类型</strong></h3><ol>
+<li><p><strong>司法鉴定</strong>  </p>
+<ul>
+<li><strong>法医类</strong>：伤情鉴定、死亡原因鉴定、DNA鉴定等。  </li>
+<li><strong>物证类</strong>：指纹、笔迹、印章真伪鉴定。  </li>
+<li><strong>声像资料类</strong>：录音、视频是否被篡改的鉴定。</li>
+</ul>
+</li>
+<li><p><strong>其他专业鉴定</strong>  </p>
+<ul>
+<li><strong>医疗事故鉴定</strong>：判断医疗行为是否存在过错。  </li>
+<li><strong>工程质量鉴定</strong>：房屋裂缝是否因施工不当导致。  </li>
+<li><strong>资产评估鉴定</strong>：争议财产的价值评估。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、鉴定的基本流程"><a href="#三、鉴定的基本流程" class="headerlink" title="三、鉴定的基本流程"></a><strong>三、鉴定的基本流程</strong></h3><ol>
+<li><p><strong>申请鉴定</strong>  </p>
+<ul>
+<li>当事人可主动向法院申请，或由法院依职权启动。  </li>
+<li><strong>关键点</strong>：需明确说明需要鉴定的问题和理由（如“申请对合同中的签名是否本人书写进行鉴定”）。</li>
+</ul>
+</li>
+<li><p><strong>选定鉴定机构</strong>  </p>
+<ul>
+<li>通常由法院组织双方协商选择；若协商不成，由法院指定。  </li>
+<li><strong>注意</strong>：鉴定机构需具备法定资质（可在司法部官网查询）。</li>
+</ul>
+</li>
+<li><p><strong>提交材料与缴费</strong>  </p>
+<ul>
+<li>需提供与鉴定相关的材料（如病历、合同原件等）。  </li>
+<li>鉴定费用一般由申请方预交，最终由败诉方承担。</li>
+</ul>
+</li>
+<li><p><strong>出具鉴定报告</strong>  </p>
+<ul>
+<li>鉴定机构在规定时间内完成并提交报告，内容包括鉴定方法、过程和结论。</li>
+</ul>
+</li>
+<li><p><strong>质证环节</strong>  </p>
+<ul>
+<li>双方可对鉴定结论提出质疑，甚至申请重新鉴定（需有合理理由）。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="四、注意事项（小白必看！）"><a href="#四、注意事项（小白必看！）" class="headerlink" title="四、注意事项（小白必看！）"></a><strong>四、注意事项（小白必看！）</strong></h3><ol start="6">
+<li><p><strong>及时申请</strong>  </p>
+<ul>
+<li>鉴定需在举证期限内提出，逾期可能被法院拒绝。  </li>
+<li><strong>例如</strong>：一审中未申请，二审再申请可能不被准许。</li>
+</ul>
+</li>
+<li><p><strong>选择权威机构</strong>  </p>
+<ul>
+<li>务必确认鉴定机构有合法资质（如司法鉴定许可证），避免“野鸡机构”影响结果可信度。</li>
+</ul>
+</li>
+<li><p><strong>材料真实完整</strong>  </p>
+<ul>
+<li>若提交的材料不完整或造假，可能导致鉴定结论无效。  </li>
+<li><strong>例如</strong>：医疗纠纷中，需提供完整的病历和检查报告。</li>
+</ul>
+</li>
+<li><p><strong>费用问题</strong>  </p>
+<ul>
+<li>鉴定费用可能较高（几千到数万元不等），需提前做好预算。  </li>
+<li>若经济困难，可申请缓交或由法院协调分担。</li>
+</ul>
+</li>
+<li><p><strong>对结论有异议怎么办？</strong></p>
+</li>
+</ol>
+<ul>
+<li>可要求鉴定人出庭说明，或申请重新鉴定（需证明原结论存在程序违法、依据不足等问题）。</li>
+</ul>
+<hr>
+<h3 id="五、常见误区"><a href="#五、常见误区" class="headerlink" title="五、常见误区"></a><strong>五、常见误区</strong></h3><ul>
+<li><strong>误区1</strong>：“鉴定结论必须被法院采纳。”<br>→ 法院会审查鉴定程序是否合法、结论是否合理，可能不采纳有问题的结论。  </li>
+<li><strong>误区2</strong>：“自己找的鉴定机构更可靠。”<br>→ 单方委托的鉴定可能被对方质疑，最好通过法院委托。  </li>
+<li><strong>误区3</strong>：“鉴定时间越长越好。”<br>→ 拖延鉴定可能导致证据灭失（如伤情恢复后无法鉴定）。</li>
+</ul>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>鉴定是诉讼中解决专业问题的“科学助手”，但需注意程序合法、机构权威、材料真实。如果作为当事人，建议在律师指导下操作，避免因程序错误影响案件结果。</p>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+        <category>政法常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
       </tags>
   </entry>
   <entry>
@@ -7175,6 +7175,90 @@ G --&gt; H[通胀缓解]</pre>
       </tags>
   </entry>
   <entry>
+    <title>举例说明消除二义性的语法分析树</title>
+    <url>/posts/20250222200725.html</url>
+    <content><![CDATA[<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr → Expr + Term | Term</span><br><span class="line">Term → Term * Factor | Factor</span><br><span class="line">Factor → Number | (Expr)</span><br><span class="line">Number → 0 | 1 | 2 | ... | 9</span><br></pre></td></tr></table></figure></div>
+<p>这个文法是一个<strong>消除二义性的算术表达式文法</strong>，它通过分层规则明确运算符的优先级和结合性。下面我们一步步解释它的含义：</p>
+<hr>
+<h3 id="1-文法规则"><a href="#1-文法规则" class="headerlink" title="1. 文法规则"></a><strong>1. 文法规则</strong></h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr → Expr + Term | Term</span><br><span class="line">Term → Term * Factor | Factor</span><br><span class="line">Factor → Number | (Expr)</span><br><span class="line">Number → 0 | 1 | 2 | ... | 9</span><br></pre></td></tr></table></figure></div>
+
+<hr>
+<h3 id="2-符号解释"><a href="#2-符号解释" class="headerlink" title="2. 符号解释"></a><strong>2. 符号解释</strong></h3><h4 id="1-终结符（Terminal-Symbols）"><a href="#1-终结符（Terminal-Symbols）" class="headerlink" title="(1) 终结符（Terminal Symbols）"></a><strong>(1) 终结符（Terminal Symbols）</strong></h4><ul>
+<li><code>+</code>, <code>*</code>, <code>(</code>, <code>)</code>, <code>0</code>, <code>1</code>, <code>2</code>, …, <code>9</code>。</li>
+</ul>
+<h4 id="2-非终结符（Non-Terminal-Symbols）"><a href="#2-非终结符（Non-Terminal-Symbols）" class="headerlink" title="(2) 非终结符（Non-Terminal Symbols）"></a><strong>(2) 非终结符（Non-Terminal Symbols）</strong></h4><ul>
+<li><code>Expr</code>：表达式。</li>
+<li><code>Term</code>：项（用于处理乘法）。</li>
+<li><code>Factor</code>：因子（用于处理数字和括号）。</li>
+<li><code>Number</code>：数字。</li>
+</ul>
+<h4 id="3-起始符号"><a href="#3-起始符号" class="headerlink" title="(3) 起始符号"></a><strong>(3) 起始符号</strong></h4><ul>
+<li><code>Expr</code>。</li>
+</ul>
+<hr>
+<h3 id="3-规则含义"><a href="#3-规则含义" class="headerlink" title="3. 规则含义"></a><strong>3. 规则含义</strong></h3><h4 id="1-Expr-→-Expr-Term-Term"><a href="#1-Expr-→-Expr-Term-Term" class="headerlink" title="(1) Expr → Expr + Term | Term"></a><strong>(1) <code>Expr → Expr + Term | Term</code></strong></h4><ul>
+<li><strong>含义</strong>：一个表达式可以是一个表达式加上一个项，或者直接是一个项。</li>
+<li><strong>作用</strong>：定义加法的优先级和结合性。<ul>
+<li><strong>优先级</strong>：加法比乘法优先级低。</li>
+<li><strong>结合性</strong>：左结合（如 <code>a + b + c</code> 等价于 <code>(a + b) + c</code>）。</li>
+</ul>
+</li>
+</ul>
+<h4 id="2-Term-→-Term-Factor-Factor"><a href="#2-Term-→-Term-Factor-Factor" class="headerlink" title="(2) Term → Term * Factor | Factor"></a><strong>(2) <code>Term → Term * Factor | Factor</code></strong></h4><ul>
+<li><strong>含义</strong>：一个项可以是一个项乘以一个因子，或者直接是一个因子。</li>
+<li><strong>作用</strong>：定义乘法的优先级和结合性。<ul>
+<li><strong>优先级</strong>：乘法比加法优先级高。</li>
+<li><strong>结合性</strong>：左结合（如 <code>a * b * c</code> 等价于 <code>(a * b) * c</code>）。</li>
+</ul>
+</li>
+</ul>
+<h4 id="3-Factor-→-Number-Expr"><a href="#3-Factor-→-Number-Expr" class="headerlink" title="(3) Factor → Number | (Expr)"></a><strong>(3) <code>Factor → Number | (Expr)</code></strong></h4><ul>
+<li><strong>含义</strong>：一个因子可以是一个数字，或者一个用括号括起来的表达式。</li>
+<li><strong>作用</strong>：处理数字和括号，确保括号内的表达式优先计算。</li>
+</ul>
+<h4 id="4-Number-→-0-1-2-9"><a href="#4-Number-→-0-1-2-9" class="headerlink" title="(4) Number → 0 | 1 | 2 | ... | 9"></a><strong>(4) <code>Number → 0 | 1 | 2 | ... | 9</code></strong></h4><ul>
+<li><strong>含义</strong>：一个数字可以是 <code>0</code> 到 <code>9</code> 中的任意一个。</li>
+</ul>
+<hr>
+<h3 id="4-推导过程示例"><a href="#4-推导过程示例" class="headerlink" title="4. 推导过程示例"></a><strong>4. 推导过程示例</strong></h3><p>以表达式 <code>1 + 2 * (3 + 4)</code> 为例，展示如何通过文法规则推导：</p>
+<h4 id="步骤1：起始符号"><a href="#步骤1：起始符号" class="headerlink" title="步骤1：起始符号"></a><strong>步骤1：起始符号</strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤2：应用-Expr-→-Expr-Term"><a href="#步骤2：应用-Expr-→-Expr-Term" class="headerlink" title="步骤2：应用 Expr → Expr + Term"></a><strong>步骤2：应用 <code>Expr → Expr + Term</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr + Term</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤3：左侧-Expr-应用-Expr-→-Term，右侧-Term-应用-Term-→-Term-Factor"><a href="#步骤3：左侧-Expr-应用-Expr-→-Term，右侧-Term-应用-Term-→-Term-Factor" class="headerlink" title="步骤3：左侧 Expr 应用 Expr → Term，右侧 Term 应用 Term → Term * Factor"></a><strong>步骤3：左侧 <code>Expr</code> 应用 <code>Expr → Term</code>，右侧 <code>Term</code> 应用 <code>Term → Term * Factor</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Term + Term * Factor</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤4：左侧-Term-应用-Term-→-Factor，右侧-Term-应用-Term-→-Factor"><a href="#步骤4：左侧-Term-应用-Term-→-Factor，右侧-Term-应用-Term-→-Factor" class="headerlink" title="步骤4：左侧 Term 应用 Term → Factor，右侧 Term 应用 Term → Factor"></a><strong>步骤4：左侧 <code>Term</code> 应用 <code>Term → Factor</code>，右侧 <code>Term</code> 应用 <code>Term → Factor</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Factor + Factor * Factor</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤5：左侧-Factor-应用-Factor-→-Number，中间-Factor-应用-Factor-→-Number，右侧-Factor-应用-Factor-→-Expr"><a href="#步骤5：左侧-Factor-应用-Factor-→-Number，中间-Factor-应用-Factor-→-Number，右侧-Factor-应用-Factor-→-Expr" class="headerlink" title="步骤5：左侧 Factor 应用 Factor → Number，中间 Factor 应用 Factor → Number，右侧 Factor 应用 Factor → (Expr)"></a><strong>步骤5：左侧 <code>Factor</code> 应用 <code>Factor → Number</code>，中间 <code>Factor</code> 应用 <code>Factor → Number</code>，右侧 <code>Factor</code> 应用 <code>Factor → (Expr)</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Number + Number * (Expr)</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤6：Number-分别应用-Number-→-1-和-Number-→-2，Expr-应用-Expr-→-Expr-Term"><a href="#步骤6：Number-分别应用-Number-→-1-和-Number-→-2，Expr-应用-Expr-→-Expr-Term" class="headerlink" title="步骤6：Number 分别应用 Number → 1 和 Number → 2，Expr 应用 Expr → Expr + Term"></a><strong>步骤6：<code>Number</code> 分别应用 <code>Number → 1</code> 和 <code>Number → 2</code>，<code>Expr</code> 应用 <code>Expr → Expr + Term</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (Expr + Term)</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤7：Expr-应用-Expr-→-Term，Term-应用-Term-→-Factor"><a href="#步骤7：Expr-应用-Expr-→-Term，Term-应用-Term-→-Factor" class="headerlink" title="步骤7：Expr 应用 Expr → Term，Term 应用 Term → Factor"></a><strong>步骤7：<code>Expr</code> 应用 <code>Expr → Term</code>，<code>Term</code> 应用 <code>Term → Factor</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (Term + Factor)</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤8：Term-应用-Term-→-Factor，Factor-应用-Factor-→-Number"><a href="#步骤8：Term-应用-Term-→-Factor，Factor-应用-Factor-→-Number" class="headerlink" title="步骤8：Term 应用 Term → Factor，Factor 应用 Factor → Number"></a><strong>步骤8：<code>Term</code> 应用 <code>Term → Factor</code>，<code>Factor</code> 应用 <code>Factor → Number</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (Factor + Number)</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤9：Factor-应用-Factor-→-Number，Number-分别应用-Number-→-3-和-Number-→-4"><a href="#步骤9：Factor-应用-Factor-→-Number，Number-分别应用-Number-→-3-和-Number-→-4" class="headerlink" title="步骤9：Factor 应用 Factor → Number，Number 分别应用 Number → 3 和 Number → 4"></a><strong>步骤9：<code>Factor</code> 应用 <code>Factor → Number</code>，<code>Number</code> 分别应用 <code>Number → 3</code> 和 <code>Number → 4</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (3 + 4)</span><br></pre></td></tr></table></figure></div>
+
+<hr>
+<h3 id="5-语法分析树"><a href="#5-语法分析树" class="headerlink" title="5. 语法分析树"></a><strong>5. 语法分析树</strong></h3><p>上述推导过程可以表示为语法分析树：</p>
+<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">	  Expr</span><br><span class="line">	  /|\</span><br><span class="line">  Expr    +    Term</span><br><span class="line">   |           /|\</span><br><span class="line"> Term     Term  *  Factor</span><br><span class="line">   |       |         |</span><br><span class="line">Factor   Factor    (Expr)</span><br><span class="line">   |       |        /|\</span><br><span class="line">Number   Number Expr + Term</span><br><span class="line">   |       |      |     |</span><br><span class="line">   1       2    Term   Factor</span><br><span class="line">                  |     |</span><br><span class="line">               Factor Number</span><br><span class="line">                  |     |</span><br><span class="line">                Number  4</span><br><span class="line">                  |</span><br><span class="line">                  3</span><br></pre></td></tr></table></figure></div>
+
+<hr>
+<h3 id="6-总结"><a href="#6-总结" class="headerlink" title="6. 总结"></a><strong>6. 总结</strong></h3><ul>
+<li><strong>分层规则</strong>：通过 <code>Expr</code>、<code>Term</code>、<code>Factor</code> 分层定义，明确优先级（乘法优先于加法，括号优先于乘法）。</li>
+<li><strong>消除二义性</strong>：确保每个表达式只有唯一的语法树。</li>
+<li><strong>结合性</strong>：加法和乘法都是左结合。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>编译原理</category>
+        <category>语法分析</category>
+      </categories>
+      <tags>
+        <tag>编译原理</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>编译与解释</title>
     <url>/posts/20250222195229.html</url>
     <content><![CDATA[<p>编译和解释是两种将高级编程语言转换为计算机可执行代码的方式，它们的主要区别在于<strong>转换的时机和执行的方式</strong>。以下是详细解释：</p>
@@ -7293,90 +7377,6 @@ G --&gt; H[通胀缓解]</pre>
       <categories>
         <category>编译原理</category>
         <category>概述</category>
-      </categories>
-      <tags>
-        <tag>编译原理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>举例说明消除二义性的语法分析树</title>
-    <url>/posts/20250222200725.html</url>
-    <content><![CDATA[<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr → Expr + Term | Term</span><br><span class="line">Term → Term * Factor | Factor</span><br><span class="line">Factor → Number | (Expr)</span><br><span class="line">Number → 0 | 1 | 2 | ... | 9</span><br></pre></td></tr></table></figure></div>
-<p>这个文法是一个<strong>消除二义性的算术表达式文法</strong>，它通过分层规则明确运算符的优先级和结合性。下面我们一步步解释它的含义：</p>
-<hr>
-<h3 id="1-文法规则"><a href="#1-文法规则" class="headerlink" title="1. 文法规则"></a><strong>1. 文法规则</strong></h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr → Expr + Term | Term</span><br><span class="line">Term → Term * Factor | Factor</span><br><span class="line">Factor → Number | (Expr)</span><br><span class="line">Number → 0 | 1 | 2 | ... | 9</span><br></pre></td></tr></table></figure></div>
-
-<hr>
-<h3 id="2-符号解释"><a href="#2-符号解释" class="headerlink" title="2. 符号解释"></a><strong>2. 符号解释</strong></h3><h4 id="1-终结符（Terminal-Symbols）"><a href="#1-终结符（Terminal-Symbols）" class="headerlink" title="(1) 终结符（Terminal Symbols）"></a><strong>(1) 终结符（Terminal Symbols）</strong></h4><ul>
-<li><code>+</code>, <code>*</code>, <code>(</code>, <code>)</code>, <code>0</code>, <code>1</code>, <code>2</code>, …, <code>9</code>。</li>
-</ul>
-<h4 id="2-非终结符（Non-Terminal-Symbols）"><a href="#2-非终结符（Non-Terminal-Symbols）" class="headerlink" title="(2) 非终结符（Non-Terminal Symbols）"></a><strong>(2) 非终结符（Non-Terminal Symbols）</strong></h4><ul>
-<li><code>Expr</code>：表达式。</li>
-<li><code>Term</code>：项（用于处理乘法）。</li>
-<li><code>Factor</code>：因子（用于处理数字和括号）。</li>
-<li><code>Number</code>：数字。</li>
-</ul>
-<h4 id="3-起始符号"><a href="#3-起始符号" class="headerlink" title="(3) 起始符号"></a><strong>(3) 起始符号</strong></h4><ul>
-<li><code>Expr</code>。</li>
-</ul>
-<hr>
-<h3 id="3-规则含义"><a href="#3-规则含义" class="headerlink" title="3. 规则含义"></a><strong>3. 规则含义</strong></h3><h4 id="1-Expr-→-Expr-Term-Term"><a href="#1-Expr-→-Expr-Term-Term" class="headerlink" title="(1) Expr → Expr + Term | Term"></a><strong>(1) <code>Expr → Expr + Term | Term</code></strong></h4><ul>
-<li><strong>含义</strong>：一个表达式可以是一个表达式加上一个项，或者直接是一个项。</li>
-<li><strong>作用</strong>：定义加法的优先级和结合性。<ul>
-<li><strong>优先级</strong>：加法比乘法优先级低。</li>
-<li><strong>结合性</strong>：左结合（如 <code>a + b + c</code> 等价于 <code>(a + b) + c</code>）。</li>
-</ul>
-</li>
-</ul>
-<h4 id="2-Term-→-Term-Factor-Factor"><a href="#2-Term-→-Term-Factor-Factor" class="headerlink" title="(2) Term → Term * Factor | Factor"></a><strong>(2) <code>Term → Term * Factor | Factor</code></strong></h4><ul>
-<li><strong>含义</strong>：一个项可以是一个项乘以一个因子，或者直接是一个因子。</li>
-<li><strong>作用</strong>：定义乘法的优先级和结合性。<ul>
-<li><strong>优先级</strong>：乘法比加法优先级高。</li>
-<li><strong>结合性</strong>：左结合（如 <code>a * b * c</code> 等价于 <code>(a * b) * c</code>）。</li>
-</ul>
-</li>
-</ul>
-<h4 id="3-Factor-→-Number-Expr"><a href="#3-Factor-→-Number-Expr" class="headerlink" title="(3) Factor → Number | (Expr)"></a><strong>(3) <code>Factor → Number | (Expr)</code></strong></h4><ul>
-<li><strong>含义</strong>：一个因子可以是一个数字，或者一个用括号括起来的表达式。</li>
-<li><strong>作用</strong>：处理数字和括号，确保括号内的表达式优先计算。</li>
-</ul>
-<h4 id="4-Number-→-0-1-2-9"><a href="#4-Number-→-0-1-2-9" class="headerlink" title="(4) Number → 0 | 1 | 2 | ... | 9"></a><strong>(4) <code>Number → 0 | 1 | 2 | ... | 9</code></strong></h4><ul>
-<li><strong>含义</strong>：一个数字可以是 <code>0</code> 到 <code>9</code> 中的任意一个。</li>
-</ul>
-<hr>
-<h3 id="4-推导过程示例"><a href="#4-推导过程示例" class="headerlink" title="4. 推导过程示例"></a><strong>4. 推导过程示例</strong></h3><p>以表达式 <code>1 + 2 * (3 + 4)</code> 为例，展示如何通过文法规则推导：</p>
-<h4 id="步骤1：起始符号"><a href="#步骤1：起始符号" class="headerlink" title="步骤1：起始符号"></a><strong>步骤1：起始符号</strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤2：应用-Expr-→-Expr-Term"><a href="#步骤2：应用-Expr-→-Expr-Term" class="headerlink" title="步骤2：应用 Expr → Expr + Term"></a><strong>步骤2：应用 <code>Expr → Expr + Term</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr + Term</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤3：左侧-Expr-应用-Expr-→-Term，右侧-Term-应用-Term-→-Term-Factor"><a href="#步骤3：左侧-Expr-应用-Expr-→-Term，右侧-Term-应用-Term-→-Term-Factor" class="headerlink" title="步骤3：左侧 Expr 应用 Expr → Term，右侧 Term 应用 Term → Term * Factor"></a><strong>步骤3：左侧 <code>Expr</code> 应用 <code>Expr → Term</code>，右侧 <code>Term</code> 应用 <code>Term → Term * Factor</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Term + Term * Factor</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤4：左侧-Term-应用-Term-→-Factor，右侧-Term-应用-Term-→-Factor"><a href="#步骤4：左侧-Term-应用-Term-→-Factor，右侧-Term-应用-Term-→-Factor" class="headerlink" title="步骤4：左侧 Term 应用 Term → Factor，右侧 Term 应用 Term → Factor"></a><strong>步骤4：左侧 <code>Term</code> 应用 <code>Term → Factor</code>，右侧 <code>Term</code> 应用 <code>Term → Factor</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Factor + Factor * Factor</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤5：左侧-Factor-应用-Factor-→-Number，中间-Factor-应用-Factor-→-Number，右侧-Factor-应用-Factor-→-Expr"><a href="#步骤5：左侧-Factor-应用-Factor-→-Number，中间-Factor-应用-Factor-→-Number，右侧-Factor-应用-Factor-→-Expr" class="headerlink" title="步骤5：左侧 Factor 应用 Factor → Number，中间 Factor 应用 Factor → Number，右侧 Factor 应用 Factor → (Expr)"></a><strong>步骤5：左侧 <code>Factor</code> 应用 <code>Factor → Number</code>，中间 <code>Factor</code> 应用 <code>Factor → Number</code>，右侧 <code>Factor</code> 应用 <code>Factor → (Expr)</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Number + Number * (Expr)</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤6：Number-分别应用-Number-→-1-和-Number-→-2，Expr-应用-Expr-→-Expr-Term"><a href="#步骤6：Number-分别应用-Number-→-1-和-Number-→-2，Expr-应用-Expr-→-Expr-Term" class="headerlink" title="步骤6：Number 分别应用 Number → 1 和 Number → 2，Expr 应用 Expr → Expr + Term"></a><strong>步骤6：<code>Number</code> 分别应用 <code>Number → 1</code> 和 <code>Number → 2</code>，<code>Expr</code> 应用 <code>Expr → Expr + Term</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (Expr + Term)</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤7：Expr-应用-Expr-→-Term，Term-应用-Term-→-Factor"><a href="#步骤7：Expr-应用-Expr-→-Term，Term-应用-Term-→-Factor" class="headerlink" title="步骤7：Expr 应用 Expr → Term，Term 应用 Term → Factor"></a><strong>步骤7：<code>Expr</code> 应用 <code>Expr → Term</code>，<code>Term</code> 应用 <code>Term → Factor</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (Term + Factor)</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤8：Term-应用-Term-→-Factor，Factor-应用-Factor-→-Number"><a href="#步骤8：Term-应用-Term-→-Factor，Factor-应用-Factor-→-Number" class="headerlink" title="步骤8：Term 应用 Term → Factor，Factor 应用 Factor → Number"></a><strong>步骤8：<code>Term</code> 应用 <code>Term → Factor</code>，<code>Factor</code> 应用 <code>Factor → Number</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (Factor + Number)</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤9：Factor-应用-Factor-→-Number，Number-分别应用-Number-→-3-和-Number-→-4"><a href="#步骤9：Factor-应用-Factor-→-Number，Number-分别应用-Number-→-3-和-Number-→-4" class="headerlink" title="步骤9：Factor 应用 Factor → Number，Number 分别应用 Number → 3 和 Number → 4"></a><strong>步骤9：<code>Factor</code> 应用 <code>Factor → Number</code>，<code>Number</code> 分别应用 <code>Number → 3</code> 和 <code>Number → 4</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (3 + 4)</span><br></pre></td></tr></table></figure></div>
-
-<hr>
-<h3 id="5-语法分析树"><a href="#5-语法分析树" class="headerlink" title="5. 语法分析树"></a><strong>5. 语法分析树</strong></h3><p>上述推导过程可以表示为语法分析树：</p>
-<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">	  Expr</span><br><span class="line">	  /|\</span><br><span class="line">  Expr    +    Term</span><br><span class="line">   |           /|\</span><br><span class="line"> Term     Term  *  Factor</span><br><span class="line">   |       |         |</span><br><span class="line">Factor   Factor    (Expr)</span><br><span class="line">   |       |        /|\</span><br><span class="line">Number   Number Expr + Term</span><br><span class="line">   |       |      |     |</span><br><span class="line">   1       2    Term   Factor</span><br><span class="line">                  |     |</span><br><span class="line">               Factor Number</span><br><span class="line">                  |     |</span><br><span class="line">                Number  4</span><br><span class="line">                  |</span><br><span class="line">                  3</span><br></pre></td></tr></table></figure></div>
-
-<hr>
-<h3 id="6-总结"><a href="#6-总结" class="headerlink" title="6. 总结"></a><strong>6. 总结</strong></h3><ul>
-<li><strong>分层规则</strong>：通过 <code>Expr</code>、<code>Term</code>、<code>Factor</code> 分层定义，明确优先级（乘法优先于加法，括号优先于乘法）。</li>
-<li><strong>消除二义性</strong>：确保每个表达式只有唯一的语法树。</li>
-<li><strong>结合性</strong>：加法和乘法都是左结合。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>编译原理</category>
-        <category>语法分析</category>
       </categories>
       <tags>
         <tag>编译原理</tag>
@@ -9146,117 +9146,6 @@ G --&gt; H[通胀缓解]</pre>
       </tags>
   </entry>
   <entry>
-    <title>三体中的时间线推测</title>
-    <url>/posts/20250227165800.html</url>
-    <content><![CDATA[<hr>
-<h3 id="1-危机纪元（三体危机公开后）"><a href="#1-危机纪元（三体危机公开后）" class="headerlink" title="1. 危机纪元（三体危机公开后）"></a><strong>1. 危机纪元（三体危机公开后）</strong></h3><ul>
-<li><strong>小说中的时间线</strong>：  <ul>
-<li>危机纪元起始于人类发现三体文明并确认其入侵意图（叶文洁向三体发送信号后，经过三体舰队启程的400年航程）。</li>
-<li><strong>关键事件</strong>：人类启动“面壁计划”、研发太空舰队、发展行星防御技术等。</li>
-</ul>
-</li>
-<li><strong>现实对应推测</strong>：  <ul>
-<li>危机纪元可能对应现实中的<strong>21世纪中叶到22世纪初</strong>。例如：<ul>
-<li>叶文洁在1960-1970年代发送信号，三体舰队启程时间为小说中的“危机纪元元年”（约现实中的1970年代+400年航程≈<strong>24世纪</strong>），但人类在危机纪元初期（约21世纪末）已开始备战。</li>
-<li>书中提及的“可控核聚变技术”在现实中尚未实现，但可能对应<strong>2050-2100年</strong>左右的技术阶段。</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3 id="2-威慑纪元（建立黑暗森林威慑后）"><a href="#2-威慑纪元（建立黑暗森林威慑后）" class="headerlink" title="2. 威慑纪元（建立黑暗森林威慑后）"></a><strong>2. 威慑纪元（建立黑暗森林威慑后）</strong></h3><ul>
-<li><strong>小说中的时间线</strong>：  <ul>
-<li>罗辑成功建立“黑暗森林威慑”，迫使三体舰队停止入侵，人类进入与三体文明的战略平衡期。</li>
-<li><strong>关键事件</strong>：威慑系统维护、三体与人类的文化交流、技术共享等。</li>
-</ul>
-</li>
-<li><strong>现实对应推测</strong>：  <ul>
-<li>威慑纪元可能跨越<strong>22世纪中后期至23世纪初</strong>。书中描述的社会高度依赖威慑系统，且科技已实现“强人工智能”和“光速飞船试验”，现实中可能需要至少<strong>200年以上的技术积累</strong>。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3 id="3-广播纪元（威慑失效后）"><a href="#3-广播纪元（威慑失效后）" class="headerlink" title="3. 广播纪元（威慑失效后）"></a><strong>3. 广播纪元（威慑失效后）</strong></h3><ul>
-<li><strong>小说中的时间线</strong>：  <ul>
-<li>程心接任执剑人后威慑失败，三体文明摧毁地球威慑系统，人类通过“万有引力号”广播三体坐标，引发黑暗森林打击。</li>
-</ul>
-</li>
-<li><strong>现实对应推测</strong>：  <ul>
-<li>广播纪元事件可能集中在<strong>23世纪中期</strong>，但时间跨度较短（仅数年）。此时人类已具备星际航行能力，但尚未脱离太阳系。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3 id="4-掩体纪元（太阳系二维化前夕）"><a href="#4-掩体纪元（太阳系二维化前夕）" class="headerlink" title="4. 掩体纪元（太阳系二维化前夕）"></a><strong>4. 掩体纪元（太阳系二维化前夕）</strong></h3><ul>
-<li><strong>小说中的时间线</strong>：  <ul>
-<li>人类逃往木星等气态巨行星的轨道空间站，试图躲避黑暗森林打击，但最终遭遇“二向箔”导致太阳系二维化。</li>
-</ul>
-</li>
-<li><strong>现实对应推测</strong>：  <ul>
-<li>掩体纪元可能对应<strong>23世纪后期至24世纪</strong>，此时人类技术已接近“星系文明”门槛，但尚未突破维度技术。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3 id="5-银河纪元（宇宙尺度的文明延续）"><a href="#5-银河纪元（宇宙尺度的文明延续）" class="headerlink" title="5. 银河纪元（宇宙尺度的文明延续）"></a><strong>5. 银河纪元（宇宙尺度的文明延续）</strong></h3><ul>
-<li><strong>小说中的时间线</strong>：  <ul>
-<li>程心和关一帆逃离太阳系后，进入时间跨度极大的宇宙流浪阶段。</li>
-</ul>
-</li>
-<li><strong>现实对应推测</strong>：  <ul>
-<li>时间线完全脱离现实参考，可能跨越<strong>数千万至数亿年</strong>，涉及宇宙重启等终极科幻设定。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3 id="重要锚定点："><a href="#重要锚定点：" class="headerlink" title="重要锚定点："></a><strong>重要锚定点：</strong></h3><ul>
-<li><strong>叶文洁发送信号的1960-1970年代</strong>是现实历史与小说时间线的唯一明确重合点。</li>
-<li><strong>三体舰队启程到抵达地球的400年航程</strong>：若以叶文洁1971年发送信号计算，三体舰队抵达时间为<strong>2371年</strong>（现实中的24世纪）。</li>
-<li><strong>人类备战时间</strong>：小说中从发现三体威胁到舰队抵达的“400年缓冲期”被大幅压缩（因智子封锁科技），实际备战时间可能仅<strong>2-3个世纪</strong>。</li>
-</ul>
-<hr>
-<h3 id="总结推测表"><a href="#总结推测表" class="headerlink" title="总结推测表"></a><strong>总结推测表</strong></h3><table>
-<thead>
-<tr>
-<th><strong>小说纪元</strong></th>
-<th><strong>现实对应推测</strong></th>
-<th><strong>关键事件</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>危机纪元初期</strong></td>
-<td>21世纪末-22世纪初</td>
-<td>面壁计划、可控核聚变、太空舰队</td>
-</tr>
-<tr>
-<td><strong>威慑纪元</strong></td>
-<td>22世纪中后期-23世纪初</td>
-<td>黑暗森林威慑、技术爆炸</td>
-</tr>
-<tr>
-<td><strong>广播纪元</strong></td>
-<td>23世纪中期</td>
-<td>坐标广播、三体母星毁灭</td>
-</tr>
-<tr>
-<td><strong>掩体纪元</strong></td>
-<td>23世纪末-24世纪初</td>
-<td>太阳系二维化、星舰文明逃亡</td>
-</tr>
-<tr>
-<td><strong>银河纪元</strong></td>
-<td>不可推测（宇宙尺度）</td>
-<td>宇宙降维、归零者计划</td>
-</tr>
-</tbody></table>
-<hr>
-]]></content>
-      <tags>
-        <tag>三体</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>四种输入解释</title>
     <url>/posts/20250227182420.html</url>
     <content><![CDATA[<p>在STM32（或其他微控制器）中，<strong>模拟输入、浮空输入、上拉输入和下拉输入</strong>是GPIO（通用输入输出）的四种不同输入模式，它们的主要区别在于<strong>内部电路结构</strong>和<strong>应用场景</strong>。以下是它们的详细解释和对比：</p>
@@ -9426,6 +9315,226 @@ G --&gt; H[通胀缓解]</pre>
       <tags>
         <tag>STM32</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>三体中的时间线推测</title>
+    <url>/posts/20250227165800.html</url>
+    <content><![CDATA[<hr>
+<h3 id="1-危机纪元（三体危机公开后）"><a href="#1-危机纪元（三体危机公开后）" class="headerlink" title="1. 危机纪元（三体危机公开后）"></a><strong>1. 危机纪元（三体危机公开后）</strong></h3><ul>
+<li><strong>小说中的时间线</strong>：  <ul>
+<li>危机纪元起始于人类发现三体文明并确认其入侵意图（叶文洁向三体发送信号后，经过三体舰队启程的400年航程）。</li>
+<li><strong>关键事件</strong>：人类启动“面壁计划”、研发太空舰队、发展行星防御技术等。</li>
+</ul>
+</li>
+<li><strong>现实对应推测</strong>：  <ul>
+<li>危机纪元可能对应现实中的<strong>21世纪中叶到22世纪初</strong>。例如：<ul>
+<li>叶文洁在1960-1970年代发送信号，三体舰队启程时间为小说中的“危机纪元元年”（约现实中的1970年代+400年航程≈<strong>24世纪</strong>），但人类在危机纪元初期（约21世纪末）已开始备战。</li>
+<li>书中提及的“可控核聚变技术”在现实中尚未实现，但可能对应<strong>2050-2100年</strong>左右的技术阶段。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="2-威慑纪元（建立黑暗森林威慑后）"><a href="#2-威慑纪元（建立黑暗森林威慑后）" class="headerlink" title="2. 威慑纪元（建立黑暗森林威慑后）"></a><strong>2. 威慑纪元（建立黑暗森林威慑后）</strong></h3><ul>
+<li><strong>小说中的时间线</strong>：  <ul>
+<li>罗辑成功建立“黑暗森林威慑”，迫使三体舰队停止入侵，人类进入与三体文明的战略平衡期。</li>
+<li><strong>关键事件</strong>：威慑系统维护、三体与人类的文化交流、技术共享等。</li>
+</ul>
+</li>
+<li><strong>现实对应推测</strong>：  <ul>
+<li>威慑纪元可能跨越<strong>22世纪中后期至23世纪初</strong>。书中描述的社会高度依赖威慑系统，且科技已实现“强人工智能”和“光速飞船试验”，现实中可能需要至少<strong>200年以上的技术积累</strong>。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="3-广播纪元（威慑失效后）"><a href="#3-广播纪元（威慑失效后）" class="headerlink" title="3. 广播纪元（威慑失效后）"></a><strong>3. 广播纪元（威慑失效后）</strong></h3><ul>
+<li><strong>小说中的时间线</strong>：  <ul>
+<li>程心接任执剑人后威慑失败，三体文明摧毁地球威慑系统，人类通过“万有引力号”广播三体坐标，引发黑暗森林打击。</li>
+</ul>
+</li>
+<li><strong>现实对应推测</strong>：  <ul>
+<li>广播纪元事件可能集中在<strong>23世纪中期</strong>，但时间跨度较短（仅数年）。此时人类已具备星际航行能力，但尚未脱离太阳系。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="4-掩体纪元（太阳系二维化前夕）"><a href="#4-掩体纪元（太阳系二维化前夕）" class="headerlink" title="4. 掩体纪元（太阳系二维化前夕）"></a><strong>4. 掩体纪元（太阳系二维化前夕）</strong></h3><ul>
+<li><strong>小说中的时间线</strong>：  <ul>
+<li>人类逃往木星等气态巨行星的轨道空间站，试图躲避黑暗森林打击，但最终遭遇“二向箔”导致太阳系二维化。</li>
+</ul>
+</li>
+<li><strong>现实对应推测</strong>：  <ul>
+<li>掩体纪元可能对应<strong>23世纪后期至24世纪</strong>，此时人类技术已接近“星系文明”门槛，但尚未突破维度技术。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="5-银河纪元（宇宙尺度的文明延续）"><a href="#5-银河纪元（宇宙尺度的文明延续）" class="headerlink" title="5. 银河纪元（宇宙尺度的文明延续）"></a><strong>5. 银河纪元（宇宙尺度的文明延续）</strong></h3><ul>
+<li><strong>小说中的时间线</strong>：  <ul>
+<li>程心和关一帆逃离太阳系后，进入时间跨度极大的宇宙流浪阶段。</li>
+</ul>
+</li>
+<li><strong>现实对应推测</strong>：  <ul>
+<li>时间线完全脱离现实参考，可能跨越<strong>数千万至数亿年</strong>，涉及宇宙重启等终极科幻设定。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="重要锚定点："><a href="#重要锚定点：" class="headerlink" title="重要锚定点："></a><strong>重要锚定点：</strong></h3><ul>
+<li><strong>叶文洁发送信号的1960-1970年代</strong>是现实历史与小说时间线的唯一明确重合点。</li>
+<li><strong>三体舰队启程到抵达地球的400年航程</strong>：若以叶文洁1971年发送信号计算，三体舰队抵达时间为<strong>2371年</strong>（现实中的24世纪）。</li>
+<li><strong>人类备战时间</strong>：小说中从发现三体威胁到舰队抵达的“400年缓冲期”被大幅压缩（因智子封锁科技），实际备战时间可能仅<strong>2-3个世纪</strong>。</li>
+</ul>
+<hr>
+<h3 id="总结推测表"><a href="#总结推测表" class="headerlink" title="总结推测表"></a><strong>总结推测表</strong></h3><table>
+<thead>
+<tr>
+<th><strong>小说纪元</strong></th>
+<th><strong>现实对应推测</strong></th>
+<th><strong>关键事件</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>危机纪元初期</strong></td>
+<td>21世纪末-22世纪初</td>
+<td>面壁计划、可控核聚变、太空舰队</td>
+</tr>
+<tr>
+<td><strong>威慑纪元</strong></td>
+<td>22世纪中后期-23世纪初</td>
+<td>黑暗森林威慑、技术爆炸</td>
+</tr>
+<tr>
+<td><strong>广播纪元</strong></td>
+<td>23世纪中期</td>
+<td>坐标广播、三体母星毁灭</td>
+</tr>
+<tr>
+<td><strong>掩体纪元</strong></td>
+<td>23世纪末-24世纪初</td>
+<td>太阳系二维化、星舰文明逃亡</td>
+</tr>
+<tr>
+<td><strong>银河纪元</strong></td>
+<td>不可推测（宇宙尺度）</td>
+<td>宇宙降维、归零者计划</td>
+</tr>
+</tbody></table>
+<hr>
+]]></content>
+      <tags>
+        <tag>三体</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>广义相对论和狭义相对论的基本了解</title>
+    <url>/posts/20250227170858.html</url>
+    <content><![CDATA[<p>广义相对论和狭义相对论是爱因斯坦提出的两大物理学理论，二者在<strong>理论基础</strong>、<strong>适用范围</strong>和<strong>物理内涵</strong>上存在显著差异。以下是它们的核心区别和侧重点分析：</p>
+<hr>
+<h3 id="一、狭义相对论（1905年）"><a href="#一、狭义相对论（1905年）" class="headerlink" title="一、狭义相对论（1905年）"></a><strong>一、狭义相对论（1905年）</strong></h3><h4 id="1-理论框架"><a href="#1-理论框架" class="headerlink" title="1. 理论框架"></a><strong>1. 理论框架</strong></h4><ul>
+<li><strong>基本假设</strong>：  <ul>
+<li><strong>相对性原理</strong>：物理定律在所有惯性参考系中形式不变。  </li>
+<li><strong>光速不变原理</strong>：真空中的光速对所有惯性系观测者都是恒定值（约3×10⁸ m&#x2F;s）。</li>
+</ul>
+</li>
+<li><strong>数学工具</strong>：闵可夫斯基时空（平直时空几何）。</li>
+</ul>
+<h4 id="2-核心内容"><a href="#2-核心内容" class="headerlink" title="2. 核心内容"></a><strong>2. 核心内容</strong></h4><ul>
+<li><strong>时空相对性</strong>：  <ul>
+<li>时间膨胀（运动的钟变慢）、长度收缩（运动的尺缩短）。  </li>
+<li>同时性的相对性（不同参考系对事件是否“同时发生”的判定不同）。</li>
+</ul>
+</li>
+<li><strong>质能关系</strong>：提出 ( E &#x3D; mc^2 )，揭示质量与能量的等价性。</li>
+</ul>
+<h4 id="3-适用范围"><a href="#3-适用范围" class="headerlink" title="3. 适用范围"></a><strong>3. 适用范围</strong></h4><ul>
+<li>仅适用于<strong>惯性参考系</strong>（无加速度、无引力的场景）。  </li>
+<li>解释高速运动（接近光速）下的物理现象，如粒子加速器中的实验。</li>
+</ul>
+<hr>
+<h3 id="二、广义相对论（1915年）"><a href="#二、广义相对论（1915年）" class="headerlink" title="二、广义相对论（1915年）"></a><strong>二、广义相对论（1915年）</strong></h3><h4 id="1-理论框架-1"><a href="#1-理论框架-1" class="headerlink" title="1. 理论框架"></a><strong>1. 理论框架</strong></h4><ul>
+<li><strong>基本假设</strong>：  <ul>
+<li><strong>等效原理</strong>：局部惯性系中引力效应与加速度效应不可区分。  </li>
+<li><strong>广义协变原理</strong>：物理定律在所有参考系（包括非惯性系）中形式不变。</li>
+</ul>
+</li>
+<li><strong>数学工具</strong>：黎曼几何（弯曲时空描述引力）。</li>
+</ul>
+<h4 id="2-核心内容-1"><a href="#2-核心内容-1" class="headerlink" title="2. 核心内容"></a><strong>2. 核心内容</strong></h4><ul>
+<li><strong>引力即时空弯曲</strong>：  <ul>
+<li>物质和能量决定时空的弯曲（爱因斯坦场方程：( G_{\mu\nu} &#x3D; 8\pi T_{\mu\nu} )）。  </li>
+<li>物体在弯曲时空中沿测地线运动（自由落体是惯性运动）。</li>
+</ul>
+</li>
+<li><strong>引力效应</strong>：  <ul>
+<li>引力时间膨胀（强引力场中时间流逝更慢）。  </li>
+<li>光线偏折、引力透镜、黑洞等预言。</li>
+</ul>
+</li>
+</ul>
+<h4 id="3-适用范围-1"><a href="#3-适用范围-1" class="headerlink" title="3. 适用范围"></a><strong>3. 适用范围</strong></h4><ul>
+<li>适用于<strong>所有参考系</strong>（包括加速和引力场存在的场景）。  </li>
+<li>解释宇宙学现象（如宇宙膨胀）、强引力场系统（中子星、黑洞）等。</li>
+</ul>
+<hr>
+<h3 id="三、核心区别总结"><a href="#三、核心区别总结" class="headerlink" title="三、核心区别总结"></a><strong>三、核心区别总结</strong></h3><table>
+<thead>
+<tr>
+<th><strong>维度</strong></th>
+<th><strong>狭义相对论</strong></th>
+<th><strong>广义相对论</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>参考系</strong></td>
+<td>仅惯性系</td>
+<td>所有参考系（含非惯性系）</td>
+</tr>
+<tr>
+<td><strong>引力处理</strong></td>
+<td>忽略引力</td>
+<td>将引力归因于时空弯曲</td>
+</tr>
+<tr>
+<td><strong>数学工具</strong></td>
+<td>平直时空（闵可夫斯基几何）</td>
+<td>弯曲时空（黎曼几何）</td>
+</tr>
+<tr>
+<td><strong>物理现象</strong></td>
+<td>高速运动效应（如时间膨胀）</td>
+<td>引力效应（如黑洞、引力波）</td>
+</tr>
+<tr>
+<td><strong>应用场景</strong></td>
+<td>粒子物理、电磁学</td>
+<td>宇宙学、天体物理、GPS修正</td>
+</tr>
+</tbody></table>
+<hr>
+<h3 id="四、侧重点差异"><a href="#四、侧重点差异" class="headerlink" title="四、侧重点差异"></a><strong>四、侧重点差异</strong></h3><ol>
+<li><p><strong>狭义相对论</strong>：  </p>
+<ul>
+<li>聚焦<strong>时空的对称性</strong>，强调不同惯性系观测结果的统一性。  </li>
+<li>解决电磁学与经典力学的矛盾（如光速不变性）。</li>
+</ul>
+</li>
+<li><p><strong>广义相对论</strong>：  </p>
+<ul>
+<li>揭示<strong>引力本质</strong>，将引力几何化，统一时空与物质的关系。  </li>
+<li>为宇宙大尺度结构（如暗能量、黑洞）提供理论框架。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="五、经典案例对比"><a href="#五、经典案例对比" class="headerlink" title="五、经典案例对比"></a><strong>五、经典案例对比</strong></h3><ul>
+<li><strong>双生子佯谬</strong>（狭义相对论）：<br>宇航员高速旅行返回后比地球上的兄弟年轻，需用惯性系切换（加速度）解释。  </li>
+<li><strong>GPS修正</strong>（广义相对论）：<br>卫星因高速运动（狭义相对论时间膨胀）和地球引力（广义相对论时间膨胀）导致时钟偏差，需联合两种理论修正。</li>
+</ul>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>狭义相对论是<strong>时空理论的基础</strong>，广义相对论是<strong>引力与宇宙的终极描述</strong>。二者共同构建了现代物理学的支柱，但前者是后者的特例（当引力可忽略时，广义相对论退化为狭义相对论）。</p>
+]]></content>
   </entry>
   <entry>
     <title>开漏输出与推挽输出</title>
@@ -9727,115 +9836,6 @@ G --&gt; H[通胀缓解]</pre>
       </tags>
   </entry>
   <entry>
-    <title>广义相对论和狭义相对论的基本了解</title>
-    <url>/posts/20250227170858.html</url>
-    <content><![CDATA[<p>广义相对论和狭义相对论是爱因斯坦提出的两大物理学理论，二者在<strong>理论基础</strong>、<strong>适用范围</strong>和<strong>物理内涵</strong>上存在显著差异。以下是它们的核心区别和侧重点分析：</p>
-<hr>
-<h3 id="一、狭义相对论（1905年）"><a href="#一、狭义相对论（1905年）" class="headerlink" title="一、狭义相对论（1905年）"></a><strong>一、狭义相对论（1905年）</strong></h3><h4 id="1-理论框架"><a href="#1-理论框架" class="headerlink" title="1. 理论框架"></a><strong>1. 理论框架</strong></h4><ul>
-<li><strong>基本假设</strong>：  <ul>
-<li><strong>相对性原理</strong>：物理定律在所有惯性参考系中形式不变。  </li>
-<li><strong>光速不变原理</strong>：真空中的光速对所有惯性系观测者都是恒定值（约3×10⁸ m&#x2F;s）。</li>
-</ul>
-</li>
-<li><strong>数学工具</strong>：闵可夫斯基时空（平直时空几何）。</li>
-</ul>
-<h4 id="2-核心内容"><a href="#2-核心内容" class="headerlink" title="2. 核心内容"></a><strong>2. 核心内容</strong></h4><ul>
-<li><strong>时空相对性</strong>：  <ul>
-<li>时间膨胀（运动的钟变慢）、长度收缩（运动的尺缩短）。  </li>
-<li>同时性的相对性（不同参考系对事件是否“同时发生”的判定不同）。</li>
-</ul>
-</li>
-<li><strong>质能关系</strong>：提出 ( E &#x3D; mc^2 )，揭示质量与能量的等价性。</li>
-</ul>
-<h4 id="3-适用范围"><a href="#3-适用范围" class="headerlink" title="3. 适用范围"></a><strong>3. 适用范围</strong></h4><ul>
-<li>仅适用于<strong>惯性参考系</strong>（无加速度、无引力的场景）。  </li>
-<li>解释高速运动（接近光速）下的物理现象，如粒子加速器中的实验。</li>
-</ul>
-<hr>
-<h3 id="二、广义相对论（1915年）"><a href="#二、广义相对论（1915年）" class="headerlink" title="二、广义相对论（1915年）"></a><strong>二、广义相对论（1915年）</strong></h3><h4 id="1-理论框架-1"><a href="#1-理论框架-1" class="headerlink" title="1. 理论框架"></a><strong>1. 理论框架</strong></h4><ul>
-<li><strong>基本假设</strong>：  <ul>
-<li><strong>等效原理</strong>：局部惯性系中引力效应与加速度效应不可区分。  </li>
-<li><strong>广义协变原理</strong>：物理定律在所有参考系（包括非惯性系）中形式不变。</li>
-</ul>
-</li>
-<li><strong>数学工具</strong>：黎曼几何（弯曲时空描述引力）。</li>
-</ul>
-<h4 id="2-核心内容-1"><a href="#2-核心内容-1" class="headerlink" title="2. 核心内容"></a><strong>2. 核心内容</strong></h4><ul>
-<li><strong>引力即时空弯曲</strong>：  <ul>
-<li>物质和能量决定时空的弯曲（爱因斯坦场方程：( G_{\mu\nu} &#x3D; 8\pi T_{\mu\nu} )）。  </li>
-<li>物体在弯曲时空中沿测地线运动（自由落体是惯性运动）。</li>
-</ul>
-</li>
-<li><strong>引力效应</strong>：  <ul>
-<li>引力时间膨胀（强引力场中时间流逝更慢）。  </li>
-<li>光线偏折、引力透镜、黑洞等预言。</li>
-</ul>
-</li>
-</ul>
-<h4 id="3-适用范围-1"><a href="#3-适用范围-1" class="headerlink" title="3. 适用范围"></a><strong>3. 适用范围</strong></h4><ul>
-<li>适用于<strong>所有参考系</strong>（包括加速和引力场存在的场景）。  </li>
-<li>解释宇宙学现象（如宇宙膨胀）、强引力场系统（中子星、黑洞）等。</li>
-</ul>
-<hr>
-<h3 id="三、核心区别总结"><a href="#三、核心区别总结" class="headerlink" title="三、核心区别总结"></a><strong>三、核心区别总结</strong></h3><table>
-<thead>
-<tr>
-<th><strong>维度</strong></th>
-<th><strong>狭义相对论</strong></th>
-<th><strong>广义相对论</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>参考系</strong></td>
-<td>仅惯性系</td>
-<td>所有参考系（含非惯性系）</td>
-</tr>
-<tr>
-<td><strong>引力处理</strong></td>
-<td>忽略引力</td>
-<td>将引力归因于时空弯曲</td>
-</tr>
-<tr>
-<td><strong>数学工具</strong></td>
-<td>平直时空（闵可夫斯基几何）</td>
-<td>弯曲时空（黎曼几何）</td>
-</tr>
-<tr>
-<td><strong>物理现象</strong></td>
-<td>高速运动效应（如时间膨胀）</td>
-<td>引力效应（如黑洞、引力波）</td>
-</tr>
-<tr>
-<td><strong>应用场景</strong></td>
-<td>粒子物理、电磁学</td>
-<td>宇宙学、天体物理、GPS修正</td>
-</tr>
-</tbody></table>
-<hr>
-<h3 id="四、侧重点差异"><a href="#四、侧重点差异" class="headerlink" title="四、侧重点差异"></a><strong>四、侧重点差异</strong></h3><ol>
-<li><p><strong>狭义相对论</strong>：  </p>
-<ul>
-<li>聚焦<strong>时空的对称性</strong>，强调不同惯性系观测结果的统一性。  </li>
-<li>解决电磁学与经典力学的矛盾（如光速不变性）。</li>
-</ul>
-</li>
-<li><p><strong>广义相对论</strong>：  </p>
-<ul>
-<li>揭示<strong>引力本质</strong>，将引力几何化，统一时空与物质的关系。  </li>
-<li>为宇宙大尺度结构（如暗能量、黑洞）提供理论框架。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="五、经典案例对比"><a href="#五、经典案例对比" class="headerlink" title="五、经典案例对比"></a><strong>五、经典案例对比</strong></h3><ul>
-<li><strong>双生子佯谬</strong>（狭义相对论）：<br>宇航员高速旅行返回后比地球上的兄弟年轻，需用惯性系切换（加速度）解释。  </li>
-<li><strong>GPS修正</strong>（广义相对论）：<br>卫星因高速运动（狭义相对论时间膨胀）和地球引力（广义相对论时间膨胀）导致时钟偏差，需联合两种理论修正。</li>
-</ul>
-<hr>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>狭义相对论是<strong>时空理论的基础</strong>，广义相对论是<strong>引力与宇宙的终极描述</strong>。二者共同构建了现代物理学的支柱，但前者是后者的特例（当引力可忽略时，广义相对论退化为狭义相对论）。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>强人工智能</title>
     <url>/posts/20250227170051.html</url>
     <content><![CDATA[<h3 id="强人工智能（AGI）与现有弱人工智能（AI）的区别"><a href="#强人工智能（AGI）与现有弱人工智能（AI）的区别" class="headerlink" title="强人工智能（AGI）与现有弱人工智能（AI）的区别"></a>强人工智能（AGI）与现有弱人工智能（AI）的区别</h3><h4 id="1-强人工智能（AGI）的定义"><a href="#1-强人工智能（AGI）的定义" class="headerlink" title="1. 强人工智能（AGI）的定义"></a><strong>1. 强人工智能（AGI）的定义</strong></h4><p><strong>强人工智能（Artificial General Intelligence, AGI）</strong> 指具备与人类相当或超越人类的通用智能系统，能够在任何认知任务中灵活学习、推理、规划和创造，而非仅限于单一任务。其核心特征是：</p>
@@ -10064,6 +10064,352 @@ G --&gt; H[通胀缓解]</pre>
       </tags>
   </entry>
   <entry>
+    <title>A*搜索算法解决八拼图问题</title>
+    <url>/posts/20250228170130.html</url>
+    <content><![CDATA[<p>以下是使用A*搜索算法解决八拼图问题的详细步骤、形象化说明和Python代码实现。我们将以<strong>曼哈顿距离</strong>作为启发式函数，保证算法找到最优解。</p>
+<hr>
+<h3 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a><strong>问题描述</strong></h3><p><strong>八拼图（8-Puzzle）</strong>：<br>一个3x3的方格，包含数字1~8和一个空格（用0表示）。目标是通过滑动方块，将初始状态转换为目标状态。例如：</p>
+<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">初始状态：</span><br><span class="line">2 8 3</span><br><span class="line">1 6 4</span><br><span class="line">7 0 5</span><br><span class="line"></span><br><span class="line">目标状态：</span><br><span class="line">1 2 3</span><br><span class="line">8 0 4</span><br><span class="line">7 6 5</span><br></pre></td></tr></table></figure></div>
+
+<hr>
+<h3 id="解决步骤"><a href="#解决步骤" class="headerlink" title="解决步骤"></a><strong>解决步骤</strong></h3><h4 id="1-定义状态表示"><a href="#1-定义状态表示" class="headerlink" title="1. 定义状态表示"></a><strong>1. 定义状态表示</strong></h4><p>将拼图状态表示为一个<strong>3x3的二维列表</strong>（或一维列表），例如：</p>
+<div class="code-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line">初始状态： [[<span class="number">2</span>,<span class="number">8</span>,<span class="number">3</span>], [<span class="number">1</span>,<span class="number">6</span>,<span class="number">4</span>], [<span class="number">7</span>,<span class="number">0</span>,<span class="number">5</span>]]</span><br><span class="line">目标状态： [[<span class="number">1</span>,<span class="number">2</span>,<span class="number">3</span>], [<span class="number">8</span>,<span class="number">0</span>,<span class="number">4</span>], [<span class="number">7</span>,<span class="number">6</span>,<span class="number">5</span>]]</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="2-定义启发式函数（曼哈顿距离）"><a href="#2-定义启发式函数（曼哈顿距离）" class="headerlink" title="2. 定义启发式函数（曼哈顿距离）"></a><strong>2. 定义启发式函数（曼哈顿距离）</strong></h4><p><strong>曼哈顿距离</strong>：每个数字当前与目标位置的横向和纵向距离之和。<br>例如，初始状态中数字<code>2</code>的位置是<code>(0,0)</code>，目标位置是<code>(0,1)</code>，曼哈顿距离为<code>|0-0| + |0-1| = 1</code>。</p>
+<p><strong>总启发值</strong>：所有数字（除空格外）的曼哈顿距离之和。</p>
+<h4 id="3-生成可能的移动"><a href="#3-生成可能的移动" class="headerlink" title="3. 生成可能的移动"></a><strong>3. 生成可能的移动</strong></h4><p>找到空格（0）的位置，生成所有可能的移动方向（上、下、左、右）。<br>例如，若空格在中间（坐标<code>(1,1)</code>），可以移动到四个相邻位置。</p>
+<h4 id="4-使用优先队列（Open-List）"><a href="#4-使用优先队列（Open-List）" class="headerlink" title="4. 使用优先队列（Open List）"></a><strong>4. 使用优先队列（Open List）</strong></h4><p>维护一个优先队列，按总代价 <code>f(n) = g(n) + h(n)</code> 排序，其中：</p>
+<ul>
+<li><code>g(n)</code>：从初始状态到当前状态的步数。</li>
+<li><code>h(n)</code>：曼哈顿距离的启发值。</li>
+</ul>
+<h4 id="5-避免重复状态"><a href="#5-避免重复状态" class="headerlink" title="5. 避免重复状态"></a><strong>5. 避免重复状态</strong></h4><p>使用一个<strong>已访问集合</strong>，记录所有已探索的状态，避免重复计算。</p>
+<h4 id="6-回溯路径"><a href="#6-回溯路径" class="headerlink" title="6. 回溯路径"></a><strong>6. 回溯路径</strong></h4><p>当找到目标状态时，通过记录每个状态的父节点，回溯得到完整路径。</p>
+<hr>
+<h3 id="形象化过程"><a href="#形象化过程" class="headerlink" title="形象化过程"></a><strong>形象化过程</strong></h3><p>假设初始状态和目标状态如下：</p>
+<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">初始状态        目标状态</span><br><span class="line">2 8 3          1 2 3</span><br><span class="line">1 6 4          8 0 4</span><br><span class="line">7 0 5          7 6 5</span><br></pre></td></tr></table></figure></div>
+
+<ol>
+<li><p><strong>第一步</strong>：  </p>
+<ul>
+<li>空格在<code>(2,1)</code>，可以向上移动（生成新状态）。  </li>
+<li>新状态：<code>[[2,8,3], [1,0,4], [7,6,5]]</code>，代价<code>g=1</code>，曼哈顿距离<code>h=5</code>，总代价<code>f=6</code>。</li>
+</ul>
+</li>
+<li><p><strong>扩展节点</strong>：  </p>
+<ul>
+<li>优先队列选择总代价最小的状态扩展。若某状态的<code>f(n)</code>更小，则优先探索。</li>
+</ul>
+</li>
+<li><p><strong>找到目标</strong>：  </p>
+<ul>
+<li>当某个状态的布局与目标完全一致时，回溯路径得到解。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<div class="code-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> heapq</span><br><span class="line"></span><br><span class="line"><span class="keyword">class</span> <span class="title class_">PuzzleState</span>:</span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">__init__</span>(<span class="params">self, board, parent=<span class="literal">None</span>, move=<span class="string">&quot;Initial&quot;</span></span>):</span><br><span class="line">        <span class="comment"># 初始化拼图状态</span></span><br><span class="line">        <span class="variable language_">self</span>.board = board      <span class="comment"># 当前拼图布局（二维列表）</span></span><br><span class="line">        <span class="variable language_">self</span>.parent = parent    <span class="comment"># 父状态指针（用于回溯路径）</span></span><br><span class="line">        <span class="variable language_">self</span>.move = move        <span class="comment"># 到达该状态的操作名称</span></span><br><span class="line">        <span class="comment"># A*算法中的代价计算</span></span><br><span class="line">        <span class="variable language_">self</span>.g = <span class="number">0</span> <span class="keyword">if</span> parent <span class="keyword">is</span> <span class="literal">None</span> <span class="keyword">else</span> parent.g + <span class="number">1</span>  <span class="comment"># 实际已走步数（初始状态为0）</span></span><br><span class="line">        <span class="variable language_">self</span>.h = <span class="variable language_">self</span>.manhattan_distance()  <span class="comment"># 启发式估计值（曼哈顿距离）</span></span><br><span class="line">        <span class="variable language_">self</span>.f = <span class="variable language_">self</span>.g + <span class="variable language_">self</span>.h  <span class="comment"># 总评估值 f = g + h</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">__lt__</span>(<span class="params">self, other</span>):</span><br><span class="line">        <span class="comment"># 比较两个状态的总评估值f</span></span><br><span class="line">        <span class="comment"># 用于优先队列中的排序，使f值较小的状态优先被处理</span></span><br><span class="line">        <span class="keyword">return</span> <span class="variable language_">self</span>.f &lt; other.f</span><br><span class="line"></span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">__eq__</span>(<span class="params">self, other</span>):</span><br><span class="line">        <span class="comment"># 判断两个状态是否相同</span></span><br><span class="line">        <span class="comment"># 当且仅当两个状态的拼图布局完全相同时返回True</span></span><br><span class="line">        <span class="keyword">return</span> <span class="variable language_">self</span>.board == other.board</span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">__hash__</span>(<span class="params">self</span>):</span><br><span class="line">        <span class="comment"># 生成状态的哈希值，用于快速判重</span></span><br><span class="line">        <span class="comment"># 将二维列表转换为元组的元组，确保不可变性</span></span><br><span class="line">        <span class="keyword">return</span> <span class="built_in">hash</span>(<span class="built_in">tuple</span>(<span class="built_in">map</span>(<span class="built_in">tuple</span>, <span class="variable language_">self</span>.board)))</span><br><span class="line"></span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">manhattan_distance</span>(<span class="params">self</span>):</span><br><span class="line">        <span class="comment"># 计算曼哈顿距离启发式值</span></span><br><span class="line">        <span class="comment"># 目标布局定义（8拼图的标准目标状态）</span></span><br><span class="line">        distance = <span class="number">0</span></span><br><span class="line">        goal = [[<span class="number">1</span>,<span class="number">2</span>,<span class="number">3</span>], [<span class="number">8</span>,<span class="number">0</span>,<span class="number">4</span>], [<span class="number">7</span>,<span class="number">6</span>,<span class="number">5</span>]]</span><br><span class="line">        </span><br><span class="line">        <span class="comment"># 遍历每个拼图块计算距离</span></span><br><span class="line">        <span class="comment"># range(3) 生成0、1、2三个数字，用于遍历3x3拼图的每个位置</span></span><br><span class="line">        <span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">3</span>):</span><br><span class="line">            <span class="keyword">for</span> j <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">3</span>):</span><br><span class="line">                value = <span class="variable language_">self</span>.board[i][j]</span><br><span class="line">                <span class="keyword">if</span> value != <span class="number">0</span>:</span><br><span class="line">                    <span class="comment"># 计算该数字在目标状态中的正确位置</span></span><br><span class="line">                    <span class="comment"># divmod(value - 1, 3) 计算商和余数，商为行，余数为列</span></span><br><span class="line">                    goal_row, goal_col = <span class="built_in">divmod</span>(value - <span class="number">1</span>, <span class="number">3</span>) <span class="keyword">if</span> value != <span class="number">0</span> <span class="keyword">else</span> (<span class="number">1</span>, <span class="number">1</span>)</span><br><span class="line">                    <span class="comment"># 特殊处理数字8的位置修正（位于第二行第一列）</span></span><br><span class="line">                    <span class="keyword">if</span> value == <span class="number">8</span>: goal_row, goal_col = <span class="number">1</span>, <span class="number">0</span></span><br><span class="line">                    <span class="comment"># 累加单个拼图块的曼哈顿距离</span></span><br><span class="line">                    distance += <span class="built_in">abs</span>(i - goal_row) + <span class="built_in">abs</span>(j - goal_col)</span><br><span class="line">        <span class="keyword">return</span> distance  <span class="comment"># 返回总曼哈顿距离作为启发式估计值</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">find_zero</span>(<span class="params">self</span>):</span><br><span class="line">        <span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">3</span>):</span><br><span class="line">            <span class="keyword">for</span> j <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">3</span>):</span><br><span class="line">                <span class="keyword">if</span> <span class="variable language_">self</span>.board[i][j] == <span class="number">0</span>:</span><br><span class="line">                    <span class="keyword">return</span> (i, j)</span><br><span class="line"></span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">generate_children</span>(<span class="params">self</span>):</span><br><span class="line">        <span class="comment"># 生成所有可能的子状态</span></span><br><span class="line">        children = []</span><br><span class="line">        <span class="comment"># 定义四个移动方向及其坐标变化量</span></span><br><span class="line">        directions = &#123;<span class="string">&#x27;Up&#x27;</span>: (-<span class="number">1</span>, <span class="number">0</span>), <span class="string">&#x27;Down&#x27;</span>: (<span class="number">1</span>, <span class="number">0</span>), <span class="string">&#x27;Left&#x27;</span>: (<span class="number">0</span>, -<span class="number">1</span>), <span class="string">&#x27;Right&#x27;</span>: (<span class="number">0</span>, <span class="number">1</span>)&#125;</span><br><span class="line">        <span class="comment"># 获取空白块（0）的当前位置</span></span><br><span class="line">        i, j = <span class="variable language_">self</span>.find_zero()</span><br><span class="line"></span><br><span class="line">        <span class="comment"># 遍历所有可能的移动方向</span></span><br><span class="line">        <span class="comment"># di, dj 分别为行和列的变化量</span></span><br><span class="line">        <span class="comment"># move 为移动方向名称</span></span><br><span class="line">        <span class="comment"># directions.items() 返回字典的键值对列表</span></span><br><span class="line">        <span class="keyword">for</span> move, (di, dj) <span class="keyword">in</span> directions.items():</span><br><span class="line">            new_i, new_j = i + di, j + dj</span><br><span class="line">            <span class="comment"># 检查新位置是否在拼图范围内</span></span><br><span class="line">            <span class="keyword">if</span> <span class="number">0</span> &lt;= new_i &lt; <span class="number">3</span> <span class="keyword">and</span> <span class="number">0</span> &lt;= new_j &lt; <span class="number">3</span>:</span><br><span class="line">                <span class="comment"># 创建新棋盘的深拷贝</span></span><br><span class="line">                <span class="comment"># 避免直接修改当前状态的棋盘布局</span></span><br><span class="line"></span><br><span class="line">                new_board = [row.copy() <span class="keyword">for</span> row <span class="keyword">in</span> <span class="variable language_">self</span>.board]</span><br><span class="line">                <span class="comment"># 交换空白块与目标位置的数字</span></span><br><span class="line">                new_board[i][j], new_board[new_i][new_j] = new_board[new_i][new_j], new_board[i][j]</span><br><span class="line">                <span class="comment"># 创建新状态并加入子状态列表</span></span><br><span class="line">                children.append(PuzzleState(new_board, <span class="variable language_">self</span>, move))</span><br><span class="line">        <span class="keyword">return</span> children  <span class="comment"># 返回所有合法子状态集合</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">solve_puzzle</span>(<span class="params">initial_board</span>):</span><br><span class="line">    <span class="comment"># A*算法核心实现</span></span><br><span class="line">    open_list = []       <span class="comment"># 优先队列（存储待探索状态）</span></span><br><span class="line">    visited = <span class="built_in">set</span>()      <span class="comment"># 已访问状态集合</span></span><br><span class="line">    initial_state = PuzzleState(initial_board) </span><br><span class="line">    heapq.heappush(open_list, (initial_state.f, initial_state))  <span class="comment"># 初始状态入队</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">while</span> open_list:</span><br><span class="line">        <span class="comment"># 取出当前最优状态（f值最小）</span></span><br><span class="line">        current_f, current_state = heapq.heappop(open_list)</span><br><span class="line">        </span><br><span class="line">        <span class="comment"># 目标状态检测</span></span><br><span class="line">        <span class="keyword">if</span> current_state.board == [[<span class="number">1</span>,<span class="number">2</span>,<span class="number">3</span>], [<span class="number">8</span>,<span class="number">0</span>,<span class="number">4</span>], [<span class="number">7</span>,<span class="number">6</span>,<span class="number">5</span>]]:</span><br><span class="line">            <span class="comment"># 路径回溯：通过parent指针构造完整解路径</span></span><br><span class="line">            path = []</span><br><span class="line">            <span class="keyword">while</span> current_state:</span><br><span class="line">                path.append((current_state.move, current_state.board))</span><br><span class="line">                current_state = current_state.parent</span><br><span class="line">            <span class="keyword">return</span> path[::-<span class="number">1</span>]  <span class="comment"># 反向路径（从初始状态到目标状态）</span></span><br><span class="line"></span><br><span class="line">        <span class="comment"># 跳过已处理状态（可能存在更优路径已处理过该状态）</span></span><br><span class="line">        <span class="keyword">if</span> <span class="built_in">hash</span>(current_state) <span class="keyword">in</span> visited:</span><br><span class="line">            <span class="keyword">continue</span></span><br><span class="line">        visited.add(<span class="built_in">hash</span>(current_state))  <span class="comment"># 标记为已访问</span></span><br><span class="line"></span><br><span class="line">        <span class="comment"># 状态扩展：生成所有可能子状态</span></span><br><span class="line">        <span class="keyword">for</span> child <span class="keyword">in</span> current_state.generate_children():</span><br><span class="line">            <span class="keyword">if</span> <span class="built_in">hash</span>(child) <span class="keyword">not</span> <span class="keyword">in</span> visited:</span><br><span class="line">                <span class="comment"># 将子状态按f值加入优先队列</span></span><br><span class="line">                heapq.heappush(open_list, (child.f, child))</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="literal">None</span>  <span class="comment"># 无解情况</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 测试示例</span></span><br><span class="line">initial_board = [[<span class="number">2</span>,<span class="number">8</span>,<span class="number">3</span>], [<span class="number">1</span>,<span class="number">6</span>,<span class="number">4</span>], [<span class="number">7</span>,<span class="number">0</span>,<span class="number">5</span>]]</span><br><span class="line">solution = solve_puzzle(initial_board)</span><br><span class="line"><span class="keyword">if</span> solution:</span><br><span class="line">    <span class="keyword">for</span> step <span class="keyword">in</span> solution:</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">f&quot;Move: <span class="subst">&#123;step[<span class="number">0</span>]&#125;</span>&quot;</span>)</span><br><span class="line">        <span class="keyword">for</span> row <span class="keyword">in</span> step[<span class="number">1</span>]:</span><br><span class="line">            <span class="built_in">print</span>(row)</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">&quot;---&quot;</span>)</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;No solution found.&quot;</span>)</span><br></pre></td></tr></table></figure></div>]]></content>
+      <categories>
+        <category>人工智能</category>
+        <category>启发式搜索</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A搜索算法与A*搜索算法详解</title>
+    <url>/posts/20250228160615.html</url>
+    <content><![CDATA[<hr>
+<h3 id="问题场景"><a href="#问题场景" class="headerlink" title="问题场景"></a><strong>问题场景</strong></h3><p>假设你要从城市<strong>A</strong>出发，前往城市<strong>C</strong>，中间可能经过城市<strong>B</strong>。各城市之间的实际距离和启发式估值（直线距离）如下：  </p>
+<ul>
+<li><strong>实际距离</strong>（真实代价）：  <ul>
+<li>A → B：5公里  </li>
+<li>B → C：3公里  </li>
+<li>A → C：直接路径为7公里（但假设这条路暂时被封锁，不可用）。</li>
+</ul>
+</li>
+<li><strong>启发式估值</strong>（即   h(n)  ，预估到终点的直线距离）：  <ul>
+<li>h(A) = 7公里（A到C的直线距离）  </li>
+<li>h(B) = 3公里（B到C的直线距离）  </li>
+<li>h(C) = 0公里（已到达终点）</li>
+</ul>
+</li>
+</ul>
+<p>目标：找到从A到C的最短路径。</p>
+<hr>
+<h3 id="A算法（通用启发式搜索）"><a href="#A算法（通用启发式搜索）" class="headerlink" title="A算法（通用启发式搜索）"></a><strong>A算法（通用启发式搜索）</strong></h3><p>A算法是一个广义概念，指任何使用总代价函数   f(n) = g(n) + h(n)   的搜索算法，但<strong>不要求   h(n)   可采纳</strong>（即允许高估真实代价）。以下是一个可能的运行过程：</p>
+<h4 id="步骤演示"><a href="#步骤演示" class="headerlink" title="步骤演示"></a><strong>步骤演示</strong></h4><ol>
+<li><p><strong>初始化</strong>：起点A加入开放列表（待探索节点）。  </p>
+<ul>
+<li>A的   g(A) = 0  ，  f(A) = g(A) + h(A) = 0 + 7 = 7  。</li>
+</ul>
+</li>
+<li><p><strong>扩展A</strong>：  </p>
+<ul>
+<li>从A可到达B（实际距离5公里）和C（假设封锁，不可走）。  </li>
+<li>B的   g(B) = 5  ，  f(B) = 5 + h(B) = 5 + 3 = 8  。  </li>
+<li>将B加入开放列表。</li>
+</ul>
+</li>
+<li><p><strong>选择下一个节点</strong>：  </p>
+<ul>
+<li>开放列表中有B（f=8）。  </li>
+<li>扩展B，发现B到C距离3公里。  </li>
+<li>C的   g(C) = 5 + 3 = 8  ，  f(C) = 8 + 0 = 8  。  </li>
+<li>找到终点C，总路径为A→B→C，总代价8公里。</li>
+</ul>
+</li>
+</ol>
+<h4 id="关键问题"><a href="#关键问题" class="headerlink" title="关键问题"></a><strong>关键问题</strong></h4><p>如果启发式函数   h(n)   <strong>高估了真实代价</strong>（例如，假设h(A)=10公里），可能发生以下情况：  </p>
+<ul>
+<li>A的   f(A) = 0 + 10 = 10  ，B的   f(B) = 5 + 3 = 8  。  </li>
+<li>算法优先扩展B，最终仍找到最优路径A→B→C。  </li>
+<li>但如果存在另一条更优路径（例如A→C未被封锁），可能因h(A)高估而错过最优解。</li>
+</ul>
+<hr>
+<h3 id="A-算法（可采纳启发式搜索）"><a href="#A-算法（可采纳启发式搜索）" class="headerlink" title="A*算法（可采纳启发式搜索）"></a><strong>A*算法（可采纳启发式搜索）</strong></h3><p>A*算法是A算法的特例，<strong>要求   h(n)   可采纳</strong>（即   h(n) <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.312ex;" xmlns="http://www.w3.org/2000/svg" width="1.76ex" height="1.751ex" role="img" focusable="false" viewBox="0 -636 778 774"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="2264" d="M674 636Q682 636 688 630T694 615T687 601Q686 600 417 472L151 346L399 228Q687 92 691 87Q694 81 694 76Q694 58 676 56H670L382 192Q92 329 90 331Q83 336 83 348Q84 359 96 365Q104 369 382 500T665 634Q669 636 674 636ZM84 -118Q84 -108 99 -98H678Q694 -104 694 -118Q694 -130 679 -138H98Q84 -131 84 -118Z"></path></g></g></g></svg></mjx-container>   真实最小代价）。沿用上述场景，且   h(n)   是直线距离（不高于实际路径）：</p>
+<h4 id="步骤演示-1"><a href="#步骤演示-1" class="headerlink" title="步骤演示"></a><strong>步骤演示</strong></h4><ol>
+<li><p><strong>初始化</strong>：起点A加入开放列表。  </p>
+<ul>
+<li>f(A) = 0 + 7 = 7  。</li>
+</ul>
+</li>
+<li><p><strong>扩展A</strong>：  </p>
+<ul>
+<li>生成B（  f(B) = 5 + 3 = 8  ）。</li>
+</ul>
+</li>
+<li><p><strong>选择下一个节点</strong>：  </p>
+<ul>
+<li>开放列表中有B（f=8）。  </li>
+<li>扩展B，生成C（  f(C) = 8 + 0 = 8  ）。  </li>
+<li>找到路径A→B→C，总代价8公里。</li>
+</ul>
+</li>
+</ol>
+<h4 id="关键优势"><a href="#关键优势" class="headerlink" title="关键优势"></a><strong>关键优势</strong></h4><p>由于   h(n)   可采纳，A*算法<strong>保证找到最优解</strong>。例如：  </p>
+<ul>
+<li>如果A→C的路径未被封锁（实际7公里），A*的步骤如下：  <ol>
+<li>扩展A时，同时生成B（f=8）和C（  f(C) = 7 + 0 = 7  ）。  </li>
+<li>优先选择C，直接找到最优路径A→C（7公里）。</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h3 id="A算法-vs-A-算法的联系与区别"><a href="#A算法-vs-A-算法的联系与区别" class="headerlink" title="A算法 vs A*算法的联系与区别"></a><strong>A算法 vs A*算法的联系与区别</strong></h3><table>
+<thead>
+<tr>
+<th><strong>特性</strong></th>
+<th><strong>A算法</strong></th>
+<th><strong>A*算法</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>定义</strong></td>
+<td>广义的启发式搜索，使用   f(n) = g(n) + h(n)</td>
+<td>A算法的特例，要求   h(n)   可采纳（不高估）</td>
+</tr>
+<tr>
+<td><strong>启发式约束</strong></td>
+<td>h(n)   可以是任意估值</td>
+<td>h(n) <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.312ex;" xmlns="http://www.w3.org/2000/svg" width="1.76ex" height="1.751ex" role="img" focusable="false" viewBox="0 -636 778 774"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="2264" d="M674 636Q682 636 688 630T694 615T687 601Q686 600 417 472L151 346L399 228Q687 92 691 87Q694 81 694 76Q694 58 676 56H670L382 192Q92 329 90 331Q83 336 83 348Q84 359 96 365Q104 369 382 500T665 634Q669 636 674 636ZM84 -118Q84 -108 99 -98H678Q694 -104 694 -118Q694 -130 679 -138H98Q84 -131 84 -118Z"></path></g></g></g></svg></mjx-container>   真实最小代价</td>
+</tr>
+<tr>
+<td><strong>是否保证最优解</strong></td>
+<td>不一定（依赖   h(n)   质量）</td>
+<td>保证（若   h(n)   可采纳）</td>
+</tr>
+<tr>
+<td><strong>应用场景</strong></td>
+<td>允许快速但可能次优的搜索</td>
+<td>需最优解的场景（如路径规划、游戏AI）</td>
+</tr>
+</tbody></table>
+<h4 id="联系"><a href="#联系" class="headerlink" title="联系"></a><strong>联系</strong></h4><ol>
+<li>A*是A算法的子集，核心公式均为   f(n) = g(n) + h(n)  。  </li>
+<li>两者都通过启发式函数减少搜索空间。</li>
+</ol>
+<h4 id="区别"><a href="#区别" class="headerlink" title="区别"></a><strong>区别</strong></h4><ol>
+<li><strong>最优性保证</strong>：  <ul>
+<li>A*因   h(n)   可采纳，能保证最优解；A算法无法保证。</li>
+</ul>
+</li>
+<li><strong>启发式函数设计</strong>：  <ul>
+<li>A*需要领域知识确保   h(n)   不超估（例如直线距离≤实际距离）；A算法无此限制。</li>
+</ul>
+</li>
+<li><strong>效率权衡</strong>：  <ul>
+<li>A*可能因严格约束导致计算量略大，但结果可靠；A算法灵活但可能找到次优解。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="实际应用中的选择"><a href="#实际应用中的选择" class="headerlink" title="实际应用中的选择"></a><strong>实际应用中的选择</strong></h3><ul>
+<li>优先用A*：在路径规划、游戏AI等需要最优解的场景。  </li>
+<li>用A算法：当无法设计可采纳的   h(n)  ，或允许次优解以换取速度（如实时策略游戏中的NPC移动）。</li>
+</ul>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><ul>
+<li><strong>A算法</strong>像一个“有直觉的探险家”，根据经验猜测方向，但不保证最优。  </li>
+<li><strong>A*算法</strong>像一个“带精确地图的导航员”，利用不超估的直觉，确保找到最短路径。  </li>
+<li><strong>核心记住</strong>：A*是A算法的“安全版本”，用数学约束（可采纳性）换最优性保证。</li>
+</ul>
+<hr>
+<h3 id="小八卦：A搜索算法为什么叫A而不叫B、C"><a href="#小八卦：A搜索算法为什么叫A而不叫B、C" class="headerlink" title="小八卦：A搜索算法为什么叫A而不叫B、C"></a>小八卦：A搜索算法为什么叫A而不叫B、C</h3><p>这个问题很有意思！关于<strong>A搜索算法</strong>为什么叫“A”，而不是“B”或“C”，其实并没有一个官方明确的解释，但可以从历史背景和算法设计逻辑中推测出一些可能的原因。</p>
+<hr>
+<h4 id="可能的原因"><a href="#可能的原因" class="headerlink" title="可能的原因"></a><strong>可能的原因</strong></h4><ol>
+<li><p><strong>“A”代表“Algorithm”</strong>  </p>
+<ul>
+<li>在早期计算机科学中，许多算法被简单地命名为“Algorithm A”或“Algorithm B”。A搜索算法可能是作为“一种启发式搜索算法”的通用名称而被命名的。</li>
+</ul>
+</li>
+<li><p><strong>“A”代表“Admissible”（可采纳的）</strong>  </p>
+<ul>
+<li>A搜索算法的核心是使用启发式函数 ( h(n) )，而A*算法进一步要求 ( h(n) ) 是<strong>可采纳的</strong>（Admissible）。  </li>
+<li>因此，“A”可能暗示了算法与“可采纳性”相关。</li>
+</ul>
+</li>
+<li><p><strong>“A”代表“First”或“Primary”</strong>  </p>
+<ul>
+<li>在字母表中，“A”是第一个字母，可能象征着这是“第一种”或“基础”的启发式搜索算法。</li>
+</ul>
+</li>
+<li><p><strong>历史命名习惯</strong>  </p>
+<ul>
+<li>在算法研究中，许多算法名称是随意命名的，可能只是作者当时觉得“A”听起来合适。例如，Dijkstra算法、Kruskal算法等都是以作者名字命名的，而A算法可能只是一个习惯性命名。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h4 id="A-算法的“-”含义"><a href="#A-算法的“-”含义" class="headerlink" title="A*算法的“*”含义"></a><strong>A*算法的“*”含义</strong></h4><p>A*算法是A算法的改进版本，它的命名中多了一个“*”，这个符号有特殊的含义：  </p>
+<ol>
+<li><p><strong>“*“代表“最优”</strong>  </p>
+<ul>
+<li>在数学和计算机科学中，”*“常用来表示“最优”或“完整”。例如，正则表达式中的”*“表示“零次或多次匹配”。  </li>
+<li>在A*算法中，”*“表示它是A算法的“最优版本”，即通过可采纳的启发式函数保证找到最优解。</li>
+</ul>
+</li>
+<li><p><strong>“*“代表“扩展”</strong>  </p>
+<ul>
+<li>“*“也可以理解为A算法的“扩展”或“增强”版本，因为它在A算法的基础上增加了对启发式函数的约束（可采纳性）。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h4 id="总结-1"><a href="#总结-1" class="headerlink" title="总结"></a><strong>总结</strong></h4><ul>
+<li>“A”可能代表“Algorithm”、“Admissible”或“First”，但具体含义没有官方解释。  </li>
+<li>“*“则明确表示A*算法是A算法的“最优版本”，通过可采纳的启发式函数保证找到最优解。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>人工智能</category>
+        <category>启发式搜索</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>启发式信息和启发式函数（估价函数）</title>
+    <url>/posts/20250228154935.html</url>
+    <content><![CDATA[<hr>
+<h3 id="启发式信息（Heuristic-Information）"><a href="#启发式信息（Heuristic-Information）" class="headerlink" title="启发式信息（Heuristic Information）"></a><strong>启发式信息（Heuristic Information）</strong></h3><p><strong>一句话解释</strong>：它类似于人类的“经验”或“直觉”，帮助计算机在复杂问题中快速找到方向，避免盲目搜索。</p>
+<p><strong>例子</strong>：<br>假设你在迷宫中找出口，如果有个声音告诉你：“出口在东北方向！”这就是启发式信息。虽然不知道具体路径，但你知道该优先探索东北方向的岔路。</p>
+<p><strong>深入理解</strong>：  </p>
+<ol>
+<li><strong>本质是“不完美但有用”的信息</strong>：  <ul>
+<li>它不一定100%准确，但能大幅缩小搜索范围。例如，走迷宫时优先选靠近出口的方向，即使偶尔绕路，总体效率更高。</li>
+</ul>
+</li>
+<li><strong>依赖领域知识</strong>：  <ul>
+<li>不同问题需要不同的启发式信息。例如：  <ul>
+<li><strong>路径规划</strong>：用直线距离（目标越近越好）。  </li>
+<li><strong>拼图游戏</strong>：用错位块数（错位越少越接近目标）。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>平衡效率与准确性</strong>：  <ul>
+<li>好的启发式信息能让搜索速度提升几个数量级，但设计时需要权衡：太粗略可能漏掉最优解，太精确可能计算成本过高。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="估价函数（Heuristic-Function）"><a href="#估价函数（Heuristic-Function）" class="headerlink" title="估价函数（Heuristic Function）"></a><strong>估价函数（Heuristic Function）</strong></h3><p><strong>一句话解释</strong>：它是一个数学公式（比如  h(n)  ），把启发式信息<strong>量化</strong>成一个数值，告诉计算机“当前状态离目标还有多远”。</p>
+<p><strong>例子</strong>：  </p>
+<ul>
+<li><strong>路径规划</strong>：估价函数 h(n) = 当前点到终点的直线距离（欧几里得距离）。  </li>
+<li><strong>拼图问题</strong>：估价函数 h(n) = 当前拼图中错位的块数（曼哈顿距离）。</li>
+</ul>
+<p><strong>深入理解</strong>：  </p>
+<ol>
+<li><strong>核心作用是排序</strong>：  <ul>
+<li>估价函数的值用于给不同搜索路径“打分”。例如在A*算法中，计算机总是优先扩展  f(n) = g(n) + h(n)  最小的节点（ g(n)  是已走路径的实际代价）。</li>
+</ul>
+</li>
+<li><strong>关键性质</strong>：  <ul>
+<li><strong>可采纳性（Admissibility）</strong>：  <ul>
+<li>估价函数必须<strong>永远低估或等于真实代价</strong><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="25.537ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 11287.6 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">（</text></g><g data-mml-node="mi" transform="translate(1000,0)"><path data-c="210E" d="M137 683Q138 683 209 688T282 694Q294 694 294 685Q294 674 258 534Q220 386 220 383Q220 381 227 388Q288 442 357 442Q411 442 444 415T478 336Q478 285 440 178T402 50Q403 36 407 31T422 26Q450 26 474 56T513 138Q516 149 519 151T535 153Q555 153 555 145Q555 144 551 130Q535 71 500 33Q466 -10 419 -10H414Q367 -10 346 17T325 74Q325 90 361 192T398 345Q398 404 354 404H349Q266 404 205 306L198 293L164 158Q132 28 127 16Q114 -11 83 -11Q69 -11 59 -2T48 16Q48 30 121 320L195 616Q195 629 188 632T149 637H128Q122 643 122 645T124 664Q129 683 137 683Z"></path></g><g data-mml-node="mo" transform="translate(1576,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(1965,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(2565,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g><g data-mml-node="mo" transform="translate(3231.8,0)"><path data-c="2264" d="M674 636Q682 636 688 630T694 615T687 601Q686 600 417 472L151 346L399 228Q687 92 691 87Q694 81 694 76Q694 58 676 56H670L382 192Q92 329 90 331Q83 336 83 348Q84 359 96 365Q104 369 382 500T665 634Q669 636 674 636ZM84 -118Q84 -108 99 -98H678Q694 -104 694 -118Q694 -130 679 -138H98Q84 -131 84 -118Z"></path></g><g data-mml-node="mi" transform="translate(4287.6,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">真</text></g><g data-mml-node="mi" transform="translate(5287.6,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">实</text></g><g data-mml-node="mi" transform="translate(6287.6,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">最</text></g><g data-mml-node="mi" transform="translate(7287.6,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">小</text></g><g data-mml-node="mi" transform="translate(8287.6,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">代</text></g><g data-mml-node="mi" transform="translate(9287.6,0)"><text data-variant="normal" transform="scale(1,-1)" font-size="884px" font-family="serif">价</text></g><g data-mml-node="mi" transform="translate(10287.6,0)"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">）</text></g></g></g></svg></mjx-container>。  </li>
+<li><em>为什么重要？</em> 如果估价函数不会高估，A*算法才能保证找到最优解。例如，直线距离永远不会比真实路径长。</li>
+</ul>
+</li>
+<li><strong>一致性（Consistency）</strong>：  <ul>
+<li>满足三角不等式：h(A) <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.312ex;" xmlns="http://www.w3.org/2000/svg" width="1.76ex" height="1.751ex" role="img" focusable="false" viewBox="0 -636 778 774"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="2264" d="M674 636Q682 636 688 630T694 615T687 601Q686 600 417 472L151 346L399 228Q687 92 691 87Q694 81 694 76Q694 58 676 56H670L382 192Q92 329 90 331Q83 336 83 348Q84 359 96 365Q104 369 382 500T665 634Q669 636 674 636ZM84 -118Q84 -108 99 -98H678Q694 -104 694 -118Q694 -130 679 -138H98Q84 -131 84 -118Z"></path></g></g></g></svg></mjx-container> 从A到B的代价  + h(B) 。  </li>
+<li><em>为什么重要？</em> 一致性保证A*算法不需要重复检查节点，提升效率。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>设计原则</strong>：  <ul>
+<li><strong>尽可能贴近真实代价</strong>：例如在路径规划中，曼哈顿距离（只允许横向/纵向移动）比直线距离更贴近真实代价。  </li>
+<li><strong>计算要快</strong>：如果计算  h(n)  的时间超过搜索本身，就得不偿失了。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="两者的关系"><a href="#两者的关系" class="headerlink" title="两者的关系"></a><strong>两者的关系</strong></h3><ul>
+<li><strong>启发式信息是“经验”，估价函数是经验的“数学表达”</strong>。  <ul>
+<li>例如，你的直觉是“出口在东北方向”（启发式信息），而计算机用  h(n) =  直线距离（估价函数）量化这一直觉。</li>
+</ul>
+</li>
+<li><strong>好的估价函数=强启发式信息</strong>：  <ul>
+<li>它既需要领域知识（比如知道迷宫的结构），又要符合数学约束（可采纳性、一致性）。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="实际应用中的取舍"><a href="#实际应用中的取舍" class="headerlink" title="实际应用中的取舍"></a><strong>实际应用中的取舍</strong></h3><ol>
+<li><strong>简单但有效</strong>：  <ul>
+<li>比如在路径规划中，直线距离作为  h(n)  虽然简单，但能大幅减少搜索范围。</li>
+</ul>
+</li>
+<li><strong>复杂但精准</strong>：  <ul>
+<li>在围棋AI中，AlphaGo的估价函数需要评估棋盘局势（胜率预测），这需要深度学习模型和海量数据训练。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><ul>
+<li><strong>启发式信息</strong> = 人类的直觉（例如“优先往某个方向走”）。  </li>
+<li><strong>估价函数</strong> = 把直觉变成计算机能计算的数值（例如“直线距离=100米”）。  </li>
+<li><strong>关键点</strong>：  <ul>
+<li>估价函数的设计需要领域知识 + 数学约束（可采纳性/一致性）。  </li>
+<li>好的启发式搜索算法（如A*）是“经验”（估价函数）和“实际数据”（已走路径代价  g(n) ）的平衡。</li>
+</ul>
+</li>
+</ul>
+<p><strong>试试这样想</strong>：<br>想象你在一个陌生城市找餐馆，手机地图告诉你“直线距离500米”（估价函数），但实际走起来可能有绕路。你会优先看直线距离近的路线，但也会结合道路是否通畅（实际代价 ( g(n) )），这就是启发式搜索的核心思想！</p>
+]]></content>
+      <categories>
+        <category>人工智能</category>
+        <category>启发式搜索</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>在人类的谩骂下，罗辑努力的意义</title>
     <url>/posts/20250228080931.html</url>
     <content><![CDATA[<p>从《三体》的叙事逻辑和价值观来看，罗辑的努力<strong>值得</strong>，但这一“值得”并非基于世俗的认可或个体的幸福，而是建立在他对人类文明存续的理性选择与牺牲精神之上。以下从几个角度分析：</p>
@@ -10152,6 +10498,108 @@ G --&gt; H[通胀缓解]</pre>
 ]]></content>
       <tags>
         <tag>三体</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>简要理解启发式搜索</title>
+    <url>/posts/20250228154656.html</url>
+    <content><![CDATA[<p>启发式搜索（<strong>Heuristic Search</strong>）是一种通过利用<strong>启发式信息</strong>（经验或直觉）来指导搜索方向的算法，旨在更高效地找到问题的最优解或可行解。与传统的“盲目搜索”（如广度优先搜索、深度优先搜索）不同，启发式搜索通过评估当前状态与目标状态的<strong>接近程度</strong>，优先探索更有可能接近目标的路径，从而减少搜索的时间和空间复杂度。</p>
+<hr>
+<h3 id="核心概念"><a href="#核心概念" class="headerlink" title="核心概念"></a><strong>核心概念</strong></h3><ol>
+<li><p><strong>启发式函数（Heuristic Function）</strong><br>定义：一个用于估算从当前状态到目标状态<strong>最小代价</strong>的函数，通常记为 ( h(n) )。  </p>
+<ul>
+<li>例如，在路径规划问题中，启发式函数可以是两点之间的<strong>直线距离</strong>（欧几里得距离）。  </li>
+<li>在拼图问题中，启发式函数可以是当前状态与目标状态错位的块数（曼哈顿距离）。</li>
+</ul>
+</li>
+<li><p><strong>搜索方向的选择</strong><br>启发式搜索通过比较不同路径的 ( h(n) ) 值，优先选择<strong>更有希望</strong>的路径（即 ( h(n) ) 更小的方向），避免无效的遍历。</p>
+</li>
+</ol>
+<hr>
+<h3 id="常见的启发式搜索算法"><a href="#常见的启发式搜索算法" class="headerlink" title="常见的启发式搜索算法"></a><strong>常见的启发式搜索算法</strong></h3><ol>
+<li><p><strong>A*算法</strong>  </p>
+<ul>
+<li><strong>核心思想</strong>：结合路径的实际代价 ( g(n) ) 和启发式估计代价 ( h(n) )，计算总代价 ( f(n) &#x3D; g(n) + h(n) )。  </li>
+<li><strong>特点</strong>：  <ul>
+<li>如果 ( h(n) ) 是<strong>可采纳的</strong>（即 ( h(n) \leq ) 真实最小代价），则A*算法能保证找到最优解。  </li>
+<li>如果 ( h(n) ) 是<strong>一致的</strong>（满足三角不等式），则A*算法不需要重复检查节点。</li>
+</ul>
+</li>
+<li><strong>应用场景</strong>：游戏AI路径规划、机器人导航。</li>
+</ul>
+</li>
+<li><p><strong>贪婪最佳优先搜索（Greedy Best-First Search）</strong>  </p>
+<ul>
+<li><strong>核心思想</strong>：完全依赖启发式函数 ( h(n) )，每次选择 ( h(n) ) 最小的节点扩展。  </li>
+<li><strong>特点</strong>：效率高，但<strong>不保证找到最优解</strong>（可能陷入局部最优）。</li>
+</ul>
+</li>
+<li><p><strong>迭代加深A<em>（IDA</em>）</strong>  </p>
+<ul>
+<li><strong>核心思想</strong>：结合迭代加深搜索（IDDFS）和A*算法，通过逐步放宽代价阈值来避免内存爆炸。  </li>
+<li><strong>应用场景</strong>：适用于内存受限的场景，如大规模地图搜索。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="启发式搜索-vs-传统搜索"><a href="#启发式搜索-vs-传统搜索" class="headerlink" title="启发式搜索 vs 传统搜索"></a><strong>启发式搜索 vs 传统搜索</strong></h3><table>
+<thead>
+<tr>
+<th><strong>特性</strong></th>
+<th><strong>盲目搜索</strong>（如DFS、BFS）</th>
+<th><strong>启发式搜索</strong>（如A*）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>搜索方向</strong></td>
+<td>无目标导向</td>
+<td>由启发式函数引导</td>
+</tr>
+<tr>
+<td><strong>时间复杂度</strong></td>
+<td>可能指数级</td>
+<td>通常多项式级（取决于启发式函数）</td>
+</tr>
+<tr>
+<td><strong>空间复杂度</strong></td>
+<td>高（存储所有节点）</td>
+<td>较低（优先扩展关键节点）</td>
+</tr>
+<tr>
+<td><strong>是否保证最优解</strong></td>
+<td>是（BFS）</td>
+<td>取决于启发式函数（如A*可保证）</td>
+</tr>
+</tbody></table>
+<hr>
+<h3 id="启发式搜索的优缺点"><a href="#启发式搜索的优缺点" class="headerlink" title="启发式搜索的优缺点"></a><strong>启发式搜索的优缺点</strong></h3><p><strong>优点</strong>：  </p>
+<ul>
+<li><strong>高效</strong>：大幅减少搜索空间。  </li>
+<li><strong>灵活</strong>：可根据问题设计不同的启发式函数。  </li>
+<li><strong>适用性广</strong>：适用于路径规划、游戏AI、机器人、自动推理等场景。</li>
+</ul>
+<p><strong>缺点</strong>：  </p>
+<ul>
+<li><strong>依赖启发式函数的质量</strong>：若函数设计不当（如高估或低估代价），可能导致低效或错误结果。  </li>
+<li><strong>不保证最优解</strong>：如贪婪最佳优先搜索可能找到次优解。  </li>
+<li><strong>实现复杂度</strong>：需要合理设计启发式函数和搜索策略。</li>
+</ul>
+<hr>
+<h3 id="实际应用案例"><a href="#实际应用案例" class="headerlink" title="实际应用案例"></a><strong>实际应用案例</strong></h3><ol>
+<li><strong>游戏AI</strong>：在《星际争霸》或《王者荣耀》中，NPC通过A*算法寻找最短路径。  </li>
+<li><strong>机器人导航</strong>：扫地机器人规划清洁路线。  </li>
+<li><strong>拼图问题</strong>：解决8数码问题（滑动拼图）。  </li>
+<li><strong>自然语言处理</strong>：在机器翻译中搜索最佳语义路径。</li>
+</ol>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>启发式搜索通过“经验”（启发式函数）将搜索集中在更可能接近目标的方向上，是解决复杂问题的核心方法之一。它的核心挑战在于<strong>设计高质量的启发式函数</strong>，这需要结合具体问题的领域知识。如果你想动手实践，可以尝试用A*算法解决迷宫问题或拼图问题，体验其高效性！</p>
+]]></content>
+      <categories>
+        <category>人工智能</category>
+        <category>启发式搜索</category>
+      </categories>
+      <tags>
+        <tag>人工智能</tag>
       </tags>
   </entry>
   <entry>
@@ -10485,15 +10933,6 @@ G --&gt; H[通胀缓解]</pre>
       </tags>
   </entry>
   <entry>
-    <title>一键推送脚本</title>
-    <url>/posts/20250121135500.html</url>
-    <content><![CDATA[<h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo $off$</span><br><span class="line">:: 切换到项目路径</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:: 检查管理员权限</span><br><span class="line">fltmc &gt;nul 2&gt;&amp;1 || (</span><br><span class="line">    echo 正在请求管理员权限...</span><br><span class="line">    powershell -Command &quot;Start-Process cmd -ArgumentList &#x27;/c \&quot;%~f0\&quot;&#x27; -Verb RunAs&quot;</span><br><span class="line">    exit /b</span><br><span class="line">)</span><br><span class="line"></span><br><span class="line">:menu</span><br><span class="line">cls</span><br><span class="line">echo.</span><br><span class="line">echo 请选择要执行的操作：</span><br><span class="line">echo.</span><br><span class="line">echo  [1] hexo clean</span><br><span class="line">echo  [2] hexo generate </span><br><span class="line">echo  [3] hexo server</span><br><span class="line">echo  [4] hexo deploy</span><br><span class="line">echo  [5] npm run server</span><br><span class="line">echo  [6] npm run deploy</span><br><span class="line">echo.</span><br><span class="line">echo  [0] 退出</span><br><span class="line">echo.</span><br><span class="line"></span><br><span class="line">choice /c 0123456 /n </span><br><span class="line">set /a choice=%errorlevel%-1</span><br><span class="line"></span><br><span class="line">if %choice% == 0 exit /b 0</span><br><span class="line"></span><br><span class="line">:: 添加变量清除逻辑</span><br><span class="line">set &quot;cmd=&quot;</span><br><span class="line"></span><br><span class="line">:: 使用延迟变量扩展</span><br><span class="line">setlocal enabledelayedexpansion</span><br><span class="line">set &quot;commands[1]=hexo clean&quot;</span><br><span class="line">set &quot;commands[2]=hexo generate&quot; </span><br><span class="line">set &quot;commands[3]=hexo server&quot;</span><br><span class="line">set &quot;commands[4]=hexo deploy&quot;</span><br><span class="line">set &quot;commands[5]=npm run server&quot;</span><br><span class="line">set &quot;commands[6]=npm run deploy&quot;</span><br><span class="line"></span><br><span class="line">:: 修正命令获取方式</span><br><span class="line">if %choice% geq 1 (</span><br><span class="line">    set cmd=!commands[%choice%]!</span><br><span class="line">    start cmd /c &quot;!cmd! &amp;&amp; pause&quot;</span><br><span class="line">)</span><br><span class="line">endlocal</span><br><span class="line"></span><br><span class="line">goto menu</span><br></pre></td></tr></table></figure></div>
-]]></content>
-      <tags>
-        <tag>code</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>电脑空白图标解决方案</title>
     <url>/posts/20250121141000.html</url>
     <content><![CDATA[<p>新建txt文件，粘贴以下内容，更改后缀名为bat，双击运行</p>
@@ -10523,6 +10962,15 @@ import {initHBE} from "/js/plugins/hbe.js";
   console.log("hexo-blog-encrypt: loaded.");
     initHBE();
 </script>
+]]></content>
+      <tags>
+        <tag>code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一键推送脚本</title>
+    <url>/posts/20250121135500.html</url>
+    <content><![CDATA[<h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo $off$</span><br><span class="line">:: 切换到项目路径</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:: 检查管理员权限</span><br><span class="line">fltmc &gt;nul 2&gt;&amp;1 || (</span><br><span class="line">    echo 正在请求管理员权限...</span><br><span class="line">    powershell -Command &quot;Start-Process cmd -ArgumentList &#x27;/c \&quot;%~f0\&quot;&#x27; -Verb RunAs&quot;</span><br><span class="line">    exit /b</span><br><span class="line">)</span><br><span class="line"></span><br><span class="line">:menu</span><br><span class="line">cls</span><br><span class="line">echo.</span><br><span class="line">echo 请选择要执行的操作：</span><br><span class="line">echo.</span><br><span class="line">echo  [1] hexo clean</span><br><span class="line">echo  [2] hexo generate </span><br><span class="line">echo  [3] hexo server</span><br><span class="line">echo  [4] hexo deploy</span><br><span class="line">echo  [5] npm run server</span><br><span class="line">echo  [6] npm run deploy</span><br><span class="line">echo.</span><br><span class="line">echo  [0] 退出</span><br><span class="line">echo.</span><br><span class="line"></span><br><span class="line">choice /c 0123456 /n </span><br><span class="line">set /a choice=%errorlevel%-1</span><br><span class="line"></span><br><span class="line">if %choice% == 0 exit /b 0</span><br><span class="line"></span><br><span class="line">:: 添加变量清除逻辑</span><br><span class="line">set &quot;cmd=&quot;</span><br><span class="line"></span><br><span class="line">:: 使用延迟变量扩展</span><br><span class="line">setlocal enabledelayedexpansion</span><br><span class="line">set &quot;commands[1]=hexo clean&quot;</span><br><span class="line">set &quot;commands[2]=hexo generate&quot; </span><br><span class="line">set &quot;commands[3]=hexo server&quot;</span><br><span class="line">set &quot;commands[4]=hexo deploy&quot;</span><br><span class="line">set &quot;commands[5]=npm run server&quot;</span><br><span class="line">set &quot;commands[6]=npm run deploy&quot;</span><br><span class="line"></span><br><span class="line">:: 修正命令获取方式</span><br><span class="line">if %choice% geq 1 (</span><br><span class="line">    set cmd=!commands[%choice%]!</span><br><span class="line">    start cmd /c &quot;!cmd! &amp;&amp; pause&quot;</span><br><span class="line">)</span><br><span class="line">endlocal</span><br><span class="line"></span><br><span class="line">goto menu</span><br></pre></td></tr></table></figure></div>
 ]]></content>
       <tags>
         <tag>code</tag>
