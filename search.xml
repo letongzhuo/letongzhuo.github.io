@@ -28,10 +28,10 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/posts/20210204120000.html</url>
+    <url>/posts/20210202120000.html</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="db4e94f965e27ff20b3a5c957656deb75e3b40c1451eb081b7cf8156ecb95799">249107fcce4fdab00b19d327c31fd8f3535427e7c3ba9fbe652aae764677b3cf7e0519e681ddf13739627546f58850cb7b47f58e2a3755f580598a5e64e16ca7e9bd0e04946e951d490404ab45c9e276877d699426c7229f7147e43cc1f667e7ae71347fe2a32d44513a4691f60d5c6d0b38573ba0ef61473d5a71ad41d7bf0235799b442096e6383318e1b3fce6c4fb94ca1389db22c69713c53647d73a13c0628d745f7de48aaf4d3529aef2bc2b0f82109767e51c14992714a9e0291635b12a2bd973bc6b32c39400a38ea7269e7bdc491939d13ffe4508432f24e5c0e61463e599d14ac65d7e7a0e57fdd28edf19e68ef0f7706e4cf449267a3077d8bcfdd30e529d79fa2bd0ce55bd8550eafd47b88814623303854e2c765f3cebc0313bdb951fd70144e54966b8be6d6a9d450ee8ce6b7d5a4d8cc0b40ce13c52394ba486989a3956b589ca5ee14765538d5af2879d843b43e328a1c7e8b736d45123d7fa7a9d24af9da3698d4ba795eca372ec65764ba6dac7be1300377770f73a83a05b564abb403d4022cf15b9375e2090c4</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -54,10 +54,10 @@ import {initHBE} from "/js/plugins/hbe.js";
   </entry>
   <entry>
     <title>日记</title>
-    <url>/posts/20210202120000.html</url>
+    <url>/posts/20210204120000.html</url>
     <content><![CDATA[
 <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="db4e94f965e27ff20b3a5c957656deb75e3b40c1451eb081b7cf8156ecb95799">249107fcce4fdab00b19d327c31fd8f3535427e7c3ba9fbe652aae764677b3cf7e0519e681ddf13739627546f58850cb7b47f58e2a3755f580598a5e64e16ca7e9bd0e04946e951d490404ab45c9e276877d699426c7229f7147e43cc1f667e7ae71347fe2a32d44513a4691f60d5c6d0b38573ba0ef61473d5a71ad41d7bf0235799b442096e6383318e1b3fce6c4fb94ca1389db22c69713c53647d73a13c0628d745f7de48aaf4d3529aef2bc2b0f82109767e51c14992714a9e0291635b12a2bd973bc6b32c39400a38ea7269e7bdc491939d13ffe4508432f24e5c0e61463e599d14ac65d7e7a0e57fdd28edf19e68ef0f7706e4cf449267a3077d8bcfdd30e529d79fa2bd0ce55bd8550eafd47b88814623303854e2c765f3cebc0313bdb951fd70144e54966b8be6d6a9d450ee8ce6b7d5a4d8cc0b40ce13c52394ba486989a3956b589ca5ee14765538d5af2879d843b43e328a1c7e8b736d45123d7fa7a9d24af9da3698d4ba795eca372ec65764ba6dac7be1300377770f73a83a05b564abb403d4022cf15b9375e2090c4</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="57b493ec5a18fb9463d523124086b3fb49f3c6f999974638bab1161418dd8d14">249107fcce4fdab00b19d327c31fd8f325ddab373a41293be0ff0f8f57494367000ca8079376cccc878ba5d7d41277d51132dab9f6f7b6933da5579f64396520173499434767e6fd80a49aff39f9952fbd159b347a6887598089b75e25c5ce35c9857c3f99d5bec9cb3aecf48837924bde22cd5cef0a3d06521b119370d6453d2dfbada9433cec0021a2339a66270a264cbc5ece5b5aad2a79f6d315c755fc9a9724c6b5b8c5f7e3386c1fa00ffb47cc174636e28135862b319f7bc2c2a5df00b70a4992aac3d497933aa9ea5ca7d5924d987192f204bd40e005a8df5fdca8195f87221a33e0d34abc535d923dc0de5666e0ebaebb4c5a0e38139dfaea4179275a75fe49fbe28bf7cb4bc06de778317b5069dcc86370da9ed85449d166a8e91e59fead1a6d9fc1b81998cc391a617562ca2816063904b2dab1c62002748d894c59f03dd8e51447691c1f8974acaf06f80f61019caa7138a5adb9ee573a698e8ca5e92f9d2470b16e79e4f1f5045f8ca5df8d053549ca7fa58333750f22af5a968660613ca7abece21ad5c9fe4f12b01a01981d9cb4180a5ab272433f0e4fc63412e30437d5664a175b41f06c7332fba1b22c3ededa3fe8fa3df02fcef09df8ddf00bc5364c4c6fb7773a861009f4d0e1d2eb6a23f2b71cd7a6ad4ab435cf4910382aab34fa4ce9df623e27a1d6e83e254034a7646262271092750526886a24a1878d48bf33bbb9fe5308d91b9bb1d998003328b5f3bb9d6ec528d008982f43c4bef4e60c412c42f4d63654a82db0c86b9471c576007f17609882e477141710cf30d94650cbe51ab6cd537a5bd35512aaaa09ea8beb2993ff3be3b051a1d7acd3c51b7c8730eb62204f853cc276b92104fb7a130103cc0da78ffcf9079c99d27ebdfc4bec0c6523f81e87378745b917ba73db9c241376ad2ddd6586227541235d21e792e3ef116ff25640920dd7daef6d0f46659061fe357565404157f8d641786bdd38e50b4ae0b422e5ebb45e0535b480563d0a6bcefcc334a0059c2202f74e</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -105,6 +105,85 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>日记</title>
+    <url>/posts/20210201120000.html</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="ac2c294148fe5f08ef71e1129aa8cffd4aecf76517c1d3164e1b5677cca82cfe">249107fcce4fdab00b19d327c31fd8f3391582e1934f620d485f8d387d53437fe866eca361f7e448cbd323c1ab078057e1d4619d48760fce188797ef5e29c71df3f2d0a383734f0b54ca103243d58e42e2b9f56845e5553b8efb88a26c176fda62ad7bcc2faf1f56cf7ba98d1b0237529d826f34a0d6adb67ef6caf71da7a2b560d5758f5332cab2dad14e1884024b6ae877c96777713fe06b85d0b16c5369b8c524cb9dbcf50ba0370024bc9f9dd14072c19c84f65d83eff795109d9084b440704b2ad559592b377ec42fbf82f7e2c762e5005d1cdb850c79be34451ad2f77a26f4fa53cdef064331b88d4d3105a2e2815d122a4060d3bdde391c450dce68bd25f9a29a4a9c94923cfa7e6f75072df03710d2e3a706b680de08f03e100303147b8244f82bb7755259004225b21d19f056357ab810af69cf5b6f1a29ed886150d1dd3f593f76b2539c682f2c0ec906f3c4eeb1c3d31702f2b92540db3f75574bca3839ed9168bd006da9c285d7bd723a9a7189aa67dd75faed4f28e7a6d9916e190d620c225263dc1a2be096306564be6c1015f520892cb05f4ba81eaab13e13fe89d3b5a064e94569d58204ed11c56a8ae5034da4e35ca297f3431b5ce4376631b10bb7cdfef1de2f2a249e2135ede68d3aa363c2798a40346eecf9dff120f8a86b08ac35a92ffdd354ddcfe73b613bb28448377b3df01440b083b030e9ce34af7302a9c2f88e6d9b732cc1ca038d058961a73a1c6c95477b871c38e7a4be53d225fe6c014305875203516f91845fcfabd2863fa8345f3ffaaa96114c2c596e75b69255165f35b5675fdf2458ee2d10d234e37931b6bbb09e2285430b3b2f7b206c3ed97af718fb78fc05a5f23db1beb480bfc24ad68b5c914c68ae01f187d1c11443a5dceeac5891424418193313b99c149eaa4064a5f5cb94c1680c8d65cc2f9823f493bcabf0525cb69bb9494060031fac4c2736521960259fd578642711e193c08217fa967a6e43ebcf2f39e98156e1cf0cbd5cb0b8cc62c5f9d3595c6c18e9b9bc04b607dfc3c617e9dfd0deb025a6184086796dfc416154ef04220794333437cd60a4c24203749676da211dd3e78e1580b269e20d6babf610836f507197c2cdc9f651dd6bf846df9656828e12bb5f512be4503d9a78679d37cacb91db708e9df541d636e40c652c5fe946422dda78da9592b92a806874142cbdc30af8ae101c84bf82a5553df1412b31b1a7e1a9ea70f7d8225598250f8ca1e0bcbdb14dbf5560e067f32d9dfddf8c3ce26548b0cb4cc1e8b6565b2996ae1ca3abd946c2b6309f21a6e0d7262f6f516b424e65e119aa600c725eae72de08d1b3a7f9c00c3fd2e70da8519715a11b2c642699cc28c30184b1b0774220cbe19d02f732421a01615f4371e8b09748a5e0a98aaa9c23d68b2b2d3efacc7f6c09bb74a8753bfd61b3f70bbf1dd7cadae4797680b4f9c7515f4823781a379d8a8b07fab22b319939f4bfa032b61ef21ddad3da9956a3a8180f4023a21377469b75df97c338e7f33e554ee90fae689d57605c0daa4785d9d7190942533ad23c8293ce27f889b9b97d2b5b9ac1610ae08c1a63b87b86e5d87d7ad14d5fad3df5ca475d49bc8dfe6ecf33c2e23be36235132ea194de0ee26a0ae838a8619f0f633b154121cdd7b784f754970a2541c7a4edcfb85ea05895513a11d03e0ac1491f09a0d92f7a442741a8d2c8e146b2f9bc2cd154341fbcb83a60f2b56f0b15275a66e65654818480e42fb58f77497f569295fadea3cbc5253871b5d14024585b941f9ea80cfa566467679447741af09dd8a1c979f48ee3992e006b8cfe7f61e0db23b56d6d00f865</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
+<script data-swup-reload-script type="module">
+import {initHBE} from "/js/plugins/hbe.js";
+  console.log("hexo-blog-encrypt: loaded.");
+    initHBE();
+</script>
+]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>计算机网络体系结构</title>
+    <url>/posts/20241113120000.html</url>
+    <content><![CDATA[<h2 id="计算机网络概述"><a href="#计算机网络概述" class="headerlink" title="计算机网络概述"></a>计算机网络概述</h2><ul>
+<li><p>计算机网络的功能包括数据通信、资源共享、分布式处理、信息综合处理、负载均衡、提高可靠性等，但其中<strong>最基本的功能是数据通信</strong>功能，数据通信功能也是实现其他功能的基础。</p>
+</li>
+<li><p>资源子网主要由计算机系统、终端、联网外部设备、各种软件资源和信息资源等组成。资源子网负责全网的数据处理业务，向网络用户提供各种网络资源与网络服务。通信子网由通信控制处理机、通信线路和其他通信设备组成，任务是完成网络数据传输、转发等。通信子网是OSI模型的下三层</p>
+</li>
+<li><p>以太网采用的是分组交换技术</p>
+</li>
+<li><p>电路交换的传输时延最小,但是没有差错控制的能力;分组交换是在报文交换的基础上分割了报文,直接导致了传输时延减小</p>
+</li>
+<li><p>若网络容易丢失分组，则对每个分组逐一进行确认较好，此时仅重传丢失的分组。另一方面,若网络高度可靠，则在不发生差错的情况下，仅在整个文件传送的结尾发送一次确认，以减少确认次数，进而节省带宽。不过，即使只有单个分组丢失，也要重传整个文件。</p>
+</li>
+<li><p><strong>流水线解题思路</strong>:<br>先算第一个分组在整个链路中传输的时间,然后加上剩下的分组在最后一个链路中传播的时间</p>
+<blockquote>
+<p>eg:<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/63bbf393f218793adcf22bf2e25755f6.png" alt="63bbf393f218793adcf22bf2e25755f6.png"><br><br> <img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/4bf87c9c4c27a38ee7b384a9ab93fdf9.png" alt="4bf87c9c4c27a38ee7b384a9ab93fdf9.png"><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/f1e6a09f52f78459ac6af6e4264bc191.png" alt="f1e6a09f52f78459ac6af6e4264bc191.png"><br><br> t=3r+(m-1)r<br><br> r:每条链路传输的时间; m:分组的数目;<br><br>第一个分组传输3r; 剩下的m-1个分组每隔r段时间接受一个<br><strong>Tips</strong>:r的算法很灵活，也可以是eg2中的第二问（500+20-20），注意：同一个分段中时间不能重合<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/c3779d7dafdfb80939a3321ba84c09bb.png" alt="c3779d7dafdfb80939a3321ba84c09bb.png"><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/257ac0f51e15f895fc53816562ee0437.png" alt="257ac0f51e15f895fc53816562ee0437.png"></p>
+</blockquote>
+</li>
+<li><p>QAM是正交振幅调制,将两种调幅信号汇合到一个信道的方法。</p>
+<p>   对于奈奎斯特公式的理解:</p>
+</li>
+</ul>
+<blockquote>
+<p>奈奎斯特(Nyquist):<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.464ex;" xmlns="http://www.w3.org/2000/svg" width="13.163ex" height="2.059ex" role="img" focusable="false" viewBox="0 -705 5818.1 910"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D436" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"></path></g><g data-mml-node="mo" transform="translate(1037.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(2093.6,0)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="mi" transform="translate(2593.6,0)"><path data-c="1D435" d="M231 637Q204 637 199 638T194 649Q194 676 205 682Q206 683 335 683Q594 683 608 681Q671 671 713 636T756 544Q756 480 698 429T565 360L555 357Q619 348 660 311T702 219Q702 146 630 78T453 1Q446 0 242 0Q42 0 39 2Q35 5 35 10Q35 17 37 24Q42 43 47 45Q51 46 62 46H68Q95 46 128 49Q142 52 147 61Q150 65 219 339T288 628Q288 635 231 637ZM649 544Q649 574 634 600T585 634Q578 636 493 637Q473 637 451 637T416 636H403Q388 635 384 626Q382 622 352 506Q352 503 351 500L320 374H401Q482 374 494 376Q554 386 601 434T649 544ZM595 229Q595 273 572 302T512 336Q506 337 429 337Q311 337 310 336Q310 334 293 263T258 122L240 52Q240 48 252 48T333 46Q422 46 429 47Q491 54 543 105T595 229Z"></path></g><g data-mml-node="mi" transform="translate(3352.6,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(3650.6,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(4135.6,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mi" transform="translate(5049.1,0)"><path data-c="1D449" d="M52 648Q52 670 65 683H76Q118 680 181 680Q299 680 320 683H330Q336 677 336 674T334 656Q329 641 325 637H304Q282 635 274 635Q245 630 242 620Q242 618 271 369T301 118L374 235Q447 352 520 471T595 594Q599 601 599 609Q599 633 555 637Q537 637 537 648Q537 649 539 661Q542 675 545 679T558 683Q560 683 570 683T604 682T668 681Q737 681 755 683H762Q769 676 769 672Q769 655 760 640Q757 637 743 637Q730 636 719 635T698 630T682 623T670 615T660 608T652 599T645 592L452 282Q272 -9 266 -16Q263 -18 259 -21L241 -22H234Q216 -22 216 -15Q213 -9 177 305Q139 623 138 626Q133 637 76 637H59Q52 642 52 648Z"></path></g></g></g></svg></mjx-container><br>    C:信道容量(数据传输速率); B:信道带宽; V:信号状态数<br>2B:为了准确恢复一个信号,采样频率至少需要是信号最高频率的两倍。<br><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.464ex;" xmlns="http://www.w3.org/2000/svg" width="5.578ex" height="2.034ex" role="img" focusable="false" viewBox="0 -694 2465.6 899"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(298,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(783,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mi" transform="translate(1696.6,0)"><path data-c="1D449" d="M52 648Q52 670 65 683H76Q118 680 181 680Q299 680 320 683H330Q336 677 336 674T334 656Q329 641 325 637H304Q282 635 274 635Q245 630 242 620Q242 618 271 369T301 118L374 235Q447 352 520 471T595 594Q599 601 599 609Q599 633 555 637Q537 637 537 648Q537 649 539 661Q542 675 545 679T558 683Q560 683 570 683T604 682T668 681Q737 681 755 683H762Q769 676 769 672Q769 655 760 640Q757 637 743 637Q730 636 719 635T698 630T682 623T670 615T660 608T652 599T645 592L452 282Q272 -9 266 -16Q263 -18 259 -21L241 -22H234Q216 -22 216 -15Q213 -9 177 305Q139 623 138 626Q133 637 76 637H59Q52 642 52 648Z"></path></g></g></g></svg></mjx-container>:如果有V种不同的信号状态，那么每个采样点可以携带<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.464ex;" xmlns="http://www.w3.org/2000/svg" width="5.578ex" height="2.034ex" role="img" focusable="false" viewBox="0 -694 2465.6 899"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(298,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(783,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mi" transform="translate(1696.6,0)"><path data-c="1D449" d="M52 648Q52 670 65 683H76Q118 680 181 680Q299 680 320 683H330Q336 677 336 674T334 656Q329 641 325 637H304Q282 635 274 635Q245 630 242 620Q242 618 271 369T301 118L374 235Q447 352 520 471T595 594Q599 601 599 609Q599 633 555 637Q537 637 537 648Q537 649 539 661Q542 675 545 679T558 683Q560 683 570 683T604 682T668 681Q737 681 755 683H762Q769 676 769 672Q769 655 760 640Q757 637 743 637Q730 636 719 635T698 630T682 623T670 615T660 608T652 599T645 592L452 282Q272 -9 266 -16Q263 -18 259 -21L241 -22H234Q216 -22 216 -15Q213 -9 177 305Q139 623 138 626Q133 637 76 637H59Q52 642 52 648Z"></path></g></g></g></svg></mjx-container>比特的信息。</p>
+</blockquote>
+<p>所以单位时间内(即信道的传输速率C)能够传输的信号量就是采样频率(2B)乘以每个采样点携带的信息量(<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.464ex;" xmlns="http://www.w3.org/2000/svg" width="5.578ex" height="2.034ex" role="img" focusable="false" viewBox="0 -694 2465.6 899"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(298,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(783,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mi" transform="translate(1696.6,0)"><path data-c="1D449" d="M52 648Q52 670 65 683H76Q118 680 181 680Q299 680 320 683H330Q336 677 336 674T334 656Q329 641 325 637H304Q282 635 274 635Q245 630 242 620Q242 618 271 369T301 118L374 235Q447 352 520 471T595 594Q599 601 599 609Q599 633 555 637Q537 637 537 648Q537 649 539 661Q542 675 545 679T558 683Q560 683 570 683T604 682T668 681Q737 681 755 683H762Q769 676 769 672Q769 655 760 640Q757 637 743 637Q730 636 719 635T698 630T682 623T670 615T660 608T652 599T645 592L452 282Q272 -9 266 -16Q263 -18 259 -21L241 -22H234Q216 -22 216 -15Q213 -9 177 305Q139 623 138 626Q133 637 76 637H59Q52 642 52 648Z"></path></g></g></g></svg></mjx-container>)。</p>
+<h2 id="计算机网络体系结构与参考模型"><a href="#计算机网络体系结构与参考模型" class="headerlink" title="计算机网络体系结构与参考模型"></a>计算机网络体系结构与参考模型</h2><ul>
+<li>网络协议三要素是语法、语义和同步。<ul>
+<li><strong>语法</strong>：规定了通信双方“如何讲”，即数据与控制信息的结构或格式,也就是各个字段的含义</li>
+<li><strong>语义</strong>：规定了通信双方“讲什么”，即需要发出何种控制信息、完成何种动作以及做出何种响应。语义明确了特定的控制信息所代表的具体含义和操作要求。</li>
+<li><strong>同步</strong>：规定了通信双方“何时讲”，即事件实现顺序的详细说明。包括同步点、时序控制等，确保通信双方在合适的时间进行特定的操作。比如在 TCP 协议中，通过三次握手建立连接的过程就是一种同步机制，双方按照特定的顺序进行消息的发送和确认，以确保连接的正确建立。同步保证了通信的有序进行，避免出现混乱和错误。</li>
+</ul>
+</li>
+<li>数据链路层物理寻址的功能是根据MAC地址确定数据帧的接收方</li>
+<li><a class="link" href="https://www.doubao.com/thread/w5d933566d1552810">拥塞控制和流量控制<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>:拥塞控制是控制的整个网络的拥堵情况,流量控制是控制两个节点之间的传输速率</li>
+<li><a class="link" href="https://www.doubao.com/thread/w8ebdce4f787fa1ca">OSI参考模型各层的功能<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>;<br><a class="link" href="https://www.doubao.com/thread/w7e33949023dd2a47">TCP/IP模型各层的功能<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>ISO/OSI 参考模型在网络层支持无连接和面向连接的通信，但在传输层仅支持面向连接的通信;TCP/IP 模型在网络层(IP协议)仅有无连接的通信，而在传输层支持无连接(UDP)和面向连接(TCP)的通信。<a class="link" href="https://www.doubao.com/thread/w439dfa19bcf450dc">解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>OSI参考模型中<strong>会话层</strong>通过设置检验点(同步点)，使通信双方在通信失效时可从检验点恢复通信。</li>
+<li>在5层体系结构中，数据链路层的服务访问点为帧的“类型”字段，网络层的服务访问点为IP 数据报的“协议”字段，传输层的服务访问点为“端口号”字段，应用层的服务访问点为“用户接口”。<a class="link" href="https://www.doubao.com/thread/w9bf561f660505998">解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>路由器工作在网络层;交换机工作在数据链路层;集线器工作在物理层</li>
+<li>在OSI参考模型中,数据链路层,网络层,传输层都具有流量控制功能。数据链路层是相邻节点之间的流量控制，网络层是整个网络中的流量控制，传输层是端到端的流量控制。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>计算机网络</category>
+        <category>体系结构</category>
+      </categories>
+      <tags>
+        <tag>计算机网络</tag>
+        <tag>计算机408</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>物理层</title>
     <url>/posts/20241117120000.html</url>
     <content><![CDATA[<h2 id="通信基础"><a href="#通信基础" class="headerlink" title="通信基础"></a>通信基础</h2><ul>
@@ -141,32 +220,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       <tags>
         <tag>计算机网络</tag>
         <tag>计算机408</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日记</title>
-    <url>/posts/20210201120000.html</url>
-    <content><![CDATA[
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="ac2c294148fe5f08ef71e1129aa8cffd4aecf76517c1d3164e1b5677cca82cfe">249107fcce4fdab00b19d327c31fd8f3391582e1934f620d485f8d387d53437fe866eca361f7e448cbd323c1ab078057e1d4619d48760fce188797ef5e29c71df3f2d0a383734f0b54ca103243d58e42e2b9f56845e5553b8efb88a26c176fda62ad7bcc2faf1f56cf7ba98d1b0237529d826f34a0d6adb67ef6caf71da7a2b560d5758f5332cab2dad14e1884024b6ae877c96777713fe06b85d0b16c5369b8c524cb9dbcf50ba0370024bc9f9dd14072c19c84f65d83eff795109d9084b440704b2ad559592b377ec42fbf82f7e2c762e5005d1cdb850c79be34451ad2f77a26f4fa53cdef064331b88d4d3105a2e2815d122a4060d3bdde391c450dce68bd25f9a29a4a9c94923cfa7e6f75072df03710d2e3a706b680de08f03e100303147b8244f82bb7755259004225b21d19f056357ab810af69cf5b6f1a29ed886150d1dd3f593f76b2539c682f2c0ec906f3c4eeb1c3d31702f2b92540db3f75574bca3839ed9168bd006da9c285d7bd723a9a7189aa67dd75faed4f28e7a6d9916e190d620c225263dc1a2be096306564be6c1015f520892cb05f4ba81eaab13e13fe89d3b5a064e94569d58204ed11c56a8ae5034da4e35ca297f3431b5ce4376631b10bb7cdfef1de2f2a249e2135ede68d3aa363c2798a40346eecf9dff120f8a86b08ac35a92ffdd354ddcfe73b613bb28448377b3df01440b083b030e9ce34af7302a9c2f88e6d9b732cc1ca038d058961a73a1c6c95477b871c38e7a4be53d225fe6c014305875203516f91845fcfabd2863fa8345f3ffaaa96114c2c596e75b69255165f35b5675fdf2458ee2d10d234e37931b6bbb09e2285430b3b2f7b206c3ed97af718fb78fc05a5f23db1beb480bfc24ad68b5c914c68ae01f187d1c11443a5dceeac5891424418193313b99c149eaa4064a5f5cb94c1680c8d65cc2f9823f493bcabf0525cb69bb9494060031fac4c2736521960259fd578642711e193c08217fa967a6e43ebcf2f39e98156e1cf0cbd5cb0b8cc62c5f9d3595c6c18e9b9bc04b607dfc3c617e9dfd0deb025a6184086796dfc416154ef04220794333437cd60a4c24203749676da211dd3e78e1580b269e20d6babf610836f507197c2cdc9f651dd6bf846df9656828e12bb5f512be4503d9a78679d37cacb91db708e9df541d636e40c652c5fe946422dda78da9592b92a806874142cbdc30af8ae101c84bf82a5553df1412b31b1a7e1a9ea70f7d8225598250f8ca1e0bcbdb14dbf5560e067f32d9dfddf8c3ce26548b0cb4cc1e8b6565b2996ae1ca3abd946c2b6309f21a6e0d7262f6f516b424e65e119aa600c725eae72de08d1b3a7f9c00c3fd2e70da8519715a11b2c642699cc28c30184b1b0774220cbe19d02f732421a01615f4371e8b09748a5e0a98aaa9c23d68b2b2d3efacc7f6c09bb74a8753bfd61b3f70bbf1dd7cadae4797680b4f9c7515f4823781a379d8a8b07fab22b319939f4bfa032b61ef21ddad3da9956a3a8180f4023a21377469b75df97c338e7f33e554ee90fae689d57605c0daa4785d9d7190942533ad23c8293ce27f889b9b97d2b5b9ac1610ae08c1a63b87b86e5d87d7ad14d5fad3df5ca475d49bc8dfe6ecf33c2e23be36235132ea194de0ee26a0ae838a8619f0f633b154121cdd7b784f754970a2541c7a4edcfb85ea05895513a11d03e0ac1491f09a0d92f7a442741a8d2c8e146b2f9bc2cd154341fbcb83a60f2b56f0b15275a66e65654818480e42fb58f77497f569295fadea3cbc5253871b5d14024585b941f9ea80cfa566467679447741af09dd8a1c979f48ee3992e006b8cfe7f61e0db23b56d6d00f865</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
-]]></content>
-      <tags>
-        <tag>日记</tag>
       </tags>
   </entry>
   <entry>
@@ -382,156 +435,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       <categories>
         <category>计算机网络</category>
         <category>数据链路层</category>
-      </categories>
-      <tags>
-        <tag>计算机网络</tag>
-        <tag>计算机408</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>操作系统概述</title>
-    <url>/posts/20241121000000.html</url>
-    <content><![CDATA[<h2 id="1-1操作系统的基本概念"><a href="#1-1操作系统的基本概念" class="headerlink" title="1.1操作系统的基本概念"></a>1.1操作系统的基本概念</h2><ul>
-<li>操作系统的四大特征:并发,共享,虚拟,异步,前两个是最基本的特征;<br><br><strong>并发</strong>是指两个或多个事件在同一时间间隔内发生;<br><br><strong>共享</strong>是指系统中的资源可供内存中多个并发执行的进程共同使用;<br><br><strong>虚拟</strong>是指将一个物理上的实体变为若干逻辑上的对应物;<br><br><strong>异步</strong>是指计算机中的进程因为资源问题,所以不是一下就运行到底的而是走走停停</li>
-<li>操作系统提供的接口主要分为两类:一类是<strong>命令接口</strong>，用户利用这些操作命令来组织和控制作业的执行:另一类是<strong>程序接口</strong>，编程人员可以使用它们来请求操作系统服务。<br><br>命令接口有联机和脱机两种:联机是输入一条命令就要得到结果,就是交互性;脱机是把处理任务直接扔给计算机,用户不干预计算机的运行,坐等结果;<br><br>程序接口是由一组系统调用组成,GUI就是通过调用程序接口实现的,但是GUI不是操作系统的一部分,GUI调用的系统调用命令是操作系统的一部分;</li>
-</ul>
-<h2 id="1-2操作系统发展历程"><a href="#1-2操作系统发展历程" class="headerlink" title="1.2操作系统发展历程"></a>1.2操作系统发展历程</h2><ul>
-<li><strong>单道批处理系统</strong>:把一堆作业扔给操作系统,配上监督程序,作业一个一个进行,具有自动性,顺序性,单道性;</li>
-<li><strong>多道批处理系统</strong>用户所提交的作业都先存放在外存上并排成一个队列，作业调度程序按一定的算法从后备队列中选择若干作业调入内存，它们在管理程序的控制下相互穿插地运行</li>
-<li><strong>分时操作系统</strong>是指将处理器的运行时间分成很短的时间片，按时间片轮流将处理器分配给各个作业<br>多个用户终端共享主机,响应时间很短,但是对于需要实时反馈的作业就不够了,需要实时系统</li>
-<li><strong>实时系统</strong>有硬实时和软实时,前者对于时间要求很严格,后者拖延一会也没事</li>
-<li>多道程序技术要求进程间能实现并发，需要实现进程调度以保证CPU的工作效率，而并发性的实现需要中断功能的支持。</li>
-</ul>
-<h2 id="1-3操作系统的运行环境"><a href="#1-3操作系统的运行环境" class="headerlink" title="1.3操作系统的运行环境"></a>1.3操作系统的运行环境</h2><ul>
-<li>CPU 的运行模式划分为用户态(目态)和核心态(又称管态、内核态)。</li>
-<li>特权指令(核心态)，是指不允许用户直接使用的指令，如I/O 指令、关中断指令、内存清零指令,存取用于内存保护的寄存器、送 PSW 到程序状态字寄存器等的指令。<br>非特权指令(用户态)，是指允许用户直接使用的指令，它不能直接访问系统中的软硬件资源，仅限于访问用户的地址空间，这也是为了防止用户程序对系统造成破坏。</li>
-<li><strong>中断和异常</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-21_20-21-35.png"></li>
-<li><strong>系统调用的功能</strong>:<br><br>设备管理。完成设备的请求或释放，以及设备启动等功能。<br><br>文件管理。完成文件的读、写、创建及删除等功能。<br><br>进程控制。完成进程的创建、撤销、阻塞及唤醒等功能。<br><br>进程通信。完成进程之间的消息传递或信号传递等功能。<br><br>内存管理。完成内存的分配、回收以及获取作业占用内存区大小和起始地址等功能。</li>
-<li>用户程序创建一个新进程，需使用操作系统提供的系统调用接口<br><br>用户程序使用系统调用命令，该命令经过编译后形成若干参数和陷入指令<br>当操作系统完成用户请求的系统调用功能后，应使CPU从内核态转到用户态</li>
-<li>在中断发生后，进入中断处理的程序只能属于操作系统程序</li>
-<li>计算机通过<strong>硬件</strong>完成操作系统由用户态到核心态的转换，这是通过中断机制来实现的。发生中断事件时，由硬件中断机制将计算机状态置为核心态。</li>
-<li>大多数计算机操作系统的内核包括四个方面的内容，即时钟管理、中断机制、原语和系统控制的数据结构及处理，其中第4部分实际上是系统调用类的指令(广义指令)。<br><blockquote>
-<p>置时钟指令是在核心态运行的,如果该指令允许在用户态执行，那么程序就可以自行更改时间片，会一直霸占CPU。</p>
-</blockquote>
-</li>
-<li>命令解释程序属于命令接口，能面对用户，在用户态下执行。磁盘调度程序、中断处理程序和进程调度程序都工作在内核态。</li>
-<li>“访管”指令仅在用户态下使用，<strong>执行“访管”指令将用户态转变为核心态。</strong></li>
-<li>系统调用命令工作在核心态，系统调用本身是一条在核心态运行的命令，并不是调用系统的命令，调用系统调用的命令才是用户态的。<br><strong>也就是说，系统调用的发生是在用户态，系统调用的执行是在核心态</strong></li>
-<li>I/O设备的请求、时钟中断是外部中断。<br><br>访管指令、缺页异常是内部中断。</li>
-<li>系统调用需要保存 PSW 和PC的值，一般过程调用只需保存PC的值。<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_08-53-49.png"><br>一般过程调用的被调用程序与调用程序运行在同一个状态，可能是系统态，也可能是用户态<br>系统调用的被调用过程一定运行在核心态</li>
-<li>trap 指令、跳转指令和压栈指令均可以在用户态执行，其中 trap 指令负责由用户态转换为内核态。关中断指令为特权指令，必须在核心态才能执行。<strong>注意</strong>，在操作系统中，关中断指令是权限非常大的指令，因为中断是现代操作系统正常运行的核心保障之一，能把它关掉，说明执行这条指令的一定是权限非常大的机构(管态)。</li>
-<li>外部中断处理过程，PC 值由中断隐指令自动保存，而通用寄存器内容由操作系统保存。块表(TLB)和 Cache 中的内容则由硬件机构保存。</li>
-<li>执行系统调用的过程：<br><ol>
-<li>传递系统调用参数</li>
-<li>执行陷入(trap)指令</li>
-<li>执行相应的服务程序</li>
-<li>返回用户态</li>
-</ol>
-</li>
-<li>当 CPU 检测到中断信号后，由硬件自动保存被中断程序的断点[程序计数器(PC)和程序状态字寄存器(PSW)]<blockquote>
-<p>麻蛋，到底是硬件保存的还是中断隐指令保存的啊，<strong>暂定是硬件保存的</strong></p>
-</blockquote>
-之后，硬件找到该中断信号对应的中断向量，中断向量指明中断服务程序入口地址(各中断向量统一存放在中断向量表中，该表由操作系统初始化)。<br>接下来开始执行中断服务程序，保存中断屏蔽字、保存各通用寄存器的值，并提供与中断信号对应的中断服务</li>
-<li><strong>系统调用是由用户进程发起的，请求操作系统的服务。</strong><br><ol>
-<li>当内存中的空闲页框不够时，操作系统会将某些页面调出，并将要访问的页面调入，这个过程完全由操作系统完成，不涉及系统调用。</li>
-<li>进程调度完全由操作系统完成，无法通过系统调用完成。</li>
-<li>创建新进程可以通过系统调用来完成，如Linux 中通过 fork 系统调用来创建子进程。</li>
-</ol>
-</li>
-<li>发生系统调用时，CPU 通过执行软中断指令将CPU的运行状态从用户态切换到内核态，这个过程与中断和异常的响应过程相同,，<strong>由硬件负责保存断点和程序状态字,并将 CPU 模式改为内核态</strong>。<br>然后，执行操作系统内核的系统调用入口程序，<strong>该内核程序负责保存通用寄存器的内容，再调用执行特定的系统调用服务例程。</strong><br>综上，前俩由硬件完成，后俩由操作系统完成。</li>
-</ul>
-<h2 id="1-4操作系统的结构，引导和虚拟机"><a href="#1-4操作系统的结构，引导和虚拟机" class="headerlink" title="1.4操作系统的结构，引导和虚拟机"></a>1.4操作系统的结构，引导和虚拟机</h2><ul>
-<li>结构：<br><ol>
-<li><strong>分层法</strong>：把操作系统分层，从底层（硬件）一层层向上扩充，每层只能调用紧邻它的低层的功能和服务(单向依赖)。<ul>
-<li><strong>优势</strong>：容易调试检查错误，一层一层向上检查，很容易确定具体哪一层出错；<br>容易扩充和维护，跟砌墙一样，想实现更高的功能只需要一层层叠加就🆗了</li>
-<li><strong>劣势</strong>：合理定义各层比较困难，各层之间挨得太近，暧昧不分；<br>效率很差，要完成某个功能要从底层开始穿越</li>
-</ul>
-</li>
-<li><strong>模块化</strong>：把操作系统按照不同的功能分为不同的模块<ul>
-<li><strong>优势</strong>：①提高了操作系统设计的正确性、可理解性和可维护性;②增强了操作系统的可适应性;③加速了操作系统的开发过程。</li>
-<li><strong>劣势</strong>：接口很难设计，你不知道它都有啥需求；<br>模块也很难设计，各个模块要齐头并进，顺序很难把握；</li>
-</ul>
-</li>
-<li><a class="link" href="https://www.doubao.com/thread/a4197fa860ae6">微内核<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>是保留最基础的内核功能，把多余的功能都剥离出去。<br><ul>
-<li>优势：<ol>
-<li>扩展性和灵活性。</li>
-<li>可靠性和安全性。</li>
-<li>可移植性</li>
-<li>分布式计算。</li>
-</ol>
-</li>
-<li>劣势：有点性能问题，因为需要频繁地在用户态和内核态之间切换</li>
-</ul>
-</li>
-<li><strong>宏内核</strong>：把所有功能都聚合到一起，效率很高，共享信息很快，但是操作系统越做越大，这种结构就很臃肿</li>
-</ol>
-</li>
-<li>模块化操作系统的各功能模块都在内核中，且模块之间相互调用、相互依赖，任何一个模块出错，都可能导致整个内核崩溃。<br>在微内核操作系统中，内核外的某个功能模块出错不会导致整个系统崩溃，可靠性高。 </li>
-<li>操作系统的启动过程：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_09-40-56.png" alt="text"></li>
-<li>Windows 是融合了宏内核和微内核的操作系统</li>
-<li>在拥有外核的操作系统中，外核只负责硬件资源的分配、回收、保护等，进程管理相关的工作仍然由内核负责。</li>
-<li>引导程序有两种，一种是位于BIOS中的用于引导开启各个设备，一种是位于硬盘中的用于引导操作系统</li>
-<li>第一类虚拟机管理程序直接运行在物理硬件之上，具有高性能和高安全性；第二类虚拟机管理程序运行在现有操作系统之上，安装和使用相对简单。<a class="link" href="https://www.doubao.com/thread/a3ff2039790f2">详细<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
-<li>BIOS 将控制权交给排在首位的启动设备后，CPU 将该设备主引导扇区的内容[主引导记录(MBR)]加载到内存中，然后由 MBR 检查分区表，查找活动分区，并将该分区的引导扇区的内容[分区引导记录(PBR)]加载到内存加以执行。</li>
-<li><strong>访管指令与访管中断</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_10-42-53.png" alt="text"></li>
-</ul>
-]]></content>
-      <categories>
-        <category>计算机操作系统</category>
-        <category>概述</category>
-      </categories>
-      <tags>
-        <tag>计算机408</tag>
-        <tag>计算机操作系统</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>计算机网络体系结构</title>
-    <url>/posts/20241113120000.html</url>
-    <content><![CDATA[<h2 id="计算机网络概述"><a href="#计算机网络概述" class="headerlink" title="计算机网络概述"></a>计算机网络概述</h2><ul>
-<li><p>计算机网络的功能包括数据通信、资源共享、分布式处理、信息综合处理、负载均衡、提高可靠性等，但其中<strong>最基本的功能是数据通信</strong>功能，数据通信功能也是实现其他功能的基础。</p>
-</li>
-<li><p>资源子网主要由计算机系统、终端、联网外部设备、各种软件资源和信息资源等组成。资源子网负责全网的数据处理业务，向网络用户提供各种网络资源与网络服务。通信子网由通信控制处理机、通信线路和其他通信设备组成，任务是完成网络数据传输、转发等。通信子网是OSI模型的下三层</p>
-</li>
-<li><p>以太网采用的是分组交换技术</p>
-</li>
-<li><p>电路交换的传输时延最小,但是没有差错控制的能力;分组交换是在报文交换的基础上分割了报文,直接导致了传输时延减小</p>
-</li>
-<li><p>若网络容易丢失分组，则对每个分组逐一进行确认较好，此时仅重传丢失的分组。另一方面,若网络高度可靠，则在不发生差错的情况下，仅在整个文件传送的结尾发送一次确认，以减少确认次数，进而节省带宽。不过，即使只有单个分组丢失，也要重传整个文件。</p>
-</li>
-<li><p><strong>流水线解题思路</strong>:<br>先算第一个分组在整个链路中传输的时间,然后加上剩下的分组在最后一个链路中传播的时间</p>
-<blockquote>
-<p>eg:<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/63bbf393f218793adcf22bf2e25755f6.png" alt="63bbf393f218793adcf22bf2e25755f6.png"><br><br> <img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/4bf87c9c4c27a38ee7b384a9ab93fdf9.png" alt="4bf87c9c4c27a38ee7b384a9ab93fdf9.png"><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/f1e6a09f52f78459ac6af6e4264bc191.png" alt="f1e6a09f52f78459ac6af6e4264bc191.png"><br><br> t=3r+(m-1)r<br><br> r:每条链路传输的时间; m:分组的数目;<br><br>第一个分组传输3r; 剩下的m-1个分组每隔r段时间接受一个<br><strong>Tips</strong>:r的算法很灵活，也可以是eg2中的第二问（500+20-20），注意：同一个分段中时间不能重合<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/c3779d7dafdfb80939a3321ba84c09bb.png" alt="c3779d7dafdfb80939a3321ba84c09bb.png"><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/257ac0f51e15f895fc53816562ee0437.png" alt="257ac0f51e15f895fc53816562ee0437.png"></p>
-</blockquote>
-</li>
-<li><p>QAM是正交振幅调制,将两种调幅信号汇合到一个信道的方法。</p>
-<p>   对于奈奎斯特公式的理解:</p>
-</li>
-</ul>
-<blockquote>
-<p>奈奎斯特(Nyquist):<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.464ex;" xmlns="http://www.w3.org/2000/svg" width="13.163ex" height="2.059ex" role="img" focusable="false" viewBox="0 -705 5818.1 910"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D436" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"></path></g><g data-mml-node="mo" transform="translate(1037.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(2093.6,0)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="mi" transform="translate(2593.6,0)"><path data-c="1D435" d="M231 637Q204 637 199 638T194 649Q194 676 205 682Q206 683 335 683Q594 683 608 681Q671 671 713 636T756 544Q756 480 698 429T565 360L555 357Q619 348 660 311T702 219Q702 146 630 78T453 1Q446 0 242 0Q42 0 39 2Q35 5 35 10Q35 17 37 24Q42 43 47 45Q51 46 62 46H68Q95 46 128 49Q142 52 147 61Q150 65 219 339T288 628Q288 635 231 637ZM649 544Q649 574 634 600T585 634Q578 636 493 637Q473 637 451 637T416 636H403Q388 635 384 626Q382 622 352 506Q352 503 351 500L320 374H401Q482 374 494 376Q554 386 601 434T649 544ZM595 229Q595 273 572 302T512 336Q506 337 429 337Q311 337 310 336Q310 334 293 263T258 122L240 52Q240 48 252 48T333 46Q422 46 429 47Q491 54 543 105T595 229Z"></path></g><g data-mml-node="mi" transform="translate(3352.6,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(3650.6,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(4135.6,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mi" transform="translate(5049.1,0)"><path data-c="1D449" d="M52 648Q52 670 65 683H76Q118 680 181 680Q299 680 320 683H330Q336 677 336 674T334 656Q329 641 325 637H304Q282 635 274 635Q245 630 242 620Q242 618 271 369T301 118L374 235Q447 352 520 471T595 594Q599 601 599 609Q599 633 555 637Q537 637 537 648Q537 649 539 661Q542 675 545 679T558 683Q560 683 570 683T604 682T668 681Q737 681 755 683H762Q769 676 769 672Q769 655 760 640Q757 637 743 637Q730 636 719 635T698 630T682 623T670 615T660 608T652 599T645 592L452 282Q272 -9 266 -16Q263 -18 259 -21L241 -22H234Q216 -22 216 -15Q213 -9 177 305Q139 623 138 626Q133 637 76 637H59Q52 642 52 648Z"></path></g></g></g></svg></mjx-container><br>    C:信道容量(数据传输速率); B:信道带宽; V:信号状态数<br>2B:为了准确恢复一个信号,采样频率至少需要是信号最高频率的两倍。<br><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.464ex;" xmlns="http://www.w3.org/2000/svg" width="5.578ex" height="2.034ex" role="img" focusable="false" viewBox="0 -694 2465.6 899"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(298,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(783,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mi" transform="translate(1696.6,0)"><path data-c="1D449" d="M52 648Q52 670 65 683H76Q118 680 181 680Q299 680 320 683H330Q336 677 336 674T334 656Q329 641 325 637H304Q282 635 274 635Q245 630 242 620Q242 618 271 369T301 118L374 235Q447 352 520 471T595 594Q599 601 599 609Q599 633 555 637Q537 637 537 648Q537 649 539 661Q542 675 545 679T558 683Q560 683 570 683T604 682T668 681Q737 681 755 683H762Q769 676 769 672Q769 655 760 640Q757 637 743 637Q730 636 719 635T698 630T682 623T670 615T660 608T652 599T645 592L452 282Q272 -9 266 -16Q263 -18 259 -21L241 -22H234Q216 -22 216 -15Q213 -9 177 305Q139 623 138 626Q133 637 76 637H59Q52 642 52 648Z"></path></g></g></g></svg></mjx-container>:如果有V种不同的信号状态，那么每个采样点可以携带<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.464ex;" xmlns="http://www.w3.org/2000/svg" width="5.578ex" height="2.034ex" role="img" focusable="false" viewBox="0 -694 2465.6 899"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(298,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(783,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mi" transform="translate(1696.6,0)"><path data-c="1D449" d="M52 648Q52 670 65 683H76Q118 680 181 680Q299 680 320 683H330Q336 677 336 674T334 656Q329 641 325 637H304Q282 635 274 635Q245 630 242 620Q242 618 271 369T301 118L374 235Q447 352 520 471T595 594Q599 601 599 609Q599 633 555 637Q537 637 537 648Q537 649 539 661Q542 675 545 679T558 683Q560 683 570 683T604 682T668 681Q737 681 755 683H762Q769 676 769 672Q769 655 760 640Q757 637 743 637Q730 636 719 635T698 630T682 623T670 615T660 608T652 599T645 592L452 282Q272 -9 266 -16Q263 -18 259 -21L241 -22H234Q216 -22 216 -15Q213 -9 177 305Q139 623 138 626Q133 637 76 637H59Q52 642 52 648Z"></path></g></g></g></svg></mjx-container>比特的信息。</p>
-</blockquote>
-<p>所以单位时间内(即信道的传输速率C)能够传输的信号量就是采样频率(2B)乘以每个采样点携带的信息量(<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.464ex;" xmlns="http://www.w3.org/2000/svg" width="5.578ex" height="2.034ex" role="img" focusable="false" viewBox="0 -694 2465.6 899"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(298,0)"><path data-c="1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path></g><g data-mml-node="msub" transform="translate(783,0)"><g data-mml-node="mi"><path data-c="1D454" d="M311 43Q296 30 267 15T206 0Q143 0 105 45T66 160Q66 265 143 353T314 442Q361 442 401 394L404 398Q406 401 409 404T418 412T431 419T447 422Q461 422 470 413T480 394Q480 379 423 152T363 -80Q345 -134 286 -169T151 -205Q10 -205 10 -137Q10 -111 28 -91T74 -71Q89 -71 102 -80T116 -111Q116 -121 114 -130T107 -144T99 -154T92 -162L90 -164H91Q101 -167 151 -167Q189 -167 211 -155Q234 -144 254 -122T282 -75Q288 -56 298 -13Q311 35 311 43ZM384 328L380 339Q377 350 375 354T369 368T359 382T346 393T328 402T306 405Q262 405 221 352Q191 313 171 233T151 117Q151 38 213 38Q269 38 323 108L331 118L384 328Z"></path></g><g data-mml-node="TeXAtom" transform="translate(510,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g><g data-mml-node="mi" transform="translate(1696.6,0)"><path data-c="1D449" d="M52 648Q52 670 65 683H76Q118 680 181 680Q299 680 320 683H330Q336 677 336 674T334 656Q329 641 325 637H304Q282 635 274 635Q245 630 242 620Q242 618 271 369T301 118L374 235Q447 352 520 471T595 594Q599 601 599 609Q599 633 555 637Q537 637 537 648Q537 649 539 661Q542 675 545 679T558 683Q560 683 570 683T604 682T668 681Q737 681 755 683H762Q769 676 769 672Q769 655 760 640Q757 637 743 637Q730 636 719 635T698 630T682 623T670 615T660 608T652 599T645 592L452 282Q272 -9 266 -16Q263 -18 259 -21L241 -22H234Q216 -22 216 -15Q213 -9 177 305Q139 623 138 626Q133 637 76 637H59Q52 642 52 648Z"></path></g></g></g></svg></mjx-container>)。</p>
-<h2 id="计算机网络体系结构与参考模型"><a href="#计算机网络体系结构与参考模型" class="headerlink" title="计算机网络体系结构与参考模型"></a>计算机网络体系结构与参考模型</h2><ul>
-<li>网络协议三要素是语法、语义和同步。<ul>
-<li><strong>语法</strong>：规定了通信双方“如何讲”，即数据与控制信息的结构或格式,也就是各个字段的含义</li>
-<li><strong>语义</strong>：规定了通信双方“讲什么”，即需要发出何种控制信息、完成何种动作以及做出何种响应。语义明确了特定的控制信息所代表的具体含义和操作要求。</li>
-<li><strong>同步</strong>：规定了通信双方“何时讲”，即事件实现顺序的详细说明。包括同步点、时序控制等，确保通信双方在合适的时间进行特定的操作。比如在 TCP 协议中，通过三次握手建立连接的过程就是一种同步机制，双方按照特定的顺序进行消息的发送和确认，以确保连接的正确建立。同步保证了通信的有序进行，避免出现混乱和错误。</li>
-</ul>
-</li>
-<li>数据链路层物理寻址的功能是根据MAC地址确定数据帧的接收方</li>
-<li><a class="link" href="https://www.doubao.com/thread/w5d933566d1552810">拥塞控制和流量控制<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>:拥塞控制是控制的整个网络的拥堵情况,流量控制是控制两个节点之间的传输速率</li>
-<li><a class="link" href="https://www.doubao.com/thread/w8ebdce4f787fa1ca">OSI参考模型各层的功能<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>;<br><a class="link" href="https://www.doubao.com/thread/w7e33949023dd2a47">TCP/IP模型各层的功能<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
-<li>ISO/OSI 参考模型在网络层支持无连接和面向连接的通信，但在传输层仅支持面向连接的通信;TCP/IP 模型在网络层(IP协议)仅有无连接的通信，而在传输层支持无连接(UDP)和面向连接(TCP)的通信。<a class="link" href="https://www.doubao.com/thread/w439dfa19bcf450dc">解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
-<li>OSI参考模型中<strong>会话层</strong>通过设置检验点(同步点)，使通信双方在通信失效时可从检验点恢复通信。</li>
-<li>在5层体系结构中，数据链路层的服务访问点为帧的“类型”字段，网络层的服务访问点为IP 数据报的“协议”字段，传输层的服务访问点为“端口号”字段，应用层的服务访问点为“用户接口”。<a class="link" href="https://www.doubao.com/thread/w9bf561f660505998">解释<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
-<li>路由器工作在网络层;交换机工作在数据链路层;集线器工作在物理层</li>
-<li>在OSI参考模型中,数据链路层,网络层,传输层都具有流量控制功能。数据链路层是相邻节点之间的流量控制，网络层是整个网络中的流量控制，传输层是端到端的流量控制。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>计算机网络</category>
-        <category>体系结构</category>
       </categories>
       <tags>
         <tag>计算机网络</tag>
@@ -771,76 +674,96 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>文件管理</title>
-    <url>/posts/20241217000000.html</url>
-    <content><![CDATA[<h1 id="4-1文件系统基础"><a href="#4-1文件系统基础" class="headerlink" title="4.1文件系统基础"></a>4.1文件系统基础</h1><ul>
-<li>文件控制块(File Control Block，FCB)是用来存放控制文件需要的各种信息的数据结构，<strong>以实现按名存取</strong>。文件与 FCB 一一对应。</li>
-<li>文件很多的时候,文件目录会占用很多的盘块,在查找目录的时候会把第一个盘块调入内存,然后用给定的文件名逐一比较,但是在这个过程中只用到了文件名,其他的信息都没有用,只有找到对应的文件才把对应的目录项调入内存,这样会浪费很多时间,所以需要把目录项调入内存,这样就可以直接比较文件名了,这就是索引文件。</li>
-<li><strong>文件打开的过程</strong>:用户对一个文件多次读写时,为了避免多次重复地检索目录,先利用系统调用open打开文件,系统维护一个打开文件表。打开的同时系统会给用户一个文件描述符(索引号),用户再次打开这个文件时,通过文件描述符来访问这个文件。文件不用时,系统调用close关闭文件,系统会回收这个文件描述符,从打开文件表中删除这个表目录。</li>
-<li><strong>文件关闭过程</strong>:在操作系统中，当文件不再使用时，会利用系统调用close来关闭文件。关闭文件时，会删除单个进程的打开文件表中的相应条目，系统表中的相应打开计数器（Open Count）也会递减。当打开计数器为0时，表示该文件不再被使用，并且可以从系统表中删除相应条目。</li>
-<li>只要完成了文件打开 open()系统调用，后面再使用 read()、write()、Lseek()、close()等文件操作的系统调用，就不再使用文件名，而使用文件描述符。</li>
-<li><strong>文件的逻辑结构</strong>:<ul>
-<li><strong>无结构文件(流式文件)</strong>:无结构文件是最简单的文件组织形式，由字符流构成，长度以字节为单位。访问流式文件通过读/写指针来定位字节。系统中的源程序、可执行文件、库函数等多采用无结构文件，但由于其无结构，记录访问只能通过穷举搜索，因此对很多应用不适用。</li>
-<li><strong>有结构文件(记录式文件)</strong>:<br><br> <strong>定长记录</strong>: 定长记录是指每个记录的长度相等，每个记录的结构是相同的。定长记录的优点是存取速度快，缺点是浪费存储空间。<br><br> <strong>不定长记录</strong>: 不定长记录是指每个记录的长度不等，每个记录的结构也不相同。不定长记录的优点是存储空间利用率高，缺点是存取速度慢。<ul>
-<li>顺序文件：顺序文件是指文件中的记录按照物理顺序存储，每个记录的物理地址与其逻辑地址相同。对于定长记录的顺序文件的优点是检索时可以用折半查找,查找速度快，缺点是插入和删除记录时需要移动大量记录。</li>
-<li>索引文件:配了一张索引表,每个文件都有一个索引项</li>
+    <title>操作系统概述</title>
+    <url>/posts/20241121000000.html</url>
+    <content><![CDATA[<h2 id="1-1操作系统的基本概念"><a href="#1-1操作系统的基本概念" class="headerlink" title="1.1操作系统的基本概念"></a>1.1操作系统的基本概念</h2><ul>
+<li>操作系统的四大特征:并发,共享,虚拟,异步,前两个是最基本的特征;<br><br><strong>并发</strong>是指两个或多个事件在同一时间间隔内发生;<br><br><strong>共享</strong>是指系统中的资源可供内存中多个并发执行的进程共同使用;<br><br><strong>虚拟</strong>是指将一个物理上的实体变为若干逻辑上的对应物;<br><br><strong>异步</strong>是指计算机中的进程因为资源问题,所以不是一下就运行到底的而是走走停停</li>
+<li>操作系统提供的接口主要分为两类:一类是<strong>命令接口</strong>，用户利用这些操作命令来组织和控制作业的执行:另一类是<strong>程序接口</strong>，编程人员可以使用它们来请求操作系统服务。<br><br>命令接口有联机和脱机两种:联机是输入一条命令就要得到结果,就是交互性;脱机是把处理任务直接扔给计算机,用户不干预计算机的运行,坐等结果;<br><br>程序接口是由一组系统调用组成,GUI就是通过调用程序接口实现的,但是GUI不是操作系统的一部分,GUI调用的系统调用命令是操作系统的一部分;</li>
 </ul>
-</li>
+<h2 id="1-2操作系统发展历程"><a href="#1-2操作系统发展历程" class="headerlink" title="1.2操作系统发展历程"></a>1.2操作系统发展历程</h2><ul>
+<li><strong>单道批处理系统</strong>:把一堆作业扔给操作系统,配上监督程序,作业一个一个进行,具有自动性,顺序性,单道性;</li>
+<li><strong>多道批处理系统</strong>用户所提交的作业都先存放在外存上并排成一个队列，作业调度程序按一定的算法从后备队列中选择若干作业调入内存，它们在管理程序的控制下相互穿插地运行</li>
+<li><strong>分时操作系统</strong>是指将处理器的运行时间分成很短的时间片，按时间片轮流将处理器分配给各个作业<br>多个用户终端共享主机,响应时间很短,但是对于需要实时反馈的作业就不够了,需要实时系统</li>
+<li><strong>实时系统</strong>有硬实时和软实时,前者对于时间要求很严格,后者拖延一会也没事</li>
+<li>多道程序技术要求进程间能实现并发，需要实现进程调度以保证CPU的工作效率，而并发性的实现需要中断功能的支持。</li>
 </ul>
-</li>
-<li><strong>文件的物理结构</strong>:<ul>
-<li><strong>连续分配</strong>: 连续分配是指将文件的所有记录存储在连续的物理块中。支持顺序访问和随机访问,但是会有外部碎片</li>
-<li><strong>链式分配</strong>:消除了外部碎片,修改插入也很方便<ul>
-<li>隐式链接: 隐式链接是指在文件的每个记录中增加一个指针域，指向下一个记录的盘块号。只能用于顺序访问。</li>
-<li>显式链接: 显式链接是指将用于链接文件各物理块的指针，显式地存放在内存的一张链接表中，该表在整个磁盘中仅设置一张，称为文件分配表(File Allocation Table，FAT)。可以顺序访问和随机访问。</li>
-</ul>
-</li>
-<li><strong>索引分配</strong>:在一个盘块内集合了多个记录,每个记录都有一个索引项,索引项中包含了记录的物理地址。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-30-41.png" alt="text">这种分配方法也不会产生外部碎片</li>
-<li><strong>混合索引分配</strong>:为了照顾大中小文件,把小文件的盘块地址直接放入FCB,中型文件采用需要先从 FCB 中找到该文件的索引表，从中获得该文件的盘块地址，即为一次间址。大文件采用两级或三级索引分配</li>
-</ul>
-</li>
-</ul>
-<h1 id="4-2目录"><a href="#4-2目录" class="headerlink" title="4.2目录"></a>4.2目录</h1><ul>
-<li>FCB 的有序集合称为文件目录，一个FCB就是一个文件目录项。</li>
-<li><strong>目录结构</strong>:<ul>
-<li><strong>单级目录结构</strong>:对多用户很不利,因为用户与用户之间也不允许文件重名<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-41-57.png" alt="text"><br></li>
-<li><strong>两级目录结构</strong>:虽然把用户分开了,但是缺乏灵活性,不能对文件进行分类<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-43-58.png" alt="text"><br></li>
-<li><strong>树形目录结构</strong>:也就是Windows的目录结构</li>
-<li><strong>无环图目录结构</strong>:在树的基础上进行改进,一个文件可以有多个父亲,虽然很灵活,但是管理复杂,有一个计数器,用来记录有多少个父亲,当计数器为0时,表示没有父亲,可以删除了<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-47-22.png" alt="text"></li>
-</ul>
-</li>
-<li>硬链接是基于索引节点的共享方式，文件的信息不放在目录中，而是放在索引节点中，多个目录项指向同一个索引节点。也是用一个count计数,当count为0时,才可以删除<br>软链接就是将到达共享文件的路径保存下来，当要访问文件时，根据路径寻找文件。硬链接的查找速度比软链接快。</li>
-<li>目录管理最基本的功能是按名存取<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-59-10.png" alt="text"></li>
-</ul>
-<h1 id="4-3文件系统"><a href="#4-3文件系统" class="headerlink" title="4.3文件系统"></a>4.3文件系统</h1><ul>
-<li><strong><a class="link" href="https://www.doubao.com/thread/ac4346e6e8dd6">文件系统结构<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_14-07-24.png" alt="text"></li>
-<li><strong>文件系统布局</strong>:<br><ul>
-<li><strong>主引导记录</strong>: 主引导记录是操作系统的引导程序，它位于磁盘的第一个扇区，用于引导操作系统。bios运行之后就到这个了</li>
-<li><strong>引导块</strong>: 引导块是操作系统的引导程序，它位于磁盘的第二个扇区，用于引导操作系统。每个分区都是统一从引导块开始</li>
-<li><strong>超级块</strong>: 超级块是文件系统的控制块，它位于磁盘的第三个扇区，用于存储文件系统的控制信息。</li>
-<li><strong><a class="link" href="https://www.doubao.com/thread/a576fe60b41ae">空闲块<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:空闲块是指那些当前没有被任何文件或目录占用的存储块。这些存储块可以用于存储新的文件数据、目录信息或者扩展现有文件的大小</li>
-</ul>
-</li>
-<li><strong>磁盘空闲空间的管理方法</strong>:<ul>
-<li><strong>空闲表法</strong>:每个空闲区对应一个空闲表项,其中包括表项序号、该空闲区的第一个空闲盘块号、空闲盘块数，然后再把所有空闲区按照起始盘块号递增的顺序排列<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-04-45.png" alt="text"><br>盘块回收的时候跟内存回收一样，相邻的空闲区合并成一个空闲区。然后更改表项</li>
-<li><strong>空闲链表法</strong>：<ol>
-<li><strong>空闲盘块链</strong>：将磁盘上的所有空闲空间以盘块为单位拉成一条链。但是这种方法会导致空闲盘块链很长</li>
-<li><strong>空闲盘区链</strong>：将磁盘上的所有空闲盘区拉成一条链，每个盘区包含若干相邻的盘块。这种方法虽然分配回收效率高，长度也比较短，但是分配回收的过程很复杂</li>
-</ol>
-</li>
-<li><strong>位示图法</strong>：使用一个位示图来表示磁盘上的空闲空间。位示图是一个位向量，其中每个位表示一个盘块的状态。如果一个盘块是空闲的，那么对应的位就被置为1，否则就被置为0。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-13-55.png" alt="text"><blockquote>
-<p>这种方法有的从0开始编号，有的从1开始编号，很简单，就是把盘块号按写字的顺序一位一位对照起来</p>
+<h2 id="1-3操作系统的运行环境"><a href="#1-3操作系统的运行环境" class="headerlink" title="1.3操作系统的运行环境"></a>1.3操作系统的运行环境</h2><ul>
+<li>CPU 的运行模式划分为用户态(目态)和核心态(又称管态、内核态)。</li>
+<li>特权指令(核心态)，是指不允许用户直接使用的指令，如I/O 指令、关中断指令、内存清零指令,存取用于内存保护的寄存器、送 PSW 到程序状态字寄存器等的指令。<br>非特权指令(用户态)，是指允许用户直接使用的指令，它不能直接访问系统中的软硬件资源，仅限于访问用户的地址空间，这也是为了防止用户程序对系统造成破坏。</li>
+<li><strong>中断和异常</strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-21_20-21-35.png"></li>
+<li><strong>系统调用的功能</strong>:<br><br>设备管理。完成设备的请求或释放，以及设备启动等功能。<br><br>文件管理。完成文件的读、写、创建及删除等功能。<br><br>进程控制。完成进程的创建、撤销、阻塞及唤醒等功能。<br><br>进程通信。完成进程之间的消息传递或信号传递等功能。<br><br>内存管理。完成内存的分配、回收以及获取作业占用内存区大小和起始地址等功能。</li>
+<li>用户程序创建一个新进程，需使用操作系统提供的系统调用接口<br><br>用户程序使用系统调用命令，该命令经过编译后形成若干参数和陷入指令<br>当操作系统完成用户请求的系统调用功能后，应使CPU从内核态转到用户态</li>
+<li>在中断发生后，进入中断处理的程序只能属于操作系统程序</li>
+<li>计算机通过<strong>硬件</strong>完成操作系统由用户态到核心态的转换，这是通过中断机制来实现的。发生中断事件时，由硬件中断机制将计算机状态置为核心态。</li>
+<li>大多数计算机操作系统的内核包括四个方面的内容，即时钟管理、中断机制、原语和系统控制的数据结构及处理，其中第4部分实际上是系统调用类的指令(广义指令)。<br><blockquote>
+<p>置时钟指令是在核心态运行的,如果该指令允许在用户态执行，那么程序就可以自行更改时间片，会一直霸占CPU。</p>
 </blockquote>
 </li>
-<li><strong>成组链接法</strong>：前两种方法都不适应大型文件系统，所以UNIX使用的是成组链接法，我不明白这种方法是咋弄着嘞，看不懂，<a class="link" href="https://blog.csdn.net/qq_45744501/article/details/116953538">参考这个<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>命令解释程序属于命令接口，能面对用户，在用户态下执行。磁盘调度程序、中断处理程序和进程调度程序都工作在内核态。</li>
+<li>“访管”指令仅在用户态下使用，<strong>执行“访管”指令将用户态转变为核心态。</strong></li>
+<li>系统调用命令工作在核心态，系统调用本身是一条在核心态运行的命令，并不是调用系统的命令，调用系统调用的命令才是用户态的。<br><strong>也就是说，系统调用的发生是在用户态，系统调用的执行是在核心态</strong></li>
+<li>I/O设备的请求、时钟中断是外部中断。<br><br>访管指令、缺页异常是内部中断。</li>
+<li>系统调用需要保存 PSW 和PC的值，一般过程调用只需保存PC的值。<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_08-53-49.png"><br>一般过程调用的被调用程序与调用程序运行在同一个状态，可能是系统态，也可能是用户态<br>系统调用的被调用过程一定运行在核心态</li>
+<li>trap 指令、跳转指令和压栈指令均可以在用户态执行，其中 trap 指令负责由用户态转换为内核态。关中断指令为特权指令，必须在核心态才能执行。<strong>注意</strong>，在操作系统中，关中断指令是权限非常大的指令，因为中断是现代操作系统正常运行的核心保障之一，能把它关掉，说明执行这条指令的一定是权限非常大的机构(管态)。</li>
+<li>外部中断处理过程，PC 值由中断隐指令自动保存，而通用寄存器内容由操作系统保存。块表(TLB)和 Cache 中的内容则由硬件机构保存。</li>
+<li>执行系统调用的过程：<br><ol>
+<li>传递系统调用参数</li>
+<li>执行陷入(trap)指令</li>
+<li>执行相应的服务程序</li>
+<li>返回用户态</li>
+</ol>
+</li>
+<li>当 CPU 检测到中断信号后，由硬件自动保存被中断程序的断点[程序计数器(PC)和程序状态字寄存器(PSW)]<blockquote>
+<p>麻蛋，到底是硬件保存的还是中断隐指令保存的啊，<strong>暂定是硬件保存的</strong></p>
+</blockquote>
+之后，硬件找到该中断信号对应的中断向量，中断向量指明中断服务程序入口地址(各中断向量统一存放在中断向量表中，该表由操作系统初始化)。<br>接下来开始执行中断服务程序，保存中断屏蔽字、保存各通用寄存器的值，并提供与中断信号对应的中断服务</li>
+<li><strong>系统调用是由用户进程发起的，请求操作系统的服务。</strong><br><ol>
+<li>当内存中的空闲页框不够时，操作系统会将某些页面调出，并将要访问的页面调入，这个过程完全由操作系统完成，不涉及系统调用。</li>
+<li>进程调度完全由操作系统完成，无法通过系统调用完成。</li>
+<li>创建新进程可以通过系统调用来完成，如Linux 中通过 fork 系统调用来创建子进程。</li>
+</ol>
+</li>
+<li>发生系统调用时，CPU 通过执行软中断指令将CPU的运行状态从用户态切换到内核态，这个过程与中断和异常的响应过程相同,，<strong>由硬件负责保存断点和程序状态字,并将 CPU 模式改为内核态</strong>。<br>然后，执行操作系统内核的系统调用入口程序，<strong>该内核程序负责保存通用寄存器的内容，再调用执行特定的系统调用服务例程。</strong><br>综上，前俩由硬件完成，后俩由操作系统完成。</li>
+</ul>
+<h2 id="1-4操作系统的结构，引导和虚拟机"><a href="#1-4操作系统的结构，引导和虚拟机" class="headerlink" title="1.4操作系统的结构，引导和虚拟机"></a>1.4操作系统的结构，引导和虚拟机</h2><ul>
+<li>结构：<br><ol>
+<li><strong>分层法</strong>：把操作系统分层，从底层（硬件）一层层向上扩充，每层只能调用紧邻它的低层的功能和服务(单向依赖)。<ul>
+<li><strong>优势</strong>：容易调试检查错误，一层一层向上检查，很容易确定具体哪一层出错；<br>容易扩充和维护，跟砌墙一样，想实现更高的功能只需要一层层叠加就🆗了</li>
+<li><strong>劣势</strong>：合理定义各层比较困难，各层之间挨得太近，暧昧不分；<br>效率很差，要完成某个功能要从底层开始穿越</li>
 </ul>
 </li>
-<li></li>
+<li><strong>模块化</strong>：把操作系统按照不同的功能分为不同的模块<ul>
+<li><strong>优势</strong>：①提高了操作系统设计的正确性、可理解性和可维护性;②增强了操作系统的可适应性;③加速了操作系统的开发过程。</li>
+<li><strong>劣势</strong>：接口很难设计，你不知道它都有啥需求；<br>模块也很难设计，各个模块要齐头并进，顺序很难把握；</li>
+</ul>
+</li>
+<li><a class="link" href="https://www.doubao.com/thread/a4197fa860ae6">微内核<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>是保留最基础的内核功能，把多余的功能都剥离出去。<br><ul>
+<li>优势：<ol>
+<li>扩展性和灵活性。</li>
+<li>可靠性和安全性。</li>
+<li>可移植性</li>
+<li>分布式计算。</li>
+</ol>
+</li>
+<li>劣势：有点性能问题，因为需要频繁地在用户态和内核态之间切换</li>
+</ul>
+</li>
+<li><strong>宏内核</strong>：把所有功能都聚合到一起，效率很高，共享信息很快，但是操作系统越做越大，这种结构就很臃肿</li>
+</ol>
+</li>
+<li>模块化操作系统的各功能模块都在内核中，且模块之间相互调用、相互依赖，任何一个模块出错，都可能导致整个内核崩溃。<br>在微内核操作系统中，内核外的某个功能模块出错不会导致整个系统崩溃，可靠性高。 </li>
+<li>操作系统的启动过程：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_09-40-56.png" alt="text"></li>
+<li>Windows 是融合了宏内核和微内核的操作系统</li>
+<li>在拥有外核的操作系统中，外核只负责硬件资源的分配、回收、保护等，进程管理相关的工作仍然由内核负责。</li>
+<li>引导程序有两种，一种是位于BIOS中的用于引导开启各个设备，一种是位于硬盘中的用于引导操作系统</li>
+<li>第一类虚拟机管理程序直接运行在物理硬件之上，具有高性能和高安全性；第二类虚拟机管理程序运行在现有操作系统之上，安装和使用相对简单。<a class="link" href="https://www.doubao.com/thread/a3ff2039790f2">详细<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>BIOS 将控制权交给排在首位的启动设备后，CPU 将该设备主引导扇区的内容[主引导记录(MBR)]加载到内存中，然后由 MBR 检查分区表，查找活动分区，并将该分区的引导扇区的内容[分区引导记录(PBR)]加载到内存加以执行。</li>
+<li><strong>访管指令与访管中断</strong>：<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-11-23_10-42-53.png" alt="text"></li>
 </ul>
 ]]></content>
       <categories>
         <category>计算机操作系统</category>
-        <category>文件管理</category>
+        <category>概述</category>
       </categories>
       <tags>
         <tag>计算机408</tag>
@@ -970,6 +893,83 @@ import {initHBE} from "/js/plugins/hbe.js";
       <categories>
         <category>计算机操作系统</category>
         <category>I/O管理</category>
+      </categories>
+      <tags>
+        <tag>计算机408</tag>
+        <tag>计算机操作系统</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>文件管理</title>
+    <url>/posts/20241217000000.html</url>
+    <content><![CDATA[<h1 id="4-1文件系统基础"><a href="#4-1文件系统基础" class="headerlink" title="4.1文件系统基础"></a>4.1文件系统基础</h1><ul>
+<li>文件控制块(File Control Block，FCB)是用来存放控制文件需要的各种信息的数据结构，<strong>以实现按名存取</strong>。文件与 FCB 一一对应。</li>
+<li>文件很多的时候,文件目录会占用很多的盘块,在查找目录的时候会把第一个盘块调入内存,然后用给定的文件名逐一比较,但是在这个过程中只用到了文件名,其他的信息都没有用,只有找到对应的文件才把对应的目录项调入内存,这样会浪费很多时间,所以需要把目录项调入内存,这样就可以直接比较文件名了,这就是索引文件。</li>
+<li><strong>文件打开的过程</strong>:用户对一个文件多次读写时,为了避免多次重复地检索目录,先利用系统调用open打开文件,系统维护一个打开文件表。打开的同时系统会给用户一个文件描述符(索引号),用户再次打开这个文件时,通过文件描述符来访问这个文件。文件不用时,系统调用close关闭文件,系统会回收这个文件描述符,从打开文件表中删除这个表目录。</li>
+<li><strong>文件关闭过程</strong>:在操作系统中，当文件不再使用时，会利用系统调用close来关闭文件。关闭文件时，会删除单个进程的打开文件表中的相应条目，系统表中的相应打开计数器（Open Count）也会递减。当打开计数器为0时，表示该文件不再被使用，并且可以从系统表中删除相应条目。</li>
+<li>只要完成了文件打开 open()系统调用，后面再使用 read()、write()、Lseek()、close()等文件操作的系统调用，就不再使用文件名，而使用文件描述符。</li>
+<li><strong>文件的逻辑结构</strong>:<ul>
+<li><strong>无结构文件(流式文件)</strong>:无结构文件是最简单的文件组织形式，由字符流构成，长度以字节为单位。访问流式文件通过读/写指针来定位字节。系统中的源程序、可执行文件、库函数等多采用无结构文件，但由于其无结构，记录访问只能通过穷举搜索，因此对很多应用不适用。</li>
+<li><strong>有结构文件(记录式文件)</strong>:<br><br> <strong>定长记录</strong>: 定长记录是指每个记录的长度相等，每个记录的结构是相同的。定长记录的优点是存取速度快，缺点是浪费存储空间。<br><br> <strong>不定长记录</strong>: 不定长记录是指每个记录的长度不等，每个记录的结构也不相同。不定长记录的优点是存储空间利用率高，缺点是存取速度慢。<ul>
+<li>顺序文件：顺序文件是指文件中的记录按照物理顺序存储，每个记录的物理地址与其逻辑地址相同。对于定长记录的顺序文件的优点是检索时可以用折半查找,查找速度快，缺点是插入和删除记录时需要移动大量记录。</li>
+<li>索引文件:配了一张索引表,每个文件都有一个索引项</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>文件的物理结构</strong>:<ul>
+<li><strong>连续分配</strong>: 连续分配是指将文件的所有记录存储在连续的物理块中。支持顺序访问和随机访问,但是会有外部碎片</li>
+<li><strong>链式分配</strong>:消除了外部碎片,修改插入也很方便<ul>
+<li>隐式链接: 隐式链接是指在文件的每个记录中增加一个指针域，指向下一个记录的盘块号。只能用于顺序访问。</li>
+<li>显式链接: 显式链接是指将用于链接文件各物理块的指针，显式地存放在内存的一张链接表中，该表在整个磁盘中仅设置一张，称为文件分配表(File Allocation Table，FAT)。可以顺序访问和随机访问。</li>
+</ul>
+</li>
+<li><strong>索引分配</strong>:在一个盘块内集合了多个记录,每个记录都有一个索引项,索引项中包含了记录的物理地址。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-30-41.png" alt="text">这种分配方法也不会产生外部碎片</li>
+<li><strong>混合索引分配</strong>:为了照顾大中小文件,把小文件的盘块地址直接放入FCB,中型文件采用需要先从 FCB 中找到该文件的索引表，从中获得该文件的盘块地址，即为一次间址。大文件采用两级或三级索引分配</li>
+</ul>
+</li>
+</ul>
+<h1 id="4-2目录"><a href="#4-2目录" class="headerlink" title="4.2目录"></a>4.2目录</h1><ul>
+<li>FCB 的有序集合称为文件目录，一个FCB就是一个文件目录项。</li>
+<li><strong>目录结构</strong>:<ul>
+<li><strong>单级目录结构</strong>:对多用户很不利,因为用户与用户之间也不允许文件重名<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-41-57.png" alt="text"><br></li>
+<li><strong>两级目录结构</strong>:虽然把用户分开了,但是缺乏灵活性,不能对文件进行分类<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-43-58.png" alt="text"><br></li>
+<li><strong>树形目录结构</strong>:也就是Windows的目录结构</li>
+<li><strong>无环图目录结构</strong>:在树的基础上进行改进,一个文件可以有多个父亲,虽然很灵活,但是管理复杂,有一个计数器,用来记录有多少个父亲,当计数器为0时,表示没有父亲,可以删除了<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-47-22.png" alt="text"></li>
+</ul>
+</li>
+<li>硬链接是基于索引节点的共享方式，文件的信息不放在目录中，而是放在索引节点中，多个目录项指向同一个索引节点。也是用一个count计数,当count为0时,才可以删除<br>软链接就是将到达共享文件的路径保存下来，当要访问文件时，根据路径寻找文件。硬链接的查找速度比软链接快。</li>
+<li>目录管理最基本的功能是按名存取<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_13-59-10.png" alt="text"></li>
+</ul>
+<h1 id="4-3文件系统"><a href="#4-3文件系统" class="headerlink" title="4.3文件系统"></a>4.3文件系统</h1><ul>
+<li><strong><a class="link" href="https://www.doubao.com/thread/ac4346e6e8dd6">文件系统结构<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:<br><img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-17_14-07-24.png" alt="text"></li>
+<li><strong>文件系统布局</strong>:<br><ul>
+<li><strong>主引导记录</strong>: 主引导记录是操作系统的引导程序，它位于磁盘的第一个扇区，用于引导操作系统。bios运行之后就到这个了</li>
+<li><strong>引导块</strong>: 引导块是操作系统的引导程序，它位于磁盘的第二个扇区，用于引导操作系统。每个分区都是统一从引导块开始</li>
+<li><strong>超级块</strong>: 超级块是文件系统的控制块，它位于磁盘的第三个扇区，用于存储文件系统的控制信息。</li>
+<li><strong><a class="link" href="https://www.doubao.com/thread/a576fe60b41ae">空闲块<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></strong>:空闲块是指那些当前没有被任何文件或目录占用的存储块。这些存储块可以用于存储新的文件数据、目录信息或者扩展现有文件的大小</li>
+</ul>
+</li>
+<li><strong>磁盘空闲空间的管理方法</strong>:<ul>
+<li><strong>空闲表法</strong>:每个空闲区对应一个空闲表项,其中包括表项序号、该空闲区的第一个空闲盘块号、空闲盘块数，然后再把所有空闲区按照起始盘块号递增的顺序排列<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-04-45.png" alt="text"><br>盘块回收的时候跟内存回收一样，相邻的空闲区合并成一个空闲区。然后更改表项</li>
+<li><strong>空闲链表法</strong>：<ol>
+<li><strong>空闲盘块链</strong>：将磁盘上的所有空闲空间以盘块为单位拉成一条链。但是这种方法会导致空闲盘块链很长</li>
+<li><strong>空闲盘区链</strong>：将磁盘上的所有空闲盘区拉成一条链，每个盘区包含若干相邻的盘块。这种方法虽然分配回收效率高，长度也比较短，但是分配回收的过程很复杂</li>
+</ol>
+</li>
+<li><strong>位示图法</strong>：使用一个位示图来表示磁盘上的空闲空间。位示图是一个位向量，其中每个位表示一个盘块的状态。如果一个盘块是空闲的，那么对应的位就被置为1，否则就被置为0。<img lazyload="" src="/images/loading.svg" data-src="/../img/in-post/Snipaste_2024-12-23_15-13-55.png" alt="text"><blockquote>
+<p>这种方法有的从0开始编号，有的从1开始编号，很简单，就是把盘块号按写字的顺序一位一位对照起来</p>
+</blockquote>
+</li>
+<li><strong>成组链接法</strong>：前两种方法都不适应大型文件系统，所以UNIX使用的是成组链接法，我不明白这种方法是咋弄着嘞，看不懂，<a class="link" href="https://blog.csdn.net/qq_45744501/article/details/116953538">参考这个<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+</li>
+<li></li>
+</ul>
+]]></content>
+      <categories>
+        <category>计算机操作系统</category>
+        <category>文件管理</category>
       </categories>
       <tags>
         <tag>计算机408</tag>
@@ -1497,6 +1497,55 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
+    <title>距离向量路由算法</title>
+    <url>/posts/20250129163600.html</url>
+    <content><![CDATA[<h3 id="距离向量路由算法简单版解释"><a href="#距离向量路由算法简单版解释" class="headerlink" title="距离向量路由算法简单版解释"></a><strong>距离向量路由算法简单版解释</strong></h3><ol>
+<li><p><strong>初始状态</strong><br>每个节点（如邮局）只知道<strong>直接邻居的路径费用</strong>：  </p>
+<ul>
+<li>例：节点 <code>x</code> 知道到邻居 <code>y</code> 费用2，到 <code>z</code> 费用7；节点 <code>y</code> 知道到 <code>x</code> 费用2，到 <code>z</code> 费用1，以此类推。</li>
+</ul>
+</li>
+<li><p><strong>第一次信息交换</strong>  </p>
+<ul>
+<li>所有节点把自己的路径表<strong>广播给邻居</strong>（比如 <code>x</code> 告诉 <code>y</code> 和 <code>z</code>：“我到自己的费用是0，到 <code>y</code> 是2，到 <code>z</code> 是7”）。  </li>
+<li>收到邻居的路径表后，<strong>更新自己的路径</strong>：  <ul>
+<li>例：<code>x</code> 发现通过邻居 <code>y</code> 到 <code>z</code> 更便宜（<code>x→y→z</code> 总费用=2+1=3），于是将到 <code>z</code> 的费用从7改为3。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>第二次信息交换</strong>  </p>
+<ul>
+<li>只有路径表<strong>有变化的节点</strong>（如 <code>x</code> 和 <code>z</code>）再次广播新路径表。  </li>
+<li>其他节点检查后，发现没有更优路径，<strong>不再更新</strong>。</li>
+</ul>
+</li>
+<li><p><strong>算法停止</strong>  </p>
+<ul>
+<li>当所有节点的路径表<strong>不再变化</strong>时，算法结束，网络进入稳定状态，每个节点都知道全局最优路径。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="举个生活例子"><a href="#举个生活例子" class="headerlink" title="举个生活例子"></a><strong>举个生活例子</strong></h3><p>想象三个村庄（<code>x</code>, <code>y</code>, <code>z</code>）互相通邮：  </p>
+<ol>
+<li><strong>初始</strong>：各村只知道直接相邻村的邮路费用（如 <code>x</code> 到 <code>y</code> 邮费2元）。  </li>
+<li><strong>第一次通信</strong>：各村互相告知邮费表，<code>x</code> 发现通过 <code>y</code> 寄到 <code>z</code> 更便宜（总3元），于是更新自己的邮费表。  </li>
+<li><strong>第二次通信</strong>：只有更新过的村（<code>x</code> 和 <code>z</code>）再次通知邻居，其他村发现邮费没变，不再行动。  </li>
+<li><strong>最终</strong>：所有村都掌握了全局最低邮费路径，寄信时自动选最省钱的路！</li>
+</ol>
+<hr>
+<h3 id="核心思想"><a href="#核心思想" class="headerlink" title="核心思想"></a><strong>核心思想</strong></h3><ul>
+<li><strong>本地信息+定期广播</strong>：每个节点只和邻居交换信息，逐步推导全局最优路径。  </li>
+<li><strong>动态更新</strong>：发现更优路径立即修正，直到全网稳定。  </li>
+<li><strong>简单高效</strong>：适合小型网络，但大型网络中可能收敛慢或产生环路（需额外机制解决）。<a class="button  regular" href="/posts/20250125131300" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>外链</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>协议栈</title>
     <url>/posts/20250129115800.html</url>
     <content><![CDATA[<h3 id="协议栈的定义与性质"><a href="#协议栈的定义与性质" class="headerlink" title="协议栈的定义与性质"></a><strong>协议栈的定义与性质</strong></h3><p><strong>协议栈（Protocol Stack）</strong> 是网络通信中<strong>分层的协议集合</strong>，用于实现数据在不同网络层的处理与传输（如TCP/IP协议栈包含应用层、传输层、网络层、链路层等）。  </p>
@@ -1541,55 +1590,6 @@ import {initHBE} from "/js/plugins/hbe.js";
 <li><strong>协议栈是软件</strong>，负责网络通信的逻辑控制；<strong>网卡是硬件</strong>，负责物理信号传输。  </li>
 <li>两者通过<strong>驱动程序</strong>交互：协议栈将数据封装成帧交给网卡发送，网卡接收数据后交由协议栈解封装。  </li>
 <li><strong>双协议栈</strong>是软件层面的多协议支持，与网卡的硬件能力无关（除非网卡需要支持特定协议的物理层标准，如IPv6的MTU要求）。<a class="button  regular" href="/posts/20250125131300" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>外链</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>距离向量路由算法</title>
-    <url>/posts/20250129163600.html</url>
-    <content><![CDATA[<h3 id="距离向量路由算法简单版解释"><a href="#距离向量路由算法简单版解释" class="headerlink" title="距离向量路由算法简单版解释"></a><strong>距离向量路由算法简单版解释</strong></h3><ol>
-<li><p><strong>初始状态</strong><br>每个节点（如邮局）只知道<strong>直接邻居的路径费用</strong>：  </p>
-<ul>
-<li>例：节点 <code>x</code> 知道到邻居 <code>y</code> 费用2，到 <code>z</code> 费用7；节点 <code>y</code> 知道到 <code>x</code> 费用2，到 <code>z</code> 费用1，以此类推。</li>
-</ul>
-</li>
-<li><p><strong>第一次信息交换</strong>  </p>
-<ul>
-<li>所有节点把自己的路径表<strong>广播给邻居</strong>（比如 <code>x</code> 告诉 <code>y</code> 和 <code>z</code>：“我到自己的费用是0，到 <code>y</code> 是2，到 <code>z</code> 是7”）。  </li>
-<li>收到邻居的路径表后，<strong>更新自己的路径</strong>：  <ul>
-<li>例：<code>x</code> 发现通过邻居 <code>y</code> 到 <code>z</code> 更便宜（<code>x→y→z</code> 总费用=2+1=3），于是将到 <code>z</code> 的费用从7改为3。</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p><strong>第二次信息交换</strong>  </p>
-<ul>
-<li>只有路径表<strong>有变化的节点</strong>（如 <code>x</code> 和 <code>z</code>）再次广播新路径表。  </li>
-<li>其他节点检查后，发现没有更优路径，<strong>不再更新</strong>。</li>
-</ul>
-</li>
-<li><p><strong>算法停止</strong>  </p>
-<ul>
-<li>当所有节点的路径表<strong>不再变化</strong>时，算法结束，网络进入稳定状态，每个节点都知道全局最优路径。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="举个生活例子"><a href="#举个生活例子" class="headerlink" title="举个生活例子"></a><strong>举个生活例子</strong></h3><p>想象三个村庄（<code>x</code>, <code>y</code>, <code>z</code>）互相通邮：  </p>
-<ol>
-<li><strong>初始</strong>：各村只知道直接相邻村的邮路费用（如 <code>x</code> 到 <code>y</code> 邮费2元）。  </li>
-<li><strong>第一次通信</strong>：各村互相告知邮费表，<code>x</code> 发现通过 <code>y</code> 寄到 <code>z</code> 更便宜（总3元），于是更新自己的邮费表。  </li>
-<li><strong>第二次通信</strong>：只有更新过的村（<code>x</code> 和 <code>z</code>）再次通知邻居，其他村发现邮费没变，不再行动。  </li>
-<li><strong>最终</strong>：所有村都掌握了全局最低邮费路径，寄信时自动选最省钱的路！</li>
-</ol>
-<hr>
-<h3 id="核心思想"><a href="#核心思想" class="headerlink" title="核心思想"></a><strong>核心思想</strong></h3><ul>
-<li><strong>本地信息+定期广播</strong>：每个节点只和邻居交换信息，逐步推导全局最优路径。  </li>
-<li><strong>动态更新</strong>：发现更优路径立即修正，直到全网稳定。  </li>
-<li><strong>简单高效</strong>：适合小型网络，但大型网络中可能收敛慢或产生环路（需额外机制解决）。<a class="button  regular" href="/posts/20250125131300" title="返回"><i class="fa-solid fa-arrow-left"></i> 返回</a></li>
 </ul>
 ]]></content>
       <tags>
@@ -6124,51 +6124,6 @@ import {initHBE} from "/js/plugins/hbe.js";
       </tags>
   </entry>
   <entry>
-    <title>柏拉图的理念论</title>
-    <url>/posts/20250221102500.html</url>
-    <content><![CDATA[<p>柏拉图所说的“处于变化之中的事物不是真正的存在”，是其<strong>理念论（Theory of Forms）</strong>的核心观点，具体含义如下：</p>
-<hr>
-<h3 id="1-核心理念：现象世界-vs-理念世界"><a href="#1-核心理念：现象世界-vs-理念世界" class="headerlink" title="1. 核心理念：现象世界 vs. 理念世界"></a><strong>1. 核心理念：现象世界 vs. 理念世界</strong></h3><ul>
-<li><p><strong>现象世界</strong>（可感世界）：<br>我们通过感官接触到的具体事物（如树木、石头、人等），它们<strong>不断变化、生灭无常</strong>。例如，一棵树会生长、枯萎，一块石头会被风化，人的身体会衰老。<br><strong>特点</strong>：不完美、暂时性、依赖感官经验。</p>
-</li>
-<li><p><strong>理念世界</strong>（可知世界）：<br>超越感官的抽象“形式”或“理念”（如“美本身”“正义本身”“圆本身”），它们是<strong>永恒不变、绝对真实</strong>的存在。<br><strong>特点</strong>：完美、永恒、独立于物质世界。</p>
-</li>
-</ul>
-<hr>
-<h3 id="2-为什么变化的事物“不是真正的存在”？"><a href="#2-为什么变化的事物“不是真正的存在”？" class="headerlink" title="2. 为什么变化的事物“不是真正的存在”？"></a><strong>2. 为什么变化的事物“不是真正的存在”？</strong></h3><ul>
-<li><p><strong>缺乏稳定性</strong>：<br>现象世界的事物无法保持同一性（如今天的你与昨天的你在细胞层面已不同），因此无法成为<strong>确定的知识对象</strong>。<br><strong>例子</strong>：现实中画出的“圆”总有瑕疵，而“圆”的理念（几何学中的圆）是完美的、不变的。</p>
-</li>
-<li><p><strong>依赖理念而存在</strong>：<br>具体事物只是对理念的<strong>摹仿或分有</strong>（如所有美丽的画作都分有了“美本身”的理念），其存在依附于更高层次的理念。</p>
-</li>
-<li><p><strong>真理只能通过理性把握</strong>：<br>感官经验只能提供模糊的“意见”（doxa），而理性才能认识理念世界的“真理”（episteme）。</p>
-</li>
-</ul>
-<hr>
-<h3 id="3-类比与例证"><a href="#3-类比与例证" class="headerlink" title="3. 类比与例证"></a><strong>3. 类比与例证</strong></h3><ul>
-<li><p><strong>洞穴寓言</strong>：<br>囚徒只能看到墙上的影子（现象世界），误以为影子是真实；而哲学家挣脱枷锁后，看到洞外的太阳（理念世界），才认识到真正的存在。</p>
-</li>
-<li><p><strong>数学与几何</strong>：<br>数学中的“三角形”是理念（内角和恒为180°），而现实中的三角形（如黑板上的图形）总有误差，无法完全符合理念。</p>
-</li>
-</ul>
-<hr>
-<h3 id="4-哲学意义"><a href="#4-哲学意义" class="headerlink" title="4. 哲学意义"></a><strong>4. 哲学意义</strong></h3><ul>
-<li><strong>知识论</strong>：真正的知识必须指向永恒不变的理念（如“正义是什么”），而非流变的经验现象。  </li>
-<li><strong>伦理学</strong>：至善（Good）是最高的理念，人生目标是通过哲学追求理念世界的真理。  </li>
-<li><strong>对后世影响</strong>：理念论奠定了西方哲学理性主义传统，影响了基督教神学（如上帝作为永恒存在）、科学（追求普遍规律）等领域。</li>
-</ul>
-<hr>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>柏拉图通过否定变化事物的“真实性”，强调<strong>理念世界才是终极实在</strong>。这一思想挑战了常识认知，但揭示了人类对永恒真理的追求，成为哲学史上区分“表象”与“本质”的经典范式。</p>
-]]></content>
-      <categories>
-        <category>公务员考试</category>
-        <category>常识</category>
-        <category>文史常识</category>
-      </categories>
-      <tags>
-        <tag>公务员考试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>收入分配体系</title>
     <url>/posts/20250221164400.html</url>
     <content><![CDATA[<hr>
@@ -6334,6 +6289,51 @@ import {initHBE} from "/js/plugins/hbe.js";
       <categories>
         <category>公务员考试</category>
         <category>常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>柏拉图的理念论</title>
+    <url>/posts/20250221102500.html</url>
+    <content><![CDATA[<p>柏拉图所说的“处于变化之中的事物不是真正的存在”，是其<strong>理念论（Theory of Forms）</strong>的核心观点，具体含义如下：</p>
+<hr>
+<h3 id="1-核心理念：现象世界-vs-理念世界"><a href="#1-核心理念：现象世界-vs-理念世界" class="headerlink" title="1. 核心理念：现象世界 vs. 理念世界"></a><strong>1. 核心理念：现象世界 vs. 理念世界</strong></h3><ul>
+<li><p><strong>现象世界</strong>（可感世界）：<br>我们通过感官接触到的具体事物（如树木、石头、人等），它们<strong>不断变化、生灭无常</strong>。例如，一棵树会生长、枯萎，一块石头会被风化，人的身体会衰老。<br><strong>特点</strong>：不完美、暂时性、依赖感官经验。</p>
+</li>
+<li><p><strong>理念世界</strong>（可知世界）：<br>超越感官的抽象“形式”或“理念”（如“美本身”“正义本身”“圆本身”），它们是<strong>永恒不变、绝对真实</strong>的存在。<br><strong>特点</strong>：完美、永恒、独立于物质世界。</p>
+</li>
+</ul>
+<hr>
+<h3 id="2-为什么变化的事物“不是真正的存在”？"><a href="#2-为什么变化的事物“不是真正的存在”？" class="headerlink" title="2. 为什么变化的事物“不是真正的存在”？"></a><strong>2. 为什么变化的事物“不是真正的存在”？</strong></h3><ul>
+<li><p><strong>缺乏稳定性</strong>：<br>现象世界的事物无法保持同一性（如今天的你与昨天的你在细胞层面已不同），因此无法成为<strong>确定的知识对象</strong>。<br><strong>例子</strong>：现实中画出的“圆”总有瑕疵，而“圆”的理念（几何学中的圆）是完美的、不变的。</p>
+</li>
+<li><p><strong>依赖理念而存在</strong>：<br>具体事物只是对理念的<strong>摹仿或分有</strong>（如所有美丽的画作都分有了“美本身”的理念），其存在依附于更高层次的理念。</p>
+</li>
+<li><p><strong>真理只能通过理性把握</strong>：<br>感官经验只能提供模糊的“意见”（doxa），而理性才能认识理念世界的“真理”（episteme）。</p>
+</li>
+</ul>
+<hr>
+<h3 id="3-类比与例证"><a href="#3-类比与例证" class="headerlink" title="3. 类比与例证"></a><strong>3. 类比与例证</strong></h3><ul>
+<li><p><strong>洞穴寓言</strong>：<br>囚徒只能看到墙上的影子（现象世界），误以为影子是真实；而哲学家挣脱枷锁后，看到洞外的太阳（理念世界），才认识到真正的存在。</p>
+</li>
+<li><p><strong>数学与几何</strong>：<br>数学中的“三角形”是理念（内角和恒为180°），而现实中的三角形（如黑板上的图形）总有误差，无法完全符合理念。</p>
+</li>
+</ul>
+<hr>
+<h3 id="4-哲学意义"><a href="#4-哲学意义" class="headerlink" title="4. 哲学意义"></a><strong>4. 哲学意义</strong></h3><ul>
+<li><strong>知识论</strong>：真正的知识必须指向永恒不变的理念（如“正义是什么”），而非流变的经验现象。  </li>
+<li><strong>伦理学</strong>：至善（Good）是最高的理念，人生目标是通过哲学追求理念世界的真理。  </li>
+<li><strong>对后世影响</strong>：理念论奠定了西方哲学理性主义传统，影响了基督教神学（如上帝作为永恒存在）、科学（追求普遍规律）等领域。</li>
+</ul>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>柏拉图通过否定变化事物的“真实性”，强调<strong>理念世界才是终极实在</strong>。这一思想挑战了常识认知，但揭示了人类对永恒真理的追求，成为哲学史上区分“表象”与“本质”的经典范式。</p>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+        <category>文史常识</category>
       </categories>
       <tags>
         <tag>公务员考试</tag>
@@ -7175,90 +7175,6 @@ G --&gt; H[通胀缓解]</pre>
       </tags>
   </entry>
   <entry>
-    <title>举例说明消除二义性的语法分析树</title>
-    <url>/posts/20250222200725.html</url>
-    <content><![CDATA[<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr → Expr + Term | Term</span><br><span class="line">Term → Term * Factor | Factor</span><br><span class="line">Factor → Number | (Expr)</span><br><span class="line">Number → 0 | 1 | 2 | ... | 9</span><br></pre></td></tr></table></figure></div>
-<p>这个文法是一个<strong>消除二义性的算术表达式文法</strong>，它通过分层规则明确运算符的优先级和结合性。下面我们一步步解释它的含义：</p>
-<hr>
-<h3 id="1-文法规则"><a href="#1-文法规则" class="headerlink" title="1. 文法规则"></a><strong>1. 文法规则</strong></h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr → Expr + Term | Term</span><br><span class="line">Term → Term * Factor | Factor</span><br><span class="line">Factor → Number | (Expr)</span><br><span class="line">Number → 0 | 1 | 2 | ... | 9</span><br></pre></td></tr></table></figure></div>
-
-<hr>
-<h3 id="2-符号解释"><a href="#2-符号解释" class="headerlink" title="2. 符号解释"></a><strong>2. 符号解释</strong></h3><h4 id="1-终结符（Terminal-Symbols）"><a href="#1-终结符（Terminal-Symbols）" class="headerlink" title="(1) 终结符（Terminal Symbols）"></a><strong>(1) 终结符（Terminal Symbols）</strong></h4><ul>
-<li><code>+</code>, <code>*</code>, <code>(</code>, <code>)</code>, <code>0</code>, <code>1</code>, <code>2</code>, …, <code>9</code>。</li>
-</ul>
-<h4 id="2-非终结符（Non-Terminal-Symbols）"><a href="#2-非终结符（Non-Terminal-Symbols）" class="headerlink" title="(2) 非终结符（Non-Terminal Symbols）"></a><strong>(2) 非终结符（Non-Terminal Symbols）</strong></h4><ul>
-<li><code>Expr</code>：表达式。</li>
-<li><code>Term</code>：项（用于处理乘法）。</li>
-<li><code>Factor</code>：因子（用于处理数字和括号）。</li>
-<li><code>Number</code>：数字。</li>
-</ul>
-<h4 id="3-起始符号"><a href="#3-起始符号" class="headerlink" title="(3) 起始符号"></a><strong>(3) 起始符号</strong></h4><ul>
-<li><code>Expr</code>。</li>
-</ul>
-<hr>
-<h3 id="3-规则含义"><a href="#3-规则含义" class="headerlink" title="3. 规则含义"></a><strong>3. 规则含义</strong></h3><h4 id="1-Expr-→-Expr-Term-Term"><a href="#1-Expr-→-Expr-Term-Term" class="headerlink" title="(1) Expr → Expr + Term | Term"></a><strong>(1) <code>Expr → Expr + Term | Term</code></strong></h4><ul>
-<li><strong>含义</strong>：一个表达式可以是一个表达式加上一个项，或者直接是一个项。</li>
-<li><strong>作用</strong>：定义加法的优先级和结合性。<ul>
-<li><strong>优先级</strong>：加法比乘法优先级低。</li>
-<li><strong>结合性</strong>：左结合（如 <code>a + b + c</code> 等价于 <code>(a + b) + c</code>）。</li>
-</ul>
-</li>
-</ul>
-<h4 id="2-Term-→-Term-Factor-Factor"><a href="#2-Term-→-Term-Factor-Factor" class="headerlink" title="(2) Term → Term * Factor | Factor"></a><strong>(2) <code>Term → Term * Factor | Factor</code></strong></h4><ul>
-<li><strong>含义</strong>：一个项可以是一个项乘以一个因子，或者直接是一个因子。</li>
-<li><strong>作用</strong>：定义乘法的优先级和结合性。<ul>
-<li><strong>优先级</strong>：乘法比加法优先级高。</li>
-<li><strong>结合性</strong>：左结合（如 <code>a * b * c</code> 等价于 <code>(a * b) * c</code>）。</li>
-</ul>
-</li>
-</ul>
-<h4 id="3-Factor-→-Number-Expr"><a href="#3-Factor-→-Number-Expr" class="headerlink" title="(3) Factor → Number | (Expr)"></a><strong>(3) <code>Factor → Number | (Expr)</code></strong></h4><ul>
-<li><strong>含义</strong>：一个因子可以是一个数字，或者一个用括号括起来的表达式。</li>
-<li><strong>作用</strong>：处理数字和括号，确保括号内的表达式优先计算。</li>
-</ul>
-<h4 id="4-Number-→-0-1-2-9"><a href="#4-Number-→-0-1-2-9" class="headerlink" title="(4) Number → 0 | 1 | 2 | ... | 9"></a><strong>(4) <code>Number → 0 | 1 | 2 | ... | 9</code></strong></h4><ul>
-<li><strong>含义</strong>：一个数字可以是 <code>0</code> 到 <code>9</code> 中的任意一个。</li>
-</ul>
-<hr>
-<h3 id="4-推导过程示例"><a href="#4-推导过程示例" class="headerlink" title="4. 推导过程示例"></a><strong>4. 推导过程示例</strong></h3><p>以表达式 <code>1 + 2 * (3 + 4)</code> 为例，展示如何通过文法规则推导：</p>
-<h4 id="步骤1：起始符号"><a href="#步骤1：起始符号" class="headerlink" title="步骤1：起始符号"></a><strong>步骤1：起始符号</strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤2：应用-Expr-→-Expr-Term"><a href="#步骤2：应用-Expr-→-Expr-Term" class="headerlink" title="步骤2：应用 Expr → Expr + Term"></a><strong>步骤2：应用 <code>Expr → Expr + Term</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr + Term</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤3：左侧-Expr-应用-Expr-→-Term，右侧-Term-应用-Term-→-Term-Factor"><a href="#步骤3：左侧-Expr-应用-Expr-→-Term，右侧-Term-应用-Term-→-Term-Factor" class="headerlink" title="步骤3：左侧 Expr 应用 Expr → Term，右侧 Term 应用 Term → Term * Factor"></a><strong>步骤3：左侧 <code>Expr</code> 应用 <code>Expr → Term</code>，右侧 <code>Term</code> 应用 <code>Term → Term * Factor</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Term + Term * Factor</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤4：左侧-Term-应用-Term-→-Factor，右侧-Term-应用-Term-→-Factor"><a href="#步骤4：左侧-Term-应用-Term-→-Factor，右侧-Term-应用-Term-→-Factor" class="headerlink" title="步骤4：左侧 Term 应用 Term → Factor，右侧 Term 应用 Term → Factor"></a><strong>步骤4：左侧 <code>Term</code> 应用 <code>Term → Factor</code>，右侧 <code>Term</code> 应用 <code>Term → Factor</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Factor + Factor * Factor</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤5：左侧-Factor-应用-Factor-→-Number，中间-Factor-应用-Factor-→-Number，右侧-Factor-应用-Factor-→-Expr"><a href="#步骤5：左侧-Factor-应用-Factor-→-Number，中间-Factor-应用-Factor-→-Number，右侧-Factor-应用-Factor-→-Expr" class="headerlink" title="步骤5：左侧 Factor 应用 Factor → Number，中间 Factor 应用 Factor → Number，右侧 Factor 应用 Factor → (Expr)"></a><strong>步骤5：左侧 <code>Factor</code> 应用 <code>Factor → Number</code>，中间 <code>Factor</code> 应用 <code>Factor → Number</code>，右侧 <code>Factor</code> 应用 <code>Factor → (Expr)</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Number + Number * (Expr)</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤6：Number-分别应用-Number-→-1-和-Number-→-2，Expr-应用-Expr-→-Expr-Term"><a href="#步骤6：Number-分别应用-Number-→-1-和-Number-→-2，Expr-应用-Expr-→-Expr-Term" class="headerlink" title="步骤6：Number 分别应用 Number → 1 和 Number → 2，Expr 应用 Expr → Expr + Term"></a><strong>步骤6：<code>Number</code> 分别应用 <code>Number → 1</code> 和 <code>Number → 2</code>，<code>Expr</code> 应用 <code>Expr → Expr + Term</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (Expr + Term)</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤7：Expr-应用-Expr-→-Term，Term-应用-Term-→-Factor"><a href="#步骤7：Expr-应用-Expr-→-Term，Term-应用-Term-→-Factor" class="headerlink" title="步骤7：Expr 应用 Expr → Term，Term 应用 Term → Factor"></a><strong>步骤7：<code>Expr</code> 应用 <code>Expr → Term</code>，<code>Term</code> 应用 <code>Term → Factor</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (Term + Factor)</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤8：Term-应用-Term-→-Factor，Factor-应用-Factor-→-Number"><a href="#步骤8：Term-应用-Term-→-Factor，Factor-应用-Factor-→-Number" class="headerlink" title="步骤8：Term 应用 Term → Factor，Factor 应用 Factor → Number"></a><strong>步骤8：<code>Term</code> 应用 <code>Term → Factor</code>，<code>Factor</code> 应用 <code>Factor → Number</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (Factor + Number)</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="步骤9：Factor-应用-Factor-→-Number，Number-分别应用-Number-→-3-和-Number-→-4"><a href="#步骤9：Factor-应用-Factor-→-Number，Number-分别应用-Number-→-3-和-Number-→-4" class="headerlink" title="步骤9：Factor 应用 Factor → Number，Number 分别应用 Number → 3 和 Number → 4"></a><strong>步骤9：<code>Factor</code> 应用 <code>Factor → Number</code>，<code>Number</code> 分别应用 <code>Number → 3</code> 和 <code>Number → 4</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (3 + 4)</span><br></pre></td></tr></table></figure></div>
-
-<hr>
-<h3 id="5-语法分析树"><a href="#5-语法分析树" class="headerlink" title="5. 语法分析树"></a><strong>5. 语法分析树</strong></h3><p>上述推导过程可以表示为语法分析树：</p>
-<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">	  Expr</span><br><span class="line">	  /|\</span><br><span class="line">  Expr    +    Term</span><br><span class="line">   |           /|\</span><br><span class="line"> Term     Term  *  Factor</span><br><span class="line">   |       |         |</span><br><span class="line">Factor   Factor    (Expr)</span><br><span class="line">   |       |        /|\</span><br><span class="line">Number   Number Expr + Term</span><br><span class="line">   |       |      |     |</span><br><span class="line">   1       2    Term   Factor</span><br><span class="line">                  |     |</span><br><span class="line">               Factor Number</span><br><span class="line">                  |     |</span><br><span class="line">                Number  4</span><br><span class="line">                  |</span><br><span class="line">                  3</span><br></pre></td></tr></table></figure></div>
-
-<hr>
-<h3 id="6-总结"><a href="#6-总结" class="headerlink" title="6. 总结"></a><strong>6. 总结</strong></h3><ul>
-<li><strong>分层规则</strong>：通过 <code>Expr</code>、<code>Term</code>、<code>Factor</code> 分层定义，明确优先级（乘法优先于加法，括号优先于乘法）。</li>
-<li><strong>消除二义性</strong>：确保每个表达式只有唯一的语法树。</li>
-<li><strong>结合性</strong>：加法和乘法都是左结合。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>编译原理</category>
-        <category>语法分析</category>
-      </categories>
-      <tags>
-        <tag>编译原理</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>编译与解释</title>
     <url>/posts/20250222195229.html</url>
     <content><![CDATA[<p>编译和解释是两种将高级编程语言转换为计算机可执行代码的方式，它们的主要区别在于<strong>转换的时机和执行的方式</strong>。以下是详细解释：</p>
@@ -7377,6 +7293,90 @@ G --&gt; H[通胀缓解]</pre>
       <categories>
         <category>编译原理</category>
         <category>概述</category>
+      </categories>
+      <tags>
+        <tag>编译原理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>举例说明消除二义性的语法分析树</title>
+    <url>/posts/20250222200725.html</url>
+    <content><![CDATA[<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr → Expr + Term | Term</span><br><span class="line">Term → Term * Factor | Factor</span><br><span class="line">Factor → Number | (Expr)</span><br><span class="line">Number → 0 | 1 | 2 | ... | 9</span><br></pre></td></tr></table></figure></div>
+<p>这个文法是一个<strong>消除二义性的算术表达式文法</strong>，它通过分层规则明确运算符的优先级和结合性。下面我们一步步解释它的含义：</p>
+<hr>
+<h3 id="1-文法规则"><a href="#1-文法规则" class="headerlink" title="1. 文法规则"></a><strong>1. 文法规则</strong></h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr → Expr + Term | Term</span><br><span class="line">Term → Term * Factor | Factor</span><br><span class="line">Factor → Number | (Expr)</span><br><span class="line">Number → 0 | 1 | 2 | ... | 9</span><br></pre></td></tr></table></figure></div>
+
+<hr>
+<h3 id="2-符号解释"><a href="#2-符号解释" class="headerlink" title="2. 符号解释"></a><strong>2. 符号解释</strong></h3><h4 id="1-终结符（Terminal-Symbols）"><a href="#1-终结符（Terminal-Symbols）" class="headerlink" title="(1) 终结符（Terminal Symbols）"></a><strong>(1) 终结符（Terminal Symbols）</strong></h4><ul>
+<li><code>+</code>, <code>*</code>, <code>(</code>, <code>)</code>, <code>0</code>, <code>1</code>, <code>2</code>, …, <code>9</code>。</li>
+</ul>
+<h4 id="2-非终结符（Non-Terminal-Symbols）"><a href="#2-非终结符（Non-Terminal-Symbols）" class="headerlink" title="(2) 非终结符（Non-Terminal Symbols）"></a><strong>(2) 非终结符（Non-Terminal Symbols）</strong></h4><ul>
+<li><code>Expr</code>：表达式。</li>
+<li><code>Term</code>：项（用于处理乘法）。</li>
+<li><code>Factor</code>：因子（用于处理数字和括号）。</li>
+<li><code>Number</code>：数字。</li>
+</ul>
+<h4 id="3-起始符号"><a href="#3-起始符号" class="headerlink" title="(3) 起始符号"></a><strong>(3) 起始符号</strong></h4><ul>
+<li><code>Expr</code>。</li>
+</ul>
+<hr>
+<h3 id="3-规则含义"><a href="#3-规则含义" class="headerlink" title="3. 规则含义"></a><strong>3. 规则含义</strong></h3><h4 id="1-Expr-→-Expr-Term-Term"><a href="#1-Expr-→-Expr-Term-Term" class="headerlink" title="(1) Expr → Expr + Term | Term"></a><strong>(1) <code>Expr → Expr + Term | Term</code></strong></h4><ul>
+<li><strong>含义</strong>：一个表达式可以是一个表达式加上一个项，或者直接是一个项。</li>
+<li><strong>作用</strong>：定义加法的优先级和结合性。<ul>
+<li><strong>优先级</strong>：加法比乘法优先级低。</li>
+<li><strong>结合性</strong>：左结合（如 <code>a + b + c</code> 等价于 <code>(a + b) + c</code>）。</li>
+</ul>
+</li>
+</ul>
+<h4 id="2-Term-→-Term-Factor-Factor"><a href="#2-Term-→-Term-Factor-Factor" class="headerlink" title="(2) Term → Term * Factor | Factor"></a><strong>(2) <code>Term → Term * Factor | Factor</code></strong></h4><ul>
+<li><strong>含义</strong>：一个项可以是一个项乘以一个因子，或者直接是一个因子。</li>
+<li><strong>作用</strong>：定义乘法的优先级和结合性。<ul>
+<li><strong>优先级</strong>：乘法比加法优先级高。</li>
+<li><strong>结合性</strong>：左结合（如 <code>a * b * c</code> 等价于 <code>(a * b) * c</code>）。</li>
+</ul>
+</li>
+</ul>
+<h4 id="3-Factor-→-Number-Expr"><a href="#3-Factor-→-Number-Expr" class="headerlink" title="(3) Factor → Number | (Expr)"></a><strong>(3) <code>Factor → Number | (Expr)</code></strong></h4><ul>
+<li><strong>含义</strong>：一个因子可以是一个数字，或者一个用括号括起来的表达式。</li>
+<li><strong>作用</strong>：处理数字和括号，确保括号内的表达式优先计算。</li>
+</ul>
+<h4 id="4-Number-→-0-1-2-9"><a href="#4-Number-→-0-1-2-9" class="headerlink" title="(4) Number → 0 | 1 | 2 | ... | 9"></a><strong>(4) <code>Number → 0 | 1 | 2 | ... | 9</code></strong></h4><ul>
+<li><strong>含义</strong>：一个数字可以是 <code>0</code> 到 <code>9</code> 中的任意一个。</li>
+</ul>
+<hr>
+<h3 id="4-推导过程示例"><a href="#4-推导过程示例" class="headerlink" title="4. 推导过程示例"></a><strong>4. 推导过程示例</strong></h3><p>以表达式 <code>1 + 2 * (3 + 4)</code> 为例，展示如何通过文法规则推导：</p>
+<h4 id="步骤1：起始符号"><a href="#步骤1：起始符号" class="headerlink" title="步骤1：起始符号"></a><strong>步骤1：起始符号</strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤2：应用-Expr-→-Expr-Term"><a href="#步骤2：应用-Expr-→-Expr-Term" class="headerlink" title="步骤2：应用 Expr → Expr + Term"></a><strong>步骤2：应用 <code>Expr → Expr + Term</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Expr + Term</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤3：左侧-Expr-应用-Expr-→-Term，右侧-Term-应用-Term-→-Term-Factor"><a href="#步骤3：左侧-Expr-应用-Expr-→-Term，右侧-Term-应用-Term-→-Term-Factor" class="headerlink" title="步骤3：左侧 Expr 应用 Expr → Term，右侧 Term 应用 Term → Term * Factor"></a><strong>步骤3：左侧 <code>Expr</code> 应用 <code>Expr → Term</code>，右侧 <code>Term</code> 应用 <code>Term → Term * Factor</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Term + Term * Factor</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤4：左侧-Term-应用-Term-→-Factor，右侧-Term-应用-Term-→-Factor"><a href="#步骤4：左侧-Term-应用-Term-→-Factor，右侧-Term-应用-Term-→-Factor" class="headerlink" title="步骤4：左侧 Term 应用 Term → Factor，右侧 Term 应用 Term → Factor"></a><strong>步骤4：左侧 <code>Term</code> 应用 <code>Term → Factor</code>，右侧 <code>Term</code> 应用 <code>Term → Factor</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Factor + Factor * Factor</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤5：左侧-Factor-应用-Factor-→-Number，中间-Factor-应用-Factor-→-Number，右侧-Factor-应用-Factor-→-Expr"><a href="#步骤5：左侧-Factor-应用-Factor-→-Number，中间-Factor-应用-Factor-→-Number，右侧-Factor-应用-Factor-→-Expr" class="headerlink" title="步骤5：左侧 Factor 应用 Factor → Number，中间 Factor 应用 Factor → Number，右侧 Factor 应用 Factor → (Expr)"></a><strong>步骤5：左侧 <code>Factor</code> 应用 <code>Factor → Number</code>，中间 <code>Factor</code> 应用 <code>Factor → Number</code>，右侧 <code>Factor</code> 应用 <code>Factor → (Expr)</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Number + Number * (Expr)</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤6：Number-分别应用-Number-→-1-和-Number-→-2，Expr-应用-Expr-→-Expr-Term"><a href="#步骤6：Number-分别应用-Number-→-1-和-Number-→-2，Expr-应用-Expr-→-Expr-Term" class="headerlink" title="步骤6：Number 分别应用 Number → 1 和 Number → 2，Expr 应用 Expr → Expr + Term"></a><strong>步骤6：<code>Number</code> 分别应用 <code>Number → 1</code> 和 <code>Number → 2</code>，<code>Expr</code> 应用 <code>Expr → Expr + Term</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (Expr + Term)</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤7：Expr-应用-Expr-→-Term，Term-应用-Term-→-Factor"><a href="#步骤7：Expr-应用-Expr-→-Term，Term-应用-Term-→-Factor" class="headerlink" title="步骤7：Expr 应用 Expr → Term，Term 应用 Term → Factor"></a><strong>步骤7：<code>Expr</code> 应用 <code>Expr → Term</code>，<code>Term</code> 应用 <code>Term → Factor</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (Term + Factor)</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤8：Term-应用-Term-→-Factor，Factor-应用-Factor-→-Number"><a href="#步骤8：Term-应用-Term-→-Factor，Factor-应用-Factor-→-Number" class="headerlink" title="步骤8：Term 应用 Term → Factor，Factor 应用 Factor → Number"></a><strong>步骤8：<code>Term</code> 应用 <code>Term → Factor</code>，<code>Factor</code> 应用 <code>Factor → Number</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (Factor + Number)</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="步骤9：Factor-应用-Factor-→-Number，Number-分别应用-Number-→-3-和-Number-→-4"><a href="#步骤9：Factor-应用-Factor-→-Number，Number-分别应用-Number-→-3-和-Number-→-4" class="headerlink" title="步骤9：Factor 应用 Factor → Number，Number 分别应用 Number → 3 和 Number → 4"></a><strong>步骤9：<code>Factor</code> 应用 <code>Factor → Number</code>，<code>Number</code> 分别应用 <code>Number → 3</code> 和 <code>Number → 4</code></strong></h4><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 + 2 * (3 + 4)</span><br></pre></td></tr></table></figure></div>
+
+<hr>
+<h3 id="5-语法分析树"><a href="#5-语法分析树" class="headerlink" title="5. 语法分析树"></a><strong>5. 语法分析树</strong></h3><p>上述推导过程可以表示为语法分析树：</p>
+<div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">	  Expr</span><br><span class="line">	  /|\</span><br><span class="line">  Expr    +    Term</span><br><span class="line">   |           /|\</span><br><span class="line"> Term     Term  *  Factor</span><br><span class="line">   |       |         |</span><br><span class="line">Factor   Factor    (Expr)</span><br><span class="line">   |       |        /|\</span><br><span class="line">Number   Number Expr + Term</span><br><span class="line">   |       |      |     |</span><br><span class="line">   1       2    Term   Factor</span><br><span class="line">                  |     |</span><br><span class="line">               Factor Number</span><br><span class="line">                  |     |</span><br><span class="line">                Number  4</span><br><span class="line">                  |</span><br><span class="line">                  3</span><br></pre></td></tr></table></figure></div>
+
+<hr>
+<h3 id="6-总结"><a href="#6-总结" class="headerlink" title="6. 总结"></a><strong>6. 总结</strong></h3><ul>
+<li><strong>分层规则</strong>：通过 <code>Expr</code>、<code>Term</code>、<code>Factor</code> 分层定义，明确优先级（乘法优先于加法，括号优先于乘法）。</li>
+<li><strong>消除二义性</strong>：确保每个表达式只有唯一的语法树。</li>
+<li><strong>结合性</strong>：加法和乘法都是左结合。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>编译原理</category>
+        <category>语法分析</category>
       </categories>
       <tags>
         <tag>编译原理</tag>
@@ -7941,136 +7941,6 @@ G --&gt; H[通胀缓解]</pre>
       </tags>
   </entry>
   <entry>
-    <title>我国国道命名逻辑</title>
-    <url>/posts/20250224174147.html</url>
-    <content><![CDATA[<p>我国国道的命名逻辑遵循“<strong>编号分类+走向规律</strong>” ，通过数字编码直观反映道路的走向、类型和重要性。以下是通俗易懂的总结，结合<strong>分类规则、数字含义</strong>和<strong>典型例子</strong>，方便记忆和考试答题。</p>
-<hr>
-<h3 id="一、国道编号的基本结构"><a href="#一、国道编号的基本结构" class="headerlink" title="一、国道编号的基本结构"></a><strong>一、国道编号的基本结构</strong></h3><p>所有国道以字母 <strong>G（“国”拼音首字母）</strong> 开头，后接 <strong>1位、2位或3位数字</strong>，不同位数代表不同类别：</p>
-<table>
-<thead>
-<tr>
-<th><strong>编号类型</strong></th>
-<th><strong>数字位数</strong></th>
-<th><strong>含义</strong></th>
-<th><strong>例子</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>首都放射线</strong></td>
-<td>1位（G1-G9）</td>
-<td>以北京为中心向外辐射的国道</td>
-<td>G1（京哈高速）</td>
-</tr>
-<tr>
-<td><strong>纵线国道</strong></td>
-<td>2位奇数（G11-G89）</td>
-<td>南北走向的国道</td>
-<td>G15（沈海高速）</td>
-</tr>
-<tr>
-<td><strong>横线国道</strong></td>
-<td>2位偶数（G10-G90）</td>
-<td>东西走向的国道</td>
-<td>G30（连霍高速）</td>
-</tr>
-<tr>
-<td><strong>联络线</strong></td>
-<td>3位（G101-G999）</td>
-<td>连接其他国道或补充路网</td>
-<td>G318（川藏线）</td>
-</tr>
-</tbody></table>
-<hr>
-<h3 id="二、具体命名规则"><a href="#二、具体命名规则" class="headerlink" title="二、具体命名规则"></a><strong>二、具体命名规则</strong></h3><h4 id="1-首都放射线（G1-G9）"><a href="#1-首都放射线（G1-G9）" class="headerlink" title="1. 首都放射线（G1-G9）"></a><strong>1. 首都放射线（G1-G9）</strong></h4><ul>
-<li><strong>编号范围</strong>：G1至G9（共12条，实际扩展至G95）。  </li>
-<li><strong>走向</strong>：以北京为起点，按顺时针方向排列。  </li>
-<li><strong>例子</strong>：  <ul>
-<li><strong>G1</strong>：京哈高速（北京→哈尔滨）  </li>
-<li><strong>G2</strong>：京沪高速（北京→上海）  </li>
-<li><strong>G6</strong>：京藏高速（北京→拉萨）</li>
-</ul>
-</li>
-</ul>
-<h4 id="2-纵线国道（南北向，奇数编号）"><a href="#2-纵线国道（南北向，奇数编号）" class="headerlink" title="2. 纵线国道（南北向，奇数编号）"></a><strong>2. 纵线国道（南北向，奇数编号）</strong></h4><ul>
-<li><strong>编号规则</strong>：  <ul>
-<li>由东向西排列，编号从G11开始递增。  </li>
-<li><strong>G11-G89</strong>（奇数）：如G15（沈海高速）、G45（大广高速）。</li>
-</ul>
-</li>
-<li><strong>例子</strong>：  <ul>
-<li><strong>G15</strong>：沈海高速（沈阳→海口）  </li>
-<li><strong>G55</strong>：二广高速（二连浩特→广州）</li>
-</ul>
-</li>
-</ul>
-<h4 id="3-横线国道（东西向，偶数编号）"><a href="#3-横线国道（东西向，偶数编号）" class="headerlink" title="3. 横线国道（东西向，偶数编号）"></a><strong>3. 横线国道（东西向，偶数编号）</strong></h4><ul>
-<li><strong>编号规则</strong>：  <ul>
-<li>由北向南排列，编号从G10开始递增。  </li>
-<li><strong>G10-G90</strong>（偶数）：如G30（连霍高速）、G42（沪蓉高速）。</li>
-</ul>
-</li>
-<li><strong>例子</strong>：  <ul>
-<li><strong>G30</strong>：连霍高速（连云港→霍尔果斯）  </li>
-<li><strong>G50</strong>：沪渝高速（上海→重庆）</li>
-</ul>
-</li>
-</ul>
-<h4 id="4-联络线（3位数编号）"><a href="#4-联络线（3位数编号）" class="headerlink" title="4. 联络线（3位数编号）"></a><strong>4. 联络线（3位数编号）</strong></h4><ul>
-<li><strong>编号规则</strong>：  <ul>
-<li>首位数字表示主线类别（1-首都放射线，2-纵线，3-横线）。  </li>
-<li>后两位为顺序号（如G101、G201）。</li>
-</ul>
-</li>
-<li><strong>例子</strong>：  <ul>
-<li><strong>G101</strong>：京沈联络线（北京→沈阳，连接G1）  </li>
-<li><strong>G318</strong>：沪聂线（上海→聂拉木，著名川藏线）</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3 id="三、特殊规则与易错点"><a href="#三、特殊规则与易错点" class="headerlink" title="三、特殊规则与易错点"></a><strong>三、特殊规则与易错点</strong></h3><ol>
-<li><p><strong>新旧编号对比</strong>：  </p>
-<ul>
-<li>2013年后部分国道编号调整（如G4京港澳高速替代原G030）。  </li>
-<li><strong>注意</strong>：考试可能涉及旧编号陷阱（如G040现为G4）。</li>
-</ul>
-</li>
-<li><p><strong>编号连续性</strong>：  </p>
-<ul>
-<li>纵线（奇数）和横线（偶数）的编号可能不连续（如G11后是G15，中间空缺为预留号）。</li>
-</ul>
-</li>
-<li><p><strong>地理走向辅助记忆</strong>：  </p>
-<ul>
-<li><strong>“奇纵偶横”</strong>：奇数代表南北，偶数代表东西。  </li>
-<li><strong>“小数字靠北&#x2F;东”</strong>：G11（最东侧纵线）、G10（最北侧横线）。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="四、典型考点与真题示例"><a href="#四、典型考点与真题示例" class="headerlink" title="四、典型考点与真题示例"></a><strong>四、典型考点与真题示例</strong></h3><ol>
-<li><p><strong>问题</strong>：G30连霍高速的编号规则属于？<br>A. 首都放射线  B. 南北纵线  C. 东西横线  D. 联络线<br><strong>答案</strong>：C（G30为偶数，东西走向）。</p>
-</li>
-<li><p><strong>问题</strong>：国道G318的编号逻辑表明它是？<br>A. 首都放射线  B. 南北纵线  C. 东西横线  D. 联络线<br><strong>答案</strong>：D（3位数编号，首位“3”表示与横线G30相关）。</p>
-</li>
-</ol>
-<hr>
-<h3 id="五、总结口诀"><a href="#五、总结口诀" class="headerlink" title="五、总结口诀"></a><strong>五、总结口诀</strong></h3><ul>
-<li><strong>“1位北京发，奇纵偶横走天下，三位联络不分家”</strong>  </li>
-<li><strong>“G1到G9，北京放射不用愁；奇南偶北，三位补漏”</strong></li>
-</ul>
-<p>掌握这些规则后，结合地图记忆（如G30横贯中国东西、G318川藏线），考试轻松应对！</p>
-]]></content>
-      <categories>
-        <category>公务员考试</category>
-        <category>常识</category>
-        <category>地理常识</category>
-      </categories>
-      <tags>
-        <tag>公务员考试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>佛教、基督教、伊斯兰教</title>
     <url>/posts/20250224170718.html</url>
     <content><![CDATA[<p>好的！我会用最简化的方式帮你梳理这三大宗教的核心考点，重点突出<strong>创始人、经典、核心教义、重要节日</strong>和<strong>考试易错点</strong>，方便记忆和答题。</p>
@@ -8220,6 +8090,136 @@ G --&gt; H[通胀缓解]</pre>
         <category>公务员考试</category>
         <category>常识</category>
         <category>生活常识</category>
+      </categories>
+      <tags>
+        <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我国国道命名逻辑</title>
+    <url>/posts/20250224174147.html</url>
+    <content><![CDATA[<p>我国国道的命名逻辑遵循“<strong>编号分类+走向规律</strong>” ，通过数字编码直观反映道路的走向、类型和重要性。以下是通俗易懂的总结，结合<strong>分类规则、数字含义</strong>和<strong>典型例子</strong>，方便记忆和考试答题。</p>
+<hr>
+<h3 id="一、国道编号的基本结构"><a href="#一、国道编号的基本结构" class="headerlink" title="一、国道编号的基本结构"></a><strong>一、国道编号的基本结构</strong></h3><p>所有国道以字母 <strong>G（“国”拼音首字母）</strong> 开头，后接 <strong>1位、2位或3位数字</strong>，不同位数代表不同类别：</p>
+<table>
+<thead>
+<tr>
+<th><strong>编号类型</strong></th>
+<th><strong>数字位数</strong></th>
+<th><strong>含义</strong></th>
+<th><strong>例子</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>首都放射线</strong></td>
+<td>1位（G1-G9）</td>
+<td>以北京为中心向外辐射的国道</td>
+<td>G1（京哈高速）</td>
+</tr>
+<tr>
+<td><strong>纵线国道</strong></td>
+<td>2位奇数（G11-G89）</td>
+<td>南北走向的国道</td>
+<td>G15（沈海高速）</td>
+</tr>
+<tr>
+<td><strong>横线国道</strong></td>
+<td>2位偶数（G10-G90）</td>
+<td>东西走向的国道</td>
+<td>G30（连霍高速）</td>
+</tr>
+<tr>
+<td><strong>联络线</strong></td>
+<td>3位（G101-G999）</td>
+<td>连接其他国道或补充路网</td>
+<td>G318（川藏线）</td>
+</tr>
+</tbody></table>
+<hr>
+<h3 id="二、具体命名规则"><a href="#二、具体命名规则" class="headerlink" title="二、具体命名规则"></a><strong>二、具体命名规则</strong></h3><h4 id="1-首都放射线（G1-G9）"><a href="#1-首都放射线（G1-G9）" class="headerlink" title="1. 首都放射线（G1-G9）"></a><strong>1. 首都放射线（G1-G9）</strong></h4><ul>
+<li><strong>编号范围</strong>：G1至G9（共12条，实际扩展至G95）。  </li>
+<li><strong>走向</strong>：以北京为起点，按顺时针方向排列。  </li>
+<li><strong>例子</strong>：  <ul>
+<li><strong>G1</strong>：京哈高速（北京→哈尔滨）  </li>
+<li><strong>G2</strong>：京沪高速（北京→上海）  </li>
+<li><strong>G6</strong>：京藏高速（北京→拉萨）</li>
+</ul>
+</li>
+</ul>
+<h4 id="2-纵线国道（南北向，奇数编号）"><a href="#2-纵线国道（南北向，奇数编号）" class="headerlink" title="2. 纵线国道（南北向，奇数编号）"></a><strong>2. 纵线国道（南北向，奇数编号）</strong></h4><ul>
+<li><strong>编号规则</strong>：  <ul>
+<li>由东向西排列，编号从G11开始递增。  </li>
+<li><strong>G11-G89</strong>（奇数）：如G15（沈海高速）、G45（大广高速）。</li>
+</ul>
+</li>
+<li><strong>例子</strong>：  <ul>
+<li><strong>G15</strong>：沈海高速（沈阳→海口）  </li>
+<li><strong>G55</strong>：二广高速（二连浩特→广州）</li>
+</ul>
+</li>
+</ul>
+<h4 id="3-横线国道（东西向，偶数编号）"><a href="#3-横线国道（东西向，偶数编号）" class="headerlink" title="3. 横线国道（东西向，偶数编号）"></a><strong>3. 横线国道（东西向，偶数编号）</strong></h4><ul>
+<li><strong>编号规则</strong>：  <ul>
+<li>由北向南排列，编号从G10开始递增。  </li>
+<li><strong>G10-G90</strong>（偶数）：如G30（连霍高速）、G42（沪蓉高速）。</li>
+</ul>
+</li>
+<li><strong>例子</strong>：  <ul>
+<li><strong>G30</strong>：连霍高速（连云港→霍尔果斯）  </li>
+<li><strong>G50</strong>：沪渝高速（上海→重庆）</li>
+</ul>
+</li>
+</ul>
+<h4 id="4-联络线（3位数编号）"><a href="#4-联络线（3位数编号）" class="headerlink" title="4. 联络线（3位数编号）"></a><strong>4. 联络线（3位数编号）</strong></h4><ul>
+<li><strong>编号规则</strong>：  <ul>
+<li>首位数字表示主线类别（1-首都放射线，2-纵线，3-横线）。  </li>
+<li>后两位为顺序号（如G101、G201）。</li>
+</ul>
+</li>
+<li><strong>例子</strong>：  <ul>
+<li><strong>G101</strong>：京沈联络线（北京→沈阳，连接G1）  </li>
+<li><strong>G318</strong>：沪聂线（上海→聂拉木，著名川藏线）</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="三、特殊规则与易错点"><a href="#三、特殊规则与易错点" class="headerlink" title="三、特殊规则与易错点"></a><strong>三、特殊规则与易错点</strong></h3><ol>
+<li><p><strong>新旧编号对比</strong>：  </p>
+<ul>
+<li>2013年后部分国道编号调整（如G4京港澳高速替代原G030）。  </li>
+<li><strong>注意</strong>：考试可能涉及旧编号陷阱（如G040现为G4）。</li>
+</ul>
+</li>
+<li><p><strong>编号连续性</strong>：  </p>
+<ul>
+<li>纵线（奇数）和横线（偶数）的编号可能不连续（如G11后是G15，中间空缺为预留号）。</li>
+</ul>
+</li>
+<li><p><strong>地理走向辅助记忆</strong>：  </p>
+<ul>
+<li><strong>“奇纵偶横”</strong>：奇数代表南北，偶数代表东西。  </li>
+<li><strong>“小数字靠北&#x2F;东”</strong>：G11（最东侧纵线）、G10（最北侧横线）。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="四、典型考点与真题示例"><a href="#四、典型考点与真题示例" class="headerlink" title="四、典型考点与真题示例"></a><strong>四、典型考点与真题示例</strong></h3><ol>
+<li><p><strong>问题</strong>：G30连霍高速的编号规则属于？<br>A. 首都放射线  B. 南北纵线  C. 东西横线  D. 联络线<br><strong>答案</strong>：C（G30为偶数，东西走向）。</p>
+</li>
+<li><p><strong>问题</strong>：国道G318的编号逻辑表明它是？<br>A. 首都放射线  B. 南北纵线  C. 东西横线  D. 联络线<br><strong>答案</strong>：D（3位数编号，首位“3”表示与横线G30相关）。</p>
+</li>
+</ol>
+<hr>
+<h3 id="五、总结口诀"><a href="#五、总结口诀" class="headerlink" title="五、总结口诀"></a><strong>五、总结口诀</strong></h3><ul>
+<li><strong>“1位北京发，奇纵偶横走天下，三位联络不分家”</strong>  </li>
+<li><strong>“G1到G9，北京放射不用愁；奇南偶北，三位补漏”</strong></li>
+</ul>
+<p>掌握这些规则后，结合地图记忆（如G30横贯中国东西、G318川藏线），考试轻松应对！</p>
+]]></content>
+      <categories>
+        <category>公务员考试</category>
+        <category>常识</category>
+        <category>地理常识</category>
       </categories>
       <tags>
         <tag>公务员考试</tag>
@@ -8959,102 +8959,92 @@ G --&gt; H[通胀缓解]</pre>
       </tags>
   </entry>
   <entry>
-    <title>STM32时钟电路中英文缩写的全称</title>
+    <title>STM32时钟电路中英文缩写的全称（更新中）</title>
     <url>/posts/20250227182011.html</url>
-    <content><![CDATA[<p>以下是STM32时钟系统中常见的首字母缩写及其全称与汉语名称：</p>
+    <content><![CDATA[<hr>
 <ol>
-<li><p><strong>HSI</strong>  </p>
-<ul>
-<li>全称：High-Speed Internal Clock  </li>
-<li>汉语名称：高速内部时钟</li>
+<li><strong>ADC</strong>  <ul>
+<li>全称：Analog-to-Digital Converter</li>
+<li>中文：模数转换器</li>
 </ul>
 </li>
-<li><p><strong>HSE</strong>  </p>
-<ul>
-<li>全称：High-Speed External Clock  </li>
-<li>汉语名称：高速外部时钟</li>
-</ul>
-</li>
-<li><p><strong>LSI</strong>  </p>
-<ul>
-<li>全称：Low-Speed Internal Clock  </li>
-<li>汉语名称：低速内部时钟</li>
-</ul>
-</li>
-<li><p><strong>LSE</strong>  </p>
-<ul>
-<li>全称：Low-Speed External Clock  </li>
-<li>汉语名称：低速外部时钟</li>
-</ul>
-</li>
-<li><p><strong>PLL</strong>  </p>
-<ul>
-<li>全称：Phase-Locked Loop  </li>
-<li>汉语名称：锁相环</li>
-</ul>
-</li>
-<li><p><strong>SYSCLK</strong>  </p>
-<ul>
-<li>全称：System Clock  </li>
-<li>汉语名称：系统时钟</li>
-</ul>
-</li>
-<li><p><strong>AHB</strong>  </p>
-<ul>
+<li><strong>AHB</strong>  <ul>
 <li>全称：Advanced High-performance Bus  </li>
-<li>汉语名称：高级高性能总线</li>
+<li>中文：高级高性能总线</li>
 </ul>
 </li>
-<li><p><strong>APB1</strong>  </p>
-<ul>
+<li><strong>APB1</strong>  <ul>
 <li>全称：Advanced Peripheral Bus 1  </li>
-<li>汉语名称：高级外设总线1</li>
+<li>中文：高级外设总线1</li>
 </ul>
 </li>
-<li><p><strong>APB2</strong>  </p>
-<ul>
+<li><strong>APB2</strong>  <ul>
 <li>全称：Advanced Peripheral Bus 2  </li>
-<li>汉语名称：高级外设总线2</li>
+<li>中文：高级外设总线2</li>
 </ul>
 </li>
-<li><p><strong>MCO</strong>  </p>
-<ul>
-<li>全称：Microcontroller Clock Output  </li>
-<li>汉语名称：微控制器时钟输出</li>
+<li><strong>APB2ENR</strong><ul>
+<li>全称：Advanced Peripheral Bus 2 Enable Register </li>
+<li>中文：高级外设总线2使能寄存器</li>
 </ul>
 </li>
-<li><p><strong>RTC</strong>  </p>
-<ul>
-<li>全称：Real-Time Clock  </li>
-<li>汉语名称：实时时钟</li>
-</ul>
-</li>
-<li><p><strong>CSS</strong>  </p>
-<ul>
+<li><strong>CSS</strong>  <ul>
 <li>全称：Clock Security System  </li>
-<li>汉语名称：时钟安全系统</li>
+<li>中文：时钟安全系统</li>
 </ul>
 </li>
-<li><p><strong>IWDG</strong>  </p>
-<ul>
+<li><strong>HSI</strong> <ul>
+<li>全称：High-Speed Internal Clock  </li>
+<li>中文：高速内部时钟</li>
+</ul>
+</li>
+<li><strong>HSE</strong>  <ul>
+<li>全称：High-Speed External Clock  </li>
+<li>中文：高速外部时钟</li>
+</ul>
+</li>
+<li><strong>IWDG</strong>  <ul>
 <li>全称：Independent Watchdog  </li>
-<li>汉语名称：独立看门狗</li>
+<li>中文：独立看门狗</li>
 </ul>
 </li>
-<li><p><strong>USB</strong>  </p>
-<ul>
+<li><strong>LSI</strong><br>- 全称：Low-Speed Internal Clock<br>- 中文：低速内部时钟  </li>
+<li><strong>LSE</strong>  <ul>
+<li>全称：Low-Speed External Clock  </li>
+<li>中文：低速外部时钟</li>
+</ul>
+</li>
+<li><strong>MCO</strong>  <ul>
+<li>全称：Microcontroller Clock Output  </li>
+<li>中文：微控制器时钟输出</li>
+</ul>
+</li>
+<li><strong>PLL</strong>  <ul>
+<li>全称：Phase-Locked Loop  </li>
+<li>中文：锁相环</li>
+</ul>
+</li>
+<li><strong>RTC</strong>  <ul>
+<li>全称：Real-Time Clock  </li>
+<li>中文：实时时钟</li>
+</ul>
+</li>
+<li><strong>RCC</strong><ul>
+<li>全称：Reset and Clock Control</li>
+<li>中文：复位和时钟控制</li>
+</ul>
+</li>
+<li><strong>SYSCLK</strong>  <ul>
+<li>全称：System Clock  </li>
+<li>中文：系统时钟</li>
+</ul>
+</li>
+<li><strong>USB</strong>  <ul>
 <li>全称：Universal Serial Bus  </li>
-<li>汉语名称：通用串行总线</li>
-</ul>
-</li>
-<li><p><strong>ADC</strong>  </p>
-<ul>
-<li>全称：Analog-to-Digital Converter  </li>
-<li>汉语名称：模数转换器</li>
+<li>中文：通用串行总线</li>
 </ul>
 </li>
 </ol>
-<p>这些缩写和全称涵盖了STM32时钟系统中的主要组成部分，帮助理解时钟配置和功能。</p>
 ]]></content>
       <tags>
         <tag>STM32</tag>
@@ -9438,115 +9428,6 @@ G --&gt; H[通胀缓解]</pre>
       </tags>
   </entry>
   <entry>
-    <title>广义相对论和狭义相对论的基本了解</title>
-    <url>/posts/20250227170858.html</url>
-    <content><![CDATA[<p>广义相对论和狭义相对论是爱因斯坦提出的两大物理学理论，二者在<strong>理论基础</strong>、<strong>适用范围</strong>和<strong>物理内涵</strong>上存在显著差异。以下是它们的核心区别和侧重点分析：</p>
-<hr>
-<h3 id="一、狭义相对论（1905年）"><a href="#一、狭义相对论（1905年）" class="headerlink" title="一、狭义相对论（1905年）"></a><strong>一、狭义相对论（1905年）</strong></h3><h4 id="1-理论框架"><a href="#1-理论框架" class="headerlink" title="1. 理论框架"></a><strong>1. 理论框架</strong></h4><ul>
-<li><strong>基本假设</strong>：  <ul>
-<li><strong>相对性原理</strong>：物理定律在所有惯性参考系中形式不变。  </li>
-<li><strong>光速不变原理</strong>：真空中的光速对所有惯性系观测者都是恒定值（约3×10⁸ m&#x2F;s）。</li>
-</ul>
-</li>
-<li><strong>数学工具</strong>：闵可夫斯基时空（平直时空几何）。</li>
-</ul>
-<h4 id="2-核心内容"><a href="#2-核心内容" class="headerlink" title="2. 核心内容"></a><strong>2. 核心内容</strong></h4><ul>
-<li><strong>时空相对性</strong>：  <ul>
-<li>时间膨胀（运动的钟变慢）、长度收缩（运动的尺缩短）。  </li>
-<li>同时性的相对性（不同参考系对事件是否“同时发生”的判定不同）。</li>
-</ul>
-</li>
-<li><strong>质能关系</strong>：提出 ( E &#x3D; mc^2 )，揭示质量与能量的等价性。</li>
-</ul>
-<h4 id="3-适用范围"><a href="#3-适用范围" class="headerlink" title="3. 适用范围"></a><strong>3. 适用范围</strong></h4><ul>
-<li>仅适用于<strong>惯性参考系</strong>（无加速度、无引力的场景）。  </li>
-<li>解释高速运动（接近光速）下的物理现象，如粒子加速器中的实验。</li>
-</ul>
-<hr>
-<h3 id="二、广义相对论（1915年）"><a href="#二、广义相对论（1915年）" class="headerlink" title="二、广义相对论（1915年）"></a><strong>二、广义相对论（1915年）</strong></h3><h4 id="1-理论框架-1"><a href="#1-理论框架-1" class="headerlink" title="1. 理论框架"></a><strong>1. 理论框架</strong></h4><ul>
-<li><strong>基本假设</strong>：  <ul>
-<li><strong>等效原理</strong>：局部惯性系中引力效应与加速度效应不可区分。  </li>
-<li><strong>广义协变原理</strong>：物理定律在所有参考系（包括非惯性系）中形式不变。</li>
-</ul>
-</li>
-<li><strong>数学工具</strong>：黎曼几何（弯曲时空描述引力）。</li>
-</ul>
-<h4 id="2-核心内容-1"><a href="#2-核心内容-1" class="headerlink" title="2. 核心内容"></a><strong>2. 核心内容</strong></h4><ul>
-<li><strong>引力即时空弯曲</strong>：  <ul>
-<li>物质和能量决定时空的弯曲（爱因斯坦场方程：( G_{\mu\nu} &#x3D; 8\pi T_{\mu\nu} )）。  </li>
-<li>物体在弯曲时空中沿测地线运动（自由落体是惯性运动）。</li>
-</ul>
-</li>
-<li><strong>引力效应</strong>：  <ul>
-<li>引力时间膨胀（强引力场中时间流逝更慢）。  </li>
-<li>光线偏折、引力透镜、黑洞等预言。</li>
-</ul>
-</li>
-</ul>
-<h4 id="3-适用范围-1"><a href="#3-适用范围-1" class="headerlink" title="3. 适用范围"></a><strong>3. 适用范围</strong></h4><ul>
-<li>适用于<strong>所有参考系</strong>（包括加速和引力场存在的场景）。  </li>
-<li>解释宇宙学现象（如宇宙膨胀）、强引力场系统（中子星、黑洞）等。</li>
-</ul>
-<hr>
-<h3 id="三、核心区别总结"><a href="#三、核心区别总结" class="headerlink" title="三、核心区别总结"></a><strong>三、核心区别总结</strong></h3><table>
-<thead>
-<tr>
-<th><strong>维度</strong></th>
-<th><strong>狭义相对论</strong></th>
-<th><strong>广义相对论</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>参考系</strong></td>
-<td>仅惯性系</td>
-<td>所有参考系（含非惯性系）</td>
-</tr>
-<tr>
-<td><strong>引力处理</strong></td>
-<td>忽略引力</td>
-<td>将引力归因于时空弯曲</td>
-</tr>
-<tr>
-<td><strong>数学工具</strong></td>
-<td>平直时空（闵可夫斯基几何）</td>
-<td>弯曲时空（黎曼几何）</td>
-</tr>
-<tr>
-<td><strong>物理现象</strong></td>
-<td>高速运动效应（如时间膨胀）</td>
-<td>引力效应（如黑洞、引力波）</td>
-</tr>
-<tr>
-<td><strong>应用场景</strong></td>
-<td>粒子物理、电磁学</td>
-<td>宇宙学、天体物理、GPS修正</td>
-</tr>
-</tbody></table>
-<hr>
-<h3 id="四、侧重点差异"><a href="#四、侧重点差异" class="headerlink" title="四、侧重点差异"></a><strong>四、侧重点差异</strong></h3><ol>
-<li><p><strong>狭义相对论</strong>：  </p>
-<ul>
-<li>聚焦<strong>时空的对称性</strong>，强调不同惯性系观测结果的统一性。  </li>
-<li>解决电磁学与经典力学的矛盾（如光速不变性）。</li>
-</ul>
-</li>
-<li><p><strong>广义相对论</strong>：  </p>
-<ul>
-<li>揭示<strong>引力本质</strong>，将引力几何化，统一时空与物质的关系。  </li>
-<li>为宇宙大尺度结构（如暗能量、黑洞）提供理论框架。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="五、经典案例对比"><a href="#五、经典案例对比" class="headerlink" title="五、经典案例对比"></a><strong>五、经典案例对比</strong></h3><ul>
-<li><strong>双生子佯谬</strong>（狭义相对论）：<br>宇航员高速旅行返回后比地球上的兄弟年轻，需用惯性系切换（加速度）解释。  </li>
-<li><strong>GPS修正</strong>（广义相对论）：<br>卫星因高速运动（狭义相对论时间膨胀）和地球引力（广义相对论时间膨胀）导致时钟偏差，需联合两种理论修正。</li>
-</ul>
-<hr>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>狭义相对论是<strong>时空理论的基础</strong>，广义相对论是<strong>引力与宇宙的终极描述</strong>。二者共同构建了现代物理学的支柱，但前者是后者的特例（当引力可忽略时，广义相对论退化为狭义相对论）。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>开漏输出与推挽输出</title>
     <url>/posts/20250227182156.html</url>
     <content><![CDATA[<p>在STM32或其他微控制器中，<strong>开漏输出</strong>（Open-Drain Output）和<strong>推挽输出</strong>（Push-Pull Output）是两种常见的GPIO输出模式，它们的核心区别在于<strong>电路结构</strong>和<strong>电平驱动方式</strong>。以下是详细解释和对比：</p>
@@ -9729,6 +9610,230 @@ G --&gt; H[通胀缓解]</pre>
       <tags>
         <tag>STM32</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>看门狗的简单理解</title>
+    <url>/posts/20250227182834.html</url>
+    <content><![CDATA[<p><strong>看门狗</strong>（Watchdog）是嵌入式系统中一种重要的<strong>硬件或软件机制</strong>，用于检测和恢复系统故障，确保系统在异常情况下能够自动恢复正常运行。它的工作原理类似于现实生活中的“看门狗”：如果主人（系统）长时间不“喂狗”（重置看门狗），看门狗就会认为系统出现故障，并采取行动（如复位系统）。</p>
+<hr>
+<h3 id="一、看门狗的作用"><a href="#一、看门狗的作用" class="headerlink" title="一、看门狗的作用"></a><strong>一、看门狗的作用</strong></h3><ol>
+<li><strong>故障检测</strong>：  <ul>
+<li>当系统由于软件错误、死循环或外部干扰导致“卡死”时，看门狗能够检测到这种异常状态。</li>
+</ul>
+</li>
+<li><strong>系统恢复</strong>：  <ul>
+<li>看门狗会在检测到故障后，自动复位系统，使其重新启动并恢复正常运行。</li>
+</ul>
+</li>
+<li><strong>提高可靠性</strong>：  <ul>
+<li>在工业控制、汽车电子、医疗设备等对可靠性要求高的场景中，看门狗是必不可少的。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="二、看门狗的工作原理"><a href="#二、看门狗的工作原理" class="headerlink" title="二、看门狗的工作原理"></a><strong>二、看门狗的工作原理</strong></h3><ol>
+<li><strong>计数器机制</strong>：  <ul>
+<li>看门狗内部有一个计数器，系统需要定期“喂狗”（即重置计数器）。</li>
+<li>如果系统正常，计数器会被定期清零，不会触发复位。</li>
+<li>如果系统异常（如卡死），计数器会溢出，触发复位操作。</li>
+</ul>
+</li>
+<li><strong>复位操作</strong>：  <ul>
+<li>当计数器溢出时，看门狗会强制复位整个系统，类似于按下重启按钮。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="三、看门狗的类型"><a href="#三、看门狗的类型" class="headerlink" title="三、看门狗的类型"></a><strong>三、看门狗的类型</strong></h3><ol>
+<li><p><strong>独立看门狗（IWDG, Independent Watchdog）</strong>  </p>
+<ul>
+<li><strong>特点</strong>：  <ul>
+<li>完全由硬件实现，独立于系统时钟。  </li>
+<li>即使系统时钟失效，也能正常工作。</li>
+</ul>
+</li>
+<li><strong>应用场景</strong>：  <ul>
+<li>对可靠性要求极高的场景（如汽车电子、工业控制）。</li>
+</ul>
+</li>
+<li><strong>配置</strong>：  <ul>
+<li>通过设置计数器的初始值和重载值来调整超时时间。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>窗口看门狗（WWDG, Window Watchdog）</strong>  </p>
+<ul>
+<li><strong>特点</strong>：  <ul>
+<li>需要在一个特定的“时间窗口”内喂狗，过早或过晚喂狗都会触发复位。  </li>
+<li>提供更严格的监控机制。</li>
+</ul>
+</li>
+<li><strong>应用场景</strong>：  <ul>
+<li>对系统响应时间要求严格的场景（如实时控制系统）。</li>
+</ul>
+</li>
+<li><strong>配置</strong>：  <ul>
+<li>设置窗口的上限和下限时间。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="四、看门狗的配置（以STM32为例）"><a href="#四、看门狗的配置（以STM32为例）" class="headerlink" title="四、看门狗的配置（以STM32为例）"></a><strong>四、看门狗的配置（以STM32为例）</strong></h3><h4 id="1-独立看门狗（IWDG）配置"><a href="#1-独立看门狗（IWDG）配置" class="headerlink" title="1. 独立看门狗（IWDG）配置"></a><strong>1. 独立看门狗（IWDG）配置</strong></h4><div class="code-container" data-rel="C"><figure class="iseeu highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&quot;stm32f1xx_hal.h&quot;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">void</span> <span class="title function_">IWDG_Init</span><span class="params">(<span class="type">void</span>)</span> &#123;</span><br><span class="line">  <span class="comment">// 启用独立看门狗</span></span><br><span class="line">  __HAL_RCC_WWDG_CLK_ENABLE();</span><br><span class="line"></span><br><span class="line">  <span class="comment">// 设置看门狗超时时间</span></span><br><span class="line">  IWDG-&gt;KR = <span class="number">0xCCCC</span>;  <span class="comment">// 启动看门狗</span></span><br><span class="line">  IWDG-&gt;KR = <span class="number">0x5555</span>;  <span class="comment">// 允许写寄存器</span></span><br><span class="line">  IWDG-&gt;PR = <span class="number">0x06</span>;    <span class="comment">// 预分频器（设置计数频率）</span></span><br><span class="line">  IWDG-&gt;RLR = <span class="number">0xFFF</span>;  <span class="comment">// 重载值（设置超时时间）</span></span><br><span class="line">  IWDG-&gt;KR = <span class="number">0xAAAA</span>;  <span class="comment">// 喂狗（重置计数器）</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="type">void</span> <span class="title function_">IWDG_Feed</span><span class="params">(<span class="type">void</span>)</span> &#123;</span><br><span class="line">  IWDG-&gt;KR = <span class="number">0xAAAA</span>;  <span class="comment">// 喂狗</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="2-窗口看门狗（WWDG）配置"><a href="#2-窗口看门狗（WWDG）配置" class="headerlink" title="2. 窗口看门狗（WWDG）配置"></a><strong>2. 窗口看门狗（WWDG）配置</strong></h4><div class="code-container" data-rel="C"><figure class="iseeu highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&quot;stm32f1xx_hal.h&quot;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">void</span> <span class="title function_">WWDG_Init</span><span class="params">(<span class="type">void</span>)</span> &#123;</span><br><span class="line">  <span class="comment">// 启用窗口看门狗</span></span><br><span class="line">  __HAL_RCC_WWDG_CLK_ENABLE();</span><br><span class="line"></span><br><span class="line">  <span class="comment">// 设置窗口看门狗参数</span></span><br><span class="line">  WWDG-&gt;CFR = <span class="number">0x7F</span>;  <span class="comment">// 设置窗口上限</span></span><br><span class="line">  WWDG-&gt;CR = <span class="number">0xFF</span>;   <span class="comment">// 设置计数器初始值</span></span><br><span class="line">  WWDG-&gt;CR |= WWDG_CR_WDGA;  <span class="comment">// 启用看门狗</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="type">void</span> <span class="title function_">WWDG_Feed</span><span class="params">(<span class="type">void</span>)</span> &#123;</span><br><span class="line">  WWDG-&gt;CR = <span class="number">0xFF</span>;  <span class="comment">// 喂狗</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></div>
+
+<hr>
+<h3 id="五、看门狗的使用场景"><a href="#五、看门狗的使用场景" class="headerlink" title="五、看门狗的使用场景"></a><strong>五、看门狗的使用场景</strong></h3><ol>
+<li><strong>工业控制</strong>：  <ul>
+<li>在PLC（可编程逻辑控制器）中，看门狗用于检测系统故障并自动复位。</li>
+</ul>
+</li>
+<li><strong>汽车电子</strong>：  <ul>
+<li>在汽车电子控制单元（ECU）中，看门狗确保系统在异常情况下能够恢复。</li>
+</ul>
+</li>
+<li><strong>医疗设备</strong>：  <ul>
+<li>在医疗设备中，看门狗提高系统的可靠性和安全性。</li>
+</ul>
+</li>
+<li><strong>消费电子</strong>：  <ul>
+<li>在智能家居、智能穿戴设备中，看门狗防止系统卡死。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="六、注意事项"><a href="#六、注意事项" class="headerlink" title="六、注意事项"></a><strong>六、注意事项</strong></h3><ol>
+<li><strong>喂狗时间</strong>：  <ul>
+<li>喂狗时间必须小于看门狗的超时时间，否则会触发复位。</li>
+</ul>
+</li>
+<li><strong>调试模式</strong>：  <ul>
+<li>在调试模式下，看门狗可能会影响调试过程，需根据需求禁用或调整。</li>
+</ul>
+</li>
+<li><strong>系统设计</strong>：  <ul>
+<li>在设计系统时，确保看门狗的复位不会导致数据丢失或设备损坏。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>看门狗是嵌入式系统中的“守护者”，能够检测系统故障并自动恢复，显著提高系统的可靠性和稳定性。根据具体需求，可以选择独立看门狗或窗口看门狗，并合理配置其超时时间和喂狗机制。</p>
+]]></content>
+      <tags>
+        <tag>STM32</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>广义相对论和狭义相对论的基本了解</title>
+    <url>/posts/20250227170858.html</url>
+    <content><![CDATA[<p>广义相对论和狭义相对论是爱因斯坦提出的两大物理学理论，二者在<strong>理论基础</strong>、<strong>适用范围</strong>和<strong>物理内涵</strong>上存在显著差异。以下是它们的核心区别和侧重点分析：</p>
+<hr>
+<h3 id="一、狭义相对论（1905年）"><a href="#一、狭义相对论（1905年）" class="headerlink" title="一、狭义相对论（1905年）"></a><strong>一、狭义相对论（1905年）</strong></h3><h4 id="1-理论框架"><a href="#1-理论框架" class="headerlink" title="1. 理论框架"></a><strong>1. 理论框架</strong></h4><ul>
+<li><strong>基本假设</strong>：  <ul>
+<li><strong>相对性原理</strong>：物理定律在所有惯性参考系中形式不变。  </li>
+<li><strong>光速不变原理</strong>：真空中的光速对所有惯性系观测者都是恒定值（约3×10⁸ m&#x2F;s）。</li>
+</ul>
+</li>
+<li><strong>数学工具</strong>：闵可夫斯基时空（平直时空几何）。</li>
+</ul>
+<h4 id="2-核心内容"><a href="#2-核心内容" class="headerlink" title="2. 核心内容"></a><strong>2. 核心内容</strong></h4><ul>
+<li><strong>时空相对性</strong>：  <ul>
+<li>时间膨胀（运动的钟变慢）、长度收缩（运动的尺缩短）。  </li>
+<li>同时性的相对性（不同参考系对事件是否“同时发生”的判定不同）。</li>
+</ul>
+</li>
+<li><strong>质能关系</strong>：提出 ( E &#x3D; mc^2 )，揭示质量与能量的等价性。</li>
+</ul>
+<h4 id="3-适用范围"><a href="#3-适用范围" class="headerlink" title="3. 适用范围"></a><strong>3. 适用范围</strong></h4><ul>
+<li>仅适用于<strong>惯性参考系</strong>（无加速度、无引力的场景）。  </li>
+<li>解释高速运动（接近光速）下的物理现象，如粒子加速器中的实验。</li>
+</ul>
+<hr>
+<h3 id="二、广义相对论（1915年）"><a href="#二、广义相对论（1915年）" class="headerlink" title="二、广义相对论（1915年）"></a><strong>二、广义相对论（1915年）</strong></h3><h4 id="1-理论框架-1"><a href="#1-理论框架-1" class="headerlink" title="1. 理论框架"></a><strong>1. 理论框架</strong></h4><ul>
+<li><strong>基本假设</strong>：  <ul>
+<li><strong>等效原理</strong>：局部惯性系中引力效应与加速度效应不可区分。  </li>
+<li><strong>广义协变原理</strong>：物理定律在所有参考系（包括非惯性系）中形式不变。</li>
+</ul>
+</li>
+<li><strong>数学工具</strong>：黎曼几何（弯曲时空描述引力）。</li>
+</ul>
+<h4 id="2-核心内容-1"><a href="#2-核心内容-1" class="headerlink" title="2. 核心内容"></a><strong>2. 核心内容</strong></h4><ul>
+<li><strong>引力即时空弯曲</strong>：  <ul>
+<li>物质和能量决定时空的弯曲（爱因斯坦场方程：( G_{\mu\nu} &#x3D; 8\pi T_{\mu\nu} )）。  </li>
+<li>物体在弯曲时空中沿测地线运动（自由落体是惯性运动）。</li>
+</ul>
+</li>
+<li><strong>引力效应</strong>：  <ul>
+<li>引力时间膨胀（强引力场中时间流逝更慢）。  </li>
+<li>光线偏折、引力透镜、黑洞等预言。</li>
+</ul>
+</li>
+</ul>
+<h4 id="3-适用范围-1"><a href="#3-适用范围-1" class="headerlink" title="3. 适用范围"></a><strong>3. 适用范围</strong></h4><ul>
+<li>适用于<strong>所有参考系</strong>（包括加速和引力场存在的场景）。  </li>
+<li>解释宇宙学现象（如宇宙膨胀）、强引力场系统（中子星、黑洞）等。</li>
+</ul>
+<hr>
+<h3 id="三、核心区别总结"><a href="#三、核心区别总结" class="headerlink" title="三、核心区别总结"></a><strong>三、核心区别总结</strong></h3><table>
+<thead>
+<tr>
+<th><strong>维度</strong></th>
+<th><strong>狭义相对论</strong></th>
+<th><strong>广义相对论</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>参考系</strong></td>
+<td>仅惯性系</td>
+<td>所有参考系（含非惯性系）</td>
+</tr>
+<tr>
+<td><strong>引力处理</strong></td>
+<td>忽略引力</td>
+<td>将引力归因于时空弯曲</td>
+</tr>
+<tr>
+<td><strong>数学工具</strong></td>
+<td>平直时空（闵可夫斯基几何）</td>
+<td>弯曲时空（黎曼几何）</td>
+</tr>
+<tr>
+<td><strong>物理现象</strong></td>
+<td>高速运动效应（如时间膨胀）</td>
+<td>引力效应（如黑洞、引力波）</td>
+</tr>
+<tr>
+<td><strong>应用场景</strong></td>
+<td>粒子物理、电磁学</td>
+<td>宇宙学、天体物理、GPS修正</td>
+</tr>
+</tbody></table>
+<hr>
+<h3 id="四、侧重点差异"><a href="#四、侧重点差异" class="headerlink" title="四、侧重点差异"></a><strong>四、侧重点差异</strong></h3><ol>
+<li><p><strong>狭义相对论</strong>：  </p>
+<ul>
+<li>聚焦<strong>时空的对称性</strong>，强调不同惯性系观测结果的统一性。  </li>
+<li>解决电磁学与经典力学的矛盾（如光速不变性）。</li>
+</ul>
+</li>
+<li><p><strong>广义相对论</strong>：  </p>
+<ul>
+<li>揭示<strong>引力本质</strong>，将引力几何化，统一时空与物质的关系。  </li>
+<li>为宇宙大尺度结构（如暗能量、黑洞）提供理论框架。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="五、经典案例对比"><a href="#五、经典案例对比" class="headerlink" title="五、经典案例对比"></a><strong>五、经典案例对比</strong></h3><ul>
+<li><strong>双生子佯谬</strong>（狭义相对论）：<br>宇航员高速旅行返回后比地球上的兄弟年轻，需用惯性系切换（加速度）解释。  </li>
+<li><strong>GPS修正</strong>（广义相对论）：<br>卫星因高速运动（狭义相对论时间膨胀）和地球引力（广义相对论时间膨胀）导致时钟偏差，需联合两种理论修正。</li>
+</ul>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>狭义相对论是<strong>时空理论的基础</strong>，广义相对论是<strong>引力与宇宙的终极描述</strong>。二者共同构建了现代物理学的支柱，但前者是后者的特例（当引力可忽略时，广义相对论退化为狭义相对论）。</p>
+]]></content>
   </entry>
   <entry>
     <title>强人工智能</title>
@@ -9959,118 +10064,94 @@ G --&gt; H[通胀缓解]</pre>
       </tags>
   </entry>
   <entry>
-    <title>看门狗的简单理解</title>
-    <url>/posts/20250227182834.html</url>
-    <content><![CDATA[<p><strong>看门狗</strong>（Watchdog）是嵌入式系统中一种重要的<strong>硬件或软件机制</strong>，用于检测和恢复系统故障，确保系统在异常情况下能够自动恢复正常运行。它的工作原理类似于现实生活中的“看门狗”：如果主人（系统）长时间不“喂狗”（重置看门狗），看门狗就会认为系统出现故障，并采取行动（如复位系统）。</p>
+    <title>在人类的谩骂下，罗辑努力的意义</title>
+    <url>/posts/20250228080931.html</url>
+    <content><![CDATA[<p>从《三体》的叙事逻辑和价值观来看，罗辑的努力<strong>值得</strong>，但这一“值得”并非基于世俗的认可或个体的幸福，而是建立在他对人类文明存续的理性选择与牺牲精神之上。以下从几个角度分析：</p>
 <hr>
-<h3 id="一、看门狗的作用"><a href="#一、看门狗的作用" class="headerlink" title="一、看门狗的作用"></a><strong>一、看门狗的作用</strong></h3><ol>
-<li><strong>故障检测</strong>：  <ul>
-<li>当系统由于软件错误、死循环或外部干扰导致“卡死”时，看门狗能够检测到这种异常状态。</li>
+<h3 id="1-结果的必然性：人类需要“执剑人”"><a href="#1-结果的必然性：人类需要“执剑人”" class="headerlink" title="1. 结果的必然性：人类需要“执剑人”"></a>1. <strong>结果的必然性：人类需要“执剑人”</strong></h3><ul>
+<li>罗辑是唯一真正理解“黑暗森林法则”并愿意承担其后果的人。他建立的威慑系统为人类争取了<strong>62年和平</strong>，使文明得以发展出星际舰队、太空城等技术。尽管人类最终因短视和傲慢抛弃了他，但这段“喘息期”本身已是不可替代的贡献。</li>
+<li>对比程心的“人性化选择”（放弃威慑），罗辑的冷酷理性更符合宇宙生存法则。他的努力揭示了文明存续的残酷逻辑：<strong>生存需要代价，而代价往往由少数清醒者背负</strong>。</li>
 </ul>
-</li>
-<li><strong>系统恢复</strong>：  <ul>
-<li>看门狗会在检测到故障后，自动复位系统，使其重新启动并恢复正常运行。</li>
+<hr>
+<h3 id="2-人性的困境：英雄注定孤独"><a href="#2-人性的困境：英雄注定孤独" class="headerlink" title="2. 人性的困境：英雄注定孤独"></a>2. <strong>人性的困境：英雄注定孤独</strong></h3><ul>
+<li>罗辑被怀疑、污蔑和谩骂，本质上是人类群体对“真相”的逃避。大众渴望英雄拯救自己，却拒绝接受英雄必须做出的道德悖论（例如以毁灭两个文明为筹码）。<a href="/posts/20250228082825">这种矛盾在历史中反复上演</a>（如苏格拉底、伽利略的遭遇），刘慈欣借此讽刺了<strong>集体非理性</strong>。</li>
+<li>罗辑的悲剧性在于，他从未被真正理解：前期被当作“浪荡子”，后期被当作“独裁者”。但他的价值恰恰在于超越个人荣辱，以绝对理性完成使命。这种“工具性”的牺牲，是文明存续的隐喻。</li>
 </ul>
-</li>
-<li><strong>提高可靠性</strong>：  <ul>
-<li>在工业控制、汽车电子、医疗设备等对可靠性要求高的场景中，看门狗是必不可少的。</li>
+<hr>
+<h3 id="3-哲学意义：黑暗森林中的“意义”重构"><a href="#3-哲学意义：黑暗森林中的“意义”重构" class="headerlink" title="3. 哲学意义：黑暗森林中的“意义”重构"></a>3. <strong>哲学意义：黑暗森林中的“意义”重构</strong></h3><ul>
+<li>在《三体》的宇宙观中，传统道德和情感被降维为“幼稚”。罗辑的努力是否“值得”，需跳出人类中心主义的评价体系。他的行动本质上是<strong>宇宙社会学规律的实践</strong>——用最冷酷的手段保护文明火种。</li>
+<li>即使人类最终失败，罗辑的“努力”依然验证了黑暗森林理论的正确性。他的存在本身成为文明对抗宇宙的象征：<strong>明知不可为而为之，是智慧生命的尊严</strong>。</li>
 </ul>
-</li>
+<hr>
+<h3 id="4-文学价值：反英雄的崇高性"><a href="#4-文学价值：反英雄的崇高性" class="headerlink" title="4. 文学价值：反英雄的崇高性"></a>4. <strong>文学价值：反英雄的崇高性</strong></h3><ul>
+<li>罗辑不是一个传统意义上的“完美英雄”，他自私、颓废，却在责任面前展现出惊人的意志力。这种复杂性使他更贴近真实人性。他的“不值得”恰恰凸显了文明的荒诞，而他的“坚持”则成为对荒诞的反抗。</li>
+<li>刘慈欣通过罗辑表达了一个核心思想：<strong>在终极危机面前，个体的价值判断需让位于文明的存续逻辑</strong>。即使被误解，罗辑仍是“必要之恶”的化身。</li>
+</ul>
+<hr>
+<h3 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h3><p>罗辑的“值得”不在于人类的感激，而在于他以一己之力为文明争取了可能性。他的故事揭示了两个真理：</p>
+<ol>
+<li><strong>文明的进步需要清醒者承担骂名</strong>；</li>
+<li><strong>生存本身即意义，其他评价皆为虚妄</strong>。</li>
 </ol>
-<hr>
-<h3 id="二、看门狗的工作原理"><a href="#二、看门狗的工作原理" class="headerlink" title="二、看门狗的工作原理"></a><strong>二、看门狗的工作原理</strong></h3><ol>
-<li><strong>计数器机制</strong>：  <ul>
-<li>看门狗内部有一个计数器，系统需要定期“喂狗”（即重置计数器）。</li>
-<li>如果系统正常，计数器会被定期清零，不会触发复位。</li>
-<li>如果系统异常（如卡死），计数器会溢出，触发复位操作。</li>
-</ul>
-</li>
-<li><strong>复位操作</strong>：  <ul>
-<li>当计数器溢出时，看门狗会强制复位整个系统，类似于按下重启按钮。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="三、看门狗的类型"><a href="#三、看门狗的类型" class="headerlink" title="三、看门狗的类型"></a><strong>三、看门狗的类型</strong></h3><ol>
-<li><p><strong>独立看门狗（IWDG, Independent Watchdog）</strong>  </p>
-<ul>
-<li><strong>特点</strong>：  <ul>
-<li>完全由硬件实现，独立于系统时钟。  </li>
-<li>即使系统时钟失效，也能正常工作。</li>
-</ul>
-</li>
-<li><strong>应用场景</strong>：  <ul>
-<li>对可靠性要求极高的场景（如汽车电子、工业控制）。</li>
-</ul>
-</li>
-<li><strong>配置</strong>：  <ul>
-<li>通过设置计数器的初始值和重载值来调整超时时间。</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p><strong>窗口看门狗（WWDG, Window Watchdog）</strong>  </p>
-<ul>
-<li><strong>特点</strong>：  <ul>
-<li>需要在一个特定的“时间窗口”内喂狗，过早或过晚喂狗都会触发复位。  </li>
-<li>提供更严格的监控机制。</li>
-</ul>
-</li>
-<li><strong>应用场景</strong>：  <ul>
-<li>对系统响应时间要求严格的场景（如实时控制系统）。</li>
-</ul>
-</li>
-<li><strong>配置</strong>：  <ul>
-<li>设置窗口的上限和下限时间。</li>
-</ul>
-</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="四、看门狗的配置（以STM32为例）"><a href="#四、看门狗的配置（以STM32为例）" class="headerlink" title="四、看门狗的配置（以STM32为例）"></a><strong>四、看门狗的配置（以STM32为例）</strong></h3><h4 id="1-独立看门狗（IWDG）配置"><a href="#1-独立看门狗（IWDG）配置" class="headerlink" title="1. 独立看门狗（IWDG）配置"></a><strong>1. 独立看门狗（IWDG）配置</strong></h4><div class="code-container" data-rel="C"><figure class="iseeu highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&quot;stm32f1xx_hal.h&quot;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">void</span> <span class="title function_">IWDG_Init</span><span class="params">(<span class="type">void</span>)</span> &#123;</span><br><span class="line">  <span class="comment">// 启用独立看门狗</span></span><br><span class="line">  __HAL_RCC_WWDG_CLK_ENABLE();</span><br><span class="line"></span><br><span class="line">  <span class="comment">// 设置看门狗超时时间</span></span><br><span class="line">  IWDG-&gt;KR = <span class="number">0xCCCC</span>;  <span class="comment">// 启动看门狗</span></span><br><span class="line">  IWDG-&gt;KR = <span class="number">0x5555</span>;  <span class="comment">// 允许写寄存器</span></span><br><span class="line">  IWDG-&gt;PR = <span class="number">0x06</span>;    <span class="comment">// 预分频器（设置计数频率）</span></span><br><span class="line">  IWDG-&gt;RLR = <span class="number">0xFFF</span>;  <span class="comment">// 重载值（设置超时时间）</span></span><br><span class="line">  IWDG-&gt;KR = <span class="number">0xAAAA</span>;  <span class="comment">// 喂狗（重置计数器）</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="type">void</span> <span class="title function_">IWDG_Feed</span><span class="params">(<span class="type">void</span>)</span> &#123;</span><br><span class="line">  IWDG-&gt;KR = <span class="number">0xAAAA</span>;  <span class="comment">// 喂狗</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></div>
-
-<h4 id="2-窗口看门狗（WWDG）配置"><a href="#2-窗口看门狗（WWDG）配置" class="headerlink" title="2. 窗口看门狗（WWDG）配置"></a><strong>2. 窗口看门狗（WWDG）配置</strong></h4><div class="code-container" data-rel="C"><figure class="iseeu highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&quot;stm32f1xx_hal.h&quot;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">void</span> <span class="title function_">WWDG_Init</span><span class="params">(<span class="type">void</span>)</span> &#123;</span><br><span class="line">  <span class="comment">// 启用窗口看门狗</span></span><br><span class="line">  __HAL_RCC_WWDG_CLK_ENABLE();</span><br><span class="line"></span><br><span class="line">  <span class="comment">// 设置窗口看门狗参数</span></span><br><span class="line">  WWDG-&gt;CFR = <span class="number">0x7F</span>;  <span class="comment">// 设置窗口上限</span></span><br><span class="line">  WWDG-&gt;CR = <span class="number">0xFF</span>;   <span class="comment">// 设置计数器初始值</span></span><br><span class="line">  WWDG-&gt;CR |= WWDG_CR_WDGA;  <span class="comment">// 启用看门狗</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="type">void</span> <span class="title function_">WWDG_Feed</span><span class="params">(<span class="type">void</span>)</span> &#123;</span><br><span class="line">  WWDG-&gt;CR = <span class="number">0xFF</span>;  <span class="comment">// 喂狗</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></div>
-
-<hr>
-<h3 id="五、看门狗的使用场景"><a href="#五、看门狗的使用场景" class="headerlink" title="五、看门狗的使用场景"></a><strong>五、看门狗的使用场景</strong></h3><ol>
-<li><strong>工业控制</strong>：  <ul>
-<li>在PLC（可编程逻辑控制器）中，看门狗用于检测系统故障并自动复位。</li>
-</ul>
-</li>
-<li><strong>汽车电子</strong>：  <ul>
-<li>在汽车电子控制单元（ECU）中，看门狗确保系统在异常情况下能够恢复。</li>
-</ul>
-</li>
-<li><strong>医疗设备</strong>：  <ul>
-<li>在医疗设备中，看门狗提高系统的可靠性和安全性。</li>
-</ul>
-</li>
-<li><strong>消费电子</strong>：  <ul>
-<li>在智能家居、智能穿戴设备中，看门狗防止系统卡死。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="六、注意事项"><a href="#六、注意事项" class="headerlink" title="六、注意事项"></a><strong>六、注意事项</strong></h3><ol>
-<li><strong>喂狗时间</strong>：  <ul>
-<li>喂狗时间必须小于看门狗的超时时间，否则会触发复位。</li>
-</ul>
-</li>
-<li><strong>调试模式</strong>：  <ul>
-<li>在调试模式下，看门狗可能会影响调试过程，需根据需求禁用或调整。</li>
-</ul>
-</li>
-<li><strong>系统设计</strong>：  <ul>
-<li>在设计系统时，确保看门狗的复位不会导致数据丢失或设备损坏。</li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h3><p>看门狗是嵌入式系统中的“守护者”，能够检测系统故障并自动恢复，显著提高系统的可靠性和稳定性。根据具体需求，可以选择独立看门狗或窗口看门狗，并合理配置其超时时间和喂狗机制。</p>
+<p>正如小说中罗辑在雪地中举枪对准自己的心脏时所说：“我对三体世界说话。” 这一刻，他超越了个人命运，成为文明与宇宙对抗的符号。这种超越性，正是他所有努力的终极价值。</p>
 ]]></content>
       <tags>
-        <tag>STM32</tag>
+        <tag>三体</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>对于人类历史上反复出现的“先驱者被群体排斥”的理解</title>
+    <url>/posts/20250228082825.html</url>
+    <content><![CDATA[<p>苏格拉底和伽利略的遭遇，正是人类历史上反复出现的“先驱者被群体排斥”的典型案例。这种矛盾的核心在于：<strong>当个体的理性与群体的惯性认知冲突时，群体往往会通过压制个体来维护表面稳定</strong>。以下结合具体历史背景和《三体》中的隐喻展开分析：</p>
+<hr>
+<h3 id="1-苏格拉底：质疑“共识”的代价"><a href="#1-苏格拉底：质疑“共识”的代价" class="headerlink" title="1. 苏格拉底：质疑“共识”的代价"></a><strong>1. 苏格拉底：质疑“共识”的代价</strong></h3><ul>
+<li><strong>背景</strong>：公元前5世纪的雅典号称“民主摇篮”，但苏格拉底却因“腐蚀青年”和“不敬神明”被判处死刑。他真正的“罪行”是<strong>用追问揭露大众的无知</strong>。<ul>
+<li>他质问：“什么是正义？”“勇敢是否等于无知？”——这些问题动摇了雅典人对传统价值观的盲目自信。</li>
+<li>陪审团由501名普通市民组成，多数人因被戳破认知局限而愤怒，最终投票处死他。</li>
+</ul>
+</li>
+<li><strong>与罗辑的共性</strong>：<ul>
+<li><strong>挑战群体认知</strong>：苏格拉底质疑“民主即正确”，罗辑揭示“宇宙生存法则”；两者都打破了群体对“安全”的幻觉。</li>
+<li><strong>被污名化</strong>：苏格拉底被称作“诡辩家”，罗辑被骂“独裁者”“反人类”——群体通过标签化消解其思想价值。</li>
+<li><strong>牺牲的意义</strong>：苏格拉底之死成为哲学觉醒的起点，罗辑的孤独则让人类短暂触碰宇宙真相。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="2-伽利略：科学与权威的对抗"><a href="#2-伽利略：科学与权威的对抗" class="headerlink" title="2. 伽利略：科学与权威的对抗"></a><strong>2. 伽利略：科学与权威的对抗</strong></h3><ul>
+<li><strong>背景</strong>：17世纪初，伽利略通过望远镜观测证实“日心说”，但教会为维护《圣经》权威（“地球是宇宙中心”），逼迫他公开认罪。<ul>
+<li>教会的逻辑是：<strong>“稳定信仰”比“真相”更重要</strong>。即使证据确凿，伽利略仍被判处终身软禁。</li>
+<li>据传他被迫认罪后低声说：“Eppur si muove（但它确实在转动）”，暗指真理无法被权力掩盖。</li>
+</ul>
+</li>
+<li><strong>与罗辑的共性</strong>：<ul>
+<li><strong>理性与权力的冲突</strong>：伽利略的科学理性威胁教会权威，罗辑的“执剑人”角色威胁人类对“道德纯洁性”的自我感动。</li>
+<li><strong>群体的短视</strong>：当时民众大多支持教会，认为伽利略是“异端”；《三体》中人类也认为罗辑的威慑是“野蛮手段”。</li>
+<li><strong>迟到的平反</strong>：伽利略死后359年，教会才正式道歉；罗辑的价值直到人类几乎灭绝时才被部分人理解。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="3-历史规律：为何矛盾反复上演？"><a href="#3-历史规律：为何矛盾反复上演？" class="headerlink" title="3. 历史规律：为何矛盾反复上演？"></a><strong>3. 历史规律：为何矛盾反复上演？</strong></h3><p>  刘慈欣在《三体》中通过罗辑的命运，隐喻了人类文明的深层困境：</p>
+<ul>
+<li><strong>认知惰性</strong>：群体更倾向于接受简单、稳定的叙事（例如“宇宙充满善意”“人性本善”），而非残酷真相。</li>
+<li><strong>道德绑架</strong>：苏格拉底被要求“服从多数”，伽利略被要求“维护信仰”，罗辑被要求“做个好人”——<strong>群体用道德口号掩盖自身懦弱</strong>。</li>
+<li><strong>恐惧投射</strong>：先驱者的清醒让大众意识到自己的无知与脆弱，因此群体通过攻击先驱者转移恐惧（心理学称为“替罪羊机制”）。</li>
+</ul>
+<hr>
+<h3 id="4-《三体》的终极拷问：文明需要“代价”"><a href="#4-《三体》的终极拷问：文明需要“代价”" class="headerlink" title="4. 《三体》的终极拷问：文明需要“代价”"></a><strong>4. 《三体》的终极拷问：文明需要“代价”</strong></h3><p>  罗辑、苏格拉底、伽利略的遭遇共同指向一个残酷结论：</p>
+<blockquote>
+<p><strong>文明的进步往往需要个体替群体支付代价，而群体从未真正学会感激。</strong></p>
+</blockquote>
+<ul>
+<li>苏格拉底用死亡唤醒理性思考，伽利略用屈辱推动科学革命，罗辑用骂名换取文明存续。</li>
+<li>他们的“值得”不在当下，而在未来：若无苏格拉底，哲学可能停滞；若无伽利略，科学或臣服神权；若无罗辑，人类早已灭绝于三体文明。</li>
+</ul>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>历史上的苏格拉底和伽利略，小说中的罗辑，本质上都是<strong>同一原型的重现</strong>：<br><strong>一个孤独的觉醒者，在群体蒙昧中点燃火种，最终被火灼伤。</strong><br>理解这种矛盾，便能理解刘慈欣的警示：若人类永远拒绝直面代价，文明终将死于自我感动。</p>
+]]></content>
+      <tags>
+        <tag>三体</tag>
       </tags>
   </entry>
   <entry>
@@ -10404,19 +10485,19 @@ G --&gt; H[通胀缓解]</pre>
       </tags>
   </entry>
   <entry>
-    <title>电脑空白图标解决方案</title>
-    <url>/posts/20250121141000.html</url>
-    <content><![CDATA[<p>新建txt文件，粘贴以下内容，更改后缀名为bat，双击运行</p>
-<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line"></span><br><span class="line">taskkill /f /im explorer.exe</span><br><span class="line"></span><br><span class="line">CD /d %userprofile%\AppData\Local</span><br><span class="line"></span><br><span class="line">DEL IconCache.db /a</span><br><span class="line"></span><br><span class="line">start explorer.exe</span><br><span class="line"></span><br><span class="line">cho 操作完成</span><br></pre></td></tr></table></figure></div>]]></content>
+    <title>一键推送脚本</title>
+    <url>/posts/20250121135500.html</url>
+    <content><![CDATA[<h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo $off$</span><br><span class="line">:: 切换到项目路径</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:: 检查管理员权限</span><br><span class="line">fltmc &gt;nul 2&gt;&amp;1 || (</span><br><span class="line">    echo 正在请求管理员权限...</span><br><span class="line">    powershell -Command &quot;Start-Process cmd -ArgumentList &#x27;/c \&quot;%~f0\&quot;&#x27; -Verb RunAs&quot;</span><br><span class="line">    exit /b</span><br><span class="line">)</span><br><span class="line"></span><br><span class="line">:menu</span><br><span class="line">cls</span><br><span class="line">echo.</span><br><span class="line">echo 请选择要执行的操作：</span><br><span class="line">echo.</span><br><span class="line">echo  [1] hexo clean</span><br><span class="line">echo  [2] hexo generate </span><br><span class="line">echo  [3] hexo server</span><br><span class="line">echo  [4] hexo deploy</span><br><span class="line">echo  [5] npm run server</span><br><span class="line">echo  [6] npm run deploy</span><br><span class="line">echo.</span><br><span class="line">echo  [0] 退出</span><br><span class="line">echo.</span><br><span class="line"></span><br><span class="line">choice /c 0123456 /n </span><br><span class="line">set /a choice=%errorlevel%-1</span><br><span class="line"></span><br><span class="line">if %choice% == 0 exit /b 0</span><br><span class="line"></span><br><span class="line">:: 添加变量清除逻辑</span><br><span class="line">set &quot;cmd=&quot;</span><br><span class="line"></span><br><span class="line">:: 使用延迟变量扩展</span><br><span class="line">setlocal enabledelayedexpansion</span><br><span class="line">set &quot;commands[1]=hexo clean&quot;</span><br><span class="line">set &quot;commands[2]=hexo generate&quot; </span><br><span class="line">set &quot;commands[3]=hexo server&quot;</span><br><span class="line">set &quot;commands[4]=hexo deploy&quot;</span><br><span class="line">set &quot;commands[5]=npm run server&quot;</span><br><span class="line">set &quot;commands[6]=npm run deploy&quot;</span><br><span class="line"></span><br><span class="line">:: 修正命令获取方式</span><br><span class="line">if %choice% geq 1 (</span><br><span class="line">    set cmd=!commands[%choice%]!</span><br><span class="line">    start cmd /c &quot;!cmd! &amp;&amp; pause&quot;</span><br><span class="line">)</span><br><span class="line">endlocal</span><br><span class="line"></span><br><span class="line">goto menu</span><br></pre></td></tr></table></figure></div>
+]]></content>
       <tags>
         <tag>code</tag>
       </tags>
   </entry>
   <entry>
-    <title>一键推送脚本</title>
-    <url>/posts/20250121135500.html</url>
-    <content><![CDATA[<h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line">:: 切换到项目路径</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:: 检查管理员权限</span><br><span class="line">fltmc &gt;nul 2&gt;&amp;1 || (</span><br><span class="line">    echo 正在请求管理员权限...</span><br><span class="line">    powershell -Command &quot;Start-Process cmd -ArgumentList &#x27;/c \&quot;%~f0\&quot;&#x27; -Verb RunAs&quot;</span><br><span class="line">    exit /b</span><br><span class="line">)</span><br><span class="line"></span><br><span class="line">:menu</span><br><span class="line">cls</span><br><span class="line">echo.</span><br><span class="line">echo 请选择要执行的操作：</span><br><span class="line">echo.</span><br><span class="line">echo  [1] hexo clean</span><br><span class="line">echo  [2] hexo generate </span><br><span class="line">echo  [3] hexo server</span><br><span class="line">echo  [4] hexo deploy</span><br><span class="line">echo  [5] npm run server</span><br><span class="line">echo  [6] npm run deploy</span><br><span class="line">echo.</span><br><span class="line">echo  [0] 退出</span><br><span class="line">echo.</span><br><span class="line"></span><br><span class="line">choice /c 0123456 /n </span><br><span class="line">set /a choice=%errorlevel%-1</span><br><span class="line"></span><br><span class="line">if %choice% == 0 exit /b 0</span><br><span class="line"></span><br><span class="line">:: 添加变量清除逻辑</span><br><span class="line">set &quot;cmd=&quot;</span><br><span class="line"></span><br><span class="line">:: 使用延迟变量扩展</span><br><span class="line">setlocal enabledelayedexpansion</span><br><span class="line">set &quot;commands[1]=hexo clean&quot;</span><br><span class="line">set &quot;commands[2]=hexo generate&quot; </span><br><span class="line">set &quot;commands[3]=hexo server&quot;</span><br><span class="line">set &quot;commands[4]=hexo deploy&quot;</span><br><span class="line">set &quot;commands[5]=npm run server&quot;</span><br><span class="line">set &quot;commands[6]=npm run deploy&quot;</span><br><span class="line"></span><br><span class="line">:: 修正命令获取方式</span><br><span class="line">if %choice% geq 1 (</span><br><span class="line">    set cmd=!commands[%choice%]!</span><br><span class="line">    start cmd /c &quot;!cmd! &amp;&amp; pause&quot;</span><br><span class="line">)</span><br><span class="line">endlocal</span><br><span class="line"></span><br><span class="line">goto menu</span><br></pre></td></tr></table></figure></div>
-]]></content>
+    <title>电脑空白图标解决方案</title>
+    <url>/posts/20250121141000.html</url>
+    <content><![CDATA[<p>新建txt文件，粘贴以下内容，更改后缀名为bat，双击运行</p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">@echo off</span><br><span class="line"></span><br><span class="line">taskkill /f /im explorer.exe</span><br><span class="line"></span><br><span class="line">CD /d %userprofile%\AppData\Local</span><br><span class="line"></span><br><span class="line">DEL IconCache.db /a</span><br><span class="line"></span><br><span class="line">start explorer.exe</span><br><span class="line"></span><br><span class="line">cho 操作完成</span><br></pre></td></tr></table></figure></div>]]></content>
       <tags>
         <tag>code</tag>
       </tags>

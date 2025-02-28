@@ -36,7 +36,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://letongzhuo.cn/images/redefine-og.webp">
 <meta property="article:published_time" content="2025-01-21T05:55:00.000Z">
-<meta property="article:modified_time" content="2025-02-27T11:19:40.119Z">
+<meta property="article:modified_time" content="2025-02-28T00:08:34.005Z">
 <meta property="article:author" content="lele">
 <meta property="article:tag" content="code">
 <meta name="twitter:card" content="summary">
@@ -428,7 +428,7 @@
         <div class="label text-third-text-color text-sm">分类</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">107</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">109</div>
         <div class="label text-third-text-color text-sm">文章</div>
     </a>
 </div>
@@ -479,8 +479,8 @@
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-02-27 19:19:40</span>
-            <span class="mobile">2025-02-27 19:19:40</span>
+            <span class="desktop">2025-02-28 08:08:34</span>
+            <span class="mobile">2025-02-28 08:08:34</span>
             <span class="hover-info">更新</span>
         </span>
     
@@ -522,7 +522,7 @@
 
 
 		<div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-			<h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br></pre></td><td class="code"><pre><span class="line">@echo off</span><br><span class="line">:: 切换到项目路径</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:: 检查管理员权限</span><br><span class="line">fltmc &gt;nul 2&gt;&amp;1 || (</span><br><span class="line">    echo 正在请求管理员权限...</span><br><span class="line">    powershell -Command &quot;Start-Process cmd -ArgumentList &#x27;/c \&quot;%~f0\&quot;&#x27; -Verb RunAs&quot;</span><br><span class="line">    exit /b</span><br><span class="line">)</span><br><span class="line"></span><br><span class="line">:menu</span><br><span class="line">cls</span><br><span class="line">echo.</span><br><span class="line">echo 请选择要执行的操作：</span><br><span class="line">echo.</span><br><span class="line">echo  [1] hexo clean</span><br><span class="line">echo  [2] hexo generate </span><br><span class="line">echo  [3] hexo server</span><br><span class="line">echo  [4] hexo deploy</span><br><span class="line">echo  [5] npm run server</span><br><span class="line">echo  [6] npm run deploy</span><br><span class="line">echo.</span><br><span class="line">echo  [0] 退出</span><br><span class="line">echo.</span><br><span class="line"></span><br><span class="line">choice /c 0123456 /n </span><br><span class="line">set /a choice=%errorlevel%-1</span><br><span class="line"></span><br><span class="line">if %choice% == 0 exit /b 0</span><br><span class="line"></span><br><span class="line">:: 添加变量清除逻辑</span><br><span class="line">set &quot;cmd=&quot;</span><br><span class="line"></span><br><span class="line">:: 使用延迟变量扩展</span><br><span class="line">setlocal enabledelayedexpansion</span><br><span class="line">set &quot;commands[1]=hexo clean&quot;</span><br><span class="line">set &quot;commands[2]=hexo generate&quot; </span><br><span class="line">set &quot;commands[3]=hexo server&quot;</span><br><span class="line">set &quot;commands[4]=hexo deploy&quot;</span><br><span class="line">set &quot;commands[5]=npm run server&quot;</span><br><span class="line">set &quot;commands[6]=npm run deploy&quot;</span><br><span class="line"></span><br><span class="line">:: 修正命令获取方式</span><br><span class="line">if %choice% geq 1 (</span><br><span class="line">    set cmd=!commands[%choice%]!</span><br><span class="line">    start cmd /c &quot;!cmd! &amp;&amp; pause&quot;</span><br><span class="line">)</span><br><span class="line">endlocal</span><br><span class="line"></span><br><span class="line">goto menu</span><br></pre></td></tr></table></figure></div>
+			<h3 id="server-bat"><a href="#server-bat" class="headerlink" title="server.bat"></a>server.bat</h3><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br></pre></td><td class="code"><pre><span class="line">@echo $off$</span><br><span class="line">:: 切换到项目路径</span><br><span class="line">cd /d D:\Users\tongz\Documents\GitHub\blog</span><br><span class="line">:: 检查管理员权限</span><br><span class="line">fltmc &gt;nul 2&gt;&amp;1 || (</span><br><span class="line">    echo 正在请求管理员权限...</span><br><span class="line">    powershell -Command &quot;Start-Process cmd -ArgumentList &#x27;/c \&quot;%~f0\&quot;&#x27; -Verb RunAs&quot;</span><br><span class="line">    exit /b</span><br><span class="line">)</span><br><span class="line"></span><br><span class="line">:menu</span><br><span class="line">cls</span><br><span class="line">echo.</span><br><span class="line">echo 请选择要执行的操作：</span><br><span class="line">echo.</span><br><span class="line">echo  [1] hexo clean</span><br><span class="line">echo  [2] hexo generate </span><br><span class="line">echo  [3] hexo server</span><br><span class="line">echo  [4] hexo deploy</span><br><span class="line">echo  [5] npm run server</span><br><span class="line">echo  [6] npm run deploy</span><br><span class="line">echo.</span><br><span class="line">echo  [0] 退出</span><br><span class="line">echo.</span><br><span class="line"></span><br><span class="line">choice /c 0123456 /n </span><br><span class="line">set /a choice=%errorlevel%-1</span><br><span class="line"></span><br><span class="line">if %choice% == 0 exit /b 0</span><br><span class="line"></span><br><span class="line">:: 添加变量清除逻辑</span><br><span class="line">set &quot;cmd=&quot;</span><br><span class="line"></span><br><span class="line">:: 使用延迟变量扩展</span><br><span class="line">setlocal enabledelayedexpansion</span><br><span class="line">set &quot;commands[1]=hexo clean&quot;</span><br><span class="line">set &quot;commands[2]=hexo generate&quot; </span><br><span class="line">set &quot;commands[3]=hexo server&quot;</span><br><span class="line">set &quot;commands[4]=hexo deploy&quot;</span><br><span class="line">set &quot;commands[5]=npm run server&quot;</span><br><span class="line">set &quot;commands[6]=npm run deploy&quot;</span><br><span class="line"></span><br><span class="line">:: 修正命令获取方式</span><br><span class="line">if %choice% geq 1 (</span><br><span class="line">    set cmd=!commands[%choice%]!</span><br><span class="line">    start cmd /c &quot;!cmd! &amp;&amp; pause&quot;</span><br><span class="line">)</span><br><span class="line">endlocal</span><br><span class="line"></span><br><span class="line">goto menu</span><br></pre></td></tr></table></figure></div>
 
 		</div>
 
@@ -537,7 +537,7 @@
         
             <li>
                 <strong>更新于
-                    :</strong> 2025-02-27 19:19:40
+                    :</strong> 2025-02-28 08:08:34
             </li>
         
         <li>
@@ -711,11 +711,11 @@
                 
                 <p class="post-count space-x-0.5">
                     <span>
-                        共撰写了 107 篇文章
+                        共撰写了 109 篇文章
                     </span>
                     
                         <span>
-                            共 117.8k 字
+                            共 119.6k 字
                         </span>
                     
                 </p>
