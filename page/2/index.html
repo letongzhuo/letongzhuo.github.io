@@ -461,7 +461,7 @@
         <div class="label text-third-text-color text-sm">分类</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">113</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">116</div>
         <div class="label text-third-text-color text-sm">文章</div>
     </a>
 </div>
@@ -551,7 +551,7 @@
         <div class="label text-third-text-color text-sm">分类</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">113</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">116</div>
         <div class="label text-third-text-color text-sm">文章</div>
     </a>
 </div>
@@ -566,6 +566,182 @@
 			<div class="main-content">
 				<div class="home-content-container">
     <ul class="home-article-list">
+        
+            <li class="home-article-item">
+
+                
+
+                
+
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
+                    <h3 class="home-article-title">
+                        <a href="/posts/20250227182653">
+                            STM32时钟系统的解释
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            
+                            我们可以把STM32的时钟系统想象成一座城市的交通信号灯系统。它负责协调和控制各个部分的“工作节奏”，确保整个芯片高效、稳定地运行。以下是通俗易懂的解释：
+
+1. 时钟系统的作用
+心脏：就像人体的心跳一样，时钟系统产生“节拍”（脉冲信号），驱动芯片内部的所有操作。
+交通信号灯：协调CPU、内存、外设（如串口、定时器）的工作节奏，避免“堵车”或“混乱”。
+
+
+2. 时钟系统的组成部分(1) 时...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Thu Feb 27 2025 18:26:53 GMT+0800">
+                
+                    2025-02-27
+                
+            </span>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/STM32/">STM32</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/posts/20250227182653">阅读全文<span class="seo-reader-text">STM32时钟系统的解释</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                
+
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
+                    <h3 class="home-article-title">
+                        <a href="/posts/20250227182420">
+                            四种输入解释
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            
+                            在STM32（或其他微控制器）中，模拟输入、浮空输入、上拉输入和下拉输入是GPIO（通用输入输出）的四种不同输入模式，它们的主要区别在于内部电路结构和应用场景。以下是它们的详细解释和对比：
+
+1. 模拟输入（Analog Input）
+定义：
+引脚直接连接到内部的模数转换器（ADC），用于读取外部模拟信号（如电压值）。
+仅用于模拟信号输入，无法作为数字输入或输出。
+
+
+电路结构：
+输入信号绕...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Thu Feb 27 2025 18:24:20 GMT+0800">
+                
+                    2025-02-27
+                
+            </span>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/STM32/">STM32</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/posts/20250227182420">阅读全文<span class="seo-reader-text">四种输入解释</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                
+
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
+                    <h3 class="home-article-title">
+                        <a href="/posts/20250227182156">
+                            开漏输出与推挽输出
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            
+                            在STM32或其他微控制器中，开漏输出（Open-Drain Output）和推挽输出（Push-Pull Output）是两种常见的GPIO输出模式，它们的核心区别在于电路结构和电平驱动方式。以下是详细解释和对比：
+
+1. 开漏输出（Open-Drain Output）电路结构
+仅包含一个N-MOS管（或NPN三极管），漏极（Drain）未连接电源（悬空）。
+输出高电平时，MOS管截止，漏...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Thu Feb 27 2025 18:21:56 GMT+0800">
+                
+                    2025-02-27
+                
+            </span>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/STM32/">STM32</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/posts/20250227182156">阅读全文<span class="seo-reader-text">开漏输出与推挽输出</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
         
             <li class="home-article-item">
 
@@ -1085,225 +1261,6 @@ APB2
                 </div>
             </li>
         
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250225083104">
-                            机器学习三要素的理解
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            机器学习是什么？机器学习（Machine Learning） 是让计算机通过“经验”自动改进性能的技术。类比：就像教小孩认动物——你给他看大量猫狗图片（数据），他总结出“猫耳朵尖，狗耳朵圆”（模型），下次看到新图片就能自己判断（预测）。
-
-机器学习三要素1. 数据（Data）—— 经验的来源
-是什么：机器学习的“教材”，包括输入（特征）和输出（标签）。例子：  
-
-输入：房屋面积、卧室数量 ...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Feb 25 2025 08:31:04 GMT+0800">
-                
-                    2025-02-25
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/">机器学习</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250225083104">阅读全文<span class="seo-reader-text">机器学习三要素的理解</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250225082408">
-                            蚁群算法具体实现
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            通过一个极简的旅行商问题（TSP）来详细说明蚁群算法的步骤。假设有 3 个城市（A, B, C），城市间的距离如下：
-123456A → B：2 km  A → C：3 km  B → C：4 km  B → A：2 km（对称路径）  C → A：3 km  C → B：4 km  
-
-目标是找到一条最短路径，从某个城市出发，访问所有城市后回到起点。
-
-步骤 1：初始化参数
-信息素矩阵：每...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Feb 25 2025 08:24:08 GMT+0800">
-                
-                    2025-02-25
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/%E6%99%BA%E8%83%BD%E8%AE%A1%E7%AE%97/">智能计算</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250225082408">阅读全文<span class="seo-reader-text">蚁群算法具体实现</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250225080311">
-                            python实现文件重命名
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            1234567891011121314151617181920212223242526272829303132333435363738import os      def rename_files(directory, remove_str):      &quot;&quot;&quot;      批量删除文件名中的指定字符串      :param directory: 要处理的目录路...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Feb 25 2025 08:03:11 GMT+0800">
-                
-                    2025-02-25
-                
-            </span>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/code/">code</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250225080311">阅读全文<span class="seo-reader-text">python实现文件重命名</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
     </ul>
 
     <div class="home-paginator px-7 py-5">
@@ -1334,11 +1291,11 @@ APB2
                 
                 <p class="post-count space-x-0.5">
                     <span>
-                        共撰写了 113 篇文章
+                        共撰写了 116 篇文章
                     </span>
                     
                         <span>
-                            共 124.9k 字
+                            共 127.8k 字
                         </span>
                     
                 </p>
