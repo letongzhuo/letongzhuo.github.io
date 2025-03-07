@@ -8959,7 +8959,7 @@ G --&gt; H[通胀缓解]</pre>
       </tags>
   </entry>
   <entry>
-    <title>STM32时钟电路中英文缩写的全称（更新中）</title>
+    <title>STM32电路中英文缩写的全称（更新中）</title>
     <url>/posts/20250227182011.html</url>
     <content><![CDATA[<hr>
 <ol>
@@ -11059,7 +11059,7 @@ G --&gt; H[通胀缓解]</pre>
 <p>My name is Ethan Cross.<br><br> I’m the director of the Emotion and Self-Control Lab at the University of Michigan.<br><br> For the past 25 years, I’ve been studying how people can manage their emotions.<br><br> And one of the things that I’ve learned during that time - see, I’m managing my emotions right now - is that a key to managing one’s emotions effectively involves understanding how to harness this mysterious force called the voices inside our head.<br><br></p>
 <p>Now I realize some of you may be asking yourself right now: “What is a purported serious scientist doing talking about a squishy topic like the voices inside our head?”<br><br> But I want to point out the elephant in the room: if you’ve just asked yourself that question, you are talking to yourself.<br><br> And that’s totally okay, because the vast majority of us have a voice inside our head.<br><br></p>
 <p>Here’s a scientific fact that I absolutely love:<br><br> We spend between one-half and one-third of our waking hours not focused on the present.<br><br> Between one-half and one-third of the time, our minds are drifting away.<br><br> We are thinking about other things.<br><br> Some of you are doing that right now - please stop.<br><br></p>
-<p>When we find ourselves drifting away, one of the things we’re doing is talking to ourselves and listening to what we say.<br><br> Now when scientists like myself use the term “inner voice”, what we’re talking about is our ability to silently use language to reflect on our lives.<br><br> And it turns out this is one of your superpowers.<br><br> Because your inner voice lets you keep information active in your head for short periods of time.<br><br> Like when you go to the grocery store, and if you’re like me, 15 seconds into the expeditionyou forget what you’re supposed to buy.<br><br> You repeat that list in your head: “Apples, cheese, Pepto-Bismol…” TMI.<br><br></p>
+<p>When we find ourselves drifting away, one of the things we’re doing is talking to ourselves and listening to what we say.<br><br> Now when scientists like myself use the term “inner voice”, what we’re talking about is our ability to silently use language to reflect on our lives.<br><br> And it turns out this is one of your superpowers.<br><br> Because your inner voice lets you keep information active in your head for short periods of time.<br><br> Like when you go to the grocery store, and if you’re like me, 15 seconds into the expedition you forget what you’re supposed to buy.<br><br> You repeat that list in your head: “Apples, cheese, Pepto-Bismol…” TMI.<br><br></p>
 <p>We also use our inner voice to simulate and plan.<br><br> Like when we silently rehearse what we’re going to say before an important presentation or an interview.<br><br> And of course, we use our inner voice to control and motivate ourselves.<br><br> As I did just before I came on stage - it’s right around the corner over there - I silently said to myself: “Come on, man. You’ve got this. Deep breath. 45 minutes and you’re done.”<br><br> And of course, all of you just said to yourselves: “This guy thinks he’s talking for 45 minutes? He’s nuts!”<br><br></p>
 <p>Finally, perhaps most magically, we use our inner voice to make sense of this messy world we often live in.<br><br> When we experience challenges, we turn our attention inward.<br><br> We try to work through them, and our inner voice helps us create those stories that shape our sense of self - stories that really craft our identity.<br><br></p>
 <p>So your inner voice - this is a remarkable tool.<br><br> The problem is it is a tool that often jams up on us when we need it most.<br><br> We don’t come up with clear solutions to our problems.<br><br> We get stuck in negative thought loops instead.<br><br> We worry.<br><br> We ruminate.<br><br> We experience what I call the dark side of our inner voice: chatter.<br><br></p>
@@ -12636,7 +12636,24 @@ import {initHBE} from "/js/plugins/hbe.js";
   <entry>
     <title>教资与公务员备考计划（试行）</title>
     <url>/posts/20250306164257.html</url>
-    <content><![CDATA[<hr>
+    <content><![CDATA[<pre class="mermaid">%%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
+    timeline 
+        title 考试进度表
+        section 第一阶段<br>教资为主，公务员打基础
+          2025-7-4 : 教资笔试报名
+          2025-9-13 : 教资笔试考试
+        section 第二阶段<br>公务员全面强化，教资面试准备
+          笔试成绩查询后 : 教资面试报名
+          2025-12-6 : 教资面试
+          2026-1 : 公务员考试报名
+        section 第三阶段<br>公务员考前冲刺
+          2026-3: 公务员笔试</pre>
+<p><strong>PS</strong>: </p>
+<ul>
+<li>公务员考试具体时间关注<a class="link"   href="http://www.hnrsks.com/index.html?siteCode=hnsrskszx" >河南人事考试官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link"   href="https://ntce.neea.edu.cn/" >教资报名入口<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+<hr>
 <h3 id="备考总原则"><a href="#备考总原则" class="headerlink" title="备考总原则"></a><strong>备考总原则</strong></h3><ol>
 <li><strong>优先级分配</strong>：  <ul>
 <li><strong>前期（3-8月）</strong>：主攻教资，辅以公务员基础。  </li>
@@ -12736,6 +12753,26 @@ import {initHBE} from "/js/plugins/hbe.js";
       <tags>
         <tag>教资</tag>
         <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>承诺书模板</title>
+    <url>/posts/20250307074516.html</url>
+    <content><![CDATA[<h3 id="走读承诺书"><a href="#走读承诺书" class="headerlink" title="走读承诺书"></a><strong>走读承诺书</strong></h3><p><strong>尊敬的学校领导&#x2F;学生处老师：</strong></p>
+<p>您好！<br>我是<strong>XX学院XX专业XX班</strong>的学生<strong>XXX</strong>（学号：XXX），因<strong>身体原因（如：患有慢性疾病&#x2F;需要特殊休养等）</strong>，无法适应集体宿舍生活，现申请校外走读。本人郑重承诺如下：  </p>
+<ol>
+<li><p><strong>遵守学校规定</strong><br>在校外住宿期间，严格遵守学校的各项规章制度，按时参加课程、考试及学校组织的各项活动，不因走读影响学业和集体事务。  </p>
+</li>
+<li><p><strong>保证人身与财产安全</strong><br>校外住宿期间，本人将选择安全、正规的住所，注意人身及财产安全，并主动向学校报备详细住址及紧急联系人信息。  </p>
+</li>
+<li><p><strong>自行承担校外风险</strong><br>校外住宿期间，若因个人原因发生人身伤害、财产损失或影响学业等情况，责任由本人及家长承担，与学校无关。</p>
+</li>
+</ol>
+<p>本人已充分了解走读相关管理规定，并自愿履行上述承诺。恳请学校批准为盼！  </p>
+<p><strong>申请人签名：</strong><br><strong>联系电话：</strong><br><strong>家长确认签名（如学校要求）：</strong><br><strong>日期：XXXX年XX月XX日</strong>  </p>
+]]></content>
+      <tags>
+        <tag>日记</tag>
       </tags>
   </entry>
 </search>
