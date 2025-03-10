@@ -36,7 +36,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://letongzhuo.cn/images/redefine-og.webp">
 <meta property="article:published_time" content="2025-03-06T08:42:57.000Z">
-<meta property="article:modified_time" content="2025-03-09T06:45:13.766Z">
+<meta property="article:modified_time" content="2025-03-10T06:04:19.017Z">
 <meta property="article:author" content="lele">
 <meta property="article:tag" content="教资">
 <meta property="article:tag" content="公务员考试">
@@ -480,8 +480,8 @@
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-03-09 14:45:13</span>
-            <span class="mobile">2025-03-09 14:45:13</span>
+            <span class="desktop">2025-03-10 14:04:19</span>
+            <span class="mobile">2025-03-10 14:04:19</span>
             <span class="hover-info">更新</span>
         </span>
     
@@ -507,12 +507,12 @@
     
     
         <span class="article-wordcount article-meta-item">
-            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>20 字</span>
+            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>819 字</span>
         </span>
     
     
         <span class="article-min2read article-meta-item">
-            <i class="fa-regular fa-clock"></i>&nbsp;<span>1 分钟</span>
+            <i class="fa-regular fa-clock"></i>&nbsp;<span>3 分钟</span>
         </span>
     
     
@@ -524,27 +524,150 @@
 		
 
 		
+		<div class="article-expire mt-4 mx-2 sm:mx-6 md:mx-8 note p-4 rounded-lg red icon hidden" id="expiration-container">
+			<i class="expire-icon fa-solid fa-timer mr-0.5 text-red-600 dark:text-red-400"></i>
+			<span class="expire-label text-red-600 dark:text-red-400 " id="expiration-date">这篇文章最后更新于 some 天前，内容可能已经过时。</span>
+		</div>
+
+		<script data-swup-reload-script>
+			function updateExpirationDate() {
+				try {
+					const expiredDate = new Date("Mon Mar 10 2025 14:01:48 GMT+0800 (中国标准时间)");
+					const updatedDate = new Date("Mon Mar 10 2025 14:04:19 GMT+0800");
+					const now = new Date();
+					const expirationValue = document.getElementById("expiration-date");
+					const expirationContainer = document.getElementById("expiration-container");
+					let daysAgo = Math.floor((now - updatedDate) / (1000 * 60 * 60 * 24));
+					if (expiredDate < now) {
+						expirationContainer.classList.remove("hidden");
+						// console.log(daysAgo)
+						expirationValue.innerHTML = expirationValue.innerHTML.replace("some", daysAgo);
+					}
+				} catch (e) {}
+			}
+			document.addEventListener("DOMContentLoaded", function() {
+				updateExpirationDate();
+			});
+			try {
+				swup.hooks.on("page:view", updateExpirationDate)
+			} catch (e) {}
+		</script>
+		
 
 
 		<div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-			
-<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="38d9a4c8ba59881ebdc4e4bb7d0bfd0343d1ba49acc4524d6a5345973646225c">249107fcce4fdab00b19d327c31fd8f37d5a78192143e02eadc6b827cdeff43e7c351a96c4d9c786570100794ba555f7ac9f8361cd235f46f8c2c00c818c9a47694e567cda512ecb683ce378c2b4fefcb60dda9c17ad6c3e147555eb21fd63f3dfc50c15245a7079d9f3341031f52339eddfa3ca67bb5dc5813a3f7b740c14e1c2c80676e2da443ee1dcede6335972cf29bab620029219e320d578227df337ffcae99ef0b72e16bf782bde8bf4ff76fb7a31aa2b6344075f7b3b4b519b7f0148b67bacde0d0aeb97c084f1dd7bbb0dc2f1562ceb0da566336018abe6aab3cd49c27f3c529053fe534c78f51dbd1cc623f061dca0bdc894f79bceb8c5dc105d5d3bf31c584ff148262d57b73a9e0c8e0e949db253d4cfc87e64258a54032ba3ac1bb0270eb504defc514258a5eb0cff47477307c92fbb1e38cda286283f858e6e8c8849d05dcd6dee4b3c09cd95ba853a740281c7f3a8ad1cea42c03077fbed2f8a391c464b2aa6fde5b3fd9675351021d77cf0a159e78858f076dec237705f9208b84418d98cf02c0dff531bb00b964882f411411e85200370d2b081222250b6fada6b3fe986b3b50de6ac4774903e3aaf45cff83f9334e8681d65aa02d06117f019946b7220631e0757f976c12aaf023d0780d59cdabb98e053b50babce2910c1970d3c12ab110d146e1be0960371e0297e8eadba718f62156dcf18f45593ced4c19dc579fa1ac9fbf75c85569de2bf05970b0332ab5eb6e67c92dbdb3acf5354944659e1069e945c93003152c5a5c4f3566b55ffe6866054648bf59bcdb2a22636ef526d71a2e54500deda8e2c935afb3218e064eea22d909ab7ddced425e4d46d5497f5e5ca943497ddfed005b3dc340e942b8140efd22e42d8c63823c8ccef48830b11e48fd023349dd5bc5201b5f06f2f26d46e978aef2006d5fb5b5a0e543a407044611b571654469ba5a189ff42e5acdeedb223c6798b6d99b18224df8875ec271d6568ea3fb0f41185f8f6c61a73635a62276b9009e755b2a3eb7cd66940333561c9f4498a3571435fdafbcf880cd28e390bd9c4c2fc26f9c9823eaa4cc267de0e7e7ca704132d7dd732e06eca750c7301fd14617a23d74cb80d9b3628b747f66bf153713a6d7526d622591a3ff64143ad52178051a99c65e57c47da22794499a388a0819a91cd9aec0c8dd119076d081a62c5510ed6a9a00a0b44d280327ebb03acbbd0b4bac514d58734cf0b29d2cb1190181ded398376d30a21e1d4f6ccbfe941001b5802f53e20b84f5161a47237c48be45dc5a2404e5f08e0a3ab7482745ef43e26f29ff2293489ee620d2a8ac66e9caa665c6774b99acb5925347b537753269bab77ddd2a7e305a6924dd92d72898721c2ead8adef4f396942fe8e66a94a8f8d376542439e7a9d1b78fa47de42781719647eacc2d68b0adfad7e0b5f24087be6dec50fac4054b8aa88353fd7eac2fe5e0d0acae0f4eb5bc21191e13739d5d825f6b35a8f3906dc6d3c5155d51560ae3318186ea2449fa0752a1b838e42bc48d2df72dff0c4abe91cff11d255ed050e73ae435820d51902361b2be3110e8b8ba106cf54b799592cec6b10cd3043ec7401d7ce9e86323ac7ada2f4f8fe871e579a93baad6eccefc0901b10879171ff73990708299871f399c360765b7ddfae4e8ab7089f4b44b6c62196563802fa8d75d68808272939d02c7e79150336dc7fd5fae7a43b9332d0bb791c528f480d749602598cb638eec1b30314ecd492a8bcc804a90a10eda91088ef6283dbfe41d030f9c79a0b14d9829c7643169a160feb55dbc58a42d0e93506165936e5635b7ee51d6a1348f6efbb2b19e708477d78ea932b89c87311ed180783bbcb9e57452351d9008c6e69860d3f4cfff13738615e092e035d1de20d61c56803f47faa59c7284d743972ec76c25d19869b94113b1339cb44a5b74c82408636127ddd4b44e86006f00f5fc269062ae4fedb520137b164d7538df1f270f9e55024b0dcffc1e57ce0cb71a1487f6cde7836b5c2e82b19d2a7a7811646c4cfdfd925521cb24b01785e7ab7fc9f5e676f313859dfa0072255b4d090fe94481f42205edad057456ffdf9d81a14ee61892d19e0bd31ffeaf802c1a58e79d5cd4774498a08b6283a5aa5a41e072abdb13639704e5e922766b94ba3084754a676766558069a71e0806b8c5c2c80ac9ed1e4ffce046b0ba0b9ac2555a4a521945addf946f404238acd0596c35c6d81eaf626cb01d1092d323c25ed4a19de4e47a5047104d0c0dfc421768faedeeb2447ea06e955ee642fcd0268881be9580eeb344d302685468efd1f5dc02f97c9d86d1d421fffb08bd4cdf6b8e673aea33199dc89806790ae5552cfa04ae873f9d34ced44d57d06c546098b46cc3a8cd2c0530a377e5bcfd9d717e99a5dfec79475bb0bcb391305a4359e304a4de776c5bd98ca912b200151ea220dcbbb0407a10879eaa1338cb1a7ea8c7547b7512d869fbe80d7edba8e6e58d6dedab0f5709456453b4b3fe8e0392efa550b90199f9aad16d09a145d84218a1081af3483c1c8f37adf9c9c4b6b5f1a87945f9544b2d14cb70665196fd0eb63e04203205ecc114f0f515e899b77ca9f470c207da54e388bd39c2956c952069b1f2d4e2da01724093ffd7b57960ea4ae502ad5a252044388c2ecb4616267f9a4900735f3f332d418795ac895071543df0124768e2caee9ab1c9f8c5c245225b9948f50b95f2c12e09e103ad29a62ee7ed566dfad096e273af9115be085ecda6e7088c999eec90b72bc691cd7c4e723d91a00a74edecea19338e12d8f6ceda58aecf65d76735ba045f10ae3931ef08a8da9f437c5d25f98057e95ec8303a7ce0f44532a3ba5536bda3a89ea42edf8254818616d8128618706693337338a53e2fce9c51aa67f6354e41d4aef5143669bcb88f9e5ff3162c596ea73177253ab68508bc23e9c7a03d667f963551ae3e33ae95b6d0cbe51a0d4c14a6a93299c153842d11f115b1d9e3c562af6511b2d8264a3ee4c989df45905e75743eba380b02591e76d39731a934ba3cc251258a430914c814c94787fad0b60733612b92f53cce815bd5de53635ac322e1f5c7b996b3901350f6f128f73a1d7d56f19bca2a015c7963bcdc455ede3fa1b9fe1cde3d203b8091b6ca7a92e2350f8ae8eeaca6762c3280a80c84e7a5c4209a26e326452a23511a32c00ed5a2e3e097f3536d7417171f07add7b799875ddd404a0030c03cd1ae63dec688be5dbceffdcc5fcba61087602878152ba6fdb99f405a185b1f40518106dfe6aaa5dad1e782c8e201219e578178a9a271b2800582e2fb13831defbf50fbb9824e01dce9967bbf233f347b911165f7ea992758ea0224ab10e5d60c987d22ddae8609030c9b12c1d9947c488b99a55c20437554b7162d8879112eb90343a9c3a5da1f38df8093b8687b955d8bbd56bf139df82b3b144b65920137afe0b442607d63c67baac1097cd33cbf795f729da2570d753119e1d754b1048de02292e8d9af94cd49d4ba27cb9ca72eac0623e2dc768fd32250bbfc5656aa656a7a026e780e68cba23355d1a7af7d9d353bd513c8d17984097abcf66d7a00b960f80b1229b578b35d524fb84f7acf35836777c7734a0c51343aa4e153708d4744e2876542dc23cd57fc2500d6ccd12048fd9f5381f7573e3c3a5f905cf448cf83ef079591331f328259d5c5ed61155a7988aba21a870a1b381f32d50f5aacd3dd0ddfdac883fec0236c6fb8047a26a3831f8477104cf76443055d942358f0c3753b243b60570b38e25b80d3ef6c048d3e407d47958a5cbcf09847a3a21bcf930dd3249dfc064c5ec7076957184d7308adcbc28ef0ddf87cd9edfe1cc96ac111c0ab22d007cf483591607569025f2bb9b29e23f40cdd7896ffdb27971f3aed6cca24f8eeb9191fa1f826a463ab4345dd60d15d5559d18c784870b3bee1f17533d7ca9789eb5f673a5debd764683ff89c9e71245d44878b7a177a09ea04cb05e4836f60506321bdd059033811f64ca79d2e9241f4d4a89186afcb1643a6b23dbb694dd93141e343ebc1380d6b1350cbf02ef5eb34465153d037c36c7d4b2c2cc5e603ff7ebc2dd3997de1c3d1573e93c6e118c50a8fc144b3bda9ea46a762ce1e52c9261644534f7ac97825b221fdde2643b2f26e88b0ca963cd2603539799d5ae2dd63ccc18f446493493e4f90036977e16b4fd3f232369d1e1800499b705cf65c59bf3c45494416cced69fbcedf09f0e808c7d3b42f99fd9476e60cd5afa1fffbd8a1e3e3e2d29f1998918b7b663d3965fb6ff4d03ee50420b3231651b486af184f71f8d640d12982a3d12cd9fbfdc80d133d233946a681c32b675733a21172659d0889756f93b47b367588e2422eb69c0150beeb7dcd7de28fcca63987feedd82de210800e7794d0ecc754374426f47f324c87616f281d7e1442c1be4f8caee3ebcd6fd1c8d07462e2484fff4ace7c05eaae895dea835fa0cea0c31f329361fec1c34ce1462f1681880e0090b964ba6ea770df55a8ba16e10888828d5f42e5e8dec518701879ce992ac500447994c3becde0711ecb9fae92c792f4f1b59171f4549796e16cbf7d08d258bc6b0075cc0f03bab1c147594225492534cbf2d7445de241513da6f724804948e431f97f11938b38ebb36f70ecd3ab4bf714d06fc581c60eb37f61e8fe4185d2decfe2773b1c197007c017caebfc0625ce35886996f1b1204e0ef91ece85a3e56e5c5893b1bcda3ded5d79072a7fb93296fd241bd79842b176c395432f89cd8970b17f87be480c65e97a8e6eaa0c12de4bdd4d0439f7e3e1f03a155f086757e41c2f37147b00aaf84a193eea1af89f13ac380c0833b4db370dbb5e53ddf77445ff61bf29f0a193cb7e351f592eb5a72ce1fcd778130d053b107a41038872ad864dae6d51b094b97ebeb0abe9bf5491b66779f6d4382f10d3e05c4e39c8579803d4475c2a40732fcfcb7d6c7ba387a795201b0e1383cb6bc98fd5923993f6929bc181056d2f4220bb5461e2b68dec0d4f4d09b15f7b5cb9f5818c5efb18540dbffbeee4229da6e27ed7fa8b22aa3d0082c36082d01cb029e68554827bf1c2daf74b4ba93c2effbb03147e55bf675735cb63e19842f0d308da6889817d285efb0b0baa5565298a4ac918129d72c093df1ed2c0e354587a2b2b956b8fad84efe3fd4d49538460fa7d6af0380e9592a93f994743d6194fdc7bfb030b6e6e35edb738e9107b8e680c54be74bb22e4d94d51879b7be87192d98741e47ac485b77b3df299afa70409a5ad3d8c8a1237ecd5d3f17f004a2315bfbb180972c8bac75813ba7c37cc4a6af05a97b34b821e0c498f5dfbe37d1cb64798796d466a0ac819d5e1687d7d19e95672e12d26723e92418c1937af47662718d9b9c9688dbe83cc4e78849ecd240bb8bf6441a046bb7e9188df638aa4736075b9c98016496173a9607743d2ae14904cfdda1fe443c120b42875c9c2e4ea5540e7f9d27de511d86e1ea0f4ddb72d15f911dc5ad90b3319f301005824759251b96680aa34724f2535be8722a725121c538a4bc14424d04dfaccc71670adf46f69fa38088f4bed45aa6adb36f6c841d90fca79a547ac531aa2ba7184a3a5d01505f3b7f23e54f53edba65d49613f257251e5311c1297f4896a752508edc7b04921c46ef7b1f9f92c18a73b98083256ea6f48f94a5156ea85de2413a9d88b3639cd33f65c980a543cf013d5e3c634a10bd7d011984440e2a33aa4e5e2048111864d608c1178373255698769573a610ed5da37ba612422bfc3da1e6e8218c24897f6b27d62f1ad2e7a40fc050b2a53820f3fc73d19c104b446f9806a955a0e21ebce884e6add8c6cdd3803e514c5cbc913d597857e4000a1e2152f6dab7b419480e09710d7da22b139a0566d224972487d1a436c8b4698fff70edd998faa6d5c522e4af95be199204a313519acc2cc379e82c20e3ac8a12f854e68d7c01c9ac2deb4357fa541bde45ec2796dca94597c77179f7a8f9f53121366497198467127f6d9eb315055dd2e6cce400ac291082ff0792fc0e71d73ebc58b21445641c220e620231801b752d5ab57325f2d5c959fe04b7651d520960ae2dfd3d4292fcbd7410ac4e39afea07217a99f2707ed07965373b178ead72dc5de769a4e1d2673eb1c675503ff97f9750275d1cb5a79da28acf0c6d2a8ab511cb847ea87cc36d5e21056d34dd306414a176e9afa17e80526e1019023145fc2a9dafc80f461c750d50fb79b83f63294f208ab530642af41cb3def8c3c17fc08c6371eb54cdb962d12f9395a20070ef9866e0bd97d02698faa20663e4620e9885697a542a8583733ed221087b25487d3ff646f21d31c4471a726d74112c2678c188774a4d2f732ebdfa8f999d99ef01783184ec6079912d4d65044cf2f855624fe475fd45545421cf2b29871bb94ea741cbaaafeeebdde403d7cb4fb8cfff0cfb9102803b777e8be2da421fb8749c62a1d52915b496af61736dbb9b463c079175e7f2f1ab1b21c3a38316b770313a38764dba9b3082d8250b67bb72827e29a09f4e2152c9a796f758b638d32b8166e09ef0edaa6958540531e0a9ed82c0920329edbdcc027767a0711ea50ceb4ed79b97dd877c0e2b24f8c56c757a8f3f0c6a6df411a9328d1e67ad81944b84c2b3eb69c34e7c02d0d217455bd670da372460d9ca51e69bed5c44d5b34387b6a61a40d9c99c9bc535fcb9c793649f5bbfc4b33afaeefa56cbc0a7e759fd54a0d68ea37fdf39de90f323f2d936621723b7a18213e8fbd01c0b47a379ae6f53ec9c99444422f83f3218da1b43798cc919df053906a4190d007ef9e6440b586e2100b7d6e643e7b29d9dddf7b3e130b564bd236ecdda54f0aa3e72d499a035beb632b831cec52d7d58ff01f6631b4d6642b00a2d5ca7e266669d85e61770c4fbb3055f2de5e99dbabe86fb5d735960eb9ed550fb6fcb526cee42bd6cd8bdeb91f4a435bd66d242cdbbca9d30f13fe957c269fdec5efbc3aff97ff6e14bbd057466d3b26061fb15e387f73b238999f6a03700e591cb368a64a0bdc70b16183e792148555a3b535323a2962692fff35e461ffd8ca26dcf71b3cb212e195ef4e2f9a204ea6a4766a254b9f88bbd561b9eb40af1c7248246a67f19160b708b4df6bedf304364de541b67d004fe276b6033d97f2052f73cdd1b2a09cf8a2d2024914d4eac0e7f82678e28fbce14cd595c7b7cf3529faee598231f93702fddeb6cc854144deb74adbc5e95839c53515ce0fa8996cbbd79bae3be45278ae3f950757aea4d75d6f91538eee82f0e50b7b4651055b5adc2d68b4a9fdec3d8c9cd14443d61a75b976099a8b99ad29f15aab7026fa9ad083a6fd9f990e7bf77ea828c9c3bbe482c4c4621ea627c98982fc178fc5ff3273fb913028c9c49d47ae490684cbc56faec49e2ca4952c96b61f293541fd24d2313004cd14fa16be43c81ddf75d56bfc468f1fe15b7369cbeb462c7425bd04fa13c6baccdadd751b6728379bb4bcfcf11281f195c175c7c4d075be5d90b699caeb8abd177983dee8b1a4727b1e16dcebfeed8bfa980078266a1f7202f97f6911af2bc020ce50df9682d4575d6c70931519307870ec6f1b5954af71a47974e3b39e7cd16a7bf1b240cd010e86140a4f96e9b2c04c1e86625ee8f78a11a64cfcf8f7790f8d1d6349432e7a081cdcd5b4fe264f16e3bf087b546c4a13eeaf353e25f8047ce5e94d07dba4ab1f68c50dc4423e00ab452385c29f2e0f8a4399fc549e5ccc9c288e1eb9f8e2c6b416fd7b82710921292b91b72e27b066495759b7c48a7a8b88415e7d47fc8b2c4062fe43e1a28f829f901faeccff832539a2ec3b26b599cdbc24491e37b2d88f3e4f1ccbcacaefbd8d4be4eb667c5838e9984beee70bba7ffdac0459798dd971003405b09c8dae82c1e2fb204b09db683cefc96e471b716a7ef23394ab6c77a62941a7ebbca360f4d2591fab8e87a38bd2c8a8997e586e1b0826545369f6b3a092f0a6d894c64ef1595359fdd3d1a9e012f49b775e5ddc4fe41606f366436944c105ecb814394d647199ad6e4c4e95c00367cf22abb7f135749234d9809ae6c144afe8ab835f55c6adabc063e9165543176d92bf6c88cbc72684fca2acac0ebc6a20d25e4919ffceaef93f0bf28ef9e1baee92ef668f579a246b9027fafbb3983f6698d87972b63523f4479f96990a645a5d4420c72d2da3a32282b1ec00506d1dd4716986b7b523f94e42f8fe300c1c4f3148cdae72064cc75496f955c001540255bef184e394cb8295790f39530bfce3af8f1bd5294221b99c4dd59faa6b0eadd0d995e142073f075917fa71691e5117d55429facd5188cc0cc30058e59cc9e810032399bcfe97f69192bddf07066643876b4e424f4c100b036c05b25cedd687f8e6b91ca6d558ca72972ef2d810ed54bcdde0300c7ea8b3bc6434171260a5b082624103ede2799127b4a6efc050267ad8a29b1a2fdb9a21339f57427af710560695762290c04e50a18cbd6a55098367b95021f7e564243697d2898e52c1107780e61cf6c47ea6bd4bc78e6c7ce2d8e726d5aae6d84ed95e845e22d6c021d56d1da988a0234f52271a3de308a294ef7e72a2fcdee76e916ce838379e8f873ffbeb21ba49160455cf3512ea9dd10bdf113d8c7e8aaa9d8a63e53bad42e41a23197f6b63a262faae41e79f143da5ed1f37e94b0806c559b344a9f0914d95296f1aaa9196904cc8e3da1ea32d3e870db4272c0de675425a09965d7d4d38dd76d05836d10253ce528f565007ac2312eb719b68f5b13b2bc3d0e82dd552c44b665c6677e5acf31dee2f7e4690ed0456d479790acd8fdc0c605da932268682846e765eab553f51f16ca7c4b8f7a28ba30bdb0080db788a2b483c086da4060ce9e3fcb29717868ab9b4f2732b596627fe3761460b623d42656db38c74ddea38947fb1040fe5fc05049f759da07d0c6b04514cfeb91e50ea3a9e5281cacdfe1cbaaf4c4221d4411474475caf986878df266cc90691917664302ec6702f6b35636a5e12c4702aa962c4171df8c5815b6ca371d357223e5d06e3a53bb060f9b598ed2141c070b595b5f22ff0d0eb406a4b83425ad02c6ec5219323863bc17e6c2dd765333c766a7bcfd6aea8bfd273941a29a3b88ef0a660074f217335191ba9ea7685b2b1601b82670da317752b42500fa7e4297c018d78f8858ed9488bbb8a125918f4ab357d095fe6965c1677a47d3dbf6639214bb74d5e41e07460066db0fb5aa849407a6bec5077b0a3d00760ee0f32216fde8d1eddcbc86b5b96a74fe0e9a62de6a2f67f0a35f86a3d64a2d084d20002e65ec8b255821dd9051872c2941803ee1a76ddfc726de34db8fa2d6ad1c1b343f1590b47e1ec3e1aead98b4e8b891c9009a7cade5ed8762e4e6bc53e85a530af21c46625b9ffb158b07b5675f343bb484621055d84d72f27b626bf08f108fd66ebeecd70ea54f2fc7df2d79e7a77ae4720db05971137f819761e5b8fda5f66fcc57427e37b8133e3148304253f64c733255ede8b50643fa8f803ddc987c1709d0ea3d5c23a310028bff9887a28b8ef69558cad8af028ff1d8c866eb71507245158ace7ee14b6c7294aaeb8ed06099dda66cb6d56896d8eb6d27673f467f2684ba1614679b519dcbd6675ca4462c6cd0ce8909998fc763e0c5d78f1cedb3a83c13a00ba900347840cd26b4bdc0191f8d0ad940a60928060f9ef351444b7b2e612b63df567736b130bcfaa6d15fcd8708938722eccbcb61c46d6e4af437bbc691ac71a39b4b47e45644af0f73aa17f87caa863b844e24d989b5ab99cc8292a541da1e5d1cca75c4c7ad1c7b239060517656520dc8702b7d929d0db4fdd44534fda9018ea6bf732751597249da629822e22893907daa1d7b751bedfcab6f20867b16ff277a4a6df11414759dcb56711e6e8b8ee54776be94f78ac28dddc5e27dd76e9ced86fc47a7da76b53dba85d756a59c8f3658d91dea868d0851fc44d64796524bca3609c4760718e17d29e75a2c1d26fe5a07c4b17da1ea00eead2ce4f98b3dd729fb593e69ee2e4c06eec5b493c7e676701bdc0a30d4e34700094a564924a3c4a8018925d0db2875f3a0aa048472d059d0ef5214a6b37923c4263e941aec03222dfcec8e7ff114761ceba5fab68e1e19b4f449b7e3157f901f93f3f3b1de476dcb81561a6bd1b571706649bde209368674af2656156b428f80fae50dfc203b93e436512a7d9a7524ffe8c15449ef20fad31c74d680af598eca2f29516e9420dcacd1b4153699f094aed8a1b86d1421b263c9f49bf512277534412110a167924139512db8cb538a4e664f9e36928144bdea60844def21bf2e96201ba5445ec1bd96ce3c6c84b0db2d0d5722259ab568a878ab49fba49a66c40414a30f4419164bbb4e9012bdd639ee70fc94c2674f67376801a83d15a6746399b9bdf4bb4780453199e304e9a65c1c5b9a7c449dcf9b2533c7f79cf8780666891f4f30d7fc9a9e917a88c1332892a54556803334534a223e3eac1400705790467e64a6997f61944653bd0d5250ff99fdd41e722dec4f16c3d6a457fe9d4550992dabff74101d353cae94ab4d1576ad4ceceb5aa4c54bfe59663de4cc8923b9fec61ca729d170f29866f4f10cd7d16073f2122a2086ee94572572c2b59ce4153db34adf08e1e112afd09ca6faab0fb3bc4b4a7cde2e1927255acec2f7c3ba2df63f2fe79a8e864a574c95fbec8900d3517d7f5335fb17e37d0792cbb213916f89560023f61fde3c6c4c73f9fd3a169816e1e7355ce900e8ef0cebf3d202c628ebcbfd0474a3fcbca904c9c6504f91472d5cbfeb55a49a020c6adf598d089a0ad42fdcf5c9413223ff207e1a3c2cd4a3604fb2b6be15d73a580f850c40c788db3481a276aa2c61d3cad5f100e40fa4dd18a590eaa233370b7c391a72061d0a1485b756df43432605ae115eccada83f8013d756971b0808afc9ab85e4c0d75828061ebe692ac76fe5508fb544669dabd5fb72593d4144b2bdd93de74864b6a4626abff5ccef9749640579400ebe481485f2b49d8dc2add02feb718bfe227d1518fc3ed10bdfebcc3cea031708114dc99040cec45dbfbfcc69edd4f7008ab4400e0bba45098f0ec3590c1055d8</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script>
-<script data-swup-reload-script type="module">
-import {initHBE} from "/js/plugins/hbe.js";
-  console.log("hexo-blog-encrypt: loaded.");
-    initHBE();
-</script>
+			<pre class="mermaid">%%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
+    timeline 
+        title 考试进度表
+        section 第一阶段<br>教资为主，公务员打基础
+          2025-7-4 : 教资笔试报名
+          2025-9-13 : 教资笔试考试
+        section 第二阶段<br>公务员全面强化，教资面试准备
+          笔试成绩查询后 : 教资面试报名
+          2025-12-6 : 教资面试
+          2026-1 : 公务员考试报名
+        section 第三阶段<br>公务员考前冲刺
+          2026-3: 公务员笔试</pre>
+<p><strong>PS</strong>: </p>
+<ul>
+<li>公务员考试具体时间关注<a class="link"   target="_blank" rel="noopener" href="http://www.hnrsks.com/index.html?siteCode=hnsrskszx" >河南人事考试官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link"   target="_blank" rel="noopener" href="https://ntce.neea.edu.cn/" >教资报名入口<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+<hr>
+<h3 id="备考总原则"><a href="#备考总原则" class="headerlink" title="备考总原则"></a><strong>备考总原则</strong></h3><ol>
+<li><strong>优先级分配</strong>：  <ul>
+<li><strong>前期（3-8月）</strong>：主攻教资，辅以公务员基础。  </li>
+<li><strong>后期（9月-次年3月）</strong>：主攻公务员省考，同步准备教资面试（若笔试通过）。</li>
+</ul>
+</li>
+<li><strong>每日学习时长</strong>：  <ul>
+<li><strong>工作日</strong>：4-6小时。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="第一阶段：2025年3月6日-2025年8月31日（教资为主，公务员打基础）"><a href="#第一阶段：2025年3月6日-2025年8月31日（教资为主，公务员打基础）" class="headerlink" title="第一阶段：2025年3月6日-2025年8月31日（教资为主，公务员打基础）"></a><strong>第一阶段：2025年3月6日-2025年8月31日（教资为主，公务员打基础）</strong></h3><h4 id="目标："><a href="#目标：" class="headerlink" title="目标："></a><strong>目标</strong>：</h4><ul>
+<li>系统学习教资笔试科目（教育知识+信息技术学科）。  </li>
+<li>公务员行测初步学习（常识、言语、判断、资料分析）。</li>
+</ul>
+<h4 id="每日学习计划（5小时）："><a href="#每日学习计划（5小时）：" class="headerlink" title="每日学习计划（5小时）："></a><strong>每日学习计划</strong>（5小时）：</h4><table>
+<thead>
+<tr>
+<th>时间段</th>
+<th>内容安排</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>上午2小时</strong></td>
+<td><strong>教资备考</strong>：<br>- 1小时《教育知识与能力》（教材+简答题背诵）<br>- 1小时《信息技术学科》（教材+案例分析）</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>下午2小时</strong></td>
+<td><strong>公务员备考</strong>：<br>- 0.5小时行测「常识判断」（每日10题）<br>- 0.5小时行测「言语理解」（片段阅读+选词填空）<br>- 1小时行测「资料分析」（公式+真题）</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>晚上1小时</strong></td>
+<td><strong>复盘</strong>：整理教资错题本，总结行测技巧。</td>
+<td></td>
+</tr>
+</tbody></table>
+<hr>
+<h3 id="第二阶段：2025年9月1日-2026年1月31日（公务员全面强化，教资面试准备）"><a href="#第二阶段：2025年9月1日-2026年1月31日（公务员全面强化，教资面试准备）" class="headerlink" title="第二阶段：2025年9月1日-2026年1月31日（公务员全面强化，教资面试准备）"></a><strong>第二阶段：2025年9月1日-2026年1月31日（公务员全面强化，教资面试准备）</strong></h3><h4 id="目标：-1"><a href="#目标：-1" class="headerlink" title="目标："></a><strong>目标</strong>：</h4><ul>
+<li>教资面试冲刺（若笔试通过）。  </li>
+<li>公务员行测+申论系统学习，重点突破薄弱模块。</li>
+</ul>
+<h4 id="每日学习计划（6小时）："><a href="#每日学习计划（6小时）：" class="headerlink" title="每日学习计划（6小时）："></a><strong>每日学习计划</strong>（6小时）：</h4><table>
+<thead>
+<tr>
+<th>时间段</th>
+<th>内容安排</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>上午3小时</strong></td>
+<td><strong>公务员备考</strong>：<br> 1.5小时行测「判断推理」（图形推理+逻辑判断）<br> 1.5小时行测「数量关系」（工程问题、排列组合）</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>下午2小时</strong></td>
+<td><strong>申论学习</strong>：<br> 1小时归纳概括题+提出对策题<br> 1小时大作文（框架+素材积累）</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>晚上1小时</strong></td>
+<td><strong>教资面试</strong>：<br> 结构化问答（每日2题）+试讲练习（录制视频复盘）</td>
+<td></td>
+</tr>
+</tbody></table>
+<hr>
+<h3 id="第三阶段：2026年2月1日-2026年3月15日（公务员考前冲刺）"><a href="#第三阶段：2026年2月1日-2026年3月15日（公务员考前冲刺）" class="headerlink" title="第三阶段：2026年2月1日-2026年3月15日（公务员考前冲刺）"></a><strong>第三阶段：2026年2月1日-2026年3月15日（公务员考前冲刺）</strong></h3><h4 id="目标：-2"><a href="#目标：-2" class="headerlink" title="目标："></a><strong>目标</strong>：</h4><ul>
+<li>全真模拟公务员考试，查漏补缺，调整心态。</li>
+</ul>
+<h4 id="每日学习计划（6小时）：-1"><a href="#每日学习计划（6小时）：-1" class="headerlink" title="每日学习计划（6小时）："></a><strong>每日学习计划</strong>（6小时）：</h4><table>
+<thead>
+<tr>
+<th>时间段</th>
+<th>内容安排</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>上午3小时</strong></td>
+<td><strong>行测全真模拟</strong>：每日1套真题卷（严格限时110分钟），分析错题。</td>
+</tr>
+<tr>
+<td><strong>下午3小时</strong></td>
+<td><strong>申论全真模拟</strong>：每周3次大作文+2次小题训练（限时完成）。</td>
+</tr>
+</tbody></table>
+<hr>
+<h3 id="时间分配示意图"><a href="#时间分配示意图" class="headerlink" title="时间分配示意图"></a><strong>时间分配示意图</strong></h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">2025年3月-8月：教资70% + 公务员30%  </span><br><span class="line">2025年9月-2026年1月：公务员80% + 教资面试20%（若笔试通过）  </span><br><span class="line">2026年2月-3月：公务员100%  </span><br></pre></td></tr></table></figure></div>
+
+<hr>
+<h3 id="每日时间表示例（工作日）"><a href="#每日时间表示例（工作日）" class="headerlink" title="每日时间表示例（工作日）"></a><strong>每日时间表示例（工作日）</strong></h3><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">6:30-7:20   起床+吃饭</span><br><span class="line">7:30-8:00   背诵教资简答题/行测公式  </span><br><span class="line">8:10-11:30  上午学习（按阶段分配，保证定量，灵活调整时间）  </span><br><span class="line">14:00-18:00 下午学习  </span><br><span class="line">19:00-21:00 晚间复盘+自由学习  </span><br><span class="line">23:00       休息  </span><br></pre></td></tr></table></figure></div>
 
 		</div>
 
@@ -559,7 +682,7 @@ import {initHBE} from "/js/plugins/hbe.js";
         
             <li>
                 <strong>更新于
-                    :</strong> 2025-03-09 14:45:13
+                    :</strong> 2025-03-10 14:04:19
             </li>
         
         <li>
@@ -710,7 +833,7 @@ import {initHBE} from "/js/plugins/hbe.js";
 	<div class="post-toc">
 		<div class="toc-title">目录</div>
 		<div class="page-title">教资与公务员备考计划（试行）</div>
-		
+		<ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A4%87%E8%80%83%E6%80%BB%E5%8E%9F%E5%88%99"><span class="nav-text">备考总原则</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5%EF%BC%9A2025%E5%B9%B43%E6%9C%886%E6%97%A5-2025%E5%B9%B48%E6%9C%8831%E6%97%A5%EF%BC%88%E6%95%99%E8%B5%84%E4%B8%BA%E4%B8%BB%EF%BC%8C%E5%85%AC%E5%8A%A1%E5%91%98%E6%89%93%E5%9F%BA%E7%A1%80%EF%BC%89"><span class="nav-text">第一阶段：2025年3月6日-2025年8月31日（教资为主，公务员打基础）</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5%EF%BC%9A2025%E5%B9%B49%E6%9C%881%E6%97%A5-2026%E5%B9%B41%E6%9C%8831%E6%97%A5%EF%BC%88%E5%85%AC%E5%8A%A1%E5%91%98%E5%85%A8%E9%9D%A2%E5%BC%BA%E5%8C%96%EF%BC%8C%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%EF%BC%89"><span class="nav-text">第二阶段：2025年9月1日-2026年1月31日（公务员全面强化，教资面试准备）</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5%EF%BC%9A2026%E5%B9%B42%E6%9C%881%E6%97%A5-2026%E5%B9%B43%E6%9C%8815%E6%97%A5%EF%BC%88%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E5%89%8D%E5%86%B2%E5%88%BA%EF%BC%89"><span class="nav-text">第三阶段：2026年2月1日-2026年3月15日（公务员考前冲刺）</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%97%B6%E9%97%B4%E5%88%86%E9%85%8D%E7%A4%BA%E6%84%8F%E5%9B%BE"><span class="nav-text">时间分配示意图</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%AF%8F%E6%97%A5%E6%97%B6%E9%97%B4%E8%A1%A8%E7%A4%BA%E4%BE%8B%EF%BC%88%E5%B7%A5%E4%BD%9C%E6%97%A5%EF%BC%89"><span class="nav-text">每日时间表示例（工作日）</span></a></li></ol>
 
 	</div>
 </div>
@@ -741,7 +864,7 @@ import {initHBE} from "/js/plugins/hbe.js";
                     </span>
                     
                         <span>
-                            共 134.3k 字
+                            共 135.1k 字
                         </span>
                     
                 </p>
