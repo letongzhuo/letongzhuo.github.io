@@ -134,7 +134,119 @@
     
     
     
-<meta name="generator" content="Hexo 7.3.0"></head>
+<meta name="generator" content="Hexo 7.3.0"><style>mjx-container[jax="SVG"] {
+  direction: ltr;
+}
+
+mjx-container[jax="SVG"] > svg {
+  overflow: visible;
+}
+
+mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="SVG"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="SVG"][justify="right"] {
+  text-align: right;
+}
+
+g[data-mml-node="merror"] > g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node="merror"] > rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node="mtable"] > line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node="mtable"] > .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node="mtable"] > svg {
+  overflow: visible;
+}
+
+[jax="SVG"] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax="SVG"] mjx-tool > mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool > mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node="maction"][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+.MathJax path {
+  stroke-width: 3;
+}
+
+mjx-container[display="true"] {
+  overflow: auto hidden;
+}
+
+mjx-container[display="true"] + br {
+  display: none;
+}
+</style></head>
 
 
 
@@ -552,15 +664,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/tags">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">15</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">14</div>
         <div class="label text-third-text-color text-sm">标签</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/categories">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">36</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">32</div>
         <div class="label text-third-text-color text-sm">分类</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">156</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">144</div>
         <div class="label text-third-text-color text-sm">文章</div>
     </a>
 </div>
@@ -604,15 +716,15 @@
 </div>
                 <div class="statistics flex justify-around my-2.5">
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/tags">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">15</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">14</div>
         <div class="label text-third-text-color text-sm">标签</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/categories">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">36</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">32</div>
         <div class="label text-third-text-color text-sm">分类</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">156</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">144</div>
         <div class="label text-third-text-color text-sm">文章</div>
     </a>
 </div>
@@ -627,225 +739,6 @@
 			<div class="main-content">
 				<div class="home-content-container">
     <ul class="home-article-list">
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250225083104">
-                            机器学习三要素的理解
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            机器学习是什么？机器学习（Machine Learning） 是让计算机通过“经验”自动改进性能的技术。类比：就像教小孩认动物——你给他看大量猫狗图片（数据），他总结出“猫耳朵尖，狗耳朵圆”（模型），下次看到新图片就能自己判断（预测）。
-
-机器学习三要素1. 数据（Data）—— 经验的来源
-是什么：机器学习的“教材”，包括输入（特征）和输出（标签）。例子：  
-
-输入：房屋面积、卧室数量 ...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Feb 25 2025 08:31:04 GMT+0800">
-                
-                    2025-02-25
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/">机器学习</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250225083104">阅读全文<span class="seo-reader-text">机器学习三要素的理解</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250225082408">
-                            蚁群算法具体实现
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            通过一个极简的旅行商问题（TSP）来详细说明蚁群算法的步骤。假设有 3 个城市（A, B, C），城市间的距离如下：
-123456A → B：2 km  A → C：3 km  B → C：4 km  B → A：2 km（对称路径）  C → A：3 km  C → B：4 km  
-
-目标是找到一条最短路径，从某个城市出发，访问所有城市后回到起点。
-
-步骤 1：初始化参数
-信息素矩阵：每...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Feb 25 2025 08:24:08 GMT+0800">
-                
-                    2025-02-25
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/%E6%99%BA%E8%83%BD%E8%AE%A1%E7%AE%97/">智能计算</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250225082408">阅读全文<span class="seo-reader-text">蚁群算法具体实现</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250225080311">
-                            python实现文件重命名
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            1234567891011121314151617181920212223242526272829303132333435363738import os      def rename_files(directory, remove_str):      &quot;&quot;&quot;      批量删除文件名中的指定字符串      :param directory: 要处理的目录路...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Feb 25 2025 08:03:11 GMT+0800">
-                
-                    2025-02-25
-                
-            </span>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/code/">code</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250225080311">阅读全文<span class="seo-reader-text">python实现文件重命名</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
         
             <li class="home-article-item">
 
@@ -1257,29 +1150,31 @@
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
                     <h3 class="home-article-title">
-                        <a href="/posts/20250222202322">
-                            词法分析器的组成
+                        <a href="/posts/20250221174600">
+                            货币政策工具的作用机制
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
                             
-                            词法分析器（Lexer）的定义与组成词法分析器是编译器的第一个阶段，负责将源代码字符流转换为有意义的词法单元（Token）序列，为后续语法分析提供输入。以下是其核心组成内容：
+                            
+一、基础概念定义（公式化表达）1. 存款准备金率（Required Reserve Ratio, RRR）
+定义：商业银行必须存放在央行的资金占其存款总额的比例。  
+公式：存款准备金银行存款总额存款准备金率
+作用：控制银行的可贷资金规模，直接影响货币供应量。
 
-1. 词法分析器的核心组成(1) 字符扫描模块
-作用：逐字符读取源代码，生成字符流。
-输入：源代码文本（如 a = 1 + 2;）。
-输出：字符序列（如 [&#39;a&#39;, &#39; &#39;, &#39...
+2. 央行基准利率（Benchmark Interest Rate）
+定义：央行向商业银行发放贷款的利率（如中期借贷便利MLF利...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Feb 22 2025 20:23:22 GMT+0800">
+            <span class="home-article-date" data-date="Fri Feb 21 2025 17:46:00 GMT+0800">
                 
-                    2025-02-22
+                    2025-02-21
                 
             </span>
         </span>
@@ -1292,7 +1187,7 @@
                     
                         
                         <li>
-                            <a href="/categories/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/">编译原理</a>&nbsp;
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
                         </li>
                     
                     
@@ -1302,7 +1197,17 @@
                             <li>></li>
                         
                         <li>
-                            <a href="/categories/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E8%AF%8D%E6%B3%95%E5%88%86%E6%9E%90/">词法分析</a>&nbsp;
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E6%94%BF%E6%B3%95%E5%B8%B8%E8%AF%86/">政法常识</a>&nbsp;
                         </li>
                     
                     
@@ -1317,7 +1222,7 @@
                     
                         <li>
                             
-                            <a href="/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/">编译原理</a>&nbsp;
+                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1325,7 +1230,7 @@
         
     </div>
 
-    <a href="/posts/20250222202322">阅读全文<span class="seo-reader-text">词法分析器的组成</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/posts/20250221174600">阅读全文<span class="seo-reader-text">货币政策工具的作用机制</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1340,27 +1245,48 @@
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
                     <h3 class="home-article-title">
-                        <a href="/posts/20250222202144">
-                            词法分析的内容
+                        <a href="/posts/20250221171100">
+                            常见经济指标
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
                             
-                            词法分析（Lexical Analysis）是编译器的第一个阶段，负责将源代码字符流转换为有意义的词法单元（Token）序列，为后续的语法分析提供输入。它是编译过程中最基础且关键的一环。以下是词法分析的核心内容和相关知识点：
+                            
+一、宏观经济核心指标1. 经济增长类
 
-一、词法分析的核心任务
-字符流 → Token序列将源代码（如 a = 1 + 2;）拆解成一组具有特定意义的词法单元（Token），例如：1[Identifier(...
+
+指标
+定义与公式
+衡量对象
+考点提示
+
+
+
+GDP
+国内生产总值：一国一年内生产的最终产品&#x2F;服务总价值（GDP &#x3D; C + I + G + NX）
+经济总量与增长水平
+区分名义GDP与实际GDP（剔除价格因素）
+
+
+人均GDP
+GDP ÷ 总人口
+居民平均经济水平
+衡量国家富裕程度，但不反映分配公平
+
+
+GNP
+国民生产总值：本...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Feb 22 2025 20:21:44 GMT+0800">
+            <span class="home-article-date" data-date="Fri Feb 21 2025 17:11:00 GMT+0800">
                 
-                    2025-02-22
+                    2025-02-21
                 
             </span>
         </span>
@@ -1373,7 +1299,7 @@
                     
                         
                         <li>
-                            <a href="/categories/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/">编译原理</a>&nbsp;
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
                         </li>
                     
                     
@@ -1383,7 +1309,17 @@
                             <li>></li>
                         
                         <li>
-                            <a href="/categories/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E8%AF%8D%E6%B3%95%E5%88%86%E6%9E%90/">词法分析</a>&nbsp;
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E6%94%BF%E6%B3%95%E5%B8%B8%E8%AF%86/">政法常识</a>&nbsp;
                         </li>
                     
                     
@@ -1398,7 +1334,7 @@
                     
                         <li>
                             
-                            <a href="/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/">编译原理</a>&nbsp;
+                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1406,7 +1342,7 @@
         
     </div>
 
-    <a href="/posts/20250222202144">阅读全文<span class="seo-reader-text">词法分析的内容</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/posts/20250221171100">阅读全文<span class="seo-reader-text">常见经济指标</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1421,8 +1357,8 @@
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
                     <h3 class="home-article-title">
-                        <a href="/posts/20250222201443">
-                            关于分支Expr,Term,Factor,Number四个演变解疑
+                        <a href="/posts/20250221164400">
+                            收入分配体系
                         </a>
                     </h3>
 
@@ -1430,23 +1366,41 @@
                         
                             
                             
-  
-    为什么每一个分支都需要经历Expr,Term,Factor,Number这四个演变，而不能直接写为Number？
+一、核心概念与逻辑框架1. 定义与目标
 
-  
-这个问题涉及到分层文法设计的核心目的——通过强制规定推导顺序，来明确运算符的优先级和结合性，从而消除二义性。下面详细解释：
 
-1. 为什么需要分层推导？你提到的文法规则：
-123Expr → Expr + Term | TermTerm → Term * ...
+分配类型
+定义
+核心目标
+主导力量
+
+
+
+初次分配
+通过市场机制（生产要素参与生产）直接形成的收入分配
+效率优先（激励生产）
+市场主导
+
+
+再分配
+政府通过税收、社会保障、转移支付等手段对初次分配结果进行调节
+公平优先（缩小差距）
+政府主导
+
+
+底层逻辑：  
+
+初次分配 = 市场经济的“自然结果”（多劳多得，资本获利）。  
+再分配 = 政府的...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Feb 22 2025 20:14:43 GMT+0800">
+            <span class="home-article-date" data-date="Fri Feb 21 2025 16:44:00 GMT+0800">
                 
-                    2025-02-22
+                    2025-02-21
                 
             </span>
         </span>
@@ -1459,7 +1413,7 @@
                     
                         
                         <li>
-                            <a href="/categories/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/">编译原理</a>&nbsp;
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
                         </li>
                     
                     
@@ -1469,7 +1423,7 @@
                             <li>></li>
                         
                         <li>
-                            <a href="/categories/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E8%AF%AD%E6%B3%95%E5%88%86%E6%9E%90/">语法分析</a>&nbsp;
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
                         </li>
                     
                     
@@ -1484,7 +1438,7 @@
                     
                         <li>
                             
-                            <a href="/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/">编译原理</a>&nbsp;
+                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1492,7 +1446,300 @@
         
     </div>
 
-    <a href="/posts/20250222201443">阅读全文<span class="seo-reader-text">关于分支Expr,Term,Factor,Number四个演变解疑</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/posts/20250221164400">阅读全文<span class="seo-reader-text">收入分配体系</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                
+
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
+                    <h3 class="home-article-title">
+                        <a href="/posts/20250221163900">
+                            食品安全法
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            
+                            
+一、食品安全法「底层逻辑」立法目的：用最严谨的标准、最严格的监管、最严厉的处罚、最严肃的问责（“四个最严”）保障食品安全。核心公式：安全食品 &#x3D; 标准（科学） + 监管（全程） + 责任（主体明确） + 惩罚（威慑）
+
+二、核心知识点框架（思维导图）1234567891011121314151617181920食品安全法体系  ├─ 1. 适用范围：食品生产、销售、餐饮服务 + ...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Fri Feb 21 2025 16:39:00 GMT+0800">
+                
+                    2025-02-21
+                
+            </span>
+        </span>
+        
+            <span class="home-article-category">
+                <i class="fa-solid fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E6%94%BF%E6%B3%95%E5%B8%B8%E8%AF%86/">政法常识</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/posts/20250221163900">阅读全文<span class="seo-reader-text">食品安全法</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                
+
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
+                    <h3 class="home-article-title">
+                        <a href="/posts/20250221161600">
+                            申诉和诉讼的区别以及公务员离职就业限制
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            
+                            在公务员考试中，关于诉讼与申诉的区别以及公务员离职任职限制是法律常识和廉政建设的重要考点。以下从定义、区别、法律逻辑三个层面进行解析，结合理科思维（对比表格、流程图、公式化表达）帮助理解。
+
+一、诉讼 vs 申诉：定义与区别（对比表格）
+
+
+维度
+诉讼
+申诉
+
+
+
+性质
+司法程序（法院裁判纠纷）
+行政程序（内部纠正错误）
+
+
+法律依据
+《民事诉讼法》《行政诉讼法》等
+《公务员法》《监察法》等...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Fri Feb 21 2025 16:16:00 GMT+0800">
+                
+                    2025-02-21
+                
+            </span>
+        </span>
+        
+            <span class="home-article-category">
+                <i class="fa-solid fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E6%94%BF%E6%B3%95%E5%B8%B8%E8%AF%86/">政法常识</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/posts/20250221161600">阅读全文<span class="seo-reader-text">申诉和诉讼的区别以及公务员离职就业限制</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                
+
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
+                    <h3 class="home-article-title">
+                        <a href="/posts/20250221113900">
+                            慈善法
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            
+                            
+一、慈善法的本质与核心逻辑1. 定义与目标（公式化表达）
+慈善法 &#x3D; 规范慈善活动 + 保障捐赠人权益 + 促进慈善事业发展  
+目标：通过法律手段优化资源配置，解决社会问题（类比“社会资源再分配算法”）。
+
+2. 核心逻辑（流程图）12慈善组织 → 依法登记 → 开展募捐/救助 → 接受监管 → 信息公开 → 享受税收优惠  （若违法）→ 承担法律责任  
+
+
+二、慈善法核心考...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Fri Feb 21 2025 11:39:00 GMT+0800">
+                
+                    2025-02-21
+                
+            </span>
+        </span>
+        
+            <span class="home-article-category">
+                <i class="fa-solid fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E6%94%BF%E6%B3%95%E5%B8%B8%E8%AF%86/">政法常识</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/posts/20250221113900">阅读全文<span class="seo-reader-text">慈善法</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1502,7 +1749,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-	<a class="extend prev" rel="prev" href="/page/6/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/5/">5</a><a class="page-number" href="/page/6/">6</a><span class="page-number current">7</span><a class="page-number" href="/page/8/">8</a><a class="page-number" href="/page/9/">9</a><span class="space">&hellip;</span><a class="page-number" href="/page/16/">16</a><a class="extend next" rel="next" href="/page/8/"><i class="fa-regular fa-angle-right"></i></a>
+	<a class="extend prev" rel="prev" href="/page/6/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/5/">5</a><a class="page-number" href="/page/6/">6</a><span class="page-number current">7</span><a class="page-number" href="/page/8/">8</a><a class="page-number" href="/page/9/">9</a><span class="space">&hellip;</span><a class="page-number" href="/page/15/">15</a><a class="extend next" rel="next" href="/page/8/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
   
     </div>
@@ -1528,11 +1775,11 @@
                 
                 <p class="post-count space-x-0.5">
                     <span>
-                        共撰写了 156 篇文章
+                        共撰写了 144 篇文章
                     </span>
                     
                         <span>
-                            共 152.9k 字
+                            共 143k 字
                         </span>
                     
                 </p>

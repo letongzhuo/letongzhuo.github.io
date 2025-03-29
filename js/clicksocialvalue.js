@@ -34,7 +34,12 @@ jQuery(document).ready(function($) {
            "left": x-25,
            "position": "absolute",
            "font-weight": "bold",
-           "color": "rgb("+~~(255*Math.random())+","+~~(255*Math.random())+","+~~(255*Math.random())+")"
+           "color": "rgb("+~~(255*Math.random())+","+~~(255*Math.random())+","+~~(255*Math.random())+")",
+           "pointer-events": "none",  // 新增这行实现鼠标穿透
+           "user-select": "none",
+           "-webkit-user-select": "none",
+           "-moz-user-select": "none",
+           "-ms-user-select": "none"
        });
        $("body").append($i);
        $i.animate({
