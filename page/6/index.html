@@ -134,7 +134,119 @@
     
     
     
-<meta name="generator" content="Hexo 7.3.0"></head>
+<meta name="generator" content="Hexo 7.3.0"><style>mjx-container[jax="SVG"] {
+  direction: ltr;
+}
+
+mjx-container[jax="SVG"] > svg {
+  overflow: visible;
+}
+
+mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="SVG"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="SVG"][justify="right"] {
+  text-align: right;
+}
+
+g[data-mml-node="merror"] > g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node="merror"] > rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node="mtable"] > line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node="mtable"] > .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node="mtable"] > svg {
+  overflow: visible;
+}
+
+[jax="SVG"] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax="SVG"] mjx-tool > mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool > mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node="maction"][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+.MathJax path {
+  stroke-width: 3;
+}
+
+mjx-container[display="true"] {
+  overflow: auto hidden;
+}
+
+mjx-container[display="true"] + br {
+  display: none;
+}
+</style></head>
 
 
 
@@ -556,11 +668,11 @@
         <div class="label text-third-text-color text-sm">标签</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/categories">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">39</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">36</div>
         <div class="label text-third-text-color text-sm">分类</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">149</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">151</div>
         <div class="label text-third-text-color text-sm">文章</div>
     </a>
 </div>
@@ -608,11 +720,11 @@
         <div class="label text-third-text-color text-sm">标签</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/categories">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">39</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">36</div>
         <div class="label text-third-text-color text-sm">分类</div>
     </a>
     <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">149</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">151</div>
         <div class="label text-third-text-color text-sm">文章</div>
     </a>
 </div>
@@ -627,6 +739,142 @@
 			<div class="main-content">
 				<div class="home-content-container">
     <ul class="home-article-list">
+        
+            <li class="home-article-item">
+
+                
+
+                
+
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
+                    <h3 class="home-article-title">
+                        <a href="/posts/20250228154656">
+                            简要理解启发式搜索
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            
+                            启发式搜索（Heuristic Search）是一种通过利用启发式信息（经验或直觉）来指导搜索方向的算法，旨在更高效地找到问题的最优解或可行解。与传统的“盲目搜索”（如广度优先搜索、深度优先搜索）不同，启发式搜索通过评估当前状态与目标状态的接近程度，优先探索更有可能接近目标的路径，从而减少搜索的时间和空间复杂度。
+
+核心概念
+启发式函数（Heuristic Function）定义：一个用于估...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Fri Feb 28 2025 15:46:56 GMT+0800">
+                
+                    2025-02-28
+                
+            </span>
+        </span>
+        
+            <span class="home-article-category">
+                <i class="fa-solid fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/%E5%90%AF%E5%8F%91%E5%BC%8F%E6%90%9C%E7%B4%A2/">启发式搜索</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/posts/20250228154656">阅读全文<span class="seo-reader-text">简要理解启发式搜索</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                
+
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
+                    <h3 class="home-article-title">
+                        <a href="/posts/20250228082825">
+                            对于人类历史上反复出现的“先驱者被群体排斥”的理解
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            
+                            苏格拉底和伽利略的遭遇，正是人类历史上反复出现的“先驱者被群体排斥”的典型案例。这种矛盾的核心在于：当个体的理性与群体的惯性认知冲突时，群体往往会通过压制个体来维护表面稳定。以下结合具体历史背景和《三体》中的隐喻展开分析：
+
+1. 苏格拉底：质疑“共识”的代价
+背景：公元前5世纪的雅典号称“民主摇篮”，但苏格拉底却因“腐蚀青年”和“不敬神明”被判处死刑。他真正的“罪行”是用追问揭露大众的无知...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Fri Feb 28 2025 08:28:25 GMT+0800">
+                
+                    2025-02-28
+                
+            </span>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/%E4%B8%89%E4%BD%93/">三体</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/posts/20250228082825">阅读全文<span class="seo-reader-text">对于人类历史上反复出现的“先驱者被群体排斥”的理解</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
         
             <li class="home-article-item">
 
@@ -1089,172 +1337,11 @@ APB2
                 </div>
             </li>
         
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250227165800">
-                            三体中的时间线推测
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            
-1. 危机纪元（三体危机公开后）
-小说中的时间线：  
-危机纪元起始于人类发现三体文明并确认其入侵意图（叶文洁向三体发送信号后，经过三体舰队启程的400年航程）。
-关键事件：人类启动“面壁计划”、研发太空舰队、发展行星防御技术等。
-
-
-现实对应推测：  
-危机纪元可能对应现实中的21世纪中叶到22世纪初。例如：
-叶文洁在1960-1970年代发送信号，三体舰队启程时间为小说中的“危机纪元元...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Feb 27 2025 16:58:00 GMT+0800">
-                
-                    2025-02-27
-                
-            </span>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E4%B8%89%E4%BD%93/">三体</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250227165800">阅读全文<span class="seo-reader-text">三体中的时间线推测</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250226103007">
-                            京剧常识
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            以下是关于京剧的公务员考试（“考公”）中可能涉及的常识点整理，涵盖文化、历史、艺术特色等内容，帮助你在行测或申论中应对相关题目：
-
-一、京剧的基本概况
-起源与发展  
-
-形成于清朝乾隆年间（1790年），融合了徽剧、汉调、昆曲、秦腔等地方戏曲精华。  
-“四大徽班”进京（三庆、四喜、春台、和春）是京剧形成的标志性事件。  
-鼎盛时期为清末民初，被誉为“国粹”。
-
-
-艺术地位  
-
-中国五大戏...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Feb 26 2025 10:30:07 GMT+0800">
-                
-                    2025-02-26
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86/">生活常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250226103007">阅读全文<span class="seo-reader-text">京剧常识</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
     </ul>
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-	<a class="extend prev" rel="prev" href="/page/5/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/4/">4</a><a class="page-number" href="/page/5/">5</a><span class="page-number current">6</span><a class="page-number" href="/page/7/">7</a><a class="page-number" href="/page/8/">8</a><span class="space">&hellip;</span><a class="page-number" href="/page/15/">15</a><a class="extend next" rel="next" href="/page/7/"><i class="fa-regular fa-angle-right"></i></a>
+	<a class="extend prev" rel="prev" href="/page/5/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/4/">4</a><a class="page-number" href="/page/5/">5</a><span class="page-number current">6</span><a class="page-number" href="/page/7/">7</a><a class="page-number" href="/page/8/">8</a><span class="space">&hellip;</span><a class="page-number" href="/page/16/">16</a><a class="extend next" rel="next" href="/page/7/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
   
     </div>
@@ -1280,11 +1367,11 @@ APB2
                 
                 <p class="post-count space-x-0.5">
                     <span>
-                        共撰写了 149 篇文章
+                        共撰写了 151 篇文章
                     </span>
                     
                         <span>
-                            共 146.3k 字
+                            共 149.3k 字
                         </span>
                     
                 </p>
