@@ -2668,7 +2668,7 @@ html.is-animating .scroll-progress-bar {
   transition: all 0.1s linear;
 }
 .post-toc-wrap .post-toc .nav .nav-child {
-  display: none;
+  display: block;
 }
 .post-toc-wrap .post-toc .nav .active > .nav-child {
   display: block;
