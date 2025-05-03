@@ -1,110 +1,166 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="Blog, Hexo, Node.js,lele,TongZhuo,同桌,乐乐,同桌的博客">
-    
-    <meta name="author" content="lele">
-    <!-- preconnect -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-    
-        
-        
-        
-            <link rel="preconnect" href="https://registry.npmmirror.com" crossorigin>
-        
-    
-    <!--- Seo Part-->
-    
-    <link rel="canonical" href="https://letongzhuo.cn/page/8/"/>
-    <meta name="robots" content="index,follow">
-    <meta name="googlebot" content="index,follow">
-    <meta name="revisit-after" content="1 days">
-    
-    
-    
-        
-        <meta name="description" content="Hexo Theme Redefine, Redefine Your Hexo Journey.">
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>TongZhuo's Blog - Welcome to My Blog</title><meta name="author" content="lele"><meta name="copyright" content="lele"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="ffffff"><meta name="description" content="Welcome to My Blog">
 <meta property="og:type" content="website">
 <meta property="og:title" content="TongZhuo&#39;s Blog">
 <meta property="og:url" content="https://letongzhuo.cn/page/8/index.html">
 <meta property="og:site_name" content="TongZhuo&#39;s Blog">
-<meta property="og:description" content="Hexo Theme Redefine, Redefine Your Hexo Journey.">
+<meta property="og:description" content="Welcome to My Blog">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://letongzhuo.cn/images/redefine-og.webp">
-<meta property="article:author" content="TongZhuo">
+<meta property="og:image" content="https://letongzhuo.cn/img/avatar-tongzhuo.jpg">
+<meta property="article:author" content="lele">
 <meta property="article:tag" content="Blog, Hexo, Node.js,lele,TongZhuo,同桌,乐乐,同桌的博客">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://letongzhuo.cn/images/redefine-og.webp">
+<meta name="twitter:image" content="https://letongzhuo.cn/img/avatar-tongzhuo.jpg"><link rel="shortcut icon" href="/img/favicon.ico"><link rel="canonical" href="https://letongzhuo.cn/page/8/index.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox/fancybox.min.css" media="print" onload="this.media='all'"><script>
+    (() => {
+      
+    const saveToLocal = {
+      set: (key, value, ttl) => {
+        if (!ttl) return
+        const expiry = Date.now() + ttl * 86400000
+        localStorage.setItem(key, JSON.stringify({ value, expiry }))
+      },
+      get: key => {
+        const itemStr = localStorage.getItem(key)
+        if (!itemStr) return undefined
+        const { value, expiry } = JSON.parse(itemStr)
+        if (Date.now() > expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return value
+      }
+    }
+
+    window.btf = {
+      saveToLocal,
+      getScript: (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        Object.entries(attr).forEach(([key, val]) => script.setAttribute(key, val))
+        script.onload = script.onreadystatechange = () => {
+          if (!script.readyState || /loaded|complete/.test(script.readyState)) resolve()
+        }
+        script.onerror = reject
+        document.head.appendChild(script)
+      }),
+      getCSS: (url, id) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onload = link.onreadystatechange = () => {
+          if (!link.readyState || /loaded|complete/.test(link.readyState)) resolve()
+        }
+        link.onerror = reject
+        document.head.appendChild(link)
+      }),
+      addGlobalFn: (key, fn, name = false, parent = window) => {
+        if (!false && key.startsWith('pjax')) return
+        const globalFn = parent.globalFn || {}
+        globalFn[key] = globalFn[key] || {}
+        globalFn[key][name || Object.keys(globalFn[key]).length] = fn
+        parent.globalFn = globalFn
+      }
+    }
+  
+      
+      const activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      const activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', 'ffffff')
+        }
+      }
+
+      btf.activateDarkMode = activateDarkMode
+      btf.activateLightMode = activateLightMode
+
+      const theme = saveToLocal.get('theme')
     
-    
-    <!--- Icon Part-->
-    <link rel="icon" type="image/png" href="/img/favicon.ico" sizes="192x192">
-    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon.ico">
-    <meta name="theme-color" content="#A31F34">
-    <link rel="shortcut icon" href="/img/favicon.ico">
-    <!--- Page Info-->
-    
-    <title>
+          const mediaQueryDark = window.matchMedia('(prefers-color-scheme: dark)')
+          const mediaQueryLight = window.matchMedia('(prefers-color-scheme: light)')
+
+          if (theme === undefined) {
+            if (mediaQueryLight.matches) activateLightMode()
+            else if (mediaQueryDark.matches) activateDarkMode()
+            else {
+              const hour = new Date().getHours()
+              const isNight = hour <= 7 || hour >= 19
+              isNight ? activateDarkMode() : activateLightMode()
+            }
+            mediaQueryDark.addEventListener('change', () => {
+              if (saveToLocal.get('theme') === undefined) {
+                e.matches ? activateDarkMode() : activateLightMode()
+              }
+            })
+          } else {
+            theme === 'light' ? activateLightMode() : activateDarkMode()
+          }
         
-            TongZhuo&#39;s Blog - Welcome To TongZhuo&#39;s Website!^_^
-        
-    </title>
-
-    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fonts/Chillax/chillax.css">
-
-    <!--- Inject Part-->
+      
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        document.documentElement.classList.toggle('hide-aside', asideStatus === 'hide')
+      }
     
-        
-            
-    
-            
-    
-
-    
-<link rel="stylesheet" href="/css/style.css">
-
-
-    
-        <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/css/build/tailwind.css">
-    
-
-    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fonts/GeistMono/geist-mono.css">
-    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fonts/Geist/geist.css">
-    <!--- Font Part-->
-    
-        <link href="https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Medium/result.css" rel="stylesheet">
-    
-    
-    
-        <link href="https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Medium/result.css" rel="stylesheet">
-    
-    
-        <link href="/fonts/Chillax/chillax.css" rel="stylesheet">
-    
-    
-    
-
-    <script id="hexo-configurations">
-    window.config = {"hostname":"letongzhuo.cn","root":"/","language":"zh-CN","path":"search.xml"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"14px","image_alignment":"center","image_caption":false,"link_icon":true,"delete_mask":false,"title_alignment":"left","headings_top_spacing":{"h1":"3.2rem","h2":"2.4rem","h3":"1.9rem","h4":"1.6rem","h5":"1.4rem","h6":"1.3rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","highlight_theme":{"light":"github","dark":"vs2015"},"font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":true},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"pangu_js":false,"recommendation":{"enable":true,"title":"推荐阅读","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":true,"family":"Yozai Medium","url":"https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Medium/result.css"},"english":{"enable":true,"family":"Chillax","url":"/fonts/Chillax/chillax.css"},"title":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":true},"scroll_progress":{"bar":true,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":true,"site_pv":true,"site_uv":true,"post_pv":false},"single_page":true,"preloader":{"enable":"ture","custom_message":null},"open_graph":{"enable":true,"image":"/images/redefine-og.webp","description":"Hexo Theme Redefine, Redefine Your Hexo Journey."},"google_analytics":{"enable":false,"id":null}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"welcome to TongZhuo's website.","subtitle":{"text":["苦恨甘来的某天","一切皆为宝藏"],"hitokoto":{"enable":true,"show_author":true,"api":"https://v1.hitokoto.cn?c=d&c=h&c=i&c=j&c=k"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":true,"family":"Yozai Medium","url":"https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Medium/result.css"},"social_links":{"enable":true,"style":"default","links":{"github":"https://github.com/tongzhuo-0801","instagram":null,"zhihu":null,"twitter":null,"email":"tongzhuo0801@gmail","facebook":"https://www.facebook.com/profile.php?id=61558241926702"},"qrs":{"weixin":"/img/wechat.jpeg","qq":"/img/qq.jpg"}}},"plugins":{"feed":{"enable":false},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":true,"version":"11.4.1"}},"version":"2.8.2","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Archives":{"path":"/archives","icon":"fa-regular fa-archive"},"tags":{"path":"/tags","icon":"fa-solid fa-tags"},"Categories":{"path":"/categories","icon":"fa-regular fa-folder"},"About":{"icon":"fa-regular fa-user","submenus":{"Me":"/about","Friends":"/links"}}},"search":{"enable":true,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":"感谢deepseek以及各种AI<br>没了你们我就是无头苍蝇<br>o(╥﹏╥)o","show_on_mobile":true,"links":{"Archives":{"path":"/archives","icon":"fa-regular fa-archive"},"Tags":{"path":"/tags","icon":"fa-regular fa-tags"},"Categories":{"path":"/categories","icon":"fa-regular fa-folder"},"essays":{"path":"/essays","icon":"fa-regular fa-message"}}},"article_date_format":"auto","excerpt_length":200,"categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2025/1/1 00:00:00"};
-    window.lang_ago = {"second":"%s 秒前","minute":"%s 分钟前","hour":"%s 小时前","day":"%s 天前","week":"%s 周前","month":"%s 个月前","year":"%s 年前"};
-    window.data = {"masonry":false};
-  </script>
-    
-    <!--- Fontawesome Part-->
-    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fontawesome/fontawesome.min.css">
-    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fontawesome/brands.min.css">
-    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fontawesome/solid.min.css">
-    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/fontawesome/regular.min.css">
-    
-    
-    
-    
-<meta name="generator" content="Hexo 7.3.0"><style>mjx-container[jax="SVG"] {
+      
+    const detectApple = () => {
+      if (/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)) {
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+  
+    })()
+  </script><link rel="stylesheet" href="https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Medium/result.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.xml","preload":false,"top_n_per_article":1,"unescape":false,"languages":{"hits_empty":"未找到符合您查询的内容：${query}","hits_stats":"共找到 ${hits} 篇文章"}},
+  translate: undefined,
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":500,"highlightFullpage":true,"highlightMacStyle":true},
+  copy: {
+    success: '复制成功',
+    error: '复制失败',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '天',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: {"chs_to_cht":"已切换为繁体中文","cht_to_chs":"已切换为简体中文","day_to_night":"已切换为深色模式","night_to_day":"已切换为浅色模式","bgLight":"#49b1f5","bgDark":"#1f1f1f","position":"bottom-left"},
+  infinitegrid: {
+    js: 'https://cdn.jsdelivr.net/npm/@egjs/infinitegrid/dist/infinitegrid.min.js',
+    buttonText: '加载更多'
+  },
+  isPhotoFigcaption: false,
+  islazyloadPlugin: true,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: true,
+  },
+  autoDarkmode: true
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: 'TongZhuo\'s Blog',
+  isHighlightShrink: true,
+  isToc: false,
+  pageType: 'home'
+}</script><link rel="stylesheet" href="/css/maoboli.css"><link rel="stylesheet" href="/css/cursor.css"><meta name="generator" content="Hexo 7.3.0"><style>mjx-container[jax="SVG"] {
   direction: ltr;
 }
 
@@ -216,1654 +272,125 @@ mjx-container[display="true"] {
 mjx-container[display="true"] + br {
   display: none;
 }
-</style></head>
+</style></head><body><script>window.paceOptions = {
+  restartOnPushState: false
+}
 
+btf.addGlobalFn('pjaxSend', () => {
+  Pace.restart()
+}, 'pace_restart')
 
-
-<body>
-	<div class="progress-bar-container">
-	
-	<span class="scroll-progress-bar"></span>
-	
-
-	
-	<span class="pjax-progress-bar"></span>
-	<!--        <span class="swup-progress-icon">-->
-	<!--            <i class="fa-solid fa-circle-notch fa-spin"></i>-->
-	<!--        </span>-->
-	
-</div>
-
-<main class="page-container" id="swup">
-
-	
-	<style>
-    .home-article-item,
-    .sidebar-links,
-    .sidebar-content,
-    a.page-number,
-    a.extend,
-    .sidebar-links .links:hover,
-    .right-bottom-tools,
-    footer.footer {
-        background-color: var(--background-color-transparent-80) !important;
+</script><link rel="stylesheet" href="/css/loading-bar.css"/><script src="https://cdn.jsdelivr.net/npm/pace-js/pace.min.js"></script><div id="web_bg" style="background-image: url(/img/background.webp);"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img text-center"><img src= "/img/loading.gif" data-lazy-src="/img/avatar-tongzhuo.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data text-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">156</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">15</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">38</div></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><span class="site-page group hide"><i class="fa-fw fas fa-book"></i><span> 分类</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/"><i class="fa-fw fas fa-th"></i><span> 系列</span></a></li><li><a class="site-page child" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></li><li><a class="site-page child" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li></ul></div><div class="menus_item"><span class="site-page group hide"><i class="fa-fw fas fa-feather"></i><span> 个人空间</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/shuoshuo/"><i class="fa-fw fas fa-book"></i><span> 说说</span></a></li><li><a class="site-page child" href="/link/"><i class="fa-fw fas fa-link"></i><span> 链接</span></a></li><li><a class="site-page child" href="/about/"><i class="fa-fw fas fa-user"></i><span> 关于我</span></a></li></ul></div><div class="menus_item"><span class="site-page group hide"><i class="fa-fw fas fa-list"></i><span> 更多</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" target="_blank" rel="noopener" href="https://music.letongzhuo.cn"><span> 三体</span></a></li><li><a class="site-page child" href="https://letongzhuo.cn/zhugeliang/"><span> 诸葛亮</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://comment.letongzhuo.cn/ui"><span> 评论管理</span></a></li></ul></div></div></div></div><div class="page" id="body-wrap"><header class="full_page fixed" id="page-header" style="background: transparent;"><nav id="nav"><span id="blog-info"><a class="nav-site-title" href="/"><img class="site-icon" src= "/img/loading.gif" data-lazy-src="/img/avatar-tongzhuo.jpg" alt="Logo"><span class="site-name">TongZhuo's Blog</span></a></span><div id="menus"><div id="search-button"><span class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></span></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><span class="site-page group hide"><i class="fa-fw fas fa-book"></i><span> 分类</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/"><i class="fa-fw fas fa-th"></i><span> 系列</span></a></li><li><a class="site-page child" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></li><li><a class="site-page child" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li></ul></div><div class="menus_item"><span class="site-page group hide"><i class="fa-fw fas fa-feather"></i><span> 个人空间</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/shuoshuo/"><i class="fa-fw fas fa-book"></i><span> 说说</span></a></li><li><a class="site-page child" href="/link/"><i class="fa-fw fas fa-link"></i><span> 链接</span></a></li><li><a class="site-page child" href="/about/"><i class="fa-fw fas fa-user"></i><span> 关于我</span></a></li></ul></div><div class="menus_item"><span class="site-page group hide"><i class="fa-fw fas fa-list"></i><span> 更多</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" target="_blank" rel="noopener" href="https://music.letongzhuo.cn"><span> 三体</span></a></li><li><a class="site-page child" href="https://letongzhuo.cn/zhugeliang/"><span> 诸葛亮</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://comment.letongzhuo.cn/ui"><span> 评论管理</span></a></li></ul></div></div><div id="toggle-menu"><span class="site-page"><i class="fas fa-bars fa-fw"></i></span></div></div></nav><div id="site-info"><h1 id="site-title">TongZhuo's Blog</h1><div id="site-subtitle"><span id="subtitle"></span></div><div id="site_social_icons"><a class="social-icon" href="mailto:tongzhuo0801@gmail.com" target="_blank" title="Email"><i class="fas fa-envelope" style="color: dark#FFF light#000;"></i></a><a class="social-icon" href="/img/wechat.jpeg" target="_blank" title="Wechat"><i class="fa-brands fa-weixin" style="color: dark#FFF light#000;"></i></a><a class="social-icon" href="https://www.facebook.com/profile.php?id=61558241926702" target="_blank" title="Facebook"><i class="fa-brands fa-facebook" style="color: dark#FFF light#000;"></i></a><a class="social-icon" href="/img/qq.jpg" target="_blank" title="QQ"><i class="fa-brands fa-qq" style="color: dark#FFF light#000;"></i></a><a class="social-icon" href="https://t.me/letongzhuo" target="_blank" title="Telegram"><i class="fa-brands fa-telegram" style="color: dark#FFF light#000;"></i></a></div></div><div id="scroll-down"><i class="fas fa-angle-down scroll-down-effects"></i></div></header><main class="layout" id="content-inner"><div class="recent-posts nc" id="recent-posts"><div class="recent-post-items"><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/20250227165800" title="三体中的时间线推测">三体中的时间线推测</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2025-02-27T08:58:00.000Z" title="发表于 2025-02-27 16:58:00">2025-02-27</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2025-02-27T08:58:42.026Z" title="更新于 2025-02-27 16:58:42">2025-02-27</time></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/%E4%B8%89%E4%BD%93/">三体</a></span></div><div class="content"> 1. 危机纪元（三体危机公开后）  小说中的时间线：  危机纪元起始于人类发现三体文明并确认其入侵意图（叶文洁向三体发送信号后，经过三体舰队启程的400年航程）。 关键事件：人类启动“面壁计划”、研发太空舰队、发展行星防御技术等。   现实对应推测：  危机纪元可能对应现实中的21世纪中叶到22世纪初。例如：  叶文洁在1960-1970年代发送信号，三体舰队启程时间为小说中的“危机纪元元年”（约现实中的1970年代+400年航程≈24世纪），但人类在危机纪元初期（约21世纪末）已开始备战。 书中提及的“可控核聚变技术”在现实中尚未实现，但可能对应2050-2100年左右的技术阶段。       2....</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/20250226103007" title="京剧常识">京剧常识</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2025-02-26T02:30:07.000Z" title="发表于 2025-02-26 10:30:07">2025-02-26</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2025-02-26T02:30:32.731Z" title="更新于 2025-02-26 10:30:32">2025-02-26</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86/">生活常识</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a></span></div><div class="content">...</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/20250225180021" title="行政处罚的种类">行政处罚的种类</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2025-02-25T10:00:21.000Z" title="发表于 2025-02-25 18:00:21">2025-02-25</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2025-02-27T10:25:39.077Z" title="更新于 2025-02-27 18:25:39">2025-02-27</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E6%94%BF%E6%B3%95%E5%B8%B8%E8%AF%86/">政法常识</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a></span></div><div class="content">行政处罚的种类根据《行政处罚法》第九条的规定，主要包括以下几种：  1. 警告  通俗理解：对违法行为的正式批评和告诫，不涉及财产或人身限制。 适用场景：轻微违法行为，如噪音扰民、随地吐痰等。   2. 罚款  通俗理解：要求违法者缴纳一定数额的金钱。 适用场景：经济类违法行为，如交通违章、无证经营等。   3. 没收违法所得、没收非法财物  通俗理解：将违法者通过违法行为获得的利益或使用的工具没收。 适用场景：如非法经营、制假售假等。   4. 责令停产停业  通俗理解：要求违法者停止生产经营活动。 适用场景：如企业违规排污、生产假冒伪劣产品等。   5. 暂扣或者吊销许可证、执照  通俗理解：暂时或永久取消违法者的经营资格或从业资格。 适用场景：如司机酒驾、企业违规操作等。   6. 行政拘留  通俗理解：对违法者进行短期人身自由限制。 适用场景：如打架斗殴、扰乱公共秩序等。   7....</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/20250225080311" title="python实现文件重命名">python实现文件重命名</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2025-02-25T00:03:11.000Z" title="发表于 2025-02-25 08:03:11">2025-02-25</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2025-02-25T00:04:27.000Z" title="更新于 2025-02-25 08:04:27">2025-02-25</time></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/code/">code</a></span></div><div class="content">1234567891011121314151617181920212223242526272829303132333435363738import os      def rename_files(directory, remove_str):      &quot;&quot;&quot;      批量删除文件名中的指定字符串      :param directory: 要处理的目录路径      :param remove_str: 需要删除的字符串      &quot;&quot;&quot;    # 遍历目录中的所有文件      for filename in os.listdir(directory):          # 跳过子目录，只处理文件          if os.path.isfile(os.path.join(directory, filename)):              # 生成新文件名（删除指定字符串）              new_name = filename.replace(remove_str,...</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/20250224174147" title="我国国道命名逻辑">我国国道命名逻辑</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2025-02-24T09:41:47.000Z" title="发表于 2025-02-24 17:41:47">2025-02-24</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2025-02-24T09:43:28.858Z" title="更新于 2025-02-24 17:43:28">2025-02-24</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E5%9C%B0%E7%90%86%E5%B8%B8%E8%AF%86/">地理常识</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a></span></div><div class="content">我国国道的命名逻辑遵循“编号分类+走向规律” ，通过数字编码直观反映道路的走向、类型和重要性。以下是通俗易懂的总结，结合分类规则、数字含义和典型例子，方便记忆和考试答题。  一、国道编号的基本结构 所有国道以字母 G（“国”拼音首字母） 开头，后接 1位、2位或3位数字，不同位数代表不同类别：    编号类型 数字位数 含义 例子     首都放射线 1位（G1-G9） 以北京为中心向外辐射的国道 G1（京哈高速）   纵线国道 2位奇数（G11-G89） 南北走向的国道 G15（沈海高速）   横线国道 2位偶数（G10-G90） 东西走向的国道 G30（连霍高速）   联络线 3位（G101-G999） 连接其他国道或补充路网 G318（川藏线）     二、具体命名规则 1. 首都放射线（G1-G9）  编号范围：G1至G9（共12条，实际扩展至G95）。 走向：以北京为起点，按顺时针方向排列。 例子：  G1：京哈高速（北京→哈尔滨） G2：京沪高速（北京→上海） G6：京藏高速（北京→拉萨）    2....</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/20250224173333" title="选举法中关于人口比例的核心逻辑">选举法中关于人口比例的核心逻辑</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2025-02-24T09:33:33.000Z" title="发表于 2025-02-24 17:33:33">2025-02-24</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2025-02-24T09:35:00.143Z" title="更新于 2025-02-24 17:35:00">2025-02-24</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E6%94%BF%E6%B3%95%E5%B8%B8%E8%AF%86/">政法常识</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a></span></div><div class="content"> 一、核心原则：公平代表权 “人口比例”的本质：为了让不同地区、不同群体的人都能选出自己的代表，避免“人多的地区吃亏”或“人少的地区被忽视”。 简单说就是：人口越多的地方，人大代表名额越多，但也要兼顾地区平衡。  二、关键比例规则 1. 城乡人口比例：1:1（同票同权）  背景：过去农村和城市代表所代表的人口比例是4:1（比如1个城市代表对应4万城市人，1个农村代表对应16万农村人），2010年修改为1:1。 通俗解释：现在无论你住在城市还是农村，每1个人大代表背后的人口基数相同，城乡选举权完全平等。  2. 不同层级代表名额的分配比例  县级人大代表：按人口数分配，每1个代表对应的人口数相同（即1:1）。  例：某县总人口50万，若规定每5万人选1名代表，则全县分配10名代表。   省级人大代表：名额由全国人大决定，按“人口数+地区数”综合分配。  人口比例为主：比如某省人口占全国5%，则省级代表名额也接近全国总数的5%。 地区平衡为辅：人口极少的省份（如西藏）也会保证一定名额，避免被人口大省完全主导。   全国人大代表：  各省名额 = 固定基数（8人） +...</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/20250224171856" title="世界上的主要大河">世界上的主要大河</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2025-02-24T09:18:56.000Z" title="发表于 2025-02-24 17:18:56">2025-02-24</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2025-02-24T09:21:35.005Z" title="更新于 2025-02-24 17:21:35">2025-02-24</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E5%9C%B0%E7%90%86%E5%B8%B8%E8%AF%86/">地理常识</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a></span></div><div class="content">...</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/20250224170718" title="佛教、基督教、伊斯兰教">佛教、基督教、伊斯兰教</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2025-02-24T09:07:18.000Z" title="发表于 2025-02-24 17:07:18">2025-02-24</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2025-02-24T09:08:24.197Z" title="更新于 2025-02-24 17:08:24">2025-02-24</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86/">生活常识</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a></span></div><div class="content">好的！我会用最简化的方式帮你梳理这三大宗教的核心考点，重点突出创始人、经典、核心教义、重要节日和考试易错点，方便记忆和答题。  一、佛教 1. 一句话总结 佛教是释迦牟尼（佛陀）创立的宗教，核心是“苦的解脱”，主张通过修行跳出轮回。 2. 核心考点  创始人：释迦牟尼（古印度，公元前6世纪）。 经典：  佛经（总称，如《金刚经》《心经》）。 三藏（经、律、论）。   核心教义：  四圣谛：苦、集、灭、道（人生皆苦，苦因欲望，灭苦需修行）。 八正道：正见、正思维等8种修行方法。 因果轮回：行善积德可脱离轮回，达到涅槃。   重要分支：  大乘佛教（普度众生，中国主流）。 小乘佛教（自我修行，东南亚流行）。   重要节日：佛诞节（浴佛节，农历四月初八）。  3. 易错点  中国化：禅宗（六祖惠能）是佛教与中国文化结合的典型。 符号：卍（万字，象征吉祥）。   二、基督教 1. 一句话总结 基督教以耶稣为救世主，信仰三位一体（圣父、圣子、圣灵），经典是《圣经》。 2....</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/20250221174600" title="货币政策工具的作用机制">货币政策工具的作用机制</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2025-02-21T09:46:00.000Z" title="发表于 2025-02-21 17:46:00">2025-02-21</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2025-02-24T09:04:50.335Z" title="更新于 2025-02-24 17:04:50">2025-02-24</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E6%94%BF%E6%B3%95%E5%B8%B8%E8%AF%86/">政法常识</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a></span></div><div class="content"> 一、基础概念定义（公式化表达） 1. 存款准备金率（Required Reserve Ratio, RRR）  定义：商业银行必须存放在央行的资金占其存款总额的比例。 公式：存款准备金=银行存款总额×存款准备金率\text{存款准备金} = \text{银行存款总额} \times \text{存款准备金率} 存款准备金=银行存款总额×存款准备金率  作用：控制银行的可贷资金规模，直接影响货币供应量。  2. 央行基准利率（Benchmark Interest Rate）  定义：央行向商业银行发放贷款的利率（如中期借贷便利MLF利率），是市场利率的“锚”。 公式：市场利率=基准利率+风险溢价\text{市场利率} = \text{基准利率} + \text{风险溢价} 市场利率=基准利率+风险溢价  作用：通过改变借贷成本，调节企业和个人的贷款需求。  3. 再贴现率（Rediscount Rate）  定义：商业银行将未到期的票据抵押给央行获取现金时，央行收取的利率。 公式：商业银行融资成本=再贴现率+操作成本\text{商业银行融资成本} = \text{再贴现率} +...</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/20250221171100" title="常见经济指标">常见经济指标</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2025-02-21T09:11:00.000Z" title="发表于 2025-02-21 17:11:00">2025-02-21</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2025-02-22T10:05:56.457Z" title="更新于 2025-02-22 18:05:56">2025-02-22</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a><i class="fas fa-angle-right article-meta-link"></i><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E6%94%BF%E6%B3%95%E5%B8%B8%E8%AF%86/">政法常识</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a></span></div><div class="content"> 一、宏观经济核心指标 1. 经济增长类    指标 定义与公式 衡量对象 考点提示     GDP 国内生产总值：一国一年内生产的最终产品/服务总价值（GDP = C + I + G + NX） 经济总量与增长水平 区分名义GDP与实际GDP（剔除价格因素）   人均GDP GDP ÷ 总人口 居民平均经济水平 衡量国家富裕程度，但不反映分配公平   GNP 国民生产总值：本国居民在全球生产的最终产品总价值 国民经济总产出 与GDP区别（国土 vs 国民原则）    真题示例： “某国企业海外子公司创造的产值应计入？” → GNP（属于本国国民产出）。  2. 价格水平与通货膨胀    指标 定义与公式 衡量对象 考点提示     CPI 居民消费价格指数：一篮子消费品价格变动加权平均值 通货膨胀水平（消费者角度） CPI &gt;3%视为通胀预警；不包括房价   PPI 工业生产者出厂价格指数：衡量工业品出厂价格变动 上游通胀压力（生产者角度） PPI向CPI传导（滞后性）   通货膨胀率 （当期价格指数 - 基期价格指数）÷ 基期价格指数...</div></div></div></div><nav id="pagination"><div class="pagination"><a class="extend prev" rel="prev" href="/page/7/#content-inner"><i class="fas fa-chevron-left fa-fw"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/7/#content-inner">7</a><span class="page-number current">8</span><a class="page-number" href="/page/9/#content-inner">9</a><span class="space">&hellip;</span><a class="page-number" href="/page/16/#content-inner">16</a><a class="extend next" rel="next" href="/page/9/#content-inner"><i class="fas fa-chevron-right fa-fw"></i></a></div></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info text-center"><div class="avatar-img"><img src= "/img/loading.gif" data-lazy-src="/img/avatar-tongzhuo.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info-name">lele</div><div class="author-info-description">做一个沉默寡言的人</div><div class="site-data"><a href="/archives/"><div class="headline">文章</div><div class="length-num">156</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">15</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">38</div></a></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://www.facebook.com/profile.php?id=61558241926702"><i class="fab fa-facebook"></i><span>Follow Me</span></a><div class="card-info-social-icons"><a class="social-icon" href="mailto:tongzhuo0801@gmail.com" target="_blank" title="Email"><i class="fas fa-envelope" style="color: dark#FFF light#000;"></i></a><a class="social-icon" href="/img/wechat.jpeg" target="_blank" title="Wechat"><i class="fa-brands fa-weixin" style="color: dark#FFF light#000;"></i></a><a class="social-icon" href="https://www.facebook.com/profile.php?id=61558241926702" target="_blank" title="Facebook"><i class="fa-brands fa-facebook" style="color: dark#FFF light#000;"></i></a><a class="social-icon" href="/img/qq.jpg" target="_blank" title="QQ"><i class="fa-brands fa-qq" style="color: dark#FFF light#000;"></i></a><a class="social-icon" href="https://t.me/letongzhuo" target="_blank" title="Telegram"><i class="fa-brands fa-telegram" style="color: dark#FFF light#000;"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content">停更两周</div></div><div class="sticky_layout"><div class="card-widget card-webinfo"><div class="item-headline"><i class="fas fa-chart-line"></i><span>网站信息</span></div><div class="webinfo"><div class="webinfo-item"><div class="item-name">文章数目 :</div><div class="item-count">156</div></div><div class="webinfo-item"><div class="item-name">运行时间 :</div><div class="item-count" id="runtimeshow" data-publishDate="2024-12-31T16:00:00.000Z"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">本站总字数 :</div><div class="item-count">169.9k</div></div><div class="webinfo-item"><div class="item-name">本站访客数 :</div><div class="item-count" id="busuanzi_value_site_uv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">本站总浏览量 :</div><div class="item-count" id="busuanzi_value_site_pv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">最后更新时间 :</div><div class="item-count" id="last-push-date" data-lastPushDate="2025-05-03T01:10:33.651Z"><i class="fa-solid fa-spinner fa-spin"></i></div></div></div></div></div></div></main><footer id="footer" style="background: transparent;"><div id="footer-wrap"><div class="copyright">&copy;2025 By lele</div><div class="footer_custom_text">END OF THE WORLD</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="日间和夜间模式切换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox/fancybox.umd.min.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page/instantpage.min.js" type="module"></script><script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload/dist/lazyload.iife.min.js"></script><script src="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.js"></script><div class="js-pjax"><script>window.typedJSFn = {
+  init: str => {
+    window.typed = new Typed('#subtitle', Object.assign({
+      strings: str,
+      startDelay: 300,
+      typeSpeed: 150,
+      loop: true,
+      backSpeed: 50,
+    }, null))
+  },
+  run: subtitleType => {
+    if (true) {
+      if (typeof Typed === 'function') {
+        subtitleType()
+      } else {
+        btf.getScript('https://cdn.jsdelivr.net/npm/typed.js/dist/typed.umd.min.js').then(subtitleType)
+      }
+    } else {
+      subtitleType()
     }
-    .right-bottom-tools:hover,
-    a.page-number:hover,
-    a.extend:hover {
-        background-color: var(--primary-color) !important;
+  },
+  processSubtitle: (content, extraContents = []) => {
+    if (true) {
+      const sub = ["最是人间留不住，朱颜辞镜花辞树"].slice()
+
+      if (extraContents.length > 0) {
+        sub.unshift(...extraContents)
+      }
+
+      if (typeof content === 'string') {
+        sub.unshift(content)
+      } else if (Array.isArray(content)) {
+        sub.unshift(...content)
+      }
+
+      sub.length > 0 && typedJSFn.init(sub)
+    } else {
+      document.getElementById('subtitle').textContent = typeof content === 'string' ? content :
+        (Array.isArray(content) && content.length > 0 ? content[0] : '')
     }
-    .site-info,
-    .home-article-sticky-label {
-        background-color: var(--background-color-transparent-15) !important;
-    }
-    .home-article-sticky-label {
-        backdrop-filter: none !important;
-    }
-    .home-banner-background {
-        filter: blur(15px);
-    }
-</style>
-
-<div class="home-banner-background transition-fade fixed top-0 left-0 w-screen h-screen scale-125 sm:scale-110 box-border will-change-transform bg-cover">
-    <img src="/images/wallhaven-wqery6-light.webp" alt="home-banner-background" class="w-full h-full object-cover dark:hidden">
-    <img src="/images/wallhaven-wqery6-dark.webp" alt="home-banner-background" class="w-full h-full object-cover hidden dark:block">
-</div>
-
-
-	
-
-	<div class="main-content-container flex flex-col justify-between min-h-dvh">
-		<div class="main-content-header">
-			<header class="navbar-container px-6 md:px-12">
-    <div class="navbar-content transition-navbar ">
-        <div class="left">
-            
-                <a class="logo-image h-8 w-8 sm:w-10 sm:h-10 mr-3" href="/">
-                    <img src="/img/avatar-tongzhuo.jpg" class="w-full h-full rounded-sm">
-                </a>
-            
-            <a class="logo-title" href="/">
-                <h1>
-                TongZhuo&#39;s Blog
-                </h1>
-            </a>
-        </div>
-
-        <div class="right">
-            <!-- PC -->
-            <div class="desktop">
-                <ul class="navbar-list">
-                    
-                        
-                            
-
-                            <li class="navbar-item">
-                                <!-- Menu -->
-                                <a class="active"
-                                   href="/"
-                                        >
-                                    <i class="fa-regular fa-house fa-fw"></i>
-                                    首页
-                                    
-                                </a>
-
-                                <!-- Submenu -->
-                                
-                            </li>
-                    
-                        
-                            
-
-                            <li class="navbar-item">
-                                <!-- Menu -->
-                                <a class=""
-                                   href="/archives"
-                                        >
-                                    <i class="fa-regular fa-archive fa-fw"></i>
-                                    归档
-                                    
-                                </a>
-
-                                <!-- Submenu -->
-                                
-                            </li>
-                    
-                        
-                            
-
-                            <li class="navbar-item">
-                                <!-- Menu -->
-                                <a class=""
-                                   href="/tags"
-                                        >
-                                    <i class="fa-solid fa-tags fa-fw"></i>
-                                    标签
-                                    
-                                </a>
-
-                                <!-- Submenu -->
-                                
-                            </li>
-                    
-                        
-                            
-
-                            <li class="navbar-item">
-                                <!-- Menu -->
-                                <a class=""
-                                   href="/categories"
-                                        >
-                                    <i class="fa-regular fa-folder fa-fw"></i>
-                                    分类
-                                    
-                                </a>
-
-                                <!-- Submenu -->
-                                
-                            </li>
-                    
-                        
-                            
-
-                            <li class="navbar-item">
-                                <!-- Menu -->
-                                <a class="has-dropdown"
-                                   href="#"
-                                        onClick=&#34;return false;&#34;>
-                                    <i class="fa-regular fa-user fa-fw"></i>
-                                    关于
-                                    <i class="fa-solid fa-chevron-down fa-fw"></i>
-                                </a>
-
-                                <!-- Submenu -->
-                                
-                                    <ul class="sub-menu">
-                                        
-                                            <li>
-                                                <a href="/about">
-                                                    ME
-                                                </a>
-                                            </li>
-                                        
-                                            <li>
-                                                <a href="/links">
-                                                    友情链接
-                                                </a>
-                                            </li>
-                                        
-                                    </ul>
-                                
-                            </li>
-                    
-                    
-                        <li class="navbar-item search search-popup-trigger">
-                            <i class="fa-solid fa-magnifying-glass"></i>
-                        </li>
-                    
-                </ul>
-            </div>
-            <!-- Mobile -->
-            <div class="mobile">
-                
-                    <div class="icon-item search search-popup-trigger"><i class="fa-solid fa-magnifying-glass"></i>
-                    </div>
-                
-                <div class="icon-item navbar-bar">
-                    <div class="navbar-bar-middle"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Mobile sheet -->
-    <div class="navbar-drawer h-dvh w-full absolute top-0 left-0 bg-background-color flex flex-col justify-between">
-        <ul class="drawer-navbar-list flex flex-col px-4 justify-center items-start">
-            
-                
-                    
-
-                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
-                        
-                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full active"
-                           href="/"
-                        >
-                            <span>
-                                首页
-                            </span>
-                            
-                                <i class="fa-regular fa-house fa-sm fa-fw"></i>
-                            
-                        </a>
-                        
-
-                        
-                    </li>
-            
-                
-                    
-
-                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
-                        
-                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
-                           href="/archives"
-                        >
-                            <span>
-                                归档
-                            </span>
-                            
-                                <i class="fa-regular fa-archive fa-sm fa-fw"></i>
-                            
-                        </a>
-                        
-
-                        
-                    </li>
-            
-                
-                    
-
-                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
-                        
-                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
-                           href="/tags"
-                        >
-                            <span>
-                                标签
-                            </span>
-                            
-                                <i class="fa-solid fa-tags fa-sm fa-fw"></i>
-                            
-                        </a>
-                        
-
-                        
-                    </li>
-            
-                
-                    
-
-                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
-                        
-                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
-                           href="/categories"
-                        >
-                            <span>
-                                分类
-                            </span>
-                            
-                                <i class="fa-regular fa-folder fa-sm fa-fw"></i>
-                            
-                        </a>
-                        
-
-                        
-                    </li>
-            
-                
-                    
-
-                    <li class="drawer-navbar-item-sub text-base my-1.5 flex flex-col w-full">
-                        
-                        <div class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary cursor-pointer text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
-                             navbar-data-toggle="submenu-About"
-                        >
-                            <span>
-                                关于
-                            </span>
-                            
-                                <i class="fa-solid fa-chevron-right fa-sm fa-fw transition-all"></i>
-                            
-                        </div>
-                        
-
-                        
-                            <div class="flex-col items-start px-2 py-2 hidden" data-target="submenu-About">
-                                
-                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
-                                        <a class=" text-third-text-color text-xl"
-                                           href="/about">ME</a>
-                                    </div>
-                                
-                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
-                                        <a class=" text-third-text-color text-xl"
-                                           href="/links">友情链接</a>
-                                    </div>
-                                
-                            </div>
-                        
-                    </li>
-            
-
-            
-            
-                
-                    
-                    
-                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
-                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full active"
-                           href="/tags"
-                        >
-                            <span>Tags</span>
-                            <i class="fa-regular fa-tags fa-sm fa-fw"></i>
-                        </a>
-                    </li>
-                
-                    
-                    
-                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
-                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full active"
-                           href="/essays"
-                        >
-                            <span>essays</span>
-                            <i class="fa-regular fa-message fa-sm fa-fw"></i>
-                        </a>
-                    </li>
-                
-            
-        </ul>
-
-        <div class="statistics flex justify-around my-2.5">
-    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/tags">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">15</div>
-        <div class="label text-third-text-color text-sm">标签</div>
-    </a>
-    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/categories">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">32</div>
-        <div class="label text-third-text-color text-sm">分类</div>
-    </a>
-    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">131</div>
-        <div class="label text-third-text-color text-sm">文章</div>
-    </a>
-</div>
-    </div>
-
-    <div class="window-mask"></div>
-
-</header>
-
-
-		</div>
-
-		<div class="main-content-body transition-fade-up">
-			
-			<div class="home-sidebar-container">
-    <div class="sticky-container sticky">
-        
-        
-            
-                <div class="sidebar-links">
-                    <div class="site-info">
-                        <div class="site-name">TongZhuo&#39;s Blog</div>
-                        
-                            <div class="announcement">
-                                感谢deepseek以及各种AI<br>没了你们我就是无头苍蝇<br>o(╥﹏╥)o
-                            </div>
-                        
-                    </div>
-                    
-                        
-                            
-                                <a class="links" href="/archives">
-                                    
-                                        <i class="fa-regular fa-archive icon-space"></i>
-                                    
-                                    <span class="link-name">Archives</span>
-                                </a>
-                            
-                        
-                            
-                                <a class="links" href="/tags">
-                                    
-                                        <i class="fa-regular fa-tags icon-space"></i>
-                                    
-                                    <span class="link-name">Tags</span>
-                                </a>
-                            
-                        
-                            
-                                <a class="links" href="/categories">
-                                    
-                                        <i class="fa-regular fa-folder icon-space"></i>
-                                    
-                                    <span class="link-name">Categories</span>
-                                </a>
-                            
-                        
-                            
-                                <a class="links" href="/essays">
-                                    
-                                        <i class="fa-regular fa-message icon-space"></i>
-                                    
-                                    <span class="link-name">essays</span>
-                                </a>
-                            
-                        
-                    
-                </div>
-            
-            <div class="sidebar-content"  marginTop >
-                <div class="avatar flex justify-center">
-    <img src="/img/avatar-tongzhuo.jpg">
-</div>
-                <div class="author flex flex-col justify-center my-2.5 mx-0">
-    <div class="name">lele</div>
-    
-        <div class="label">Lv6</div>
-    
-</div>
-                <div class="statistics flex justify-around my-2.5">
-    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/tags">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">15</div>
-        <div class="label text-third-text-color text-sm">标签</div>
-    </a>
-    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/categories">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">32</div>
-        <div class="label text-third-text-color text-sm">分类</div>
-    </a>
-    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">131</div>
-        <div class="label text-third-text-color text-sm">文章</div>
-    </a>
-</div>
-            </div>
-        
-
-    </div>
-</div>
-
-			
-
-			<div class="main-content">
-				<div class="home-content-container">
-    <ul class="home-article-list">
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250219102300">
-                            我国油料作物简介以及气候+土壤如何影响作物分布
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            我国油料作物简介我国油料作物是指以种子或果实榨取食用油或工业用油的农作物，是保障粮油安全的重要组成部分。以下是主要油料作物及其特点的简要总结：
-
-一、主要油料作物
-大豆  
-
-地位：我国第一大油料作物，占国产植物油原料的50%以上。  
-用途：榨油（豆油）、豆粕（饲料）。  
-主产区：东北（黑龙江、吉林）、黄淮海（河南、山东）。  
-现状：进口依赖度高（80%以上），国家推行“大豆振兴计划”...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Feb 19 2025 10:23:00 GMT+0800">
-                
-                    2025-02-19
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E5%9C%B0%E7%90%86%E5%B8%B8%E8%AF%86/">地理常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250219102300">阅读全文<span class="seo-reader-text">我国油料作物简介以及气候+土壤如何影响作物分布</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250219093900">
-                            经济补偿金的支付
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            用人单位是否需要支付经济补偿金，主要取决于劳动合同解除或终止的具体情形。根据《劳动合同法》及相关规定，以下是需要支付和不需要支付经济补偿金的主要情形：
-
-一、需要支付经济补偿金的情形1. 用人单位提出解除劳动合同
-协商解除：用人单位主动提出解除劳动合同，并与劳动者协商一致（《劳动合同法》第36条）。例如：公司因业务调整与员工协商解除合同，需支付补偿金。
-
-无过失性辞退（《劳动合同法》第40条...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Feb 19 2025 09:39:00 GMT+0800">
-                
-                    2025-02-19
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E6%94%BF%E6%B3%95%E5%B8%B8%E8%AF%86/">政法常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250219093900">阅读全文<span class="seo-reader-text">经济补偿金的支付</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250219093100">
-                            横向垄断协议与纵向垄断协议
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            横向垄断协议与纵向垄断协议是反垄断法中的核心概念，两者的主要区别在于参与主体之间的关系不同，对市场竞争的影响也存在差异。以下用通俗易懂的方式解释两者的定义、区别及法律后果：
-
-一、横向垄断协议（同行之间的“合谋”）1. 定义横向垄断协议是指 同一行业、处于同一生产或销售环节的竞争对手之间 达成的限制竞争协议。例如：几家牛奶生产企业联合涨价，或几家建筑公司约定不进入对方市场。
-2. 常见形式
-...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Feb 19 2025 09:31:00 GMT+0800">
-                
-                    2025-02-19
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E6%94%BF%E6%B3%95%E5%B8%B8%E8%AF%86/">政法常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250219093100">阅读全文<span class="seo-reader-text">横向垄断协议与纵向垄断协议</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250219083000">
-                            诉讼程序中的鉴定解疑
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            诉讼程序中的“鉴定”是指由专业机构或专家对案件涉及的专门性问题进行科学、技术性分析，并出具书面结论的过程。鉴定结论通常作为法院认定事实的重要证据。以下用通俗易懂的方式解释相关知识点和注意事项：
-
-一、鉴定的核心作用
-解决专业问题当案件涉及医学、工程、会计、笔迹、痕迹等普通人难以判断的专业问题时，法院会通过鉴定来查明真相。例如：交通事故中伤残等级的评定、合同纠纷中签名真伪的鉴定。
-
-辅助法官裁...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Feb 19 2025 08:30:00 GMT+0800">
-                
-                    2025-02-19
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E6%94%BF%E6%B3%95%E5%B8%B8%E8%AF%86/">政法常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250219083000">阅读全文<span class="seo-reader-text">诉讼程序中的鉴定解疑</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250219072900">
-                            遗传算法解题步骤
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            假设我们要解决的问题是：在 0 到 31 的整数中，找到使函数 ( f(x) = x^2 ) 最大的值（显然答案是 31，但我们可以用这个例子演示步骤）。
-
-步骤 1：初始化种群
-目标：随机生成一组可能的解（称为“个体”），组成初始种群。
-编码方式：用 5 位二进制数表示 ( x )（因为 ( 2^5 = 32 )，覆盖 0~31）。
-举例：随机生成 4 个个体作为初始种群：1234个体1:...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Feb 19 2025 07:29:00 GMT+0800">
-                
-                    2025-02-19
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/%E6%99%BA%E8%83%BD%E8%AE%A1%E7%AE%97/">智能计算</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250219072900">阅读全文<span class="seo-reader-text">遗传算法解题步骤</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250218163200">
-                            人工智能思维导图
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            第一节课mindmap
-  root((技术发展))
-    物联网
-      ::icon(fa fa-wifi)
-      描述: 通过互联网连接物理设备，实现智能化管理和控制。
-    大数据
-      ::icon(fa fa-database)
-      描述: 处理和分析海量数据，挖掘有价值的信息。
-    云计算
-      ::icon(fa fa-cloud)
-  ...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Feb 18 2025 16:32:00 GMT+0800">
-                
-                    2025-02-18
-                
-            </span>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250218163200">阅读全文<span class="seo-reader-text">人工智能思维导图</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250218082600">
-                            核磁共振的基本原理
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            核磁共振（Nuclear Magnetic Resonance, NMR）是一种基于原子核磁性的物理现象，广泛应用于医学成像（MRI）、化学分析、材料科学等领域。以下用通俗易懂的方式解释其原理和主要应用，并关联考试可能涉及的知识点：
-
-一、核磁共振的原理（简化版）1. 核心概念
-原子核的“磁性”：某些原子核（如氢原子核，即质子）像小磁铁一样具有磁性，称为“核自旋”。  
-外加磁场：当这些原子...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Feb 18 2025 08:26:00 GMT+0800">
-                
-                    2025-02-18
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E7%89%A9%E7%90%86%E5%B8%B8%E8%AF%86/">物理常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250218082600">阅读全文<span class="seo-reader-text">核磁共振的基本原理</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250217090500">
-                            维生素缺乏症状的原因及其来源
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            
-
-
-
-维生素
-可溶性
-缺乏症
-来源
-
-
-
-维生素A
-脂溶性
-夜盲症、干眼病和皮肤粗糙、发干
-鱼肝油、动物肝脏、绿色蔬菜
-
-
-维生素B1
-水溶性
-脚气病、神经性皮炎
-酵母、谷物、肝脏、大豆、肉类
-
-
-维生素B2
-水溶性
-口腔溃疡
-酵母、肝脏、蔬菜、蛋类
-
-
-维生素B9（叶酸）
-水溶性
-贫血
-蔬菜叶、肝脏
-
-
-维生素C
-水溶性
-坏血病
-新鲜蔬菜、水果
-
-
-维生素D
-脂溶性
-软骨病（佝偻病）
-鱼...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Feb 17 2025 09:05:00 GMT+0800">
-                
-                    2025-02-17
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86/">生活常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250217090500">阅读全文<span class="seo-reader-text">维生素缺乏症状的原因及其来源</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250217084600">
-                            黄光与红光
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            穿透力红光和黄光的穿透力强弱主要取决于光的波长和介质特性。以下是详细分析：
-
-一、光的波长与穿透力
-波长关系  
-
-红光波长：约620-750纳米（较长）。  
-黄光波长：约570-590纳米（较短）。  
-规律：波长越长，穿透力越强。
-
-
-原因  
-
-长波长光线（如红光）能量较低，不易被介质散射或吸收，因此穿透力更强。  
-短波长光线（如黄光）能量较高，容易被介质中的微粒散射（如瑞利散射）...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Feb 17 2025 08:46:00 GMT+0800">
-                
-                    2025-02-17
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E7%89%A9%E7%90%86%E5%B8%B8%E8%AF%86/">物理常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250217084600">阅读全文<span class="seo-reader-text">黄光与红光</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item">
-
-                
-
-                
-
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
-                    <h3 class="home-article-title">
-                        <a href="/posts/20250217082000">
-                            盐水为什么可以清洗掉桃子表面的细毛
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            
-                            盐水可以清除桃子表面的细毛，主要是因为盐水的化学和物理作用。以下是具体原因：
-
-一、盐水的化学作用
-软化细毛  
-
-盐水中的氯化钠（NaCl）能够渗透到桃子表面的细毛中，破坏细毛的细胞结构，使其变软、脱落。  
-细毛的主要成分是纤维素，盐水可以使其吸水膨胀，变得更容易脱落。
-
-
-溶解作用  
-
-盐水具有一定的溶解能力，可以溶解细毛表面的部分物质（如果胶），使细毛与桃子表面的附着力减弱。
-
-
-...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Feb 17 2025 08:20:00 GMT+0800">
-                
-                    2025-02-17
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/">常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/%E5%B8%B8%E8%AF%86/%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86/">生活常识</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95/">公务员考试</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/posts/20250217082000">阅读全文<span class="seo-reader-text">盐水为什么可以清洗掉桃子表面的细毛</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-    </ul>
-
-    <div class="home-paginator px-7 py-5">
-        <div class="paginator">
-	<a class="extend prev" rel="prev" href="/page/7/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/6/">6</a><a class="page-number" href="/page/7/">7</a><span class="page-number current">8</span><a class="page-number" href="/page/9/">9</a><a class="page-number" href="/page/10/">10</a><span class="space">&hellip;</span><a class="page-number" href="/page/14/">14</a><a class="extend next" rel="next" href="/page/9/"><i class="fa-regular fa-angle-right"></i></a>
-</div>
-  
-    </div>
-</div>
-
-			</div>
-
-			
-		</div>
-
-		<div class="main-content-footer">
-			<footer class="footer mt-5 py-5 h-auto text-base text-third-text-color relative border-t-2 border-t-border-color">
-    <div class="info-container py-3 text-center">
-        
-        <div class="text-center">
-            &copy;
-            
-              <span>2025</span>
-              -
-            
-            2025&nbsp;&nbsp;<i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s; color: #f54545"></i>&nbsp;&nbsp;<a href="/">lele</a>
-            
-                
-                <p class="post-count space-x-0.5">
-                    <span>
-                        共撰写了 131 篇文章
-                    </span>
-                    
-                        <span>
-                            共 137.6k 字
-                        </span>
-                    
-                </p>
-            
-        </div>
-        
-            <script data-swup-reload-script src="https://cn.vercount.one/js"></script>
-            <div class="relative text-center lg:absolute lg:right-[20px] lg:top-1/2 lg:-translate-y-1/2 lg:text-right">
-                
-                    <span id="busuanzi_container_site_uv" class="lg:!block">
-                        <span class="text-sm">访问人数</span>
-                        <span id="busuanzi_value_site_uv"></span>
-                    </span>
-                
-                
-                    <span id="busuanzi_container_site_pv" class="lg:!block">
-                        <span class="text-sm">总访问量</span>
-                        <span id="busuanzi_value_site_pv"></span>
-                    </span>
-                
-            </div>
-        
-        <div class="relative text-center lg:absolute lg:left-[20px] lg:top-1/2 lg:-translate-y-1/2 lg:text-left">
-            <span class="lg:block text-sm">由 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg class="relative top-[2px] inline-block align-baseline" version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1rem" height="1rem" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path fill="#0E83CD" d="M256.4,25.8l-200,115.5L56,371.5l199.6,114.7l200-115.5l0.4-230.2L256.4,25.8z M349,354.6l-18.4,10.7l-18.6-11V275H200v79.6l-18.4,10.7l-18.6-11v-197l18.5-10.6l18.5,10.8V237h112v-79.6l18.5-10.6l18.5,10.8V354.6z"/></svg><a target="_blank" class="text-base" href="https://hexo.io">Hexo</a> 驱动</span>
-            <span class="text-sm lg:block">主题&nbsp;<a class="text-base" target="_blank" href="https://github.com/EvanNotFound/hexo-theme-redefine">Redefine v2.8.2</a></span>
-        </div>
-        
-        
-            <div>
-                博客已运行 <span class="odometer" id="runtime_days" ></span> 天 <span class="odometer" id="runtime_hours"></span> 小时 <span class="odometer" id="runtime_minutes"></span> 分钟 <span class="odometer" id="runtime_seconds"></span> 秒
-            </div>
-        
-        
-            <script data-swup-reload-script>
-                try {
-                    function odometer_init() {
-                    const elements = document.querySelectorAll('.odometer');
-                    elements.forEach(el => {
-                        new Odometer({
-                            el,
-                            format: '( ddd).dd',
-                            duration: 200
-                        });
-                    });
-                    }
-                    odometer_init();
-                } catch (error) {}
-            </script>
-        
-        
-            
-                
-        
-                
-        
-        
-    </div>  
-</footer>
-		</div>
-	</div>
-
-	
-
-	<div class="right-side-tools-container">
-		<div class="side-tools-container">
-	<ul class="hidden-tools-list">
-		<li class="right-bottom-tools tool-font-adjust-plus flex justify-center items-center">
-			<i class="fa-regular fa-magnifying-glass-plus"></i>
-		</li>
-
-		<li class="right-bottom-tools tool-font-adjust-minus flex justify-center items-center">
-			<i class="fa-regular fa-magnifying-glass-minus"></i>
-		</li>
-
-		<li class="right-bottom-tools tool-dark-light-toggle flex justify-center items-center">
-			<i class="fa-regular fa-moon"></i>
-		</li>
-
-		<!-- rss -->
-		
-
-		
-
-		<li class="right-bottom-tools tool-scroll-to-bottom flex justify-center items-center">
-			<i class="fa-regular fa-arrow-down"></i>
-		</li>
-	</ul>
-
-	<ul class="visible-tools-list">
-		<li class="right-bottom-tools toggle-tools-list flex justify-center items-center">
-			<i class="fa-regular fa-cog fa-spin"></i>
-		</li>
-		
-		<li class="right-bottom-tools tool-scroll-to-top flex justify-center items-center">
-			<i class="arrow-up fas fa-arrow-up"></i>
-			<span class="percent"></span>
-		</li>
-		
-		
-	</ul>
-</div>
-	</div>
-
-	<div class="image-viewer-container">
-	<img src="">
-</div>
-
-	
-	<div class="search-pop-overlay">
-	<div class="popup search-popup">
-		<div class="search-header">
-			<span class="search-input-field-pre">
-				<i class="fa-solid fa-keyboard"></i>
-			</span>
-			<div class="search-input-container">
-				<input autocomplete="off" autocorrect="off" autocapitalize="off" placeholder="站内搜索您需要的内容..." spellcheck="false" type="search" class="search-input">
-			</div>
-			<span class="popup-btn-close">
-				<i class="fa-solid fa-times"></i>
-			</span>
-		</div>
-		<div id="search-result">
-			<div id="no-result">
-				<i class="fa-solid fa-spinner fa-spin-pulse fa-5x fa-fw"></i>
-			</div>
-		</div>
-	</div>
-</div>
-	
-
-</main>
-
-
-<script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/Swup.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupSlideTheme.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupScriptsPlugin.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupProgressPlugin.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupScrollPlugin.min.js" ></script><script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/SwupPreloadPlugin.min.js" ></script>
-<script>
-    const swup = new Swup({
-        plugins: [
-            new SwupScriptsPlugin({
-                optin: true,
-            }),
-            new SwupProgressPlugin(),
-            new SwupScrollPlugin({
-                offset: 80,
-            }),
-            new SwupSlideTheme({
-                mainElement: ".main-content-body",
-            }),
-            new SwupPreloadPlugin(),
-        ],
-        containers: ["#swup"],
-    });
-</script>
-
-
-
-
-	<script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/imageViewer.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/utils.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/main.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/navbarShrink.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/scrollTopBottom.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/lightDarkSwitch.js" ></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/categoryList.js" ></script>
-
-
-    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/localSearch.js" ></script>
-
-
-
-    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/codeBlock.js" ></script>
-
-
-
-    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/lazyload.js" ></script>
-
-
-
-    <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/runtime.js" ></script>
-    <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/odometer.min.js" ></script>
-    <link rel="stylesheet" href="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/assets/odometer-theme-minimal.css">
-
-
-
-  <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/Typed.min.js" ></script>
-  <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/plugins/typed.js" ></script>
-
-
-
-    
-        <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/mermaid.min.js" ></script>
-    
-    <script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/plugins/mermaid.js" ></script>
-
-
-
-
-
-
-
-
-    <script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/tools/tocToggle.js" data-swup-reload-script></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/toc.js" data-swup-reload-script></script><script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/plugins/tabs.js" data-swup-reload-script></script>
-
-
-<script  src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/libs/moment-with-locales.min.js" data-swup-reload-script></script>
-<script type="module" src="https://registry.npmmirror.com/hexo-theme-redefine/2.8.2/files/source/js/build/layouts/essays.js" data-swup-reload-script></script>
-
-
-
-
-	
-</body>
-
-</html>
+  }
+}
+btf.addGlobalFn('pjaxSendOnce', () => { typed.destroy() }, 'typedDestroy')
+</script><script>function subtitleType () {
+  btf.getScript('https://sdk.jinrishici.com/v2/browser/jinrishici.js')
+    .then(() => {
+      jinrishici.load(result => {
+        if (result && result.data && result.data.content) {
+          typedJSFn.processSubtitle(result.data.content)
+        } else {
+          throw new Error('Failed to parse the return value of Jinrishici API')
+        }
+      })
+    })
+    .catch(err => {
+      console.error('Failed to get the Jinrishici API:', err)
+      typedJSFn.processSubtitle(1)
+    })
+}
+typedJSFn.run(subtitleType)
+</script><script>(() => {
+  const runMermaid = ele => {
+    window.loadMermaid = true
+    const theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'default'
+
+    ele.forEach((item, index) => {
+      const mermaidSrc = item.firstElementChild
+      const mermaidThemeConfig = `%%{init:{ 'theme':'${theme}'}}%%\n`
+      const mermaidID = `mermaid-${index}`
+      const mermaidDefinition = mermaidThemeConfig + mermaidSrc.textContent
+
+      const renderFn = mermaid.render(mermaidID, mermaidDefinition)
+      const renderMermaid = svg => {
+        mermaidSrc.insertAdjacentHTML('afterend', svg)
+      }
+
+      // mermaid v9 and v10 compatibility
+      typeof renderFn === 'string' ? renderMermaid(renderFn) : renderFn.then(({ svg }) => renderMermaid(svg))
+    })
+  }
+
+  const codeToMermaid = () => {
+    const codeMermaidEle = document.querySelectorAll('pre > code.mermaid')
+    if (codeMermaidEle.length === 0) return
+
+    codeMermaidEle.forEach(ele => {
+      const preEle = document.createElement('pre')
+      preEle.className = 'mermaid-src'
+      preEle.hidden = true
+      preEle.textContent = ele.textContent
+      const newEle = document.createElement('div')
+      newEle.className = 'mermaid-wrap'
+      newEle.appendChild(preEle)
+      ele.parentNode.replaceWith(newEle)
+    })
+  }
+
+  const loadMermaid = () => {
+    if (true) codeToMermaid()
+    const $mermaid = document.querySelectorAll('#article-container .mermaid-wrap')
+    if ($mermaid.length === 0) return
+
+    const runMermaidFn = () => runMermaid($mermaid)
+    btf.addGlobalFn('themeChange', runMermaidFn, 'mermaid')
+    window.loadMermaid ? runMermaidFn() : btf.getScript('https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js').then(runMermaidFn)
+  }
+
+  btf.addGlobalFn('encrypt', loadMermaid, 'mermaid')
+  window.pjax ? loadMermaid() : document.addEventListener('DOMContentLoaded', loadMermaid)
+})()</script></div><script defer src="https://cn.vercount.one/js"></script><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/dist/activate-power-mode.min.js"></script><script>POWERMODE.colorful = true;
+POWERMODE.shake = false;
+POWERMODE.mobile = true;
+document.body.addEventListener('input', POWERMODE);
+</script><script id="click-show-text" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/dist/click-show-text.min.js" data-mobile="true" data-text="love lele" data-fontsize="15px" data-random="false" async="async"></script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="text-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span>  数据加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div><hr/><div id="local-search-results"></div><div id="local-search-stats-wrap"></div></div></div><div id="search-mask"></div><script src="/js/search/local-search.js"></script></div></div></body></html>

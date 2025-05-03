@@ -1,0 +1,7 @@
+* {  
+    cursor: url(/img/01.png), auto;   
+}
+a, [href], [onclick] {  /* 可点击元素 */
+    cursor: url(/img/02.png), pointer; 
+}  
+

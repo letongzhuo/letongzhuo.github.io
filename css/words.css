@@ -1,0 +1,31 @@
+.toggle {
+  display: none;
+}
+
+.toggle-container {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.toggle-label {
+  cursor: pointer;
+  margin-right: 10px;
+  white-space: nowrap;
+}
+
+.synonym {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.6s ease-out;
+  flex-grow: 1;
+}
+
+.toggle:checked ~ .synonym {
+  max-height: 100px;
+}
+
+/* 确保每个切换组独立 */
+.toggle-group {
+  display: contents; /* 使结构保持独立 */
+}
