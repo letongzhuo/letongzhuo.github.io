@@ -1275,8 +1275,8 @@ template {
   --global-font-size: 1rem;
   --global-bg: #fff;
   --font-color: #4c4948;
-  --hr-border: #d2ebfd;
-  --hr-before-color: #bfe4fb;
+  --hr-border: #808080;
+  --hr-before-color: #4d4d4d;
   --search-bg: #f6f8fa;
   --search-input-color: #4c4948;
   --search-a-color: #4c4948;
@@ -4188,7 +4188,7 @@ figure.highlight pre .javascript .function {
   overflow-wrap: break-word;
 }
 .container a {
-  color: #99a9bf;
+  color: #00c4b6;
 }
 .container a:hover {
   text-decoration: underline;

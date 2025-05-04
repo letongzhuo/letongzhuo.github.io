@@ -33,10 +33,15 @@
     border-radius: 30px !important;
 }
 #page.nc {
+    background: rgba(255,255,255,0);
     border-radius: 10px;
     border-radius: 30px !important;
 }
-
+#article-container .shuoshuo-item {
+    background: rgba(255,255,255,0.7);
+    backdrop-filter: blur(10px);
+    border-radius: 30px !important;
+}
 html[data-theme="dark"] #aside-content {
     background: rgba(0,0,0,0);
 }
@@ -64,4 +69,9 @@ html[data-theme="dark"] #recent-posts > .recent-post-item {
 html[data-theme="dark"] #recent-posts .recent-post-item {
     background: rgba(0,0,0,0);
     backdrop-filter: blur(30px); 
+}
+
+html[data-theme="dark"] #article-container .shuoshuo-item {
+    background: rgba(0,0,0,0.7);
+    backdrop-filter: blur(10px);
 }
